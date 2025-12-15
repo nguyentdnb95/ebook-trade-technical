@@ -88,9 +88,6 @@ in the one precise figure at which a buyer and a seller get together and make
 a deal (through their agents, their respective stock brokers). This is the only
 figure that counts.
 
-
-
-![fig-001](./img/fig-001.png)
 ![fig-001](./img/fig-001.png)
 **FIGURE 1.** Monthly price ranges of U.S. Steel common from January 1929 to
 December 1946. Compare the great swings in the market price for this stock — from
@@ -146,12 +143,6 @@ market....
 Of primary interest to SAS subscribers are Prechter’s comments on technical
 analysis itself. The Elliott Wave Theory, it must be remembered, is really no more
 than a “catalog” of stock market price movements, laid one on top of the other, so_
-
-* From the John Magee Market Letters, December 15, 1984.
-
-
-_Chapter one: The Technical Approach to Trading and Investing 7_
-
 _to speak, until a grand, underlying, and enduring pattern is observed; in short, pure
 technical analysis. Among Prechter’s definitions and observations regarding funda-
 mental analysis are the following:_
@@ -186,11 +177,6 @@ _We enjoyed Prechter’s polished exposition of a technical approach different f
 our own. As for his observations about fundamental analysis, we simply couldn’t
 agree more._
 
-
-
-```
-9
-```
 ## chapter two
 
 # Charts
@@ -231,10 +217,6 @@ Nearly all the illustrations throughout the following pages are examples
 of such daily charts. They are easy to make and maintain manually, requiring
 only a supply of graph or cross-section paper (almost any kind can serve),
 a daily newspaper which gives full and accurate reports on stock exchange
-
-
-_10 Technical Analysis of Stock Trends_
-
 dealings, a sharp pencil, and a few minutes of time. _EN: Alternatively, numer-
 ous data services are available for use with computer software packages, not to
 mention Internet sites (which are mentioned in Resources). The use of this technol-
@@ -281,9 +263,6 @@ which may well be considered here. Until recent years, nearly all stock price
 _* EN: Edwards considered the opening price unimportant. Some technicians, myself included, do observe
 it to be of use. And in some charting systems it is indispensable, for example, candlestick charting where
 it is accorded enormous importance._
-
-
-_Chapter two: Charts 11_
 
 charts were kept on the common form of graph paper ruled to what is known
 as plain or arithmetic scale. But more and more chartists have now come to
@@ -377,10 +356,6 @@ intervals shrink. This distortion must be countered by breaking the time frame i
 smaller increments. So instead of 5 years of a chart which spans a range of 10 to
 200 we look at five charts of a year each as well as the 5-year chart._
 
-
-```
-13
-```
 ## chapter three
 
 # The Dow Theory
@@ -418,9 +393,6 @@ toward depression, some stocks declined rapidly while others would put up
 considerable resistance to the forces that were dragging the market down,
 but the fact remained that most securities tended to swing together. (They
 still do, needless to say, and always will.)
-
-
-_14 Technical Analysis of Stock Trends_
 
 This fact, as we have said, has long been commonly known and
 accepted — so completely taken for granted that its importance is usually
@@ -942,12 +914,7 @@ At the very least, he will be hedged, if not outright short. (As Edwards and Mag
 preferred and as this editor prefers.)_
 
 
-```
-25
-```
-## chapter four
-
-# The Dow Theory in Practice
+## Chapter 4.  The Dow Theory in Practice
 
 _EN9: The casual and careless reader will shake his head at this chapter and ask why
 on earth the Editor has not excised it from the book. The Editor has not deleted the
@@ -1005,7 +972,6 @@ developed, as we have said, at the end of the year, reaching its peak on
 January 10 at 133.59 in the Industrials and 29.73 in the Rails. From there,
 prices fell again to 117.66 and 26.54, respectively, on February 14.
 
-![fig-002](./img/fig-002.png)
 ![fig-002](./img/fig-002.png)
 **FIGURE 2.** “Swing” _(EN: OR Wave)_ chart showing all the Intermediate and some
 of the more extensive Minor Trends of the Dow–Jones Industrial and Rail Averages,
@@ -1115,7 +1081,6 @@ mediate proportions was obviously under way. Until proved otherwise, it had
 to be labeled a Secondary within the Bear Market which was still presumably
 
 ![fig-004](./img/fig-004.png)
-![fig-004](./img/fig-004.png)
 **FIGURE 4.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
 from March 2 to October 31, 1942, and total daily market volume. This period saw
 the beginning of a 4-year Major Bull Market.
@@ -1166,10 +1131,6 @@ After reaching 29.28 at their close on November 2, the Rails declined in
 almost a straight line for 6 weeks to 26.03 on December 14. This move
 indubitably rated as an Intermediate in duration, and it had “given up” more
 than half of that Average’s entire advance from the June 2 low point. The
-
-
-_Chapter four: The Dow Theory in Practice 31_
-
 Industrial Index, however, held stoutly in another narrow Line throughout
 November, December, and January. From December 14, the Rails turned up,
 and finally, on February 1, 1943, closed at 29.55, out above their previous
@@ -1514,10 +1475,1108 @@ confirmed or reaffirmed, also of the diminishing odds in favor of continuance
 with each successive reaffirmation of the Primary Trend.
 
 
+## Chapter 3. The Dow Theory
+
+The Dow Theory is the granddaddy of all technical market studies. Although
+it is frequently criticized for being “too late,” and occasionally derided (par-
+ticularly in the early stages of a Bear Market) by those who rebel at accepting
+its verdicts, it is known by name to nearly everyone who has had any
+association with the stock market, and respected by most. Many who heed
+it in greater or lesser degree in determining their investment policies never
+realize that it is purely and simply “technical.” It is built upon and concerned
+with nothing but the action of the stock market itself (as expressed in certain
+“averages”), deriving nothing from the business statistics on which the fun-
+damentalists depend.
+There is much in the writings of its original promulgator, Charles H.
+Dow, to suggest that he did not think of his “theory” as a device for fore-
+casting the stock market, or even as a guide for investors, but rather as a
+barometer of general business trends. Dow founded the Dow–Jones Financial
+News Service and is credited with the invention of stock market averages.
+The basic principles of the theory, which was later named after him, were
+outlined by him in editorials he wrote for _The Wall Street Journal_. Upon his
+death in 1902 his successor, as editor of the _Journal_ , William P. Hamilton,
+took up Dow’s principles and, in the course of 27 years of writing on the
+stock market, organized them and formulated them into the Dow Theory as
+we know it today.
+Before we proceed to an explanation of the theory itself, it will be nec-
+essary to examine the stock _averages_ which it employs. Long before the time
+of Dow, the fact was familiar to bankers and businessmen that the securities
+of most established companies tended to go up or down in price together.
+Exceptions — stocks that moved against the general financial tide — were
+rare, nor did they as a rule persevere in that contrary course for more than
+a few days or weeks at a time. It is true that when a boom was on, the prices
+of some issues rose faster and farther than others, and when the trend was
+toward depression, some stocks declined rapidly while others would put up
+considerable resistance to the forces that were dragging the market down,
+but the fact remained that most securities tended to swing together. (They
+still do, needless to say, and always will.)
+
+
+_14 Technical Analysis of Stock Trends_
+
+This fact, as we have said, has long been commonly known and
+accepted — so completely taken for granted that its importance is usually
+overlooked. For it is important — tremendously important from many angles
+in addition to those which come within the province of this volume. One of
+the best of all reasons for a student of market technics to start with the Dow
+Theory is because that theory stresses the _general market trend_.
+Charles Dow is believed to have been the first to make a thorough effort
+to express the general trend (or, more correctly, level) of the securities market
+in terms of the _average price_ of a selected few representative stocks. As finally
+set up in January of 1897, in the form which has continued to date, and used
+by Dow in his studies of market trends, there were two Dow–Jones Averages.
+One was composed of the stocks of 20 railroad companies only, for the
+railroads were the dominant corporate enterprises of his day. The other,
+called the Industrial Average, represented all other types of business, and
+was made up, at first, of only 12 issues. This number was increased to 20 in
+1916 and to 30 on October 1, 1928.
+
+##### The Dow Averages
+
+The stocks included in these two Averages have been changed from time to
+time in order to keep the lists up to date and as nearly representative as
+possible of their respective groups. Only General Electric, of the present
+30 industrial stocks, was included in the original Industrial Average, and
+that was dropped at one time (in 1898) and subsequently reinserted. In 1929,
+all stocks of public utility companies were dropped from the Industrial
+Average and a new Utility Average of 20 issues was set up; in 1938 its number
+was reduced to 15. The 20 rail, 30 industrial, and 15 utility stocks are now
+averaged together to make what is known as the Dow–Jones Stock Compos-
+ite. The history of these Averages, the various adjustments that have been
+made in them and their method of computation, is an interesting story in
+itself which the reader may want to look up elsewhere. _EN: Cf. Resources for
+references. Note also that there is now a proliferation of Dow–Jones Averages._ For
+our present purpose, it remains only to add that the Dow Theory pays no
+attention to the Utility or Composite Averages; its interpretations are based
+on the Rail and Industrial Averages only. _EN: “Rails” now known as “Trans-
+portation.”_
+In recent years, the values of the Dow–Jones Averages have been com-
+puted for the end of each hour of trading as well as the end of the day.
+_EN: Now computed in real time and available over the Internet. These hourly figures
+are published in_ The Wall Street Journal _as well as on all market tickers. In fact
+presently the Averages are computed in real time, a necessity for options and futures
+trading which takes place based on them._ The Wall Street Journal also prints in
+each issue a summary of the important highs and lows of each average by
+date for the preceding two or three years. Their daily closing prices are
+reported in many other metropolitan daily newspapers.
+
+
+
+##### Basic Tenets
+
+To get back to the Dow Theory itself here are its basic tenets:
+
+1. **The Averages Discount Everything (except “Acts of God”)** — Be-
+    cause they reflect the combined market activities of thousands of
+    investors, including those possessed of the greatest foresight and the
+    best information on trends and events, the Averages in their
+    day-to-day fluctuations discount everything known, everything fore-
+    seeable, and every condition which can affect the supply of or the
+    demand for corporate securities. Even unpredictable natural calam-
+    ities, when they happen, are quickly appraised and their possible
+    effects discounted.
+
+2. **The Three Trends** — The “market,” meaning the price of stocks in
+general, swings in trends, of which the most important are its _Major_
+or _Primary_ Trends. These are the extensive up or down movements
+which usually last for a year or more and result in general appreci-
+ation or depreciation in value of more than 20%. Movements in the
+direction of the Primary Trend are interrupted at intervals by _Second-
+ary_ Swings in the opposite direction — reactions or “corrections” that
+occur when the Primary Move has temporarily “gotten ahead of
+itself.” (Both Secondaries and the intervening segments of the Pri-
+mary Trend are frequently lumped together as Intermediate Move-
+ments — a term which we shall find useful in subsequent discus-
+sions.) Finally, the Secondary Trends are composed of _Minor_ Trends
+or day-to-day fluctuations which are unimportant to Dow Theory.
+
+3. **The Primary Trends** — These, as aforesaid, are the broad, overall,
+up and down movements which usually (but not invariably) last for
+more than a year and may run for several years. So long as each
+successive rally (price advance) reaches a higher level than the one
+before it, and each Secondary Reaction stops (i.e., the price trend
+reverses from down to up) at a higher level than the previous reac-
+tion, the Primary Trend is _Up_. This is called a _Bull Market_. Conversely,
+when each Intermediate Decline carries prices to successively lower
+levels and each intervening rally fails to bring them back up to the
+top level of the preceding rally, the Primary Trend is _Down_ and that
+is called a _Bear Market_. (The terms _Bull_ and _Bear_ are frequently used
+loosely with reference, respectively, to any sort of up or down move-
+ments, but we shall use them in this book only in connection with
+the Major or Primary Movements of the market in the Dow sense.)
+Ordinarily — theoretically, at least — the Primary is the only one of
+the three trends with which the true long-term investor is concerned.
+His aim is to buy stocks as early as possible in a Bull Market — just
+as soon as he can be sure that one has started — and then hold them
+until (and only until) it becomes evident that it has ended and a Bear
+Market has started. He knows that he can safely disregard all the
+intervening Secondary Reactions and Minor Fluctuations. The trader,
+however, may well concern himself also with the Secondary Swings,
+and it will appear later on in this book that he can do so with profit.
+
+4. **The Secondary Trends** — These are the important reactions that
+    interrupt the progress of prices in the Primary Direction. They are
+    the Intermediate Declines or “corrections” which occur during Bull
+    Markets, the Intermediate Rallies or “recoveries” which occur in Bear
+    Markets. Normally, they last for 3 weeks to many months, and rarely
+    longer. Normally, they retrace from one third to two thirds of the
+    gain (or loss, as the case may be) in prices registered in the preceding
+    swing in the Primary Direction. Thus, in a Bull Market, prices in
+    terms of the Industrial Average might rise steadily, or with only brief
+    and minor interruptions, for a total gain of 30 (or 300) points before
+    a Secondary Correction occurred. That correction might then be
+    expected to produce a decline of not less than 10 points and not more
+    than 20 points before a new Intermediate Advance in the Primary
+    Bull Trend developed.
+       Note, however, that the one third/two thirds rule is not an
+    unbreakable law; it is simply a statement of probabilities. Most Sec-
+    ondaries are confined within these limits; many of them stop very
+    close to the halfway mark, retracing 50% of the preceding Primary
+    Swing. They seldom run less than one third, but some of them cancel
+    nearly all of it.
+       Thus we have two criteria by which to recognize a Secondary
+    Trend. Any price movement contrary in direction to the Primary
+    Trend that lasts for at least 3 weeks and retraces at least one third of
+    the preceding net move in the Primary Direction (from the end of
+    the preceding Secondary to the beginning of this one, disregarding
+    Minor Fluctuations) is labeled as of Intermediate Rank, i.e., a true
+    Secondary. Despite these criteria, however, the Secondary Trend is
+    often confusing; its recognition, its correct appraisal at the time it
+    develops and while it is in process, poses the Dow theorist’s most
+    difficult problem. We shall have more to say about this later.
+
+5. **The Minor Trends** — These are the brief (rarely as long as 3 weeks —
+    usually less than 6 days) fluctuations which are, so far as the Dow
+    Theory is concerned, meaningless in themselves, but which, _in toto_ ,
+    make up the Intermediate Trends. Usually, but not always, an Inter-
+    mediate Swing, whether a Secondary or the segment of a Primary
+    between successive Secondaries, is made up of a series of three or
+    more distinguishable Minor Waves. Inferences drawn from these
+    day- to-day fluctuations are quite apt to be misleading. The Minor
+    Trend is the only one of the three trends which can be “manipulated”
+    (although it is, in fact, doubtful if under present conditions even that
+    can be purposely manipulated to any important extent). Primary and
+
+
+Right here, before we go on to state a sixth Dow tenet, we may well take
+time out for a few minutes to clarify the concept of the three trends by
+drawing an analogy between the movements of the stock market and the
+movements of the sea. The Major (Primary) Trends in stock prices are like
+the tides. We can compare a Bull Market to an incoming or flood tide which
+carries the water farther and farther up the beach until finally it reaches
+high-water mark and begins to turn. Then follows the receding or ebb tide,
+comparable to a Bear Market. But all the time, during both ebb and flow of
+the tide, the waves are rolling in, breaking on the beach, and then receding.
+While the tide is rising, each succeeding wave pushes a little farther up onto
+the shore and, as it recedes, does not carry the water quite so far back as did
+its predecessor. During the tidal ebb, each advancing wave falls a little short
+of the mark set by the one before it, and each receding wave uncovers a little
+more of the beach. These waves are the Intermediate Trends, Primary or
+Secondary, depending on whether their movement is with or against the
+direction of the tide. Meanwhile, the surface of the water is constantly agi-
+tated by wavelets, ripples, and “cat’s-paws” moving with or against or across
+the trend of the waves — these are analogous to the market’s Minor Trends,
+its unimportant day-to-day fluctuations. The tide, the wave, and the ripple
+represent, respectively, the Primary or Major, the Secondary or Intermediate,
+and the Minor Trends of the market.
+
+##### Tide, Wave, and Ripple
+
+A shore dweller who had no tide table might set about determining the
+direction of the tide by driving a stake in the beach at the highest point
+reached by an incoming wave. Then if the next wave pushed the water up
+beyond his stake he would know the tide was rising. If he shifted his stake
+with the peak mark of each wave, a time would come when one wave would
+stop and start to recede short of his previous mark; then he would know
+that the tide had turned, had started to ebb. That, in effect (and much
+simplified), is what the Dow theorist does in defining the trend of the stock
+market.
+The comparison with tide, wave, and ripple has been used since the
+earliest days of the Dow Theory. It is even possible that the movements of
+the sea may have suggested the elements of the theory to Dow. But the
+analogy cannot be pushed too far. The tides and waves of the stock market
+are nothing like as regular as those of the ocean. Tables can be prepared
+years in advance to predict accurately the time of every ebb and flow of the
+waters, but no timetables are provided by the Dow Theory for the stock
+market. We may return to some points of this comparison later, but we must
+proceed now to take up the remaining tenets and rules of the Theory.
+
+
+##### Major Trend Phases
+
+6. **The Bull Market** — Primary Uptrends are usually (but not invari-
+    ably) divisible into three phases. The first is the phase of _accumulation_
+    during which farsighted investors, sensing that business, although
+    now depressed, is due to turn up, are willing to pick up all the shares
+    offered by discouraged and distressed sellers, and to raise their bids
+    gradually as such selling diminishes in volume. Financial reports are
+    still bad — in fact, often at their worst — during this phase. The
+    “public” is completely disgusted with the stock market — out of it
+    entirely. Activity is only moderate but beginning to increase on the
+    rallies (Minor Advances).
+       The second phase is one of fairly steady advance and increasing
+    activity as the improved tone of business and a rising trend in corporate
+    earnings begin to attract attention. It is during this phase that the “tech-
+    nical” trader normally is able to reap his best harvest of profits.
+       Finally, comes the third phase when the market boils with activity
+    as the “public” flocks to the boardrooms. All the financial news is
+    good, price advances are spectacular and frequently “make the front
+    page” of the daily papers, and new issues are brought out in increas-
+    ing numbers. It is during this phase that one of your friends will call
+    up and blithely remark, “Say, I see the market is going up. What’s a
+    good buy?” — all oblivious to the fact that it has been going up for
+    perhaps two years, has already gone up a long ways, and is now
+    reaching the stage where it might be more appropriate to ask, “What’s
+    a good thing to sell?” In the last stage of this phase, with speculation
+    rampant, volume continues to rise, but “air pockets” appear with
+    increasing frequency; the “cats and dogs” (low-priced stocks of no
+    investment value) are whirled up, but more and more of the
+    top-grade issues refuse to follow.
+
+7. **The Bear Market** — Primary Downtrends are also usually (but again,
+not invariably) characterized by three phases. The first is the _distribution_
+period (which really starts in the later stages of the preceding Bull
+Market). During this phase, farsighted investors sense the fact that
+business earnings have reached an abnormal height and unload their
+holdings at an increasing pace. Trading volume is still high, though
+tending to diminish on rallies, and the “public” is still active but begin-
+ning to show signs of frustration as hoped-for profits fade away.
+The second phase is the Panic Phase. Buyers begin to thin out and
+sellers become more urgent; the downward trend of prices suddenly
+accelerates into an almost vertical drop, while volume mounts to
+climactic proportions. After the Panic Phase (which usually runs too
+far relative to then-existing business conditions), there may be a fairly
+long Secondary Recovery or a sideways movement, and then the
+third phase begins.
+
+This is characterized by discouraged selling on the part of those
+investors who held on through the Panic or, perhaps, bought during
+it because stocks looked cheap in comparison with prices which had
+ruled a few months earlier. The business news now begins to dete-
+riorate. As the third phase proceeds, the downward movement is less
+rapid, but is maintained by more and more distress selling from those
+who have to raise cash for other needs. The “cats and dogs” may
+lose practically all their previous Bull Advance in the first two phases.
+Better-grade stocks decline more gradually, because their owners
+cling to them to the last. And, the final stage of a Bear Market, in
+consequence, is frequently concentrated in such issues. The Bear
+Market ends when everything in the way of possible bad news, the
+worst to be expected, has been discounted, and it is usually over
+before all the bad news is “out.”
+The three Bear Market phases described in the preceding para-
+graph are not the same as those named by others who have discussed
+this subject, but the writers of this study feel that they represent a
+more accurate and realistic division of the Primary down moves of
+the past 30 years. The reader should be warned, however, that no
+two Bear Markets are exactly alike, and neither are any two Bull
+Markets. Some may lack one or another of the three typical phases.
+A few Major Advances have passed from the first to the third stage
+with only a very brief and rapid intervening markup. A few short
+Bear Markets have developed no marked Panic Phase and others
+have ended with it, as in April 1939. No time limits can be set for
+any phase; the third stage of a Bull Market, for example, the phase
+of excited speculation and great public activity, may last for more
+than a year or run out in a month or two. The Panic Phase of a Bear
+Market is usually exhausted in a very few weeks if not in days, but
+the 1929 through 1932 decline was interspersed with at least five
+Panic Waves of major proportions. Nevertheless, the typical charac-
+teristics of Primary Trends are well worth keeping in mind. If you
+know the symptoms which normally accompany the last stage of a
+Bull Market, for example, you are less likely to be deluded by its
+exciting atmosphere.
+
+##### Principle of Confirmation
+
+8. **The Two Averages Must Confirm** — This is the most-often ques-
+    tioned and the most difficult to rationalize of all the Dow principles.
+    Yet it has stood the test of time; the fact that it has “worked” is not
+    disputed by any who have carefully examined the records. Those
+    who have disregarded it in practice have, more often than not, had
+    occasion to regret their apostasy. What it means is that no valid signal
+    of a change in trend can be produced by the action of one Average
+
+
+alone. Take, for example, the hypothetical case shown in Diagram 1.
+In this, we assume that a Bear Market has been in effect for several
+months and then, starting at a , the Industrial Average rises (along
+with the Rails) in a Secondary Recovery to b. On their next decline,
+however, the Industrials drop only to c , which is higher than a , and
+then turn up to d , which is higher than b. At this point, the Industrials
+have “signaled” a change in trend from down to up. But note the
+Rails during this period: their decline from b to c carried them lower
+than a , and their subsequent advance from c to d has not taken them
+above b. They have (so far) refused to confirm the Industrials and,
+hence, the Major Trend of the market must be regarded as still down.
+Should the Rails go on to rise eventually above their b , then, and
+then only, would we have a definite signal of a turn in the tide. Until
+such a development, however, the chances remain that the Industrials
+
+will not be able to continue their upward course alone, that they will
+ultimately be dragged down again by the Rails. At best, the direction
+of the Primary Trend is still in doubt.
+The above illustrates only one of the many ways in which the
+principle of Confirmation applies. Note also that at c , it might have
+been said that the Industrials had thus far not confirmed the Rails in
+continuing the downtrend — but this had to do only with the con-
+tinuation or reaffirmation of an existing trend. It is not necessary that
+the two Averages confirm on the same day. Frequently, both will
+move into new high (or low) ground together, but there are plenty
+of cases in which one or the other lags behind for days, weeks, or
+even a month or two. One must be patient in these doubtful cases
+and wait until the market declares itself in definite fashion.
+
+**DIAGRAM 1.** A hypothetical daily market chart to show how one average may
+fail to confirm the other’s Dow signal. Closing prices, indicated by short horizontal
+dashes, are connected with vertical lines to make the day-to-day trend easier to follow.
+
+
+
+9. **“Volume Goes with the Trend”** — Those words, which you may
+    often hear spoken with ritual solemnity but little understanding, are
+    the colloquial expression for the general truth that trading activity
+    tends to expand as prices move in the direction of the prevailing
+    Primary Trend. Thus, in a Bull Market, volume increases when prices
+    rise and dwindles as prices decline; in Bear Markets, turnover in-
+    creases when prices drop and dries up as they recover. To a lesser
+    degree, this holds for Secondary Trends also, especially in the early
+    stages of an extended Secondary Recovery within a Bear Market,
+    when activity may show a tendency to pick up on the Minor Rallies
+    and diminish on the Minor Set-backs. But to this rule, again, there
+    are exceptions, and useful conclusions can seldom be drawn from
+    the volume manifestations of a few days, much less a single trading
+    session; it is only the overall and relative volume trend over a period
+    of time that may produce helpful indications. Moreover, in Dow
+    Theory, _conclusive_ signals as to the market’s trend are produced in
+    the final analysis only by price movement. Volume simply affords
+    collateral evidence which may aid interpretation of otherwise doubt-
+    ful situations. (We shall have much more to say in later chapters
+    about volume in specific relation to other technical phenomena.)
+10. **“Lines” May Substitute for Secondaries** — A _Line_ in Dow Theory
+parlance is a sideways movement (as it appears on the charts) in one
+or both of the Averages, which lasts for 2 or 3 weeks or, sometimes,
+for as many months, in the course of which prices fluctuate within
+a range of approximately 5% or less (of their mean figure). The
+formation of a Line signifies that pressure of buying and selling is
+more or less in balance. Eventually, of course, either the offerings
+within that price range are exhausted and those who want to buy
+stocks have to raise their bids to induce owners to sell, or else those
+who are eager to sell at the “Line” price range find that buyers have
+vanished and that, in consequence, they must cut their prices in order
+to dispose of their shares. Hence, an advance in prices through the
+upper limits of an established Line is a Bullish Signal and, conversely,
+a break down through its lower limits is a Bearish Signal. Generally
+speaking, the longer the Line (in duration) and the narrower or more
+compact its price range, the greater the significance of its ultimate
+breakout.
+Lines occur often enough to make their recognition essential to
+followers of Dow’s principles. They may develop at important Tops
+or Bottoms, signaling periods of distribution or of accumulation,
+respectively, but they come more frequently as interludes of rest or
+Consolidation in the progress of established Major Trends. Under
+those circumstances, they take the place of normal Secondary Waves.
+A Line may develop in one Average while the other is going through
+a typical Secondary Reaction. It is worth noting that a price move-
+ment out of a Line, either up or down, is usually followed by a more
+extensive additional move in the same direction than can be counted
+on to follow the “signal” produced when a new wave pushes beyond
+the limits set by a preceding Primary Wave. The direction in which
+prices will break out of a Line cannot be determined in advance of
+the actual movement. The 5% limit ordinarily assigned to a Line is
+arbitrarily based on experience; there have been a few slightly wider
+sideways movements which, by virtue of their compactness and well-
+defined boundaries, could be construed as true Lines. (Further on in
+this book, we shall see that the Dow Line is, in many respects, similar
+to the more strictly defined patterns known as Rectangles which
+appear on the charts of individual stocks.)
+
+11. **Only Closing Prices Used** — Dow Theory pays no attention to any
+    extreme highs or lows which may be registered during a day and
+    before the market closes, but takes into account only the closing
+    figures, i.e., the average of the day’s final sale prices for the compo-
+    nent issues. We have discussed the psychological importance of the
+    end-of-day prices under the subject of chart construction and need
+    not deal with it further here, except to say that this is another Dow
+    rule which has stood the test of time. It works thus: suppose an
+    Intermediate Advance in a Primary Uptrend reaches its peak on a
+    certain day at 11 a.m., at which hour the Industrial Average figures
+    at, say, 152.45, and then falls back to close at 150.70. All that the next
+    advance will have to do in order to indicate that the Primary Trend
+    is still _up_ is register a daily close above 150.70. The previous intraday
+    high of 152.45 does not count. Conversely, using the same figures for
+    our first advance, if the next upswing carries prices to an intraday
+    high at, say, 152.60, but fails to register a closing price above 150.70,
+    the continuation of the Primary Bull Trend is still in doubt.
+       In recent years, differences of opinion have arisen among market
+    students as to the extent to which an Average should push beyond
+    a previous limit (Top or Bottom figure) in order to signal (or confirm
+    or reaffirm, as the case may be) a market trend. Dow and Hamilton
+    evidently regarded any penetration, even as little as 0.01, in closing
+    price as a valid signal, but some modern commentators have required
+    penetration by a full point (1.00). We think that the original view has
+    the best of the argument, that the record shows little or nothing in
+    practical results to favor any of the proposed modifications. One
+    incident in June of 1946, to which we shall refer in the following
+    chapter, shows a decided advantage for the orthodox “any-penetra-
+    tion-whatever” rule.
+
+12. **A Trend Should Be Assumed to Continue in Effect Until Such Time**
+    **as Its Reversal Has Been Definitely Signaled** — This Dow Theory
+    tenet is one which, perhaps more than any other, has evoked criti-
+    cism. Yet, when correctly understood, it, like all the others we have
+    enumerated, stands up under practical test. What it states is really a
+    _probability_. It is a warning against changing one’s market position too
+    soon, against “jumping the gun.” It does not imply that one should
+    delay action by one unnecessary minute once a signal of change in
+    trend has appeared. But it expresses the experience that the odds are
+    in favor of the man who waits until he is sure, and against the other
+    fellow who buys (or sells) prematurely. These odds cannot be stated
+    in mathematical language such as 2–1 or 3–1; as a matter of fact, they
+    are constantly changing. Bull Markets do not climb forever and Bear
+    Markets always reach a Bottom sooner or later. When a new Primary
+    Trend is first definitely signaled by the action of the two Averages,
+    the odds that it will be continued, despite any near-term reactions or
+    interruptions, are at their greatest. But as this Primary Trend carries
+    on, the odds in favor of its further extension grow smaller. Thus, each
+    successive reaffirmation of a Bull Market (new Intermediate high in
+    one average confirmed by a new Intermediate high in the other)
+    carries relatively less weight. The incentive to buy, the prospect of
+    selling new purchases at a profit, is smaller after a Bull Market has
+    been in existence for several months than it was when the Primary
+    Uptrend was first recognized, but this twelfth Dow tenet says, “Hold
+    your position pending contrary orders.”
+       A corollary to this tenet, which is not so contradictory as it may
+    at first seem, is: a Reversal in trend can occur _any time_ after that trend
+    has been confirmed. This can be taken simply as a warning that the
+    Dow Theory investor must watch the market constantly if he has any
+    commitment in it.
+
+##### EN: Modern Market Importance of Dow Theory and
+
+##### Necessity for Moving to a New Composite Market Theory
+
+_Dow Theory has much to recommend it. Concepts embodied within Dow Theory retain
+their validity to the present day, and retain their importance as the foundation thinking
+for technical analysis. Concepts of waves, major secondary and minor movements are
+absolutely descriptive of the reality of the market. Other constructs within Dow Theory_
+_are similarly important — that all information is discounted; that major market move-
+ments are like the tide and, as it were, raise all boats; that trends tend to continue.
+These are not just theoretical musings, but observations of reality.
+In addition to its technical validity the Dow has now taken on a mythic
+dimension. It now has a symbolic function which interacts with its originally
+intended purpose. Dow and Hamilton saw their measurement of the market as an
+economic barometer for the entire economy. Its use as a tool for investing in the
+market came later.
+In the opinion of this editor, the Dow Theory is no longer adequate to its original
+purpose — or even to its secondary purpose. It is a simple theory propounded in a
+simple time. Expounders of Dow Theory have implicitly recognized the necessity
+for evolutionary changes to the doctrine with the addition of the Rails (now Trans-
+portations) and the Utilities ad infinitum. Thirty stocks may have been sufficient
+originally to reflect the American economy. No one would deny that simple paradigm
+must be changed to reflect an economic structure geometrically more diverse than
+that of Dow and Hamilton. Entering the 21st century, the American and Global
+economy require more sophisticated econometrics than the Dow alone.
+For that reason I now consider that in order to fulfill the functions of the old
+Dow we now must consider a variety of averages and indexes to measure the state
+of the market — not to mention the economy, which is another question, although
+not altogether another question, but at least another question. Magee foreshadowed
+some instruments of great value to this end in his writings, specifically on the Magee
+Evaluative Index (Chapter 38), which may be used for the entire market, and not
+just for one summary index or average. The value and power of this tool are still
+little used and understood.
+In 21st century markets, there are not just broad tides and markets flowing in
+one direction as they might on Magee’s Cape Cod. Instead the currents, rip tides,
+and cross currents are like the economy of the country, moved West. They are now
+symbolized by the Pacific Ocean roaring in and out of San Francisco Bay. While
+the Dow is in a secondary Downtrend, the broader S&P 500 is going to new highs,
+and while they are both whipping sideways, the NASDAQ is rocketing into space.
+For this reason, I now believe that only a composite of the three indexes can express
+the true state of the markets as a whole. And, in addition, to dissect the entrails of
+the market, the Magee Evaluative Index should be run across the three indexes.
+The Dow Theory required that the Rails and Industrials move in harmony in order
+to signal Bull or Bear Markets. In this century, there is a similar need for harmonic
+convergence among the averages to indicate to us the state of the markets as a whole.
+When all three indexes agree in the direction of their trends, up or down or
+sideways, Bulls may assumed to be safe in general, and vice versa for Bears. Failure
+of the three to be in harmony is a clear sign of mixed markets and advises one to
+arrange his bets and portfolio to correspond with economic uncertainty. Capital
+should flow naturally to the area which is most productive. What reason is there to
+ride the Dow down when the NASDAQ is raging up? If the investor follows the
+philosophy of this book, he will never sit passively through an extended Downtrend.
+At the very least, he will be hedged, if not outright short. (As Edwards and Magee
+preferred and as this editor prefers.)_
+
+
+
+# Chapter 4. The Dow Theory in Practice
+
+_EN9: The casual and careless reader will shake his head at this chapter and ask why
+on earth the Editor has not excised it from the book. The Editor has not deleted the
+chapter because, like old-fashioned cod liver oil, it is good medicine. It will appeal
+mainly to the serious student of not just Dow Theory, but of_ long-term investing.
+_If the reader has absolutely no interest in Dow Theory or long-term investing he
+may skip over this chapter and return to it in his old age, when he is wiser._
+
+At this point, the reader, if he has little previous knowledge of the stock
+market, may be suffering a mild attack of mental indigestion. The Dow
+Theory is a pretty big dose to swallow at one sitting. We departed deliber-
+ately in the foregoing chapter from the order in which its principles are
+usually stated in an effort to make it a little easier to follow and understand.
+Actually, not all of the 12 tenets we named are of equal import. The essential
+rules are contained in 2, 3, 4, 5, 8, 10, and 11. Number 1 is, of course, the
+basic assumption, the philosophical justification for these rules. The other
+points (6, 7, 9, and 12) furnish “background material,” as the news reporters
+might put it, which aid in interpretation. Theoretically, one should, by strict
+adherence to the essential rules alone, accomplish just as much as he could
+with the added collateral evidence.
+But the utilization of Dow Theory is, after all, a matter of interpretation.
+You may memorize its principles verbatim and yet be confounded when you
+attempt to apply them to an actual market situation. We can better organize
+our knowledge of the theory and acquire some understanding of its inter-
+pretation by following through a few years of market action and seeing how
+it looked at the time through the eyes of a Dow theorist. For this purpose,
+we may well take the period from late 1941 to the beginning of 1947, since
+this covers the end of one Bear Market, an entire long Bull Market, and part
+of another Bear Market, and includes examples of most of the market phe-
+nomena with which the Dow Theory has to deal.
+
+## Five Years of Dow Interpretation
+
+Figure 2 is a condensed chart of the course of the two Dow Jones Averages
+from January 1, 1941, to December 31, 1946, on which most of the Minor
+Trends have been disregarded but all the recognized Intermediate Swings
+(Primary and Secondary) have been indicated. Certain portions of this his-
+tory will be supplemented by complete daily charts in connection with our
+detailed discussion which follows.
+
+
+The year 1941 opened with the stock market in a Minor Rally. A Primary
+Bear Market had been signaled when prices collapsed in the spring of 1940,
+and that Bear Market was still in effect. After the May Panic had ended, a
+Secondary Recovery swing, which lasted for more than 5 months, had
+regained more than half of the ground previously lost by the Averages,
+carrying the Industrials from their closing price of 111.84 on June 10 to 138.12
+on November 9 and the Rails from 22.14 on May 21 to 30.29 on November 14.
+(During this long Bear Market Secondary, incidentally, volume tended to
+increase on rallies, which encouraged many who did not hold strictly to first
+principles to believe that this rise was the beginning of a new Bull Trend,
+illustrating the point we cited under “Volume” in Chapter 3.) From the
+November highs, however, the trend turned down again. Then a Minor Rally
+developed, as we have said, at the end of the year, reaching its peak on
+January 10 at 133.59 in the Industrials and 29.73 in the Rails. From there,
+prices fell again to 117.66 and 26.54, respectively, on February 14.
+
+![fig-002](./img/fig-002.png)
+**FIGURE 2.** “Swing” _(EN: OR Wave)_ chart showing all the Intermediate and some
+of the more extensive Minor Trends of the Dow–Jones Industrial and Rail Averages,
+January 1941 to December 1946. Industrial price scale left, Rails right.
+
+
+##### The First Severe Test
+
+The next few months will be particularly interesting for us to trace because
+they put the Dow Theory to a real test. Figure 3 shows the daily ranges and
+closing prices of the two Averages and total daily market volume for the
+7 months from February 1 to August 31, 1941. Before we examine it in detail,
+however, let us first review the situation on February 14. The Bear Market
+lows to date had been registered in May–June, 1940. Thereafter, an extended
+Intermediate Recovery had advanced the Industrial Average 26.28 points
+and the Rail Average 8.15 points. This had been followed by a 3-month
+decline of 20.46 and 3.75 points, respectively, and this decline, incidentally,
+had consisted of three well-defined Minor Waves. In duration, and in extent
+of price change with respect to the previous swing — 46% in the Rails and
+nearly 78% in the Industrials — this downswing qualified as an Intermediate
+Trend, and now prices were turning up again. Dow theorists were on the
+alert. If both Averages could continue their rise to levels above their high
+closes of the previous November (138.12 and 30.29), that action would con-
+stitute a signal of a new Primary Bull Market, and reinvestment of funds
+withdrawn from stocks in May 1940 would be at once in order. Also, it would
+then be necessary to go back and label the May–June lows of 1940 as the
+end of a Bear Market, the advance to November as the first Primary Swing
+in the new Bull Market, and the decline to February as its first Secondary
+
+![fig-003](./img/fig-003.png)
+**FIGURE 3.** Closing price levels of the Dow–Jones Industrial and Rail Averages,
+February 1 to August 31, 1941, and total daily market volume. Vertical lines show
+net daily change from one closing level to next.
+
+Reaction. But note that Rule 12 of our preceding chapter applied here; the
+presumption was that it was still a Bear Market until a definite signal to the
+contrary appeared.
+Let us now turn again to Figure 3 and see what actually did happen.
+The Industrials rallied for 6 weeks, reaching 124.65 on April 3. The Rails got
+up to 29.75 on the same date, registering double the percentage gain of the
+Industrials, but both Averages were still below their November highs. Then
+the Industrials slipped off within 2 weeks, and had broken down below their
+February low and drifted down to close at 115.30 on May 1. This Average
+was, therefore, still in an Intermediate Downtrend. But the Rails, meanwhile,
+were staging a different sort of performance. They dropped back from their
+April 3 high for 2 weeks, but held at 27.72, rallied smartly and then sold off
+again to 27.43 on May 31. The picture became at once even more interesting.
+Here was a Divergence between the two Averages, a failure to confirm; the
+Rails, after two opportunities, were refusing to confirm the Industrials in the
+latter’s downtrend.
+
+##### Failure to Confirm
+
+When prices began to work upward in June, many commentators seized
+upon this “failure to confirm” as a Bullish omen and the wishful thinkers
+again talked Bull Market. There is an unfortunate tendency in “the Street”
+to overstress any such divergence, particularly when it can be twisted into
+a favorable sign. The fact is that, in Dow Theory, the refusal of one Average
+to confirm the other can never produce a positive signal of any sort. It has
+only negative connotations. Divergences sometimes occur at Reversals in the
+Major Trend — there have been several instances in market history, in which,
+perhaps, the most remarkable occurred way back in 1901 and 1902, and we
+shall soon inspect another — but they also occur with equal frequency at
+times when no Major Reversal is developing, and the instance we are dis-
+cussing here was one of the latter.
+So the situation at the end of May in 1941 was precisely the same to the
+Dow theorist, insofar as the Major Trend was concerned, as it had been on
+February 14. The June–July rally topped out in the Rails at 30.88 on August
+1, and in the Industrials at 130.06 on July 28 (compare these figures with
+their 1940 November highs) and prices then declined at an accelerating pace
+which culminated, temporarily, in the “Pearl Harbor” Panic. This took the
+Industrial Average below its previous Bear Market low (111.84 on June 10,
+1940), although the Rails, again, did not follow. They had, however, by this
+time, broken below their previous (February 14) Intermediate Bottom by a
+liberal margin.
+The next period of importance began in April 1942. We can skip any
+detailed chart of the months between December and April because they
+posed no Dow Theory problems. After a Minor Rally in the Rails in January,
+prices simply drifted lower and lower, but it was increasingly evident that
+trading volume did not expand on the dips (Minor Declines). Liquidation
+was drying up; the boardrooms were void of customers; the atmosphere was
+typical of the last stages of a Bear Market.
+Figure 4 shows the daily action of the Averages from March 2 to
+October 31, 1942. New lows (since 1940) were registered in both in late April,
+at 23.72 on April 24 in the Rails and at 92.92 on April 28 in the Industrials.
+Shortly thereafter, a notable Divergence developed, when, after rallying for
+only 7 days, the Railroad Index began to slip off while the other Average
+kept right on going up. Trading activity remained at a low ebb (there was
+no sustained volume increase, in fact, until late September). On June 1, the
+Rails dropped to another new low and on the 2nd closed at 23.31. On June
+22, it looked as though the Industrials were going to be pulled down again,
+but only a few days later, the best rally in months got started, taking the
+Industrials to new highs and more than recovering all of the April–May loss
+in the Rails. Activity also speeded up briefly, with one day registering a
+greater turnover than the market had enjoyed in any session since early
+January. _EN9: Note this warning sign. The ringing of an alarm clock._
+
+##### Signs of Major Turn
+
+Again the Dow theorists were very much on the alert. An advance of Inter-
+mediate proportions was obviously under way. Until proved otherwise, it had
+to be labeled a Secondary within the Bear Market which was still presumably
+
+![fig-004](./img/fig-004.png)
+**FIGURE 4.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
+from March 2 to October 31, 1942, and total daily market volume. This period saw
+the beginning of a 4-year Major Bull Market.
+
+in effect, but that Major Downtrend had by now run for nearly 3 years —
+nearly as long as any on record — and its last decline had shown no selling
+pressure whatever, simply a dull drift. This presumed Secondary might turn
+out to be, instead, a new Primary; hopes for such a denouement had been
+blighted 12 months earlier under somewhat similar circumstances, but this
+time prices were lower and there was a different “feel” to the market. The
+general news offered little encouragement, but the Dow Theory does not
+concern itself with any news other than that made by the market itself (which
+discounts all other kinds of news). In any event, there was nothing to do but
+wait and see — let the market, in its own time and way, state its own case.
+In early July, the Industrials started to “mark time”; for 11 weeks, they
+fluctuated within a 5-point range, building a typical Dow Line from which
+they emerged on the upside in late September. The Rails pushed up to a new
+high for the move at the same time, and by November 2, both Averages had
+surpassed their Rally Tops of the preceding January. At this stage, some Dow
+theorists were willing to announce that a Bull Market had been signaled.
+Their arguments, aside from points of a nontechnical nature or having noth-
+ing to do with Dow Theory, were:
+
+1. The conspicuously low level of volume at the April–June Bottom,
+    typical of the end of a Bear Swing. (True and cogent.)
+2. The Rail Average had refused to follow the Industrials into new Major
+    low ground at that time. It had held above its closing level of May
+    1940. (Also true, but of questionable significance. More about this
+    later.)
+3. The Industrials had constructed a Line and gone up out of it. (Again
+    true, but the Line was somewhat short to have, beyond a doubt,
+    major import.)
+4. The Rail Average had for 4 months produced successively higher
+    Minor Tops and Bottoms. (And this also was true but did not permit
+    of positive differentiation from a Bear Market Secondary.)
+
+The more conservative Dow theorists were not yet convinced. They
+maintained that this uptrend had yet to undergo the test, bound to occur
+sooner or later, of an Intermediate Reaction. They admitted that the picture
+was most encouraging, but called attention to the fact that, except for Point
+1, it was no better than that of November 1940. Let’s follow along through
+the next 5 months. Figure 5 shows the daily market action from November
+1, 1942, to June 30, 1943.
+
+##### The Bull Signal
+
+After reaching 29.28 at their close on November 2, the Rails declined in
+almost a straight line for 6 weeks to 26.03 on December 14. This move
+indubitably rated as an Intermediate in duration, and it had “given up” more
+than half of that Average’s entire advance from the June 2 low point. The
+Industrial Index, however, held stoutly in another narrow Line throughout
+November, December, and January. From December 14, the Rails turned up,
+and finally, on February 1, 1943, closed at 29.55, out above their previous
+Intermediate Top of 29.28 recorded the previous November. By then, the
+Industrials had also moved up into new high ground. This development at
+last satisfied every strictest requirement of Dow Theory; a new Primary Bull
+Market was in force. Trading volume had also been expanding on each Minor
+Advance during the fall and winter months, but its evidence was not needed;
+the price action alone was conclusive. The Rails had produced the necessary
+sequence of higher Intermediate Tops and Bottoms. In the Industrials, Lines
+had served the purposes of the theory as substitutes for Intermediate Reactions.
+It was necessary now to relabel the up-move from April–June to Novem-
+ber of 1942 as the first Primary Swing in a Bull Market. The decline of the
+Rails from November 2 to December 14 was now recognized as the first
+Secondary within that Major Trend.
+
+![fig-005](./img/fig-005.png)
+**FIGURE 5.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
+from November 2, 1942, to June 30, 1943, and total daily market volume. This chart
+follows and should be compared with Figure 4. The decline in the Rail Average
+during November and early December produced the first test of the Major Trend
+since the preceding June. When this Index recovered and, on February 1, 1943, closed
+above its November 2 high, a Primary Bull Market was thereby signaled according
+to Dow Theory.
+
+We may turn back for a moment at this point to comment on the per-
+formance of the Rail Index in June 1942. Because it held then above its low
+of May 1940, some commentators have maintained that the Bull Market
+should really have been dated from that former year as representing the last
+“confirmed” lows. This strikes us as rather impractical hair-splitting. Regard-
+less of the 1.17 higher level in the Rail Average in June 1942, a genuine Bull
+Move did not start until that time. We suspect that before many years have
+passed, Dow theorists will have occasion greatly to regret the importance
+which has since been assigned to the Rails’ “failure to confirm” in the spring
+of 1942. Remember, such a Divergence does not and cannot produce a pos-
+itive signal; at the time of its occurrence, it can serve merely to negate or
+cast in doubt the implications of the other Average; only subsequent action
+in the opposite direction can establish the existence of a change in trend. If
+the Rails’ decline in May 1942 had carried them below 22.14, but their
+subsequent action had followed the course which it actually did, point for
+point but at a lower level, a Bull Market Signal would nevertheless have
+been given at the very same time, not one day later and not one day sooner.
+Moreover, a Divergence does not necessarily imply that a move of con-
+sequence in the opposite direction will ensue. We have already examined
+one comparable instance (in the spring of 1941) which resulted otherwise.
+Logically, also, if a failure to confirm such as occurred in 1942 is to be taken
+as an indication of a turn in trend, then its opposite, i.e., confirmation or
+reaffirmation by both Averages, should argue with equal force against a turn
+in trend. Yet the simple truth is that many more Major Reversals have come
+when the Averages were in agreement than when they were divergent. We
+have no wish to belabor the point or waste the reader’s time, but we do feel
+that he should be warned against the wishful thinking that every “failure to
+confirm” seems to inspire when the market is in a Bear Trend.
+To return to our history, the Averages closed at 125.88 and 29.51, respec-
+tively, on the day following our conclusive Bull Market Signal in February
+1943. Theoretically, there is where an investor who followed the Dow Theory
+strictly would have bought his stocks. (Those who were satisfied that the
+Primary Trend was up in November 1942 bought with Averages around
+114.60 and 29.20.) It was reasonable to assume that this Bull Market, which
+as yet showed few of the usual characteristics of the second phase and none
+whatever of the third phase, would continue for some time to come. The
+next 4 months produced no market developments that required interpreta-
+tive attention, and we can move on to the events of July. Figure 6 charts the
+action from July 1, 1943, to January 31, 1944.
+
+##### The First Correction
+
+After closing at 145.82 on July 14, 1943, the Industrial Average drifted off.
+The Rails pushed up to a new high (38.30) 10 days later, but the Industrials
+refused to join in the rally and then both indexes cracked down sharply for
+7 sessions. Turnover increased and the decline was the greatest that had
+occurred in the Bull Market up to that date. But, everyone realized that the
+market, after several months of quite persistent advance, was “entitled to a
+correction.” In neither duration nor extent could this down move be qualified
+as more than a Minor Trend. Next ensued 3 months of desultory fluctuation
+with little net progress in either Average. The Industrials pulled up to 141.75
+on September 20 and then drifted off again, while the Rails struggled back
+to 35.53 on October 27. Another quick break developed in early November,
+culminating in a high-volume shakeout which cut the value of the Industrials
+by 3.56 points and the Rails by 1.75 on November 8. Prices rallied a little and
+sold off again, reaching new lows (since early spring) on November 30 —
+Industrials 129.57 and Rails 31.50.
+There was no question now but that a full-fledged Secondary Reaction
+had developed. The problem for Dow interpreters was whether more than
+that was involved. If the first drop in July could be construed as an Inter-
+mediate Trend in itself, and the August–October action as another Interme-
+diate Swing, then the November break would signal a Bear Market. As a
+matter of fact, no Dow theorist, so far as we know, gave very serious con-
+sideration to any such interpretation. The July break, as aforesaid, did not
+rate as an Intermediate in either duration or points retraced; the whole move
+from July to November 1943 had to be regarded as all-of-a-piece, all one
+Secondary Reaction. The real Major Trend test would come on the next
+advance, whenever that should develop; if that failed to top the July peaks,
+and prices thereafter declined to new lows, a Bear Market would indeed be
+in effect.
+
+
+![fig-006](./img/fig-006.png)
+**FIGURE 6.** Daily closing prices of Dow–Jones Industrial and Rail Averages, and
+total market volume, July 1, 1943, to January 31, 1944.
+
+The decision was long deferred. Prices began again to move up, but the
+advance in the Industrials was slow and grudging. The Rails forged ahead
+more rapidly and pushed through their July Top on February 17, 1944, going
+on to a Minor Peak at 40.48 on March 21. The Industrial Average attained
+141 on March 13, but still nearly 5 points below its “signal” level, faltered
+and fell back. Here was another striking case of “failure to confirm.” For
+those who chose to assign grave significance to such developments, it could
+have only a very Bearish meaning. But all it did mean, in fact, was that
+continuation of the Primary Bull Move had not as yet been confirmed. Only
+if both Averages now declined and closed below their respective November
+30 Bottoms would the new high registered by the Rails alone in February
+have to be disregarded and a Primary Bear Market announced. In brief, the
+situation at the end of March was no different, so far as its Major Trend
+implications were concerned, from what it had been in early January before
+the Rails pushed through.
+
+##### Bull Trend Reaffirmed
+
+The situation remained in doubt (but subject always to that basic presump-
+tion of the Dow Theory which we named as Number 12 in the preceding
+chapter) until June 15, 1944, when the Industrials finally came through to
+close at 145.86. It had taken them 4 months to confirm the Rails, almost a
+full year to reaffirm the Primary Uptrend. The effect of this “signal” on
+traders was electric; trading volume increased by 650,000 shares on the
+following day as prices jumped another full point.
+The following 12 months need no detailed discussion as they produced
+nothing in the way of market action to give a Dow theorist any concern.
+Prices drifted off irregularly for 9 weeks after mid-July but their net loss was
+of minor proportions, and they then climbed with only brief interruptions
+to 169.08 in the Industrial Index on May 29, 1945, and 63.06 in the Rail Index
+on June 26, 1945. We should take a brief look at the period which followed,
+not because it illustrates anything new in our study, but because it takes in
+the surrender of Japan and the end of fighting in World War II.
+Figure 7 covers the 7 months from May 1 to November 30, 1945. The
+Industrials held steady for 4 weeks while the Rails were making the spurt
+to their June 26 Top. On June 28, with nothing in the newspaper headlines
+to account for such a radical trend change, prices broke sharply and turnover
+climbed to nearly three million shares, the highest day’s total for the Bull
+Market up to that time. But the Industrial Average gave ground reluctantly
+thereafter, and by June 26, at 160.91 had given up less than 5% of its top
+price. The Rails shook down rapidly, however. The Hiroshima bomb was
+dropped on August 5 and Japan surrendered on the 14th. The Industrials
+were now rallying up from their July 26 low, but the Rails couldn’t hold and
+plunged again, hitting bottom finally (for this move) on August 20 at 51.48,
+for a loss of more than 18% of their June peak value.
+
+
+##### The Rails Falter
+
+Before we go on with our examination of the market action here, it is inter-
+esting to note that, up to this point, the Rail Average had been the “hero”
+of our story. Starting with its refusal to go down to a new Bear Market low
+in June of 1942, it was the spearhead of each important advance, had staged
+the most spectacular rallies, had gained 170% in value as compared with the
+Industrials’ 82%. In retrospect, the explanation is obvious: the railroads were
+the chief business beneficiaries of the war. They were rolling up profits,
+paying off indebtedness, and reducing their fixed charges at a rate unheard
+of in this generation (and probably never to be seen again). While the “pub-
+lic’s” eye was on the traditional and better publicized “war industries,” the
+market began, as far back as Pearl Harbor, to shrewdly appraise and discount
+this unprecedented harvest for the Rails. But from here on, the picture
+changes and the Rails become the laggards. As we look back now, it is just
+as obvious that, with equal shrewdness, the market began in July of 1945 to
+discount a change in their fortunes. An illuminating demonstration of the
+basic assumption (Tenet Number 1) in Dow Theory!
+
+
+![fig-007](./img/fig-007.png)
+**FIGURE 7.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
+from May 1 to November 30, 1945, and total daily market volume. This period, which
+saw the end of World War II, produced only a moderate Secondary Correction in the
+Primary Bull Market, which had already run for 3 years from its beginnings in April/
+June, 1942.
+
+
+Turning back to our chart, prices began to push up again with renewed
+vigor after August 20. Both Averages had experienced a Secondary Reaction
+and now Dow theorists had to watch closely to see if the Primary Uptrend
+would again be reaffirmed by their going to new highs. The Industrials
+“made the grade” when they closed at 169.89 on August 24, but the Rails
+had much more ground to recover and were running into offerings as they
+came up in succession to each of the Minor Bottom levels of their
+June–August downtrend (a phenomenon to which we shall devote some
+attention later on in the chapter on Support and Resistance). Not until early
+November 1945 were they able to confirm the signal of the Industrials by
+closing above 63.06. At this point, the Averages had, once again, announced
+that the Primary Bull Market was still in force. It had now lasted for three
+and a half years — longer than most Bull Markets, and “third phase” signs
+were rapidly appearing. The public was buying, the boardrooms were
+crowded, stock market news was making the front pages of even small city
+newspapers, the “cats and dogs” were being whooped up, business was
+booming.
+With both Averages in new high ground and the Bull Market reaffirmed,
+all previous low points could now be disregarded. For example, the 160.91
+Bottom of July 26 in the Industrials and the 51.48 of August 20 in the Rails
+had no further significance in Dow Theory. This is a point we have not
+stressed heretofore, but it is important. It might, indeed, be added to our set
+of rules in the preceding chapter were it not implicit in the basic tenets. Once
+a Primary Trend has been confirmed or reconfirmed, the past is forgotten
+and everything hinges on future action. At the end of 1945, with “third
+phase” symptoms rife, the action of the market had to be followed with
+redoubled vigilance. The third phase could last for 2 more years (as it did
+in 1927 to 1929) or be concluded at any moment. Our next chart (Figure 8)
+carries us through May 1946.
+
+##### The Spring of 1946
+
+The market went through a Minor Setback in late December, a development
+which has come to be expected as the normal pattern for that month and
+which is usually attributed to “tax selling” — and stormed ahead again in
+January 1946. Daily volume on January 18 exceeded 3 million shares for the
+first time in more than 5 years. During the first week of February, prices
+“churned” with little net change. Extreme high closes were registered during
+this period by the Rail Average at 68.23 on February 5, and by the Industrial
+Average at 206.97 on February 2. On February 9, both started to slide off,
+pulled back sharply from the 13th to the 16th, and then broke in a selling
+wave that ran to a climax on February 26 with closings at 60.53 and 186.02,
+respectively. The loss in the Industrials was the greatest in points (20.95) they
+had suffered during the entire Bull Market; in the Rails, it was exceeded only
+by their July–August decline of the previous year. It amounted to a little
+more than 10% in the former and 11% in the latter, and gave up a little less
+than half of their advances from the 1945 summer lows. The decline was
+3 weeks old on February 26. It was an unqualified Intermediate — in Dow
+Theory a Secondary Reaction presumptively within the still existing Major
+Uptrend.
+Labor troubles were dogging the steel and motor industries in 1946 from
+early January on, and a coal strike was looming. The February break was
+attributed to those news developments, but the ruling cause was more likely
+the discontinuance of margin trading. The Federal Reserve Board had
+announced in January that after February 1, stocks could be bought only for
+full 100% cash. The late January up-fling was featured by the “little fellow”
+seizing his last chance to buy on margin. (Those who participated in this
+scramble will doubtless regret it for a long time yet to come.) Professionals
+seized the opportunity to unload their trading commitments, but the “little
+fellow” was now temporarily out of funds; his brokerage account was
+quickly “frozen.” Under the circumstances, as we look back, it is amazing
+that a more extensive Panic did not then eventuate.
+But the Dow theorist was not concerned with causes. The Bull Market
+had been reaffirmed by both Averages in early February, canceling all pre-
+vious “signal” levels. Bullish Forces were still evidently in effect because the
+February 26 lows held and prices began to recover. The Industrials came
+back quickly, and by April 9 had closed in new high ground at 208.03. The
+Rails dragged. When the market showed signs of weakening at the end of
+April, the Rail Average was still nearly 5 points below its early February
+high. Was this another “failure to confirm” to worry about?
+
+
+![fig-008](./img/fig-008.png)
+**FIGURE 8.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
+from December 1, 1945, to May 31, 1946, and total daily market volume. Noteworthy
+features of this period included the extremely high volume which prevailed during
+January and February as compared with lower turnover in April and May, and the
+laggard performance of the Rails when the Industrial Average pushed up to a new
+high in April and again at the end of May. At the latter date, the February lows were
+still the critical downside “signal” levels according to the Dow Theory.
+
+
+
+##### Final Up Thrust
+
+The late February Bottoms were now the critical points on the downside; if
+both Averages should decline below the Intermediate Low closes then
+recorded, before the Rails could make a new high above 68.23 (in which
+event the Bullish Signal of the Industrials would be canceled), a Bear Market
+would thereby be signaled. But, despite a miner’s strike and an imminent
+rail workers’ strike, the market turned firm again in mid-May and put forth
+a surprising rally which swept the Industrial Index up to 212.50 on May 29,
+1946 — a new Bull high by nearly 6 points. The Rails failed in May by only
+0.17 to equal their February high close, slid back a trifle, and then pushed
+through at last on June 13 to close at 68.31, thereby confirming the Industrials
+in their announcement that (as of that date) the Primary Trend was still up.
+The February lows (186.02 and 60.53) now ceased to signify in Dow Theory,
+but keep those figures in mind because they are involved in an argument
+which raged among Dow students for months thereafter.
+Figure 9 overlaps the preceding picture, taking up the market’s action
+on May 4 and carrying it forward to October 19, 1946. Trading volume, it
+may be noted, in late May and early June did not come up to the levels of
+either the late January to early February Top or the late February Bottom;
+the market appeared to be losing vitality, an ominous, although by no means,
+decisive manifestation. Prices began to fall off rapidly immediately after the
+Rail Confirmation on June 13. The Industrials rallied for 2 weeks in early
+July, but the Rails continued to decline; the Industrials broke again on July 15
+and the two Averages continued their slide until they stood at 195.22 and
+60.41 at the close on July 23.
+There, as it subsequently developed, was the end of that particular
+Intermediate Swing — one which in accord with our Rule 12 had to be
+labeled a Secondary Reaction in a Bull Market until proved otherwise. The
+market swung up again. It climbed slowly and steadily, but with turnover
+running well under a million shares, until exactly 3 weeks later, the Indus-
+trials at 204.52 (August 13) had regained a little more than half of their
+June–July loss and the Rails at 63.12 (August 14) a little more than a third
+of theirs. This advance, therefore, had met the minimum requirements of an
+Intermediate Trend. If prices could continue to rise and eventually push
+through their May–June Tops, the Major Bull Trend once again would be
+reaffirmed. But if they should now turn down and fall below the July 23
+closing levels, that action would signal a Reversal of the Primary Trend.
+
+
+![fig-009](./img/fig-009.png)
+**FIGURE 9.** Daily closing price levels of the Dow–Jones Industrial and Rail Averages
+from May 4 to October 19, 1946, and total daily market volume. This chart overlaps
+Figure 8. Compare the closing price of the Rail Average on June 13 with its February 5
+high close. This June action nullified the previous Dow Theory importance of the
+February lows. Note significant change in volume pattern after May, especially dur-
+ing the August rally.
+
+
+##### The Bear Market Signal
+
+That the situation was critical was evident in the volume chart. Ever since
+the end of May, turnover had tended not only to increase on the declines
+but, what was much more important, to dry up on the rallies. Compare
+Figure 9 with 7 and 8, and you can see how conspicuous this phenomenon
+had become by mid-August. Prices did turn down, with activity increasing
+on the breaks, and on August 27, the closing prices, 191.04 for the Industrials
+and 58.04 for the Rails, told a sad story. The Averages had spoken: a 4-year
+Bull Market had ended, and a Bear Market was under way. A Dow investor
+should have sold all his stocks on the following day (at approximately
+190 and 58 in terms of the two Averages).
+To clear the record, it was necessary for the Dow theorist now to go back
+and mark the May 29 and June 13 highs in the Industrials and Rails, respec-
+tively, as the end of the Bull Market. The June–July decline then became the
+first Primary Swing in the new Bear Trend, and the July 23 to August 14
+advance became the first Secondary Recovery within the Major Downtrend.
+A second Primary Swing was now in process of development.
+You will have noted in the foregoing that a Bear Market was signaled
+as soon as both Averages penetrated their July 23 lows. Let us return now
+and take up that argument which we mentioned on the preceding page.
+Some students of Dow Theory refused to recognize the new high of June 13
+in the Rail Average as a decisive reaffirmation of the Bull Trend. The previous
+close should be bettered by at least a full point (1.00), many argued, in order
+to confirm the signal previously given by the Industrials; the margin of only
+0.08 was inconclusive. But this opinion, if accepted, had logical consequences
+which later proved embarrassing. For, if the Bull Market had not been reaf-
+firmed in June, then the critical levels on the downside remained at 186.02
+in the Industrials and 60.53 in the Rails, the February 26 Bottoms. Therefore,
+a Bear Market could not be “called” until those prices had been penetrated
+downside by both Averages. This view acquired a large following, especially
+among those who were not interested in “hair splitting” theory but wanted “to
+give the market every chance in view of the still improving fundamentals.”
+The market did, of course, proceed to break its February lows, and by
+that time, the Panic (second phase) was on. Obviously, in this case, the
+orthodox “any-penetration-whatever” school had all the best of it; they had
+sold out at least 13 points higher up in terms of the Industrial Index (at least
+6 in the Rails). Six weeks later, on October 9, 1946, to be exact, this second
+Primary Intermediate Swing ended at Industrials 163.12, Rails 44.69, and
+another Intermediate Recovery Move started.
+Before closing this history of 6 years of Dow Theory interpretation, we
+might note that the June 13 high in the Rail Average furnishes a perfect
+illustration of the rule that a trend can change any time after it has been
+confirmed or reaffirmed, also of the diminishing odds in favor of continuance
+with each successive reaffirmation of the Primary Trend.
+
+
 ## chapter five
 
 # The Dow Theory’s Defects
-
 Our readers, we suspect, heaved a deep sigh of relief when they closed the
 preceding chapter on a difficult, tedious, and, at times, confusing subject.
 Some may even wish at this point that the Dow Theory had never been
@@ -1552,7 +2611,6 @@ This is a more valid objection. It is sometimes expressed in the rather intem-
 perate statement that “the Dow Theory is a sure fire system for depriving
 the investor of the first third and the last third of every Major Move, and
 sometimes there isn’t any middle third!” Or, to give a specific example:
-
 
 A Primary Bull Market started in 1942 with the Industrial Average at 92.92
 and ended in 1946 at 212.50, for a total gain of 119.58 Average points, but
@@ -1601,8 +2659,7 @@ _EN: This record of the Dow Theory is updated to the year 2006 in Chapter 5.1._
 Of course, it isn’t. It depends on interpretation and is subject to all the
 hazards of human interpretive ability. But, again, the record speaks for itself.
 
-
-_Chapter five: The Dow Theory’s Defects 43_
+**Table 1.** The Dow Theory’s 60-Year Record
 
 ##### The Dow Theory Frequently Leaves the Investor in Doubt
 
@@ -1624,10 +2681,6 @@ be weeks or months (as, for example, during the formation of a Line) when
 the Dow Theory cannot “talk.” The active trader quite naturally rebels. But
 patience is a virtue in the stock market as elsewhere — in fact, essential if
 serious mistakes are to be avoided.
-
-
-
-**Table 1.** The Dow Theory’s 60-Year Record
 
 
 ##### The Dow Theory Does Not Help the Intermediate
@@ -1654,7 +2707,7 @@ its behavior (DIA). As it is possible to trade in surrogates for the Dow Average
 present markets, see Chapter 15.1._
 
 
-## _Chapter 5.1: The Dow Theory in the 20th and 21st Centuries 47_
+## chapter 5.1. The Dow Theory in the 20th and 21st Centuries
 
 As may be seen in the following table, replacing the table from Chapter 5,
 the Dow Theory continued to provide its user an advantage over the
@@ -1665,6 +2718,7 @@ including the post-2000 bust drawdown. To my mind this table is a powerful
 demonstration of the power of methodical technical investing.
 By contrast, the investment of $100, if bought at the low, 29.64, and sold at
 the historic high, 11762.71, in January 2000 would have grown to $39,685.03.
+
 
 I am indebted to Jack Schannep of _The Dow Theory.Com_ (www.thedowtheory.
 com) for the data recapitulated here. At that URL an enlightening exposition
@@ -1699,7 +2753,6 @@ said, but close enough for government work. As further inquiry into the
 inner workings of the Theory I have initiated a series of studies of the record
 with Brian Brooker, MS Finance, Golden Gate University. Following are some
 of the results of our study, from the monograph, _Dissecting Dow Theory_.
-
 
 It seems obvious that the risk characteristics of Dow Theory investing
 are unique, and I will belabor the obvious. The Buy-and-Hold Investor
@@ -1740,6 +2793,8 @@ the great majority of investors it is the long run which is important. In the
 wonders if there are still such investors, outside of the very rich and very
 intelligent. Perhaps there are still a few aged readers of early editions of this
 book. And, not to despair, perhaps some new converts.
+
+
 In Figures 9.1 and 9.2 I practice what I preach. I post historical Dow
 Theory buy and sell signals on the Dow chart. I am constantly urging stu-
 dents and clients to take the chart of an issue they have done poorly (or
@@ -1770,17 +2825,7 @@ tively vetted it. Colby’s algorithm:
 4. Close Short (Cover) when INDU rises to a new 36-trading day high
     and TRAN rises to a new 32-trading day high.
 
-
-```
-FIGURE 9.1.
-```
-
-```
-FIGURE 9.2.
-```
-
-
-## chapter six Important Reversal Patterns
+## Chapter 6. Important Reversal Patterns
 
 In our discussion of certain deficiencies in the Dow Theory from the point
 of view of the practical trader, we mentioned the fact that it did not tell us
@@ -2329,7 +3374,7 @@ old highs are taken out, and new situations develop.
 
 
 
-## chapter seven Important Reversal Patterns — Continued
+## chapter 7. Important Reversal Patterns — Continued
 
 ### Head-and-Shoulders (EN: or Kilroy) Bottoms
 
@@ -2870,7 +3915,7 @@ Service. Although it is obviously not a pattern portending rocket-like advance, 
 technical picture brightens with the high-volume breakout through Resistance at
 chart end.
 
-## chapter eight Important Reversal Patterns — The Triangles
+## Chapter 8. Important Reversal Patterns — The Triangles
 
 We come next to an entirely different family of technical patterns, the Triangles,
 a group that has not been as well represented on the charts of the decade of
@@ -3919,13 +4964,7 @@ action is not an exact science and never will be.
 ```
 129
 ```
-## chapter nine
-
-# Important Reversal
-
-# Patterns — Continued
-
-## The Rectangles, Double and Triple Tops
+## Chapter 9. Important Reversal Patterns — Continued, The Rectangles, Double and Triple Tops
 
 The Triangular Price Formations which we examined in the preceding chapter
 can be either _Reversal_ or _Consolidation_ Patterns. In the case of the Right-Angle
