@@ -1,105 +1,136 @@
-# chapter one the Technical Approach to Trading and Investing
-Ít có hoạt động nào của con người đã được nghiên cứu kỹ lưỡng trong suốt
-thế kỷ qua, từ nhiều góc độ và bởi rất nhiều người khác nhau, như việc mua
-bán chứng khoán của các công ty. Những phần thưởng mà thị trường chứng khoán
-mang lại cho những người đọc đúng là rất lớn; nhưng những hình phạt mà nó
-dành cho các nhà đầu tư cẩu thả, ngủ quên hay "xui xẻo" thì lại rất thảm
-khốc. Không có gì lạ khi nó đã thu hút một số kế toán viên, nhà phân tích
-và các nhà nghiên cứu sáng suốt nhất thế giới, cùng với một nhóm những kẻ
-kỳ quái, thần bí và những "người chơi linh cảm", cùng với một lượng lớn
-những công dân bình thường đầy hy vọng. Những bộ óc tài năng đã tìm kiếm,
-và vẫn luôn tìm kiếm, những phương pháp an toàn và chắc chắn để đánh giá
-tình hình và xu hướng của thị trường, để phát hiện ra cổ phiếu đúng để mua
-và thời điểm chính xác để mua chúng. Nghiên cứu sâu rộng này không phải là
-vô ích — xa vời điều đó. Có rất nhiều nhà đầu tư và nhà đầu cơ thành công
-(sử dụng từ này trong nghĩa đúng của nó, tức là không có sự phản cảm) những
-người, qua một con đường này hay con đường khác, đã có được sự hiểu biết
-cần thiết về các lực lượng mà họ đang đối phó và khả năng phán đoán, suy
-nghĩ trước và kỷ luật tự giác quan trọng để xử lý chúng một cách có lợi.
+# Chương 1: Cách Tiếp Cận Kỹ Thuật Trong Giao Dịch và Đầu Tư
 
-Trong suốt nhiều năm nghiên cứu về thị trường chứng khoán, hai trường phái
-tư tưởng khác biệt đã xuất hiện, hai phương pháp hoàn toàn khác nhau để đi
-đến câu trả lời cho vấn đề của nhà giao dịch về _cái gì_ và _khi nào_. Trong
-ngôn ngữ của "Phố Wall", một trong số đó thường được gọi là _phân tích cơ
-bản_ hoặc thống kê, còn cái kia là _phân tích kỹ thuật_. (Trong những năm gần
-đây, một phương pháp thứ ba, chu kỳ học, đã tiến bộ nhanh chóng và mặc dù vẫn
-còn bị những "phần tử điên rồ" vây quanh, nhưng nó hứa hẹn sẽ đóng góp rất
-nhiều vào sự hiểu biết của chúng ta về các xu hướng kinh tế.) Nhà đầu tư phân
-tích cơ bản phụ thuộc vào các số liệu thống kê. Họ xem xét các báo cáo kiểm
-toán viên, các báo cáo lãi lỗ, bảng cân đối tài chính quý, các bản ghi cổ
-tức và chính sách của các công ty mà họ đang quan sát. Họ phân tích dữ liệu
-bán hàng, khả năng quản lý, công suất nhà máy, sự cạnh tranh. Họ tham khảo
-các báo cáo ngân hàng và kho bạc, chỉ số sản xuất, thống kê giá cả và dự báo
-mùa màng để đánh giá tình hình kinh doanh chung, và đọc kỹ tin tức hàng ngày
-để đưa ra ước tính về các điều kiện kinh doanh trong tương lai. Sau khi xem
-xét tất cả những yếu tố này, họ đánh giá cổ phiếu của mình; nếu nó đang bán
-dưới mức đánh giá của họ, họ coi đó là một cơ hội mua vào. _(EN9: Và, không có
-gì ngạc nhiên, người mua tên là Warren Buffet, và ông ấy mua cả công ty, chứ
-không phải cổ phiếu, vì mặc dù đây là một cách tuyệt vời để mua công ty nhưng
-nó không phải là cách tốt để mua cổ phiếu.) EN: Đọc bài tổng kết phương pháp luận
-phân tích cơ bản của Robert Prechter như một ghi chú thú vị vào cuối chương này._
+Ít hoạt động nào của con người được nghiên cứu kỹ lưỡng như việc mua bán cổ
+phiếu trong suốt thế kỷ qua, từ nhiều góc độ và bởi nhiều loại chuyên gia khác
+nhau. Lợi nhuận mà thị trường chứng khoán mang lại cho người hiểu rõ nó có
+thể rất lớn; ngược lại, những người lơ là, thiếu chú ý, hay "xui xẻo" sẽ chịu
+thua lỗ nặng nề. Không có gì ngạc nhiên khi thị trường thu hút các kế toán,
+nhà phân tích, nhà nghiên cứu tinh anh nhất thế giới, cùng với những cá nhân
+kỳ quặc, huyền bí, người theo trực giác, và vô số công dân bình thường đầy hy
+vọng.
 
+Những bộ óc sáng suốt luôn tìm kiếm và tiếp tục tìm kiếm các phương pháp
+an toàn, chắc chắn để đánh giá trạng thái và xu hướng thị trường, phát hiện
+cổ phiếu đúng để mua và thời điểm thích hợp. Nghiên cứu kỹ lưỡng này không
+phải là vô ích. Có rất nhiều nhà đầu tư và đầu cơ thành công (ở đây dùng đúng
+nghĩa từ "speculator", không mang nghĩa xấu) đã đạt được sự hiểu biết cần
+thiết về các lực lượng tác động và khả năng phán đoán, suy tính trước, cùng
+kỷ luật tự giác quan trọng để giao dịch có lãi.
 
+Qua nhiều năm nghiên cứu, xuất hiện hai trường phái khác nhau hẳn nhau,
+hai phương pháp căn bản để giải quyết vấn đề của trader: _mua gì_ và _khi
+nào_. Trên “Phố Wall”, một bên gọi là _fundamental_ hay thống kê, còn bên
+còn lại là _technical_. (Gần đây, phương pháp thứ ba — chu kỳ — phát triển
+nhanh, dù còn bị coi là fringe, hứa hẹn đóng góp nhiều cho hiểu biết về xu
+hướng kinh tế.)
 
-Thực tế, ngoại trừ những người mới bắt đầu khi họ lần đầu đối mặt với vấn
-đề đầu tư, và với sự thiếu kinh nghiệm, bất kỳ quan điểm nào khác không chỉ
-là vô lý mà còn là không thể hiểu được, thì những người theo chủ nghĩa cơ
-bản thuần túy rất hiếm. Ngay cả những chuyên gia thị trường, những người tỏ
-ra khinh thường các biểu đồ và "nhà phân tích biểu đồ", cũng không hề bỏ
-qua "hành động" được ghi lại trên dải băng ticker, và họ cũng không giấu
-giếm sự tôn trọng đối với Lý thuyết Dow, điều mà dù họ có nhận ra hay không,
-thì về bản chất, đó chính là phân tích kỹ thuật.
+Nhà phân tích fundamental dựa vào số liệu. Ông xem xét báo cáo kiểm toán,
+bảng lãi lỗ, bảng cân đối quý, lịch sử cổ tức và chính sách công ty. Ông phân tích
+doanh số, năng lực quản lý, công suất nhà máy, đối thủ cạnh tranh. Ông theo
+dõi báo cáo ngân hàng, kho bạc, chỉ số sản xuất, thống kê giá cả và dự báo
+nông sản để đánh giá tình hình kinh doanh tổng thể, đồng thời đọc tin tức
+hằng ngày để ước lượng điều kiện kinh tế trong tương lai. Tất cả những dữ
+liệu này giúp ông định giá cổ phiếu; nếu giá hiện tại thấp hơn định giá, ông
+xem đó là cơ hội mua. _(EN9: Không ngạc nhiên, nhà mua là Warren Buffet,
+ông mua công ty, không phải cổ phiếu, vì cách này tốt để mua công ty nhưng
+không hẳn tốt để mua cổ phiếu.)_
 
-##### Định nghĩa Phân tích Kỹ thuật
+Thực ra, ngoại trừ những người mới hoàn toàn, nhà fundamental “nguyên
+chất” rất hiếm. Ngay cả các chuyên gia thị trường tỏ vẻ coi thường biểu đồ
+và “chartist” cũng không bỏ qua dữ liệu từ ticker tape, và tôn trọng Dow
+Theory, vốn về bản chất là phân tích kỹ thuật.
 
-Thuật ngữ "kỹ thuật", khi áp dụng vào thị trường chứng khoán, đã mang một
-ý nghĩa rất đặc biệt, khác hẳn với định nghĩa từ điển thông thường của nó.
-Nó chỉ _nghiên cứu hành động của thị trường chính nó_ trái ngược với nghiên
-cứu về các hàng hóa mà thị trường giao dịch. _Phân tích kỹ thuật_ là khoa
-học ghi lại, thường ở dạng đồ họa, lịch sử giao dịch thực tế (biến động giá
-cả, khối lượng giao dịch, v.v.) của một cổ phiếu nhất định hoặc "các Chỉ số
-Trung bình" và sau đó suy luận từ lịch sử đã vẽ ra xu hướng tương lai có thể
-xảy ra.
-_EN: Với sự xuất hiện của máy tính, nhiều trường phái phân tích kỹ thuật đã
-ra đời. Phân tích kỹ thuật dựa trên số liệu, ví dụ, nghiên cứu trung bình động,
-dao động, v.v., cố gắng khách quan hóa hoàn toàn việc phân tích thị trường.
-Công trình của Edwards và Magee là hiện thân và định nghĩa của "phân tích kỹ
-thuật cổ điển". Xem Phụ lục C._
+##### Định nghĩa Phân Tích Kỹ Thuật
 
-Nhà phân tích kỹ thuật lập luận như sau: thật vô ích khi cố gắng gán một
-giá trị nội tại cho chứng chỉ cổ phiếu. Một cổ phiếu của United States Steel,
-ví dụ, có giá trị 261 đô la vào mùa thu năm 1929, nhưng bạn chỉ có thể mua
-nó với giá 22 đô la vào tháng 6 năm 1932! Đến tháng 3 năm 1937, giá cổ phiếu
-này đã tăng lên 126 đô la và chỉ 1 năm sau đó đã giảm xuống còn 38 đô la. Vào
-tháng 5 năm 1946, giá trị của nó đã tăng trở lại lên 97 đô la, và 10 tháng
-sau, vào năm 1947, giá cổ phiếu này đã rơi xuống dưới 70 đô la, mặc dù lợi
-nhuận của công ty vào thời điểm đó được cho là đang ở mức cao nhất mọi thời
-đại và lãi suất nói chung vẫn ở mức thấp nhất mọi thời đại. Giá trị sổ sách
-của cổ phiếu này, theo bảng cân đối tài chính của công ty, là khoảng 204 đô
-la vào năm 1929 (vào cuối năm); 187 đô la vào năm 1932; 151 đô la vào năm
-1937; 117 đô la vào năm 1938 và 142 đô la vào năm 1946. Những sự việc như
-thế này, sự khác biệt rộng lớn giữa giá trị ước tính và giá trị thực tế, không
-phải là ngoại lệ; nó là quy tắc. Điều này xảy ra liên tục. Thực tế là giá trị
-thực sự của một cổ phiếu của U.S. Steel được xác định vào bất kỳ thời điểm
-nào hoàn toàn, chắc chắn và không thể thay đổi bởi cung và cầu, mà chúng
-được phản ánh chính xác trong các giao dịch diễn ra trên sàn giao dịch chứng
-khoán New York.
+Thuật ngữ “kỹ thuật” trong chứng khoán có nghĩa đặc biệt, khác hẳn định
+nghĩa thông thường. Nó chỉ _nghiên cứu hành vi thị trường_ thay vì nghiên
+cứu hàng hóa thị trường giao dịch. _Phân tích kỹ thuật_ là khoa học ghi lại,
+thường bằng đồ thị, lịch sử giao dịch thực tế (thay đổi giá, khối lượng giao
+dịch...) của cổ phiếu hoặc “các chỉ số” và từ đó suy ra xu hướng tương lai
+có khả năng xảy ra. _EN: Với máy tính, nhiều trường phái phân tích kỹ thuật
+nổi lên. Phân tích kỹ thuật dựa trên con số (ví dụ: moving average, oscillator)
+cố gắng khách quan hóa hoàn toàn thị trường. Công trình Edwards và Magee
+là định nghĩa “phân tích kỹ thuật cổ điển.” Xem Phụ Lục C._
 
-Dĩ nhiên, các số liệu thống kê mà các nhà phân tích cơ bản nghiên cứu cũng
-đóng một vai trò trong phương trình cung-cầu — điều này được thừa nhận tự
-do. Nhưng còn rất nhiều yếu tố khác ảnh hưởng đến nó. Giá thị trường không chỉ
-phản ánh những quan điểm giá trị khác nhau của các nhà đánh giá chứng khoán
-chính thống, mà còn phản ánh tất cả những hy vọng và lo sợ, những suy đoán
-và tâm trạng, cả lý trí lẫn phi lý, của hàng trăm người mua và bán tiềm năng,
-cũng như những nhu cầu và nguồn lực của họ — tổng thể, những yếu tố không thể
-phân tích và không có số liệu thống kê có thể thu thập được, nhưng chúng lại
-được tổng hợp, cân nhắc và cuối cùng được thể hiện trong một con số chính xác
-mà ở đó người mua và người bán gặp nhau và thực hiện giao dịch (thông qua các
-đại lý của họ, các môi giới chứng khoán tương ứng). Đây là con số duy nhất có
-giá trị.
+Người học kỹ thuật lý luận: việc gán giá trị nội tại cho cổ phiếu là vô
+ích. Một cổ phiếu United States Steel, ví dụ, giá $261 mùa thu 1929, nhưng
+chỉ $22 vào tháng 6/1932! Tháng 3/1937, giá $126; một năm sau $38.
+Tháng 5/1946, giá $97, 10 tháng sau xuống dưới $70, dù lợi nhuận công
+ty cao kỷ lục và lãi suất vẫn thấp. Giá trị sổ sách năm 1929 là $204,
+1932: $187, 1937: $151, 1938: $117, 1946: $142. Sự khác biệt lớn giữa giá
+thực và giá dự đoán không phải ngoại lệ; đó là quy luật. Giá thực của cổ
+phiếu U.S. Steel được xác định duy nhất bởi cung – cầu trên sàn NYSE.
 
-Hơn nữa, nhà phân tích kỹ thuật khẳng định, với lý do hoàn toàn chính đáng,
-rằng phần
+Dĩ nhiên, thống kê fundamental cũng ảnh hưởng đến cung – cầu — điều
+này thừa nhận. Nhưng còn nhiều yếu tố khác. Giá thị trường phản ánh cả
+giá trị ước tính của các chuyên gia, cùng hy vọng, lo sợ, dự đoán, tâm trạng,
+cần – vốn của hàng trăm người mua bán; tất cả được tổng hợp, cân nhắc, rồi
+biểu hiện trong một con số chính xác mà giao dịch xảy ra. Con số này là
+quan trọng nhất.
+
+![fig-001](./img/fig-001.png)
+**HÌNH 1.** Biến động giá U.S. Steel từ Jan 1929–Dec 1946. So sánh với
+giá trị sổ sách từng năm.
+
+Hơn nữa, nhà kỹ thuật cho rằng phần lớn số liệu fundamental đã là quá
+khứ, lạc hậu, vì thị trường không quan tâm quá khứ hay hiện tại, mà liên
+tục dự đoán tương lai, cân nhắc tất cả dự đoán của các nhà đầu tư từ nhiều
+góc nhìn khác nhau. Nói tóm lại, giá hiện hành phản ánh tất cả thông tin
+fundamental có thể học được (và cả thông tin nội bộ), cùng nhiều yếu tố
+khác quan trọng không kém.
+
+Tất cả điều này sẽ ít ý nghĩa nếu không có thực tế: giá di chuyển theo xu
+hướng và xu hướng tiếp tục cho đến khi cung – cầu thay đổi. Những thay
+đổi này thường phát hiện qua hành vi thị trường. Một số mô hình, mức,
+vùng xuất hiện trên biểu đồ có ý nghĩa, có thể giải thích về xu hướng
+tương lai. Chúng không hoàn hảo, nhưng khả năng dự đoán cao. Kinh
+nghiệm nhiều lần chứng minh chúng chuẩn xác hơn nhiều so với nhà
+thống kê hiểu biết nhất.
+
+Nhà phân tích kỹ thuật có thể đi xa hơn: ông có thể phân tích cổ phiếu
+không biết tên, chỉ cần dữ liệu giao dịch chính xác, dài hạn để nghiên
+cứu thói quen và bối cảnh thị trường. Ông có thể giao dịch có lãi chỉ
+biết ticker, không biết công ty, ngành, sản phẩm hay vốn hóa. Thực tế,
+không khuyến nghị làm vậy, nhưng lý thuyết ông hoàn toàn có thể làm.
+
+Nếu người đọc thấy phương pháp kỹ thuật như trên khó chịu hoặc phản
+cảm, tốt hơn nên đóng sách. Phần còn lại của sách chủ yếu xoay quanh
+phân tích kỹ thuật.
+
+##### EN: Lý Thuyết Sóng Elliott: Góc Nhìn và Nhận Xét*
+
+_Trong tuần này chúng tôi có dịp tham dự cuộc họp tháng 12 của Market
+Technicians Association of New York. Những người theo dõi lâu sẽ nhớ MTANY
+vinh danh John Magee là “Man of the Year” năm 1978. Diễn giả là Robert
+Prechter, xuất bản “The Elliott Wave Theorist,” một bản tin đầu tư dựa trên
+giải thích công trình R.N. Elliott về thị trường..._
+
+Điều quan trọng với người đăng ký SAS là nhận xét của Prechter về phân tích
+kỹ thuật. Lý thuyết Sóng Elliott thực chất chỉ là “catalog” các biến động giá,
+xếp chồng lên nhau, cho đến khi nhận thấy mẫu hình tổng thể, lâu dài; tóm lại
+là phân tích kỹ thuật thuần túy. Một số định nghĩa và nhận xét của Prechter
+về phân tích fundamental:
+
+1. “Trước hết hãy phân biệt dữ liệu ‘kỹ thuật’ và ‘fundamental’... dữ liệu
+    kỹ thuật là _dữ liệu sinh ra từ hành vi thị trường đang nghiên cứu._”
+2. “Vấn đề chính của fundamental là chỉ số tách rời thị trường. Nhà phân tích
+    cho rằng sự kiện bên ngoài gây biến động thị trường, điều gần như chắc
+    chắn sai. Quan trọng nữa, fundamental thường yêu cầu dự đoán dữ liệu
+    trước khi rút ra kết luận về thị trường. Nhà phân tích phải bước hai
+    để kết luận sự kiện dự đoán tác động thị trường ra sao! Kỹ thuật viên
+    chỉ cần bước một, có lợi thế ngay. Ưu điểm chính: không cần dự đoán
+    chỉ số của mình.”
+3. “Tệ hơn nữa, bước hai của fundamental cũng như đi trên cát lún.... Thường
+    nhất là ước tính lợi nhuận công ty năm nay và năm sau, và khuyến nghị
+    cổ phiếu dựa trên đó.... Kết quả trên cơ sở đó rất kém, Barron’s ngày
+    4/6 chỉ ra sai số trung bình 18% cho 30 cổ phiếu DJIA năm đã qua và 54%
+    năm tới. Yếu nhất là giả định rằng ước tính lợi nhuận đúng là cơ sở chọn
+    cổ phiếu thắng. Theo bảng Barron’s, mua 10 cổ phiếu DJIA ước tính lợi
+    nhuận tốt nhất 10 năm lãi 40,5%, trong khi 10 cổ phiếu ước tính kém nhất
+    lãi tới 142,5%.”
+
+_Chúng tôi thích cách trình bày kỹ thuật của Prechter khác với mình. Về
+nhận xét fundamental, chúng tôi hoàn toàn đồng ý._
 
 
 # Chương 2: Đồ Thị 
