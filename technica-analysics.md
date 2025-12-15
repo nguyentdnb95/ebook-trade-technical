@@ -69,6 +69,7 @@ biểu hiện trong một con số chính xác mà giao dịch xảy ra. Con s�
 quan trọng nhất.
 
 ![fig-001](./img/fig-001.png)
+
 **HÌNH 1.** Biến động giá U.S. Steel từ Jan 1929–Dec 1946. So sánh với
 giá trị sổ sách từng năm.
 
@@ -978,6 +979,7 @@ Industrials và 29,73 đối với Rails. Từ đó, giá lại giảm xuống
 còn lần lượt là 117,66 và 26,54 vào ngày 14 tháng 2.
 
 ![fig-002](./img/fig-002.png)
+
 **HÌNH 2.** Biểu đồ “Dao động” _(EN: HOẶC Sóng)_ cho thấy tất cả các
 Xu hướng Trung gian và một số Xu hướng Nhỏ mở rộng hơn của các Chỉ
 số Công nghiệp và Đường sắt Dow–Jones, từ tháng 1 năm 1941 đến
