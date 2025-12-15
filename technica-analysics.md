@@ -1015,6 +1015,7 @@ của một Thị trường Gấu, đợt tăng lên tháng Mười Một là Nh
 Nhịp Thứ cấp đầu tiên của nó.
 
 ![fig-003](./img/fig-003.png)
+
 **HÌNH 3.** Các mức giá đóng cửa của các Chỉ số Công nghiệp và Đường sắt
 Dow–Jones, từ ngày 1 tháng 2 đến ngày 31 tháng 8 năm 1941, và tổng
 khối lượng thị trường hàng ngày. Các đường thẳng đứng cho thấy mức
@@ -1110,6 +1111,7 @@ chứng minh là ngược lại, nó buộc phải được gắn nhãn là mộ
 trong Thị trường Gấu vốn vẫn được giả định là đang tồn tại,
 
 ![fig-004](./img/fig-004.png)
+
 **HÌNH 4.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 2 tháng 3 đến ngày 31 tháng 10 năm 1942,
 và tổng khối lượng thị trường hàng ngày. Giai đoạn này đã chứng kiến
@@ -1191,6 +1193,7 @@ tháng 12 giờ được công nhận là Nhịp Thứ cấp đầu tiên trong 
 hướng Lớn đó.
 
 ![fig-005](./img/fig-005.png)
+
 **HÌNH 5.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp
 và Đường sắt Dow–Jones từ ngày 2 tháng 11 năm 1942 đến ngày 30
 tháng 6 năm 1943, và tổng khối lượng thị trường hàng ngày. Biểu đồ
@@ -1297,6 +1300,7 @@ Bảy, và giá sau đó lại giảm xuống các mức đáy mới, thì quả
 một Thị trường Gấu sẽ có hiệu lực.
 
 ![fig-006](./img/fig-006.png)
+
 **HÌNH 6.** Giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và Đường
 sắt Dow–Jones, và tổng khối lượng thị trường, từ ngày 1 tháng 7
 năm 1943 đến ngày 31 tháng 1 năm 1944.
@@ -1385,6 +1389,7 @@ minh họa sáng tỏ cho giả định cơ bản (Nguyên lý số 1) của Lý
 thuyết Dow!
 
 ![fig-007](./img/fig-007.png)
+
 **HÌNH 7.** Mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 1 tháng 5 đến ngày 30 tháng 11 năm
 1945, và tổng khối lượng giao dịch hàng ngày của thị trường. Giai
@@ -2313,6 +2318,7 @@ hãy đặt một dấu cảnh báo đỏ thứ hai trên đồ thị của bạ
 
 
 ![fig-010](./img/fig-010.png)
+
 **FIGURE 10**. Starting in March, “HUM” formed a broad Head-and-Shoulders Top
 pattern on the daily chart. August’s decline penetrated the neckline by 3%, confirm-
 ing the Reversal Pattern. The minimum objective for the Head-and-Shoulders Top
@@ -2362,6 +2368,7 @@ mang tính chất của một Mô Hình Đảo Chiều bắt đầu xuất hiệ
 
 
 ![fig-011](./img/fig-011.png)
+
 **HÌNH 11.** Đồ thị ngày của cổ phiếu phổ thông Chicago, Milwaukee,
 St. Paul & Pacific từ ngày 1 tháng Giêng đến ngày 29 tháng Sáu, 1946.
 Mô hình Đầu-và-Vai đã tạo đỉnh cho Xu Hướng Tăng Chính của mã
