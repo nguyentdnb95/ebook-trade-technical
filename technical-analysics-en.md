@@ -8534,26 +8534,9 @@ provided the chance of further Intermediate Advance still exists.
 To accomplish these purposes it is necessary, as we have said, to find
 and draw the line that accurately defines the Intermediate Trend, and then
 to recognize when that line has been broken in decisive fashion. Our earlier
-
-
-_Chapter fourteen: Trendlines and Channels 259_
-
 quick review of how a trendline is constructed did not attempt to cover these
 points thoroughly.
 
-##### Tests of Authority
-
-Here are some of the tests which may be applied to judge the technical
-validity, the authority, of an Up Trendline:
-
-```
-A. The greater the number of Bottoms that have developed at (or very
-near) a trendline in the course of a series of Minor Up Waves, the
-greater the importance of that line in the technical sense. With each
-successive “test,” the significance of the line is increased. A first and
-tentative Up Trendline can be drawn as soon as two Bottoms have
-formed, the second higher than the first, but if prices move back to
-```
 ![fig-149](./img/fig-149.png)
 **FIGURE 149.** Trendlines which defined the short-term swings in Crane Company
 in 1945. Note that three Bottoms formed on the first up-line and that the third rally
@@ -8568,43 +8551,26 @@ the previously broken Up Trendline. Such Pullbacks are common. The small Complex
 Head-and-Shoulders in June was never completed, since prices did not break down
 out of it by the required margin.
 
-```
-CRANE COMPANY CR 1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-XD .25 XD .25
-```
-```
-S S
-```
-(^36) H
-34
-32
-30
-28
-26
-Sales
-100’s
-125
-100
-75
-50
-25
-6 13 20 27 3 10 17 24 3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30
+
+##### Tests of Authority
+
+Here are some of the tests which may be applied to judge the technical
+validity, the authority, of an Up Trendline:
 
 
-_260 Technical Analysis of Stock Trends_
-
-```
+- **A**. The greater the number of Bottoms that have developed at (or very
+near) a trendline in the course of a series of Minor Up Waves, the
+greater the importance of that line in the technical sense. With each
+successive “test,” the significance of the line is increased. A first and
+tentative Up Trendline can be drawn as soon as two Bottoms have
+formed, the second higher than the first, but if prices move back to
 that line a third time, make a third Bottom there and start a renewed
 advance, then the validity of that line as a true definition of the trend
 has been confirmed by the action of the market. Should a fourth
 Bottom later form on it, and prices move up away from it again, its
 value as a trend criterion is very considerably enhanced, etc.
-B. The length of the line, i.e., the longer it has held without being
+
+- **B**. The length of the line, i.e., the longer it has held without being
 penetrated downside by prices, the greater its technical significance.
 This principle, however, requires some qualification. If your trendline
 is drawn from two original Bottoms which are very close together in
@@ -8619,7 +8585,8 @@ to define, with a good rally and “open water” between them, then it
 is more apt to be the true trendline. Greater weight should be given
 to the number of Bottoms that have formed on a trendline (Test 1)
 than to its length alone (Test 2).
-C. The angle of the trendline (to the horizontal) is also, to some degree,
+
+- **C**. The angle of the trendline (to the horizontal) is also, to some degree,
 a criterion of its validity as a true delimiter of Intermediate Trend. A
 very steep line can easily be broken by a brief sideways Consolidation
 move — as, for example, by a compact Flag forming on an advance
@@ -8628,7 +8595,7 @@ extensive advance. Such steep lines are of little forecasting value to
 the technician. The flatter, more nearly horizontal the trendline, the
 more important it is technically and, in consequence, the greater the
 significance of any downside break through it.
-```
+
 But “steep,” as applied to stock trends, is a relative term, and one which,
 we must frankly confess, defies exact definition. Experience, which can only
 be gained by studying many charts and by actually building and working
@@ -8645,7 +8612,17 @@ the better able you will be to judge its present trend.
 of most other technical patterns and phenomena as well as to trendlines.)
 
 
-_Chapter fourteen: Trendlines and Channels 261_
+
+![fig-150](./img/fig-150.png)
+**FIGURE 150.** Intermediate Downtrend and Uptrend in Commercial Solvents in
+1946. Note the increased volume on the March 30 penetration of the basic Down
+Trendline (and, at the same time, a breakout from a small Head-and-Shoulders
+Bottom). The drop through the lower parallel at the end of February had no technical
+significance. The Up Trendline from the March low was broken on June 14, simulta-
+neously with a breakout from a Descending Triangle which, as it turned out, was
+the final Bull Market Top.
+
+
 
 One clue to relative steepness is afforded to those who employ the
 TEKNIPLAT semilogarithmic chart sheet, which has been used for most of
@@ -8665,54 +8642,6 @@ diate Advance will, of course, be much steeper than on the daily plotting.
 Different scaling will produce different angles. It is pure happenstance that
 the TEKNIPLAT sheets tend to produce the 30-degree ascending line.
 
-![fig-150](./img/fig-150.png)
-**FIGURE 150.** Intermediate Downtrend and Uptrend in Commercial Solvents in
-
-1946. Note the increased volume on the March 30 penetration of the basic Down
-Trendline (and, at the same time, a breakout from a small Head-and-Shoulders
-Bottom). The drop through the lower parallel at the end of February had no technical
-significance. The Up Trendline from the March low was broken on June 14, simulta-
-neously with a breakout from a Descending Triangle which, as it turned out, was
-the final Bull Market Top.
-
-```
-COMMERCIAL SOLVENTS CV
-```
-```
-1946
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-32
-30
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-5 12 19 26 2 9 16 23 2 9 16 23 30 6 13 20 27 4 11 18 25 1 8 15 22 29
-```
-
-_262 Technical Analysis of Stock Trends_
 
 ##### Validity of Penetration
 
@@ -8760,17 +8689,6 @@ very closely; the technical situation is evidently critical, else a shakeout cou
 not have been easily staged.
 
 
-_Chapter fourteen: Trendlines and Channels 263_
-
-The third test is also one that applies particularly to breaks which are
-borderline so far as margin of penetration is concerned. Suppose a stock
-which is quoted in the neighborhood of 40 declines through a well-estab-
-lished Intermediate Up Trendline and closes 1 or 1⅛ points below it — a
-margin which is only slightly less than our specified 3% — without much,
-if any, enlargement in trading volume. Suppose it fluctuates there for a day
-or two in a dull and narrow market, and then starts to rally. If there is no
-pickup in activity on this recovery move — if prices simply edge up feebly
-
 ![fig-151](./img/fig-151.png)
 **FIGURE 151.** Valid trendline penetration and its normal consequences — Reaction
 or Consolidation — is illustrated on nearly every chart in this chapter and on many
@@ -8788,40 +8706,15 @@ rules. “P” turned right around and shot up to 64 before it was finished. Nev
 developments such as this carry a valuable warning. They very seldom appear unless
 the Major Trend has almost run out; any further rise is dangerous to follow.
 
-```
-PHILLIPS PETROLEUM P 1935–1938
-```
-```
-64
-60
-56
-52
-48
-44
-40
-38
-36
-34
-32
-30
-28
-26
-24
-22
-20
-19
-18
-17
-Sales100’s
-```
-(^1000800)
-(^600400)
-(^200) AS OJ N D J FM MA J J AS O N D J F M MA J AS O N D J FJ M MA
-1935 1936 1937 1938
 
-
-_264 Technical Analysis of Stock Trends_
-
+The third test is also one that applies particularly to breaks which are
+borderline so far as margin of penetration is concerned. Suppose a stock
+which is quoted in the neighborhood of 40 declines through a well-estab-
+lished Intermediate Up Trendline and closes 1 or 1⅛ points below it — a
+margin which is only slightly less than our specified 3% — without much,
+if any, enlargement in trading volume. Suppose it fluctuates there for a day
+or two in a dull and narrow market, and then starts to rally. If there is no
+pickup in activity on this recovery move — if prices simply edge up feebly
 to the underside of the trendline and tend to “round over” there without
 being able to close clearly above it — then the situation is indeed critical,
 and the slightest sign of renewed selling pressure may be taken as a signal
@@ -8831,6 +8724,7 @@ known as a Throwback or Pullback. We have previously described analogous
 developments which follow breakouts from Head-and-Shoulders and other
 patterns, and will have more to say about them in connection with trendlines
 later on.
+
 The three tests we have been discussing, which help to establish the
 validity of a trendline penetration, cannot, unfortunately, be applied inflex-
 ibly and without a modicum of judgment. The majority of Intermediate
@@ -8867,13 +8761,19 @@ An intraday break through an established trendline that, however, does
 not result in prices closing beyond the line may be disregarded and the line
 left as is. In fact, as has already been suggested, the closing prices frequently
 make a better trendline than the extreme intraday lows of successive
-
-
-_Chapter fourteen: Trendlines and Channels 265_
-
 Bottoms, and this is most apt to be true with “thin” stocks subject to erratic
 swings. A bit of experimenting with different lines often pays. A thin, trans-
 parent ruler is especially useful for trendline study.
+
+
+![fig-152](./img/fig-152.png)
+**FIGURE 152.** Double Trendlines (see next page) usually are not evident until after
+a trend has run for several months. In Paramount’s accelerated phase of Intermediate
+Uptrend which began in October 1945, the double nature of the basic trendline was
+not detectable until January 1946. The inner (upper) line was broken again in April,
+but the outer (lower) line was not decisively penetrated downside until May, at the
+Bull Market Top.
+
 There is another type of price action that may require redrawing a
 trendline. Sometimes, after a line has been projected up across the first two
 Minor Bottoms in an advancing trend, a third Minor Bottom will form, not
@@ -8886,60 +8786,14 @@ one, and the new line stands up well for several weeks (and if it was not,
 patently, too steep to begin with), then the old line may be abandoned and
 the new one regarded as the better trend definer.
 
-![fig-152](./img/fig-152.png)
-**FIGURE 152.** Double Trendlines (see next page) usually are not evident until after
-a trend has run for several months. In Paramount’s accelerated phase of Intermediate
-Uptrend which began in October 1945, the double nature of the basic trendline was
-not detectable until January 1946. The inner (upper) line was broken again in April,
-but the outer (lower) line was not decisively penetrated downside until May, at the
-Bull Market Top.
 
-```
-PARAMOUNT PICTURES PX
-```
-```
-1945–1946
-```
-```
-OCTOBER NOVEMBER DECEMBERJANUARY FEBRUARY MARCH
-```
-```
-XD .50C
-```
-```
-76
-72
-68
-64
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6 13 20 27 3 10 17 24 1 8 15 22 29 5 12 19 26 2 9 1623 2 9 16 23 30
-```
+![fig-153](./img/fig-153.png)
+**FIGURE 153.** Trend Channels in Bethlehem Steel in 1945. Prices burst out of the
+92–98 Horizontal Channel (Rectangle) on the upside in January 1946, and went on
+to 114. A short-term trader might have sold around 94–96 in early November (because
+of the uptrend break) and rebought at 99 in January on the Rectangle breakout. See
+discussion of Channels.
 
-_266 Technical Analysis of Stock Trends_
 
 ##### Double Trendlines and Trend Ranges
 
@@ -8965,122 +8819,13 @@ and prices, therefore, rally back above the upper, inner line quickly. Warning
 of an impending break in the trend is given when prices come down to the
 outer line steadily, rather than by the quick “shake” type of reaction, and
 
-![fig-153](./img/fig-153.png)
-**FIGURE 153.** Trend Channels in Bethlehem Steel in 1945. Prices burst out of the
-92–98 Horizontal Channel (Rectangle) on the upside in January 1946, and went on
-to 114. A short-term trader might have sold around 94–96 in early November (because
-of the uptrend break) and rebought at 99 in January on the Rectangle breakout. See
-discussion of Channels.
 
-```
-BETHLEHEM STEEL BS
-```
-```
-1945
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-7 14 21 28 4 11 18 25 1 8 15 22 29 6 13 20 27 3 1017 24 1 8 15 22 29
-```
+![fig-154](./img/fig-154.png)
+**FIGURE 154**. A 10-month downtrend, extraordinarily long and straight, which was nicely defined by Double Basic
+Trendlines above the Price Channel, and also by a double set of Return Lines below it. The Major Top started with
+a strong One-Day Reversal on December 3, 1945, and worked out into a Descending Triangle which broke February
+19, 1946. The Symmetrical Triangle beginning to appear in September 1946 also broke out downside
 
-_Chapter fourteen: Trendlines and Channels 267_
-
-```
-FIGURE 154.
-```
-```
-A 10-month downtrend, extraordinarily long and straight, which was nicely de
-```
-```
-fined by Double Basic
-```
-```
-Trendlines above the Price Channel, and also by a double set of Return Lines below it. The Major Top started witha strong One-Day Reversal on December 3, 1945, and worked out into a Descending Triangle which broke February19, 1946. The Symmetrical Triangle beginning to appear in September 1946 also broke out downside.
-```
-```
-PAN AMERICAN AIRWAYS
-```
-```
-PN
-```
-```
-1945–1946
-```
-```
-DECEMBER JANUARY FEBRUARY
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-SEPTEMBER
-```
-```
-30 28 26 24 22 201918 17 16 15 14
-Sales100’s^500400300200100
-```
-```
-G
-24 1 8 15 22 29 5 12 19 26 2 9
-```
-```
-16 23 2 9 16 23 30 6 13 20
-```
-```
-27 4 11 18 25 1 8 15 22 29 6
-```
-```
-13 20 27
-```
-```
-5
-```
-```
-3 10 17 24 31 7 14
-```
-```
-21 28
-```
-
-_268 Technical Analysis of Stock Trends_
-
-then have difficulty rallying back through the inner line. Watch such devel-
-opments closely. A break down may not follow; the situation may still be
-“saved,” but the chances are that the trend is near its end.
 
 ##### Trend Channels
 
@@ -9125,8 +8870,6 @@ Return Line) by a margin approximately equal to the margin by which the
 reaction failed to reach the bottom of the channel (Basic Trendline).
 
 
-_Chapter fourteen: Trendlines and Channels 269_
-
 ![fig-155](./img/fig-155.png)
 **FIGURE 155.** Well-marked Intermediate Basic Trendline and Return Lines in South-
 ern Pacific, 1945. Note Flags within Trend Channels — an up Flag in June and a
@@ -9138,83 +8881,6 @@ February 1946.
 Return Line in late November measured the distance by which they advanced
 through and above the Basic Down Trendline in early December. This rule is stated
 on the preceding page.
-
-```
-SOUTHERN PACIFIC SX
-```
-```
-1945
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-RL
-```
-```
-RL
-IUT
-```
-```
-IDT
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-7 14 21 28 5 12 19 26 2 9 16 23 30 7 14 21 28 4 1118 25 1 8 15 22 29
-```
-```
-HUDSON MOTORS HT
-```
-```
-1945
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-34
-32
-30
-```
-```
-28
-```
-```
-26
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-7 14 21 28 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 1724 1 8 15 22 29
-```
-
-_270 Technical Analysis of Stock Trends_
 
 ##### Experimental Lines
 
@@ -9262,7 +8928,11 @@ Intermediate Trend trader will certainly look twice before attempting to find
 further profit in that particular situation at that time.
 
 
-_Chapter fourteen: Trendlines and Channels 271_
+
+![fig-157](./img/fig-157.png)
+**FIGURE 157.** Six months of an Uptrend Channel which actually started to form in
+December 1943! It was broken downside in August 1945.
+
 
 A more immediate but less important probable consequence of trendline
 penetration has also been mentioned — the “Pullback.” This deserves further
@@ -9288,47 +8958,6 @@ variants, the _slope_ of the line and the _time_ it is reached.
 Of course, you cannot reasonably expect a Pullback Rally to climb all
 the way back to a trendline that is ascending at a very steep angle, which
 may mean the attainment of a new high price for the entire Intermediate
-
-![fig-157](./img/fig-157.png)
-**FIGURE 157.** Six months of an Uptrend Channel which actually started to form in
-December 1943! It was broken downside in August 1945.
-
-```
-CONSOLIDATED VULTEE F
-```
-```
-1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-6 13 20 27 3 10 17 24 3 10 1724 31 7 14 21 28 5 12 19 26 2 9 16 23 30
-```
-
-_272 Technical Analysis of Stock Trends_
-
 Uptrend; yet even that happens in more than just a few cases. What can be
 counted on in the great majority of typical Up Trendlines (those which slant
 up at a normal or fairly flat angle) is that after the line has been broken, a
@@ -9341,11 +8970,14 @@ Throwback after prices have gone through it. An unusually strong upswing
 in a Rising Trend Channel may carry beyond the top of the channel as defined
 by its Return Line, but the next reaction may go right back down through
 it without evidencing any hesitation at its level.
+
 The Throwback is one of the mysteries in trendline price action to which
 we alluded at the outset. The technical analyst who studies trends and
 trendlines over any considerable period will discover many other even more
 mysterious phenomena which cannot find space in this treatise, because no
 way has yet been found to put them to practical use in trading and investing.
+They are extraordinarily interesting in retrospect, but are not subject to
+forecast.
 
 ![fig-158](./img/fig-158.png)
 **FIGURE 158.** The downtrend which started in June 1946 in Nash–Kelvinator, sig-
@@ -9357,49 +8989,15 @@ for only a few days at the end of August. The August rally in both price and vol
 pattern showed Bear Market characteristics. Compare this chart with Figure 68 and
 you will see that a Major Double Top was signaled on July 23.
 
-```
-NASH – KELVINATOR NK 1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-MUT
-```
-```
-IDT
-```
-```
-RL
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 296 13 20 27 3 10 17 24 31 7 14 21 28
-```
+![fig-159](./img/fig-159.png)
+**FIGURE 159.** The decline that took Macy down through an Intermediate Up
+Trendline (IUT) in June 1946 turned out to be also the drop from the head of a “Flat-
+Shouldered” Head-and-Shoulders Top, which was, in turn, part of a larger Complex.
+The upper neckline was broken June 19 and the lower on July 16. Note Pullbacks to
+each. F1, F2, and F3 are tentative Fan Lines. Prices were finally able to clear F3 in
+December, but by that time a Primary Bear Market had been signaled; so, the Fan
+Rule no longer applied. Fans call the turn only on Secondary (Corrective) Moves.
 
-_Chapter fourteen: Trendlines and Channels 273_
-
-They are extraordinarily interesting in retrospect, but are not subject to
-forecast.
 
 ##### Intermediate Downtrends
 
@@ -9413,76 +9011,7 @@ they differ from Primary Advances, we should recall that the _Basic Trendline_
 on a down-move is the line projected across the _Tops_ of the rallies within it.
 The Trend Channel will be to the left of that trendline and below it on the
 chart. The _Return_ Line (if any) will define the _Bottom_ of the channel.
-Intermediate (Bear Market) Downtrends are far less regular and uniform
-in their development than Bull Market Advances. Their angles of decline are
-characteristically steeper, and this is particularly true, of course, of the Panic
-Moves which are typical of the second phase of a Bear Market, as we saw
 
-![fig-159](./img/fig-159.png)
-**FIGURE 159.** The decline that took Macy down through an Intermediate Up
-Trendline (IUT) in June 1946 turned out to be also the drop from the head of a “Flat-
-Shouldered” Head-and-Shoulders Top, which was, in turn, part of a larger Complex.
-The upper neckline was broken June 19 and the lower on July 16. Note Pullbacks to
-each. F1, F2, and F3 are tentative Fan Lines. Prices were finally able to clear F3 in
-December, but by that time a Primary Bear Market had been signaled; so, the Fan
-Rule no longer applied. Fans call the turn only on Secondary (Corrective) Moves.
-
-```
-R. H. MACY MZ 1946
-```
-```
-APRIL MAY JUNE JULY AUGUST
-```
-```
-NL–2
-```
-```
-F– 1
-```
-```
-F–2
-F–3
-```
-```
-S
-RL S
-```
-```
-IUT
-```
-```
-H
-64
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-23 30 613 20 27 4 11 18 25 1 8 15 22 29 6 1320 27 3 10 17 24 31 7 14
-```
-
-_274 Technical Analysis of Stock Trends_
-
-in our discussion of Major Trends in Chapter 3. Moreover, prices have a
-tendency to drop away from any trendline which is drawn across the first
-two Rally Tops; in other words, to curve down or accelerate as the move
-proceeds. This shows plainly on an arithmetically scaled chart and, even
-more conspicuously on a semilogarithmic sheet.
 
 ![fig-160](./img/fig-160.png)
 **FIGURE 160.** “ABZ” dropped sharply following its late January high, capped off
@@ -9493,86 +9022,15 @@ peak. Not only is the reaction a classic, but so, too, is the Fan Line developme
 which, when coupled with the recently completed Head-and-Shoulders Bottom,
 suggests “ABZ” has reversed its short-term downtrend.
 
-```
-ARKANSAS BEST ABZ 1987
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE JULY AUGUST
-```
-```
-S
-```
-```
-H
-```
-```
-F 1
-```
-```
-F 2
-```
-```
-F 3
-```
-```
-S
-```
-```
-NL
-```
-```
-36
-34
-32
-30
-28
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-14
-13
-12
-```
-```
-11
-Sales
-100’s
-1000
-800
-600
-400
-200
-7 24 31 7 14 21 28 7 14 21 28 4 1118 25 2 9 16 23 30 6 13 20 27 4 11 18 25 1 8 15
-XD.09 XD.09
-```
-```
-ARKANSAS BEST
-30
-```
-```
-80 81 82 83 84 85 86 87
-```
-```
-25
-20
-15
-10
-5
-```
-
-_Chapter fourteen: Trendlines and Channels 275_
+Intermediate (Bear Market) Downtrends are far less regular and uniform
+in their development than Bull Market Advances. Their angles of decline are
+characteristically steeper, and this is particularly true, of course, of the Panic
+Moves which are typical of the second phase of a Bear Market, as we saw
+in our discussion of Major Trends in Chapter 3. Moreover, prices have a
+tendency to drop away from any trendline which is drawn across the first
+two Rally Tops; in other words, to curve down or accelerate as the move
+proceeds. This shows plainly on an arithmetically scaled chart and, even
+more conspicuously on a semilogarithmic sheet.
 
 The _practical_ results of this down-curving tendency are not so important,
 insofar as it delays the penetration of the original trendline and, hence, the
@@ -9620,10 +9078,6 @@ In such cases, of course, there is no basis for drawing an Intermediate
 Trendline, nor is one needed for any practical purpose.
 At the other extreme, so to speak, we find Corrective Swings which
 develop as a more or less orderly straight-line return of moderate slope to
-
-
-_276 Technical Analysis of Stock Trends_
-
 the nearest good Intermediate Support or Resistance Level, retracing perhaps
 a third to a half of the preceding Primary Swing. These reactions produce
 good trendlines, as a rule, and the eventual penetration of their trendlines
