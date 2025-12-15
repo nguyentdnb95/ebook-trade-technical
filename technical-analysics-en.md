@@ -177,9 +177,7 @@ _We enjoyed Prechter’s polished exposition of a technical approach different f
 our own. As for his observations about fundamental analysis, we simply couldn’t
 agree more._
 
-## chapter two
-
-# Charts
+## Chapter 2. Charts
 
 Charts are the working tools of the technical analyst. They have been devel-
 oped in a multitude of forms and styles to represent graphically almost
@@ -310,10 +308,6 @@ and sometimes do, occur on the same day, but the weekly chart makes no
 distinction as to day. Monthly charts are prepared in the same way but do
 not, as a rule, record volume. These two — often referred to as long-term or
 major charts — are used chiefly for determining important Support and
-
-
-_12 Technical Analysis of Stock Trends_
-
 Resistance Levels and marking long-term trends. Weekly charts — if the
 reader prefers to keep his own — can be posted easily from the Sunday
 morning editions of those daily newspapers (e.g., _The New York Times_ or
@@ -341,6 +335,9 @@ making an unfavorable commitment.
 If you have never used stock charts, never paid much attention to them,
 you may be surprised at some of the significant things you will quickly
 detect as soon as you begin to study them seriously.
+
+
+
 _EN9: Surprise and astonishment are the words to describe the reactions of even
 professionals when they are fully exposed to a coherent presentation of the methods
 of Edwards and Magee. I have often commented that no understanding of other
@@ -354,7 +351,7 @@ range perspective of years. In this process it is important to maintain perspect
 Multiyear log charts of large ranges lose graphic importance at the top as chart
 intervals shrink. This distortion must be countered by breaking the time frame into
 smaller increments. So instead of 5 years of a chart which spans a range of 10 to
-200 we look at five charts of a year each as well as the 5-year chart._
+200 we look at five charts of a year each as well as the 5-year chart.
 
 ## chapter three
 
