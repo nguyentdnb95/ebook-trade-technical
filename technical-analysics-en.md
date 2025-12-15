@@ -2574,9 +2574,7 @@ confirmed or reaffirmed, also of the diminishing odds in favor of continuance
 with each successive reaffirmation of the Primary Trend.
 
 
-## chapter five
-
-# The Dow Theory’s Defects
+# chapter 5.  The Dow Theory’s Defects
 Our readers, we suspect, heaved a deep sigh of relief when they closed the
 preceding chapter on a difficult, tedious, and, at times, confusing subject.
 Some may even wish at this point that the Dow Theory had never been
@@ -4531,19 +4529,6 @@ angles. The earlier the breakout, the less apt it is to be a false move (althoug
 false moves from Right-Angle Formations are considerably rarer, it should
 be noted, than from Symmetrical). In those infrequent cases when prices
 
-
-
-##### Measuring Implications of Triangles
-
-We have stated (in Chapter 6) a minimum measuring rule to apply to price
-movements developing from a Head-and-Shoulders Formation, and we can
-lay down a somewhat similar rule for Triangles — one that applies to both the
-Symmetrical and the Right Angle species. The method of deriving the Triangle
-formula is not easy to explain in words, but the reader can familiarize himself
-with it quickly by studying its application on several of the actual examples
-which illustrate this chapter. Assuming that we are dealing with an up-move-
-ment (upside breakout), draw from the Top of the first rally that initiated the
-
 ![fig-062](./img/fig-062.png)
 **FIGURE 62.** Because a dividend of $1.00 went ex on March 14, the lower boundary
 of this Descending Triangle Top in “BIW” had to be dropped 1 point from 33 and
@@ -4555,51 +4540,16 @@ Whenever a stock goes ex-dividend during the formation of an Area Pattern of any
 type, the lines bounding that pattern should immediately be adjusted to the new
 value by lowering them a distance corresponding to the amount of the dividend.
 
-```
-BATH IRON WORKS BIW 1946
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-5 12 19 26 2 9 2316 2 9 16 23 30 6 13 20 27 4 11 18 25 1 8 15 22 29
-```
-```
-38
-36
-34
-32
-```
-```
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-125
-100
-75
-50
-25
-```
-```
-X D S1.00
-```
-```
-Sales
-100’s
-```
+##### Measuring Implications of Triangles
 
-_122 Technical Analysis of Stock Trends_
-
+We have stated (in Chapter 6) a minimum measuring rule to apply to price
+movements developing from a Head-and-Shoulders Formation, and we can
+lay down a somewhat similar rule for Triangles — one that applies to both the
+Symmetrical and the Right Angle species. The method of deriving the Triangle
+formula is not easy to explain in words, but the reader can familiarize himself
+with it quickly by studying its application on several of the actual examples
+which illustrate this chapter. Assuming that we are dealing with an up-move-
+ment (upside breakout), draw from the Top of the first rally that initiated the
 pattern (in other words, from its upper left-hand corner) a line parallel to the
 Bottom boundary. This line will slope up away from the pattern to the right.
 Prices may be expected to climb until they reach this line. Also, as a rule, they
@@ -4608,11 +4558,7 @@ or rate as characterized their trend prior to their entering the pattern. This
 principle permits us to arrive at an approximate time and level for them to
 attain the measuring line. The same rules apply (but measuring down, of
 course, from the lower left corner) to a descending move.
-Although application of the above formula does afford a fair estimate
-of the extent of move to be expected from a Triangle, it is neither as definite
-nor as reliable as the Head-and-Shoulders formula. Do not forget the impor-
-tant qualification that the Triangle has somehow lost a part of its potential
-strength if the breakout is delayed until prices are crowded into the apex.
+
 
 ![fig-063](./img/fig-063.png)
 **FIGURE 63.** On the basis of “fundamentals,” Revere was an attractive holding in
@@ -4624,51 +4570,12 @@ Volume Signals had already appeared in late June and on July 23. The breakout ca
 for 4 days, then collapsed. The small formations outlined in April and May are Flags,
 to be discussed in Chapter 11.
 
-```
-REVERE COPPER & BRASS RVB 1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-32
-```
-```
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-```
-```
-125
-100
-75
-50
-25
-```
-```
-6 13 20 27 4 11 2518 1 8 15 22 29 6 13 2027 3 10 17 24 31 7 14 21 28
-```
-```
-Sales
-100’s
-```
+Although application of the above formula does afford a fair estimate
+of the extent of move to be expected from a Triangle, it is neither as definite
+nor as reliable as the Head-and-Shoulders formula. Do not forget the impor-
+tant qualification that the Triangle has somehow lost a part of its potential
+strength if the breakout is delayed until prices are crowded into the apex.
 
-_Chapter eight: Important Reversal Patterns — The Triangles 123_
 
 ![fig-064](./img/fig-064.png)
 **FIGURE 64.** The 1937 Bull Market Top in Westinghouse was this Descending Trian-
@@ -4676,6 +4583,7 @@ gle which started in January and broke on February 15. Prices hung at the lower
 edge of the Triangle for 4 days, fell away, and then pulled back to its lower line on
 March 4 at the time when the general market Averages were making their final Bull
 highs.
+
 This chart, and a number that have preceded it, illustrate an important point for
 the market technician which may well be restated here: When a large number of
 individual issues, after an extensive advance, make well-defined Reversal Patterns
@@ -4691,49 +4599,7 @@ those with the trend of the Averages for the same periods. The Saucer-like React
 Pattern of October to January in the above chart analyzes into a Complex
 Head-and-Shoulders Consolidation, a formation which will be taken up in
 Chapter 11.
-Incidentally, “WX” continued on down to 130 in April 1937, made a Rectangle base
-there, and recovered to 158 (cf. above Descending Triangle) in August, and then fell
-to 88 in November. Compare this daily chart with the monthly chart of “WX” for
-1935 to 1938 in Chapter 15.
 
-```
-WESTINGHOUSE ELECTRIC WX 1936–1937
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-160
-152
-144
-136
-128
-```
-```
-120
-```
-```
-112
-```
-```
-104
-```
-```
-50
-40
-30
-20
-10
-```
-```
-3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30 6 13 20 27 6 13 27 20
-```
-```
-Sales
-100’s
-```
-
-_124 Technical Analysis of Stock Trends_
 
 ![fig-065](./img/fig-065.png)
 **FIGURE 65.** A series of Triangles, Symmetrical and Descending, which evolved
@@ -4746,17 +4612,12 @@ on weekly and monthly projections, so as to maintain your perspective on the Maj
 Trend.
 
 
-_Chapter eight: Important Reversal Patterns — The Triangles 125_
 
-##### Triangles on Weekly and Monthly Charts
 
-We have seen in preceding studies how Head-and-Shoulders Formations
-may appear on the long-range (weekly or monthly) charts and will have
-importance commensurate with their size. Triangles also may develop. On
-weekly charts, their implications are usually clear and dependable, but the
-coarse Triangular Patterns which can be found on graphs of monthly price
-ranges, especially the great, loose convergences that take years to complete,
-had better be dismissed as without useful significance.
+Incidentally, “WX” continued on down to 130 in April 1937, made a Rectangle base
+there, and recovered to 158 (cf. above Descending Triangle) in August, and then fell
+to 88 in November. Compare this daily chart with the monthly chart of “WX” for
+1935 to 1938 in Chapter 15.
 
 ![fig-066](./img/fig-066.png)
 **FIGURE 66.** The curious, and in its early stages confusing, Major Bottom Formation
@@ -4773,48 +4634,16 @@ June and August–September reactions, the increase on the October markup and, e
 more, the January 1943 rise and breakout in February were unmistakably of Major
 Bullish implications. It takes time, remember, to build a foundation for a Bull Market.
 
-```
-AMERICAN ROLLING MILLS RM 1941–1943
-```
-```
-S O N D J F M A M J J A S O N D J F M
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-125
-100
-75
-50
-25
-```
-```
-Sales
-100’s
-```
+##### Triangles on Weekly and Monthly Charts
 
-_126 Technical Analysis of Stock Trends_
+We have seen in preceding studies how Head-and-Shoulders Formations
+may appear on the long-range (weekly or monthly) charts and will have
+importance commensurate with their size. Triangles also may develop. On
+weekly charts, their implications are usually clear and dependable, but the
+coarse Triangular Patterns which can be found on graphs of monthly price
+ranges, especially the great, loose convergences that take years to complete,
+had better be dismissed as without useful significance.
 
-##### Other Triangular Formations
-
-There are other patterns of price consolidation or congestion that can be
-bounded by converging lines and might, therefore, be classified as Triangles.
 
 ![fig-067](./img/fig-067.png)
 **FIGURE 67.** A beautifully compact Ascending Triangle which turned out to be the
@@ -4827,58 +4656,10 @@ to 21 range (refer back to this chart when you study Support and Resistance in
 Chapter 13), but a Major Up Signal was given in September when prices erupted
 through that zone with a conspicuous increase in trading volume.
 
-```
-GOODRICH ( B. F. ) COMPANY GR
-```
-```
-1941–1943
-```
-```
-S O N D J F M A M J J A S O N D J F M
-```
-```
-36
-34
-32
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-14
-```
-```
-13
-```
-```
-250
-200
-150
-100
-50
-```
-```
-Sales
-100’s
-```
+##### Other Triangular Formations
 
-_Chapter eight: Important Reversal Patterns — The Triangles 127_
+There are other patterns of price consolidation or congestion that can be
+bounded by converging lines and might, therefore, be classified as Triangles.
 
 But they deviate from the true Triangles of this chapter so markedly in one
 or more important respect that they are best treated under other headings
@@ -4889,7 +4670,7 @@ acteristics, and forecasting implications are so radically different that we
 have chosen to rename them Broadening Formations and discuss them in a
 later chapter.
 
-![fig-067](./img/fig-067.png)
+![fig-067.1](./img/fig-067.1.png)
 **FIGURE 67.1.** A real time chart from prophet.net. The volume blow out in July
 2002 drew attention to Ebay and the sloping line was drawn at that time. Although
 the lines are sloppy and the pattern is ragged it looked at the time like a Descending
@@ -4901,44 +4682,6 @@ many people. Unlike the Internet fantasy follies. See Figure 104.4 for a longer 
 spective on Ebay. Lessons for the attentive: power of trendlines; alarm-clock nature
 of unusual volume; not believing any forecast. Forecast in this case would have been
 for a downtrend if, as seemed, the pattern was a descending triangle.
-
-```
-ebay Inc-(Nasdaq NM) 57.75 0.240 0.417%
-```
-```
-63
-57
-51
-```
-```
-45
-42
-39
-36
-33
-30
-27
-```
-```
-24
-```
-```
-125
-100
-75
-50
-25
-0
-```
-```
-1998–2003 Porphet Financial Systems, Inc. Terms of use apply.
-Volume (Millions)
-```
-```
-02 Apr Jul Oct 03 Apr Jul Oct
-```
-
-_128 Technical Analysis of Stock Trends_
 
 The reader may have become dismayed at this point by our frequent
 recourse to such qualifying adverbs as _usually_ , _ordinarily_ , and the like. It
@@ -4960,10 +4703,6 @@ bad play. Hence our constant emphasis on the nonconforming movements.
 Our words of qualification are necessary because technical analysis of market
 action is not an exact science and never will be.
 
-
-```
-129
-```
 ## Chapter 9. Important Reversal Patterns — Continued, The Rectangles, Double and Triple Tops
 
 The Triangular Price Formations which we examined in the preceding chapter
@@ -4998,10 +4737,6 @@ Rectangle might, with even greater propriety, be called a picture of conflict.
 Of course, any fairly compact price formation represents conflict in the
 supply–demand sense. A Head-and-Shoulders Top, for example, portrays a
 conflict between “strong” sellers and “weak” buyers, with the outcome
-
-
-_130 Technical Analysis of Stock Trends_
-
 already clearly to be seen before the combat has ended. But a Rectangle
 defines a contest between two groups of approximately equal strength —
 between owners of the stock who wish to dispose of their shares at a certain
@@ -5011,6 +4746,16 @@ ultimately, and usually quite suddenly, one team is exhausted (or changes
 its mind) and the other then proceeds to knock the ball out of the lot. Nobody
 (often, not even the contestants themselves) can tell who is going to win
 until one line or the other is decisively broken.
+
+
+![fig-068](./img/fig-068.png)
+**FIGURE 68.** Although its Bottom boundary had a slight tendency to “lift,” the
+formation which put a Top on Nash–Kelvinator in 1946 was an unmistakable 4-month
+distribution Rectangle. Long and rather loose Rectangular Patterns of the type shown
+here may not evince constantly and noticeably diminishing volume, but note, nev-
+ertheless, the general, though irregular, downtrend in volume from mid-October to
+mid-February.
+
 We speak of two groups operating in the development of a rectangular
 trading area because, under present-day conditions, that is what is usually
 the fact behind the scenes. This, it should be noted, does not imply “manip-
@@ -5024,50 +4769,6 @@ are the forces at work in the market at the start of most Rectangular Chart
 Patterns, but if the “spread” between top and bottom lines is wide enough
 (say 8–10% of the market value of the stock), the situation may quickly attract
 a following from quick-turn scalpers and the professional element. Thus, a
-
-![fig-068](./img/fig-068.png)
-**FIGURE 68.** Although its Bottom boundary had a slight tendency to “lift,” the
-formation which put a Top on Nash–Kelvinator in 1946 was an unmistakable 4-month
-distribution Rectangle. Long and rather loose Rectangular Patterns of the type shown
-here may not evince constantly and noticeably diminishing volume, but note, nev-
-ertheless, the general, though irregular, downtrend in volume from mid-October to
-mid-February.
-
-```
-NASH – KELVINATOR NK 1945–1946
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-```
-```
-250
-200
-150
-100
-50
-```
-```
-6 13 20 27 3 10 17 24 1 8 15 22 29 5 1219 26 2 9 16 23 2 9 16 23 30
-```
-```
-Sales
-100’s
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 131_
-
 syndicate holding a large block of U.S. Steel may decide to liquidate at 76,
 while another group decides to invest heavily in “Steel” at 69. The price of
 X will naturally fluctuate for a time between those two levels. Traders, seeing
@@ -5077,6 +4778,14 @@ tuate or extend the Rectangle, although the number of shares involved in
 such “parasitic” trading is seldom great enough to affect the final outcome.
 As a matter of fact, this type of trading _inside_ a Rectangle can be quite
 profitable at times, especially if protected by judicious stops (see Part Two).
+
+![fig-069](./img/fig-069.png)
+**FIGURE 69.** Consolidation Rectangles in uptrends have been less common in recent
+years than during the 1920s and early 1930s. The large price gap (G) in this example
+is of the “last in pattern” type which we shall come to in Chapter 12. When a gap
+within a pattern area is followed by breakout from that pattern, as in this case, the
+gap is seldom quickly closed.
+
 
 ##### Pool Operations
 
@@ -5092,46 +4801,6 @@ hundred shares in order to quench any current demand and start a reaction.
 Then, on that reaction to the previously determined accumulation level, they
 would start to buy, scattering their orders carefully and avoiding any publicity.
 
-![fig-069](./img/fig-069.png)
-**FIGURE 69.** Consolidation Rectangles in uptrends have been less common in recent
-years than during the 1920s and early 1930s. The large price gap (G) in this example
-is of the “last in pattern” type which we shall come to in Chapter 12. When a gap
-within a pattern area is followed by breakout from that pattern, as in this case, the
-gap is seldom quickly closed.
-
-```
-LIMA LOCOMOTIVE WORKS LMW 1944–1945
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-50
-40
-30
-20
-10
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-7 14 21 28 4 11 18 25 2 9 16 23 30 6 13 2027 3 10 17 24 3 10 17 24 31
-```
-```
-Sales
-100’s
-```
-```
-G
-```
-
-_132 Technical Analysis of Stock Trends_
 
 Their buying would, sooner or later, engender a rally, but then they would
 “plant” rumors around the boardrooms to the effect that such-and-such
@@ -5154,19 +4823,18 @@ Perhaps we can clear up various details of the Rectangle formation most
 quickly and easily by comparison with that most nearly related chart pattern,
 the Symmetrical Triangle, as follows:
 
-```
-Volume — Follows the same rules as in the Triangles, gradually dimin-
+1. **Volume** — Follows the same rules as in the Triangles, gradually dimin-
 ishing as the Rectangle lengthens. Any contrary development, unless
 it be a momentary news flurry, is suspect.
-Breakouts — Here also the same rules apply as with Triangles. Review
+
+2. **Breakouts** — Here also the same rules apply as with Triangles. Review
 volume requirements, margin of penetration, etc., thereunder.
 False Moves — Much less frequent from Rectangles than from Symmet-
 rical Triangles. A clearly defined Rectangle is, in fact, almost as reli-
 able as a Head-and-Shoulders, although not as powerful in its
 implications.
-Premature Breakouts — Slightly more frequent, perhaps, from Rectan-
+3. **Premature Breakouts** — Slightly more frequent, perhaps, from Rectan-
 gles than from Triangles.
-```
 ( **Note** : both _false moves_ and _premature breakouts_ , in the sense in which we
 employ these terms, are indistinguishable at the time they occur from gen-
 uine breakouts. Following both false and premature breaks, prices return
@@ -5175,30 +4843,7 @@ proceeds out of pattern in the _opposite_ direction, while in the case of the
 _premature_ move, the trend finally breaks out again and proceeds in the _same_
 direction.)
 
-```
-Pullbacks — Return of prices to the boundary of the pattern, subsequent
-to its initial penetration (breakout), takes place more frequently with
-Rectangles than with Symmetrical Triangles. Our estimate would be
-that a Pullback or Throwback (the first is the common term for a rally
-after a downside breakout, and the second for a reaction following
-```
 
-_Chapter nine: Important Reversal Patterns — Continued 133_
-
-```
-an upside breakout) occurs within 3 days to 3 weeks in about 40%
-of all cases.
-Directional Tendency — The Rectangle is more often a Consolidation
-Formation than a Reversal Formation, the ratio being about the same
-as with Symmetrical Triangles. As Reversal Patterns, Rectangles ap-
-pear more frequently at Bottoms (either Major or Intermediate) than
-at Tops. Long, thin, dull Rectangles are not uncommon at Primary
-Bottoms, sometimes grading into the type of Flat-Bottomed Saucer
-or Dormancy described in Chapter 7.
-Measuring Implications — A safe minimum measuring formula for the
-Rectangle is given by its width. Prices should go at least as far in
-points beyond the pattern as the difference in points between the top
-```
 ![fig-070](./img/fig-070.png)
 **FIGURE 70.** A perfect example of Consolidation Rectangle which formed in Loew’s
 near the end of the 1932–37 Bull Market. In this case, a large block of “inside” stock
@@ -5206,65 +4851,43 @@ was distributed at 64 to 65 but taken over around 62 by other investors who had 
 satisfaction of seeing it go on up to 87 the following August. Note Throwback
 following breakout in January.
 
-```
-1936–1937
-```
-```
-LOEW’S, INC. LW
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-96
-```
-```
-80
-76
-72
-68
-64
-```
-```
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-125
-100
-75
-50
-25
-```
-```
-3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30 6 13 20 27 6 13 20 27
-```
-```
-Sales
-100’s
-```
 
-_134 Technical Analysis of Stock Trends_
-
-```
+4. **Pullbacks** — Return of prices to the boundary of the pattern, subsequent
+to its initial penetration (breakout), takes place more frequently with
+Rectangles than with Symmetrical Triangles. Our estimate would be
+that a Pullback or Throwback (the first is the common term for a rally
+after a downside breakout, and the second for a reaction following
+an upside breakout) occurs within 3 days to 3 weeks in about 40%
+of all cases.
+5. **Directional Tendency** — The Rectangle is more often a Consolidation
+Formation than a Reversal Formation, the ratio being about the same
+as with Symmetrical Triangles. As Reversal Patterns, Rectangles ap-
+pear more frequently at Bottoms (either Major or Intermediate) than
+at Tops. Long, thin, dull Rectangles are not uncommon at Primary
+Bottoms, sometimes grading into the type of Flat-Bottomed Saucer
+or Dormancy described in Chapter 7.
+6. **Measuring Implications** — A safe minimum measuring formula for the
+Rectangle is given by its width. Prices should go at least as far in
+points beyond the pattern as the difference in points between the top
 and bottom lines of the pattern itself. They may, of course, go much
 farther. Generally speaking, the brief, wide-swinging forms, which
 appear nearly square in shape on the chart and in which turnover is
 active, are more dynamic than the longer and narrower manifesta-
 tions. Moves out of the latter almost always hesitate or react at the
 “minimum” point before carrying on.
-```
+
+![fig-071](./img/fig-071.png)
+**FIGURE 71.** Here is a Rectangle in Socony–Vacuum, a low-priced stock character-
+ized by fluctuations within a narrow range. After reaching a high of 18¾ in December
+1945, it fell back to 15¼ and then rallied in mid-1946 as shown above. In late August,
+prices broke down through an Intermediate Trendline (see Chapter 14) and 4 days
+later fell out of the Rectangle. This formation, in conjunction with the earlier and
+higher Top, implied lower levels for “SOV” for some time to come. See also comment
+under Figure 72.
+
+
+
+
 ##### Relation of Rectangle to Dow Line
 
 The resemblance of this individual stock chart formation, which we have
@@ -5277,51 +4900,6 @@ in the Averages are seldom rigorously defined, with successive Minor
 Heights forming quite precisely at a certain horizontal tangent, and succes-
 sive Bottoms at a similarly precise horizontal level. If you will examine the
 separate charts of the issues composing an Average at a time when the
-
-![fig-071](./img/fig-071.png)
-**FIGURE 71.** Here is a Rectangle in Socony–Vacuum, a low-priced stock character-
-ized by fluctuations within a narrow range. After reaching a high of 18¾ in December
-1945, it fell back to 15¼ and then rallied in mid-1946 as shown above. In late August,
-prices broke down through an Intermediate Trendline (see Chapter 14) and 4 days
-later fell out of the Rectangle. This formation, in conjunction with the earlier and
-higher Top, implied lower levels for “SOV” for some time to come. See also comment
-under Figure 72.
-
-```
-SOCONY–VACUUM OIL SOV^1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-19
-18
-17
-16
-```
-```
-15
-14
-```
-```
-13
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 2027 3 10 17 24 31 7 14 21 28
-```
-```
-X D 5.25
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 135_
-
 Average is “making a Line,” you are pretty sure to find that some of them
 are showing an irregular uptrend, others an irregular downtrend, still others
 may be forming Triangles, and a few may be constructing Rectangles, or
@@ -5335,13 +4913,6 @@ the Dow Industrials reach 500 ( _EN: or 5000 or 15000_ ).” But trading commit-
 ments based solely on general Average levels are so seldom followed con-
 sistently that they have little effect.
 
-##### Rectangles from Right-Angle Triangles
-
-In the preceding chapter, we referred to a type of partial “failure” in the
-development of a Right-Angle Triangle which necessitates reclassifying the
-Triangle as a Rectangle. Now that we have examined the latter pattern in
-detail, we need say little more about this phenomenon, except to note that
-
 ![fig-072](./img/fig-072.png)
 **FIGURE 72.** Another long, loose Rectangle of Major Reversal implications, some-
 what similar to that pictured in Figure 68. Both an Intermediate and Major Up
@@ -5353,42 +4924,23 @@ stock charts with the Averages. Here is another hint: The better-grade steels an
 after the Averages have turned down at Major Tops. The Street sometimes speaks of
 “distribution under cover of strength in the steels.”
 
-```
-YOUNGSTOWN SHEET & TUBE YB
-```
-```
-1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-80
-76
-72
-68
-64
-```
-```
-60
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 2027 3 10 17 24 31 7 14 21 28
-```
 
-_136 Technical Analysis of Stock Trends_
+##### Rectangles from Right-Angle Triangles
 
+In the preceding chapter, we referred to a type of partial “failure” in the
+development of a Right-Angle Triangle which necessitates reclassifying the
+Triangle as a Rectangle. Now that we have examined the latter pattern in
+detail, we need say little more about this phenomenon, except to note that
 the odds appear to be still somewhat in favor of ultimate breakout in the
 direction originally implied by the incipient Triangle. The fact that there is
 this slight presumption, however, certainly does not warrant disregard of
 an opposite breakout from the rectangular reconstruction.
+
+![fig-073](./img/fig-073.png)
+**FIGURE 73.** The Rectangle in early 1945 in “EAL” was actually the final stage of
+a nearly 2-year Consolidation in the rise which started around 17 in 1942 and ended
+above 125 in December 1945. G, G mark gaps (Chapter 12), the first a Breakaway and
+the second a Measuring Gap which marked the probable objective of the move as
 
 ##### Double and Triple Tops and Bottoms
 
@@ -5404,182 +4956,18 @@ our other Reversal Formations) can seldom be positively detected until prices
 have gone quite a long way away from them. They can never be foretold,
 or identified as soon as they occur, from chart data alone.
 
-![fig-073](./img/fig-073.png)
-**FIGURE 73.** The Rectangle in early 1945 in “EAL” was actually the final stage of
-a nearly 2-year Consolidation in the rise which started around 17 in 1942 and ended
-above 125 in December 1945. G, G mark gaps (Chapter 12), the first a Breakaway and
-the second a Measuring Gap which marked the probable objective of the move as
-
-55. When prices reached that level, another Consolidation developed, a Symmetrical
-Triangle. Neither of these gaps was “closed” during the following 2 years.
-
-```
-EASTERN AIRLINES EAL
-```
-```
-1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-64
-```
-```
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-```
-```
-50
-40
-30
-20
-10
-```
-```
-G
-```
-```
-G
-```
-6 13 20 27 3 10 17 24 3 10 17 24 31 7 14 21 28 (^5) 12 19 26 2 9 16 23 30
-Sales
-100’s
+![fig-074](./img/fig-074.png)
+**FIGURE 74**. An extraordinary, fine, long Rectangle which developed after “ZA” had broken 
+down out of a Headand-Shoulders Top in February 1946. A perfect opportunity to sell this 
+stock short was given by its Pullback of July 17–18 after prices had broken out of the Rectangle
+on the 15th. The Multiple Head-and-Shoulders Bottom which it subsequently made from September 
+to November produced a recovery to 11, but prices later fell to 6 in early 1947.
 
 
-_Chapter nine: Important Reversal Patterns — Continued 137_
-
-```
-FIGURE 74.
-```
-```
-An extraordinary,
-```
-```
-fi
-```
-```
-ne, long Rectangle which developed after “ZA” had broken down out of a Head-
-```
-```
-and-Shoulders Top in February 1946. A perfect opportunity to sell this stock short was given by its Pullback of July17–18 after prices had broken out of the Rectangle on the 15th. The Multiple Head-and-Shoulders Bottom which itsubsequently made from September to November produced a recovery to 11, but prices later fell to 6 in early 1947.
-```
-```
-AMERICAN ZINC, LEAD & SMELTING
-```
-```
-ZA
-```
-```
-1945–1946
-```
-```
-DECEMBER JANUARY FEBRUARY
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-SEPTEMBER
-```
-```
-OCTOBER
-```
-```
-NOVEMBE
-```
-```
-R
-```
-```
-17161514 13 12 11 10 9 8 7 6 25020015010050
-```
-```
-S
-```
-```
-S S
-```
-```
-S
-```
-```
-H
-```
-```
-H
-NL
-```
-```
-8 15 22 29 5 12 19 26 2
-```
-```
-2 9
-```
-```
-16 239 16 23
-```
-```
-30 6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 17 24 31 7
-```
-```
-S 14 21 28 5 12 19 26 2 9 16
-```
-```
-S
-```
-```
-S
-```
-```
-S
-```
-```
-H
-```
-```
-H
-```
-```
-H
-```
-```
-H
-```
-```
-Sales100’s
-```
-
-_138 Technical Analysis of Stock Trends_
+![fig-075](./img/fig-075.png)
+**FIGURE 75.** In this weekly chart showing Sears Roebuck’s 1942 Bear Market Bot-
+tom, a Consolidation Rectangle (June to November) forms the right shoulder of a
+large “unbalanced” Double Head-and-Shoulders Pattern.
 
 But we are getting ahead of our story. We should first define what we
 are talking about. A _Double Top_ is formed when a stock advances to a certain
@@ -5600,50 +4988,17 @@ amateur chartist regards them. He neglects, for the moment, to consider the
 fact that a thousand other issues might have done the same thing, but
 didn’t — that some of these even acted, for a time, as though they were
 going to Double Top, but then went on through and higher.
+
+
+![fig-076](./img/fig-076.png)
+**FIGURE 76.** After advancing to 16 in January 1945, “BLL” dropped back to 13 and
+then constructed a 15-week Rectangle. Note that the down gap (G) on April 30 was
+caused by a $1.00 dividend going off. The revised bottom line of the pattern, drawn
+$1.00 lower, was not violated.
+
+
 Is there any practical utility for the trader or investor in the Double Top
 concept? Yes, there is, but it will be easier for us to formulate it if we first
-
-![fig-075](./img/fig-075.png)
-**FIGURE 75.** In this weekly chart showing Sears Roebuck’s 1942 Bear Market Bot-
-tom, a Consolidation Rectangle (June to November) forms the right shoulder of a
-large “unbalanced” Double Head-and-Shoulders Pattern.
-
-```
-SEARS ROEBUCK S 1941–1943
-```
-```
-76
-72
-68
-64
-```
-```
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-50
-40
-30
-20
-10
-S O N D J F M A M J J A S O N D J F M
-```
-```
-Sales
-100’s
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 139_
-
 consider what is _not_ a Double Top. Refer back for a moment to the Ascending
 Triangles and the Rectangles previously studied. When these start to evolve,
 almost their first step is the construction of two Tops at an identical level
@@ -5656,59 +5011,24 @@ Reversal when they appear as a part of a Consolidation Area in an uptrend.
 
 ##### Distinguishing Characteristics
 
+
+![fig-077](./img/fig-077.png)
+**FIGURE 77.** A brief and very “high” Rectangle formed in September 1937 in the
+rapid Bear Market Decline of “KN,” followed by a Descending and then a Symmet-
+rical Triangle Consolidation.
+
 No absolute and unqualified rule can be laid down to fit all cases involving
 stocks of different values and market habits, but one relative distinction
 quickly suggests itself when we study these different kinds of chart forma-
 tions. It is: if two Tops appear at the same level but quite close together in
 time and with only a Minor Reaction between them, the chances are that
 they are part of a Consolidation Area; or, if a Reversal of Trend is to ensue,
-
-![fig-076](./img/fig-076.png)
-**FIGURE 76.** After advancing to 16 in January 1945, “BLL” dropped back to 13 and
-then constructed a 15-week Rectangle. Note that the down gap (G) on April 30 was
-caused by a $1.00 dividend going off. The revised bottom line of the pattern, drawn
-$1.00 lower, was not violated.
-
-```
-BELL AIRCRAFT BLL 1945
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-Sales
-100’s
-125
-100
-75
-50
-25
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-6 13 20 27 3 10 17 24 3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30
-```
-```
-G
-```
-
-_140 Technical Analysis of Stock Trends_
-
 that there will first be more pattern development — more “work” done —
 around those top ranges. If, on the other hand, there is a long, dull, deep,
 and more or less rounding reaction after the initial peak has appeared, and
 then an evident lack of vitality when prices come up again to the previous
 high, we can at least be suspicious of a Double Top.
+
 How deep is deep, and how long is long? Fair questions, to which,
 unfortunately, it is impossible to give simple, definite answers. But we can
 attempt approximations. Thus, if the two Tops are _more than_ a month apart,
@@ -5717,63 +5037,10 @@ mation. If, in addition, the reaction between the first and second high reduces
 prices by 20% of their top value, the odds swing toward a Double Top inter-
 pretation. But both of these criteria are arbitrary, and not without exception.
 
-![fig-077](./img/fig-077.png)
-**FIGURE 77.** A brief and very “high” Rectangle formed in September 1937 in the
-rapid Bear Market Decline of “KN,” followed by a Descending and then a Symmet-
-rical Triangle Consolidation.
-
-```
-KENNECOTT COPPER KN
-```
-```
-1937
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-64
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-```
-```
-250
-200
-150
-100
-50
-```
-```
-3 10 17 24^31 7 14 21 28 4 11 18 25 2 9 16 23 30 6 1320 27 4 11 18 25
-```
-```
-Sales
-100’s
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 141_
+![fig-078](./img/fig-078.png)
+**FIGURE 78.** This formation, constructed by United Aircraft in 1942, was not com-
+pleted and could not be called a Double Bottom until prices rose above 31 in February
+1943. (See following pages.)
 
 There are cases in which the two peaks have occurred only 2 or 3 weeks
 apart, and others in which the “valley” between them descended only about
@@ -5781,6 +5048,7 @@ apart, and others in which the “valley” between them descended only about
 Generally speaking, the time element is more critical than the depth of the
 reaction. The greater the time between the two highs, the less the need of
 any extensive decline of prices in the interim.
+
 Given the conditions we have specified, viz., two Tops at approximately
 the same level but more than a month apart on the chart, with somewhat
 less activity on the second advance than on the first, and a rather dull or
@@ -5790,58 +5058,12 @@ Head-and-Shoulders or Descending Triangle start to develop at the second
 Top, as is frequently the case, we can be on guard, to the extent of protecting
 long commitments at once with a close stop or switching to something else
 with a more promising chart picture.
+
 Yet, even all these signs together are not final and conclusive. The situ-
 ation can still be saved, and often is. Let us take a look at what is, presumably,
 going on behind the scenes to create our chart picture up to this point. The
 first Top on relatively high volume was a normal incident and tells us little
 except that here, for the moment, demand met with sufficient supply to stop
-
-![fig-078](./img/fig-078.png)
-**FIGURE 78.** This formation, constructed by United Aircraft in 1942, was not com-
-pleted and could not be called a Double Bottom until prices rose above 31 in February
-
-1943. (See following pages.)
-
-```
-UNITED AIRCRAFT UR
-```
-```
-1941–1943
-```
-```
-40
-38
-36
-34
-32
-```
-```
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-50
-40
-30
-20
-10
-S O N D J F M A M J J A S O N D J F M
-```
-```
-Sales
-100’s
-```
-
-_142 Technical Analysis of Stock Trends_
-
 the advance and produce a reaction. That supply may have represented only
 traders’ profit-taking, in which event the trend is likely to push on up after
 a brief setback. But, when the reaction drifts off lower and lower until it has
@@ -5851,6 +5073,16 @@ the demand was pretty well played out on the last advance or that the selling
 there represented something more than short-term profit cashing. The ques-
 tion then is: did the first high give evidence of important distribution, and
 is there much more to meet at the same price range?
+
+
+![fig-079](./img/fig-079.png)
+**FIGURE 79.** INCO quickly recovered from the Reagan Crash of 1987 and by year’s
+end, it was nearly back to its 1987 high; the latter was decisively broken in April
+1988. The powerful rally continued to carry “N” higher. But the August reaction,
+followed by a poor rally in September, created a large Head-and-Shoulders Top. The
+early September decline broke the neckline to confirm the Reversal and the subse-
+quent Throwback, to Neckline Resistance, was an excellent selling point.
+
 Nevertheless, as our chart picture shows, demand did finally come in
 and absorb enough of the floating supply to turn the trend around. When
 prices pushed up and began to run into selling again near the level of the
@@ -5860,153 +5092,16 @@ the intention of jumping right back in at a still higher price if the old high
 should be exceeded). Hence, a Minor Hesitation there was quite in order.
 But selling in sufficient quantity to produce another extensive reaction would
 be quite another matter. We have, by now, established a zone of Supply or
-
-![fig-079](./img/fig-079.png)
-**FIGURE 79.** INCO quickly recovered from the Reagan Crash of 1987 and by year’s
-end, it was nearly back to its 1987 high; the latter was decisively broken in April
-
-1988. The powerful rally continued to carry “N” higher. But the August reaction,
-followed by a poor rally in September, created a large Head-and-Shoulders Top. The
-early September decline broke the neckline to confirm the Reversal and the subse-
-quent Throwback, to Neckline Resistance, was an excellent selling point.
-
-```
-INCO CO LTD N 1988
-```
-```
-S
-```
-```
-S
-```
-```
-H
-```
-```
-NL
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER OCTOBER
-```
-```
-38
-36
-34
-32
-30
-28
-26
-```
-```
-4000
-3200
-```
-(^24001600)
-800
-6 2 9 16 23 30 7 14 21 28 4 11 18 25 2 9 16 2330 6 13 20 27 3 10 17 24 1 8 15 22
-XD.20 XD.20
-Sales
-100’s
-
-
-_Chapter nine: Important Reversal Patterns — Continued 143_
-
-```
-FIGURE 80.
-```
-```
-Because of the long-time-between-Tops requirement for true Double Top Reversals, these formations can seldom
-```
-```
-be seen to advantage on a daily chart, but here is a good 1946 example in Republic Steel. Note 5 months and 20% declinebetween Tops. This chart contains many interesting lesser technical formations also. The “Broadening” Swings (see Chapter 10)in June and July, as the second Top was made, and the rounding rally in August were extremely Bearish in their implications.
-```
-```
-REPUBLIC
-```
-```
-STEEL
-```
-```
-RS
-```
-```
-1945–1946
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-DECEMBER
-```
-```
-JANUARY
-```
-```
-FEBRUARY
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-52 48 44 4038363432 30 28 26 24 22 25020015010050
-```
-```
-1
-```
-```
-8 15 22 29 5 12 19 26 2
-```
-```
-9 16 23 2
-```
-```
-9 16 23 30 6 13 20 27
-```
-```
-11 18 25 1
-```
-```
-8
-```
-```
-15 22 29 6 13 20 27 3 10 17 24 31 7 14
-```
-```
-4
-```
-```
-Sales100’s
-```
-
-_144 Technical Analysis of Stock Trends_
-
 Resistance at the peak levels and a zone of Support or Demand at the Bottom
 of the valley between. The final and decisive question now is: will the
 “valley” Support reappear and stop the second decline?
+
+
+**FIGURE 80**. Because of the long-time-between-Tops requirement for true Double Top Reversals, these formations can seldom
+be seen to advantage on a daily chart, but here is a good 1946 example in Republic Steel. Note 5 months and 20% decline
+between Tops. This chart contains many interesting lesser technical formations also. The “Broadening” Swings (see Chapter 10)
+in June and July, as the second Top was made, and the rounding rally in August were extremely Bearish in their implications.
+
 The conclusive definition of a Double Top is given by a negative answer
 to that last question. If prices, on their recession from the second peak, drop
 through the Bottom level of the valley, a Reversal of Trend from up to down
@@ -6050,8 +5145,13 @@ as frequently as do Double Tops at Primary Trend Reversals, and Double
 Bottoms also occur sometimes at the end of Intermediate Corrections in a
 Major Uptrend.
 
-
-_Chapter nine: Important Reversal Patterns — Continued 145_
+![fig-081](./img/fig-081.png)
+**FIGURE 81.** Shares of “AMR,” then selling for around 90, were split 5-for-1 in April
+1946, resulting in a quick rally to a new high. But the overall aspect of a Double Top
+with the high made the previous December was nevertheless apparent, and was
+confirmed when prices broke down through the “valley” level on August 28. Popular
+buying brought in by “splits” is usually short-lived and only temporarily distorts
+the broad picture.
 
 If you are familiar with some of the jargon of the Street, it has probably
 occurred to you that the second low of a Double Bottom is an example of
@@ -6066,59 +5166,10 @@ necessary, or even a third, and that one of these will fail, with prices then
 breaking on down into further decline. This thought leads us to our next
 type of Reversal Formation.
 
-![fig-081](./img/fig-081.png)
-**FIGURE 81.** Shares of “AMR,” then selling for around 90, were split 5-for-1 in April
-1946, resulting in a quick rally to a new high. But the overall aspect of a Double Top
-with the high made the previous December was nevertheless apparent, and was
-confirmed when prices broke down through the “valley” level on August 28. Popular
-buying brought in by “splits” is usually short-lived and only temporarily distorts
-the broad picture.
-
-```
-AMERICAN AIRLINES AMR
-```
-```
-1945–1947
-```
-```
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-50
-40
-30
-20
-10
-N D J F M A M J J A S O N D J F M A M
-```
-```
-Sales
-100’s
-```
-
-_146 Technical Analysis of Stock Trends_
+![fig-082](./img/fig-082.png)
+**FIGURE 82.** The Major Reversal Formation in “CNR” at the start of a Primary
+Advance which reached 54. Note how an attempt at an Ascending Triangle turned
+into a Double Bottom.
 
 ##### Triple Tops and Bottoms
 
@@ -6131,64 +5182,21 @@ points, but most of these fall more readily into the category of Rectangles.
 For that matter, any Head-and-Shoulders Formation, particularly if it be
 rather “flat,” with the head not extending much above the level of the two
 shoulders, might be called a sort of Triple Top.
+
+
+
+![fig-083](./img/fig-083.png)
+**FIGURE 83.** Although Trinity Industries did not have the well-formed pattern
+exhibited by our other recommendations, we found the high-volume plunge, with
+the low of the day the third test of the year’s low, a very beguiling technical situation.
+Basically, it was a Triple Bottom with a One-Day Reversal to get the uptrend started.
+
 The true Triple Top (as distinct, that is, from other types of three-peak
 formations) carries a recognizable family resemblance to the Double Top. Its
 Tops are widely spaced and with quite deep and usually rounding reactions
 between them. Volume is characteristically less on the second advance than
 on the first, and still less on the third, which often peters out with no
 appreciable pickup in activity. The three highs need not be spaced quite so
-
-![fig-082](./img/fig-082.png)
-**FIGURE 82.** The Major Reversal Formation in “CNR” at the start of a Primary
-Advance which reached 54. Note how an attempt at an Ascending Triangle turned
-into a Double Bottom.
-
-```
-CONTAINER CORPORATION CNR
-```
-```
-1941–1943
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-```
-```
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-25
-20
-15
-10
-5
-S O N D J F M A M J J A S O N D J F M
-```
-```
-Sales
-100’s
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 147_
-
 far apart as the two which constitute a Double Top, and they need not be
 equally spaced. Thus, the second Top may occur only about 3 weeks after
 the first, and the third 6 weeks or more after the second. Also, the intervening
@@ -6206,64 +5214,20 @@ persists at the valley price range, the trend can be turned up again. Only in
 those cases where activity is conspicuously lacking on the third peak and
 then begins to show Bearish characteristics by accelerating on the ensuing
 decline is one justified in “jumping the gun.”
+
+
+
+![fig-084](./img/fig-084.png)
+**FIGURE 84.** Publicker made its Bull Market high only a few weeks after it was
+listed on the “big board.” Then it started to build a Descending Triangle, but pulled
+up out of it. Final outcome was a Triple Top, completed in August. (See Figures 60
+and 82.)
+
+
 Triple Bottoms are simply Triple Tops turned upside down, with the
 same qualifications we noted when we were discussing Double Bottoms. The
 third low should always be attended by small volume, and the rise therefrom
 must show a decided increase in turnover and carry prices decisively above
-
-![fig-083](./img/fig-083.png)
-**FIGURE 83.** Although Trinity Industries did not have the well-formed pattern
-exhibited by our other recommendations, we found the high-volume plunge, with
-the low of the day the third test of the year’s low, a very beguiling technical situation.
-Basically, it was a Triple Bottom with a One-Day Reversal to get the uptrend started.
-
-```
-TRINITY INDUSTRIES INC. TRN 1985
-```
-```
-1 2 3 ONE DAY
-REVERSAL
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER OCTOBER
-```
-```
-20
-19
-18
-17
-16
-15
-14
-13
-```
-```
-12
-```
-```
-11
-```
-```
-500
-400
-300
-200
-100
-23 30 6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 20 273 10 17 24 31 7 14 21 28 5 12 19
-```
-```
-57 60
-```
-```
-X D.125 X D.125
-```
-```
-Sales
-100’s
-```
-
-_148 Technical Analysis of Stock Trends_
-
 the Tops of the rallies that formed between the Bottoms. One is never justified
 in “jumping the gun” on a presumed Triple Bottom Formation unless nearly
 every other chart in the book is in an unmistakably Bullish position. The risk
@@ -6280,73 +5244,13 @@ hybrid between the Double and Triple Top, in which the middle one of the
 three Tops does not attain the height of the first and third, and thus, even
 more strikingly resembles a “W.” For the same reason, Double Tops are
 sometimes called “M” Formations.
+
 Because the elements in Double and Triple patterns are normally spaced
 well apart in time, they are often easier to detect and appreciate on a weekly
-
-![fig-084](./img/fig-084.png)
-**FIGURE 84.** Publicker made its Bull Market high only a few weeks after it was
-listed on the “big board.” Then it started to build a Descending Triangle, but pulled
-up out of it. Final outcome was a Triple Top, completed in August. (See Figures 60
-and 82.)
-
-```
-PUBLICKER INDUSTRIES PUL
-```
-```
-1946
-```
-```
-UP FROM 24
-IN MARCH
-OVER THE COUNTER
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-64
-```
-```
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-```
-```
-50
-40
-30
-20
-10
-```
-```
-6132027 4 111825 1 8 152229 6 132027 3 10172431 7 142128
-```
-```
-Sales
-100’s
-```
-
-_Chapter nine: Important Reversal Patterns — Continued 149_
-
 chart than on a daily. Monthly graphs disclose numbers of widely spread
 Double and Triple Bottoms but, on the other hand, are too coarse to reveal
 many good Double and Triple Top Patterns.
-In our foregoing discussion of the Triple Top, we referred to a sort of
-intuition which comes with experience and enables a technical analyst to
+
 
 ![fig-085](./img/fig-085.png)
 **FIGURE 85.** In the ordinary course of events, at the time this Bottom Pattern
@@ -6363,45 +5267,9 @@ completion, in October 1942, did not necessarily forecast that “NG” would cl
 Bottom Formations at higher price levels at the same time certainly warranted the
 conclusion that “NG” was on its way up, and that it was a bargain at 5.
 
-```
-NATIONAL GYPSUM NG
-```
-```
-1941–1943
-```
-```
-8
-```
-```
-7
-```
-```
-6
-```
-```
-5
-```
-```
-4
-```
-```
-125
-100
-75
-50
-25
-S O N D J F M A M J J A S O N D J F M
-```
-```
-421
-```
-(^312)
-Sales
-100’s
 
-
-_150 Technical Analysis of Stock Trends_
-
+In our foregoing discussion of the Triple Top, we referred to a sort of
+intuition which comes with experience and enables a technical analyst to
 recognize the potentialities for Reversal of a certain chart development,
 sometimes long before it has reached a conclusive stage. This is a not uncom-
 mon talent, but it is one that is seldom attained except through searching
@@ -6420,10 +5288,7 @@ Say, rather, that it demands skill, but a skill that can be acquired by anyone
 of ordinary intelligence.
 
 
-```
-151
-```
-## chapter ten
+## Chapter 10.
 
 # Other Reversal Phenomena
 
@@ -6462,9 +5327,6 @@ we have chosen to classify them instead as _Broadening Patterns_ because,
 except for that inverted resemblance in superficial appearance, they are quite
 different in nature and trend implications.
 
-
-_152 Technical Analysis of Stock Trends_
-
 If the Symmetrical Triangle presents a picture of “doubt” awaiting clar-
 ification, and the Rectangle a picture of controlled “conflict,” the Broadening
 Formation may be said to suggest a market lacking intelligent sponsorship
@@ -6484,8 +5346,6 @@ theless, approaching a dangerous stage. New commitments (purchases)
 should not be made in a stock which produces a chart of this type, and any
 previous commitments should be switched at once, or cashed in at the first
 good opportunity.
-The Broadening Formation may evolve in any one of three forms, com-
-parable, respectively, to inverted Symmetrical, Ascending, or Descending
 
 ![fig-086](./img/fig-086.png)
 **FIGURE 86.** The Symmetrical type of Broadening Formation, which develops most
@@ -6495,37 +5355,8 @@ started to form in December 1945 after a 10% reaction; if it had formed on Top o
 rally, it would have been suspected as a possible Broadening Top. Nevertheless, it
 carried the usual Bearish implications. “CR” topped out at 49½ in June.
 
-```
-CRANE COMPANY CR 1945–1946
-```
-```
-NOVEMBER DECEMBER JANUARY FEBRUARY MARCH APRIL
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-101724 1 8 1522295121926 2 9 16232 91623306 132027 4
-```
-
-_Chapter ten: Other Reversal Phenomena 153_
-
+The Broadening Formation may evolve in any one of three forms, com-
+parable, respectively, to inverted Symmetrical, Ascending, or Descending
 Triangles. The “Symmetrical” type, for example, consists of a series of price
 fluctuations across a horizontal axis, with each Minor Top higher and each
 Minor Bottom lower than its predecessor. The pattern may thus be roughly
@@ -6648,6 +5479,10 @@ levels and, between them, two Bottoms with the second Bottom lower than
 the first. The assumption has been that it is completed and in effect as an
 important Reversal indication just as soon as the reaction from its third peak
 carries below the level of its second Bottom.
+
+
+
+
 Perhaps we can best see what this formation is like if we examine one
 of the classic patterns which developed in 1929. Our chart (Figure 87) shows
 the daily market action (price and volume) of Air Reduction from July 1 to
@@ -6662,15 +5497,7 @@ case, there can be no doubt as to the importance of the Reversal indication,
 since, as our chart shows, the price of Air Reduction dropped from above
 220 on October 18 to below 80 on November 14, just 4 weeks later, and the
 final Bottom was not seen until nearly 3 years later in 1932!
-There are some fine points of this classic example which should be noted.
-First, a new high, i.e., a third and higher Top, was made at 5 _a_ and the
-subsequent reaction was halted at 195, well above 4, and succeeded by
-renewed advance. This looked like one of the advance notices (“failures”)
-to which we have referred on a preceding page, portending an upside break-
-out. But the example before us will serve to emphasize the warning which
 
-
-_156 Technical Analysis of Stock Trends_
 
 ![fig-087](./img/fig-087.png)
 **FIGURE 87.** Although this particular Major Reversal Formation appeared on the
@@ -6681,86 +5508,13 @@ Symmetrical Triangle Consolidation of July–August, and the examples of Runaway
 Breakout, and Exhaustion Gaps (RG, BG, and EG), which will be taken up in
 Chapter 12.
 
-```
-AIR REDUCTION CO. AN
-```
-```
-1929
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-RG 2
-4
-B
-```
-```
-P
-```
-```
-1 3 5a 5b
-```
-```
-BG
-```
-```
-EG
-```
-```
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-240
-```
-```
-208
-```
-```
-192
-```
-```
-176
-```
-```
-160
-152
-144
-136
-128
-```
-```
-120
-112
-```
-```
-104
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-```
-```
-224
-```
-```
-6 13 20 27 3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30 7 14 21 28
-```
 
-_Chapter ten: Other Reversal Phenomena 157_
-
+There are some fine points of this classic example which should be noted.
+First, a new high, i.e., a third and higher Top, was made at 5 _a_ and the
+subsequent reaction was halted at 195, well above 4, and succeeded by
+renewed advance. This looked like one of the advance notices (“failures”)
+to which we have referred on a preceding page, portending an upside break-
+out. But the example before us will serve to emphasize the warning which
 we attached thereto — that such an indication is not to be trusted until prices
 have decisively exceeded the previous Top. At 5 _b_ Air Reduction was traded
 briefly at 223, 2 points, but less than 3%, higher than 5 _a_ , and the day closed
@@ -6772,6 +5526,7 @@ between the last pattern Top (5 _b_ ) and the end of the initial breakout move
 rience, in at least four out of five Broadening Top Patterns, and may not fail
 until it has regained two thirds of the preceding decline, although it usually
 peters out around or even below the halfway mark.
+
 This, as we have said, is a classic example; there were many others at
 that time. The very fact that so many did evolve at the 1929 peak, which
 was followed by history’s most disastrous losses, probably accounts for the
@@ -6781,6 +5536,7 @@ measuring implications are probably no greater than those of a large, high-
 volume Head-and-Shoulders, but it is a pattern characteristic of the last
 stages of a Primary Uptrend.
 
+
 ![fig-088](./img/fig-088.png)
 **FIGURE 88.** A small but perfect 1946 Broadening Top that formed at the end of a
 3-month chart pattern which also had overall Broadening (and, hence, Bearish) as-
@@ -6788,49 +5544,6 @@ pects. The five critical points of Reversal are numbered on the chart. The “br
 was registered on August 27. The Pullback Rally that followed immediately was
 strong, but still held within normal bounds. Another interesting Broadening Top of
 1946 appears in Figure 217.
-
-```
-AMERICAN ROLLING MILLS RM
-```
-```
-1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-40
-38
-36
-34
-32
-```
-```
-30
-```
-```
-28
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 29 6 1320 27 3 10 17 24 31 7 14 21 28
-```
-```
-1 3 5
-```
-```
-2 4
-```
-
-_158 Technical Analysis of Stock Trends_
 
 The insistence that the third Top (our number 5), when followed by a
 decline below the second Bottom (our number 4), _completes_ the Reversal
@@ -6848,14 +5561,6 @@ Reversal (our numbers 1 to 5) and, so, obviously is a Head-and-Shoulders.
 A Broadening Top might, in fact, be called a Head-and-Shoulders with a
 high right shoulder and a down-sloping neckline.
 
-##### Why No Broadening Bottoms?
-
-All of the other types of Reversal Formations we have studied thus far can
-occur as either Tops or Bottoms. They can develop at the end of a decline to
-turn the trend up, or at the end of an advance to turn the trend down. But
-this does not seem to be true of the Broadening Formation. It has been
-assumed in the past that Broadening Bottoms must exist, but the writer has
-
 ![fig-089](./img/fig-089.png)
 **FIGURE 89.** When they appear as plain and as compact as this example, Broadening
 Tops on weekly charts carry very powerful Reversal indications. The Top of the fifth
@@ -6864,8 +5569,13 @@ was pictured in Figure 16. The dashed lines on the above chart are trendlines �
 be discussed in Chapter 14.
 
 
-_Chapter ten: Other Reversal Phenomena 159_
+##### Why No Broadening Bottoms?
 
+All of the other types of Reversal Formations we have studied thus far can
+occur as either Tops or Bottoms. They can develop at the end of a decline to
+turn the trend up, or at the end of an advance to turn the trend down. But
+this does not seem to be true of the Broadening Formation. It has been
+assumed in the past that Broadening Bottoms must exist, but the writer has
 never found a good one in his examination of the charts of thousands of
 individual stocks over many years, and only one or two patterns which bore
 a resemblance to it in the charts of the Averages. Apparently, the circum-
@@ -6874,6 +5584,12 @@ decline in prices. This would seem to bear out our earlier characterization
 of this sort of pattern as suggesting active, excited trading with much public
 (and, hence, not too well informed or managed) participation. Such condi-
 tions are naturally associated with the final phases of a Bull Market.
+
+![fig-090](./img/fig-090.png)
+**FIGURE 90.** Broadening tendencies that appear on monthly charts, or very wide
+spread (with Tops 5 or 6 months apart) like the above on weekly charts, should not
+be regarded as significant technical formations. Reversal points in a true Broadening
+Top should not be more than 2 months apart, as in Figure 89.
 
 ##### Right-Angled Broadening Formations
 
@@ -6889,46 +5605,6 @@ ening Forms. Generally speaking, Right-Angled Broadening Formations
 carry Bearish implications, regardless of which side is horizontal, in nearly
 the same degree as the symmetrical manifestations.
 
-![fig-090](./img/fig-090.png)
-**FIGURE 90.** Broadening tendencies that appear on monthly charts, or very wide
-spread (with Tops 5 or 6 months apart) like the above on weekly charts, should not
-be regarded as significant technical formations. Reversal points in a true Broadening
-Top should not be more than 2 months apart, as in Figure 89.
-
-```
-INTERNATIONAL PAPER IP
-```
-```
-1945–1947
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-Sales
-100’s
-50
-40
-30
-20
-10
-N D J F M MA J J A S O N D J F M MA
-```
-
-_160 Technical Analysis of Stock Trends_
-
 Obviously, however, they differ essentially from Symmetrical formations
 in one respect: a horizontal side indicates either accumulation or distribution
 at a fixed price, depending, of course, on which side is horizontal. And it
@@ -6941,6 +5617,8 @@ be resumed and carried on for a worthwhile move. This does happen,
 although it is rare. The odds favor the opposite, i.e., the eventual victory of
 the forces of distribution which created the horizontal Top and a breakaway
 into an extensive decline.
+
+
 Moreover, if an advance is to ensue from a Flat-Topped Broadening
 Formation, the chances are that the third reaction in the formation will be
 attended by much diminished trading activity instead of the continued high
@@ -6977,7 +5655,14 @@ description. Its name derives obviously from its pictorial resemblance to the
 conventional diamond figure.
 
 
-_Chapter ten: Other Reversal Phenomena 161_
+![fig-091](./img/fig-091.png)
+**FIGURE 91.** Three successive reactions in “DG” in February–March 1945 made
+successively lower Bottoms, but the intervening rallies came up to the same high
+(about 21¼), thus forming a Right-Angled Broadening Formation with a horizontal
+Top (Supply) Line. Penetration of this technically important top line on April 16 was
+a Bullish signal. The flat-topped type of pattern does not necessarily portray a Bearish
+situation.
+
 
 Although it is fairly conspicuous and easily detected when it appears
 on the charts, the Diamond is not a common pattern. Since its development
@@ -6999,61 +5684,19 @@ fice to acquaint you with its typical details. It carries a minimum measuring
 implication which, having studied the Head-and-Shoulders and Triangle
 formulas, you can probably deduce for yourself. Prices should move _at least
 as far_ from the breakout point as the greatest width in points of the pattern
-
-![fig-091](./img/fig-091.png)
-**FIGURE 91.** Three successive reactions in “DG” in February–March 1945 made
-successively lower Bottoms, but the intervening rallies came up to the same high
-(about 21¼), thus forming a Right-Angled Broadening Formation with a horizontal
-Top (Supply) Line. Penetration of this technically important top line on April 16 was
-a Bullish signal. The flat-topped type of pattern does not necessarily portray a Bearish
-situation.
-
-```
-ASSOCIATED DRY GOODS DG
-```
-```
-1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-XD .25 XD .25
-```
-```
-6 13 20 27 3 10 17 24 3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30
-```
-
-_162 Technical Analysis of Stock Trends_
-
 from its Top (head) to Bottom (V in neckline). This, it must be emphasized,
 is a minimum rule and subject only to the usual qualification that a Reversal
 Formation must have something to reverse. Generally, the new trend carries
 prices eventually well beyond the minimum measurement.
+
+
+
+![fig-092](./img/fig-092.png)
+**FIGURE 92.** The 1946 Top in Paramount Pictures, from which it fell to 46 a year
+later, was a Right-Angled Broadening Formation with a horizontal bottom line which
+was “cracked” the first week of June, but not decisively broken until June 20. (This
+stock was later split 2-for-1.)
+
 
 ##### Wedge Formations
 
@@ -7064,6 +5707,13 @@ which are ordinarily Minor, or, at most, only Intermediate in their trend
 implications. They are useful, nevertheless, in trading operations. One of
 them, the _Wedge_ , we have already alluded to (in Chapter 8) as having some
 resemblance to the Triangles.
+
+![fig-093](./img/fig-093.png)
+**FIGURE 93.** Another example of the Flat-Topped type of Broadening Price Pattern
+that appeared near the end of 1945. “LS” went on up to 63 in 1946. Prices broke out
+of this formation with a Breakout Gap (G) and another Breakout Gap appeared on
+December 3. G-G marks an “Island.” See Chapter 12 for Gaps.
+
 The Wedge is a chart formation in which the price fluctuations are
 confined within converging straight (or practically straight) lines, but differ-
 ing from a Triangle in that both boundary lines either slope up or slope
@@ -7071,45 +5721,9 @@ down. In a Symmetrical Triangle, the Top border slants down, while the
 Bottom border slants up. In Right Angle Triangles, one boundary slopes
 either up or down, but the other is horizontal. In a Rising Wedge, both
 boundary lines slant up from left to right, but since the two lines converge,
-
-![fig-092](./img/fig-092.png)
-**FIGURE 92.** The 1946 Top in Paramount Pictures, from which it fell to 46 a year
-later, was a Right-Angled Broadening Formation with a horizontal bottom line which
-was “cracked” the first week of June, but not decisively broken until June 20. (This
-stock was later split 2-for-1.)
-
-```
-PARAMOUNT PICTURES PX
-```
-```
-1946
-88
-```
-```
-80
-76
-72
-68
-64
-60
-```
-```
-56
-Sales
-100’s
-125
-100
-75
-50
-25
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-5 12 19 26 2 9 16 23 2 9 16 23 30 6 13 20 27 4 11 18 25 1 8 15 22 29
-```
-
-_Chapter ten: Other Reversal Phenomena 163_
-
 the lower must, of course, project at a steeper angle than the upper. In a
 Falling Wedge, the opposite is true.
+
 Superficially, one might think that since an Ascending Triangle, with one
 horizontal and one up-line, is a Bullish picture, the Rising Wedge, with both
 of its pattern lines up, should be even more Bullish. But such is not the case.
@@ -7122,6 +5736,7 @@ petering out of investment interest. Prices advance, but each new up wave
 is feebler than the last. Finally, demand fails entirely and the trend reverses.
 Thus, a Rising Wedge typifies a situation which is growing progressively
 _weaker_ in the technical sense.
+
 Of course, it might be said that any advance in prices, no matter what
 shape it may take on the chart, weakens the technical status of the market.
 Prospective buyers are — or, at least, should be — more reluctant to pay
@@ -7129,58 +5744,11 @@ high prices than low, and owners are more willing to sell at high prices than
 at low; in other words, any sort of rise tends to increase supply and diminish
 demand. (While theoretically true, the preceding statement must be qualified
 by the fact that rising prices actually attract rather than discourage public
+buying.) The difference between a Rising Wedge and what might be called
+a normal Uptrend Channel (of which we shall have more to say later) is that
+the Wedge sets a sort of limit on the advance. Its converging boundary lines
+focus on a point near where the advance will halt and reaction set in.
 
-![fig-093](./img/fig-093.png)
-**FIGURE 93.** Another example of the Flat-Topped type of Broadening Price Pattern
-that appeared near the end of 1945. “LS” went on up to 63 in 1946. Prices broke out
-of this formation with a Breakout Gap (G) and another Breakout Gap appeared on
-December 3. G-G marks an “Island.” See Chapter 12 for Gaps.
-
-```
-ALLIED STORES LS
-```
-```
-1945
-G
-```
-```
-G G
-```
-```
-G
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-7 14 21 28 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 17 24 1 8 15 22 29
-```
-
-_164 Technical Analysis of Stock Trends_
 
 ![fig-094](./img/fig-094.png)
 **FIGURE 94.** The 1946 Bull Market Top in U.S. Steel was a 3-month Diamond which
@@ -7190,76 +5758,14 @@ might also be construed as a Head-and-Shoulders.
 **FIGURE 95.** A Diamond (November) which broke out topside and thus functioned
 as Consolidation rather than Reversal.
 
-```
-U. S. STEEL X 1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-72
-68
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-XD 1.00
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 17 24 31 7 14 21 28
-```
-```
-AMERICAN BOSCH CORP. BOS
-```
-```
-1945
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-7 14 21 28 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 17 24 1 8 15 22 29
-```
 
-_Chapter ten: Other Reversal Phenomena 165_
+![fig-096](./img/fig-096.png)
+**FIGURE 96.** Diamond Reversal Formations are often easier to detect on weekly
+than on daily charts. Trace out the price swings and volume in this May–June 1946
+Diamond in Shell. Note also the remarkable Descending Triangle which developed
+from September 1946 to February 1947, and the March Pullback to its apex, another
+ideal place to sell short.
 
-buying.) The difference between a Rising Wedge and what might be called
-a normal Uptrend Channel (of which we shall have more to say later) is that
-the Wedge sets a sort of limit on the advance. Its converging boundary lines
-focus on a point near where the advance will halt and reaction set in.
 We can state most of the essential facts about the Up-Pointed Wedge
 Formation in a few short sentences. It can develop either as a sort of Topping-
 Out Pattern on a previously existing uptrend, or start to form right at the
@@ -7276,57 +5782,6 @@ all of the ground gained within the Wedge itself, and sometimes more.
 Trading volume in a Wedge tends to follow the regular Triangle Pattern,
 diminishing gradually as prices move up toward the apex of the Wedge.
 
-![fig-096](./img/fig-096.png)
-**FIGURE 96.** Diamond Reversal Formations are often easier to detect on weekly
-than on daily charts. Trace out the price swings and volume in this May–June 1946
-Diamond in Shell. Note also the remarkable Descending Triangle which developed
-from September 1946 to February 1947, and the March Pullback to its apex, another
-ideal place to sell short.
-
-```
-SHELL UNION OIL SUO
-```
-```
-1945–1947
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-28
-26
-```
-```
-24
-Sales
-100’s
-125
-100
-75
-50
-25
-N D J F M MA J J A S O N D J F M MA
-```
-
-_166 Technical Analysis of Stock Trends_
-
-##### The Falling Wedge
-
-Except for the fact that it is pointed down, the _Falling Wedge_ appears in all
-respects like the rising form we have just described. But the price trend that
-follows its completion differs in character. When prices break out of a Rising
-Wedge, they usually fall away rapidly, but when they move out of a Falling
-Wedge, they are more apt to drift sideways or in a dull “Saucering-around”
-movement before they begin to rise. The Rising Wedge may, therefore, call
-for quick action to secure profits, while with a Falling Wedge, the trader
-ordinarily can take his time about making his commitment for the ensuing
-rise.
 
 ![fig-096.1](./img/fig-096.1.png)
 **FIGURE 96.1.** Technicians in the future will look back with amazement at the top
@@ -7347,41 +5802,26 @@ whatsoever. Is all this hindsight? The reader may see for himself by examining t
 record of how this market was analyzed _at the time_ by the John Magee Investment
 Newsletter in Resources.
 
-```
-INDU LAST-Daily 10/04/2001
-```
-```
-Created with TradeStation http://www.TradeStation.com
-```
-```
-Created with TradeStation 2000i by Omega Research© 1999
-```
-```
-11500
-```
-```
-11000
-```
-```
-10500
-```
-```
-10000
-```
-```
-9500
-```
-```
-9000
-```
-```
-8500
-```
-```
-4/1999 7/1999 10/1999 00 4/2000 7/2000 10/2000 01 4/2001 7/2001
-```
+##### The Falling Wedge
 
-_Chapter ten: Other Reversal Phenomena 167_
+Except for the fact that it is pointed down, the _Falling Wedge_ appears in all
+respects like the rising form we have just described. But the price trend that
+follows its completion differs in character. When prices break out of a Rising
+Wedge, they usually fall away rapidly, but when they move out of a Falling
+Wedge, they are more apt to drift sideways or in a dull “Saucering-around”
+movement before they begin to rise. The Rising Wedge may, therefore, call
+for quick action to secure profits, while with a Falling Wedge, the trader
+ordinarily can take his time about making his commitment for the ensuing
+rise.
+
+
+![fig-097](./img/fig-097.png)
+**FIGURE 97.** Hudson is another stock that ended its Bull Market in 1946 with a
+Major Diamond which could also be taken as a Complex Head-and-Shoulders. This
+formation was plain on the weekly chart but hard to see on the daily. Note how the
+Diamond gave a sell signal about 2 points higher than the Head-and-Shoulders. The
+14 ½ to 17½ area at the end of the year, when construed as a weak Rectangle, was
+barely fulfilled in February 1947.
 
 Both types should be well defined on the chart. Unless a trend pattern
 is quite compact with frequent fluctuations, and nicely bounded by lines
@@ -7398,53 +5838,14 @@ as he will rarely be left in doubt for long after he has acquired a little exper
 with charts. One soon gets to recognize the characteristic “symptoms” of the
 different formations and make correct diagnoses almost instinctively.
 
-![fig-097](./img/fig-097.png)
-**FIGURE 97.** Hudson is another stock that ended its Bull Market in 1946 with a
-Major Diamond which could also be taken as a Complex Head-and-Shoulders. This
-formation was plain on the weekly chart but hard to see on the daily. Note how the
-Diamond gave a sell signal about 2 points higher than the Head-and-Shoulders. The
-14 ½ to 17½ area at the end of the year, when construed as a weak Rectangle, was
-barely fulfilled in February 1947.
 
-```
-HUDSON MOTORS HT
-```
-```
-1945–1947
-```
-```
-34
-32
-30
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-Sales
-100’s
-50
-40
-30
-20
-10
-O N D J F M MA J J A S O N D J F M A
-```
-
-_168 Technical Analysis of Stock Trends_
+![fig-098](./img/fig-098.png)
+**FIGURE 98.** As U.S. Steel approached the Top of its Secondary Recovery in August
+1937, its price fluctuations tended to grow narrower, between upward sloping but
+converging boundaries, while volume diminished. This pattern — a Wedge — carried
+a definitely Bearish message. The entire swing from July to the end of August was
+essentially a Rounding Top. The three Gs mark Breakaway Gaps (Chapter 12), the
+last (September 7) made as prices broke down through a Support Level (Chapter 13).
 
 ##### Wedges on Weekly and Monthly Charts
 
@@ -7466,53 +5867,11 @@ slightly widening, instead of Converging, Channel.
 As a final note, we might add that the Rising Wedge is a quite characteristic
 pattern for Bear Market Rallies. It is so typical, in fact, that frequent appearance
 
-![fig-098](./img/fig-098.png)
-**FIGURE 98.** As U.S. Steel approached the Top of its Secondary Recovery in August
-1937, its price fluctuations tended to grow narrower, between upward sloping but
-converging boundaries, while volume diminished. This pattern — a Wedge — carried
-a definitely Bearish message. The entire swing from July to the end of August was
-essentially a Rounding Top. The three Gs mark Breakaway Gaps (Chapter 12), the
-last (September 7) made as prices broke down through a Support Level (Chapter 13).
-
-```
-U. S. STEEL X 1937
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-G
-G G
-```
-```
-120
-112
-```
-```
-104
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-Sales
-100’s
-500
-400
-300
-200
-100
-```
-```
-3 10 17 24 1 8 15 22 29 5 12 19 26 3 10 17 24 317 14 21 28 4 11 18 25
-```
-
-_Chapter ten: Other Reversal Phenomena 169_
+![fig-099](./img/fig-099.png)
+**FIGURE 99.** An “ideal” Falling Wedge that developed in Loew’s in 1936. Note
+volume trend therein, irregular but generally diminishing. July produced a small
+Flag (Chapter 11), and at the end of the year, “LW” went into a Rectangle out of
+which prices “skyrocketed” to 75.
 
 of Wedges at a time when, after an extensive decline, there is some question
 as to whether a new Bull Trend is in the making may be taken as evidence
@@ -7532,215 +5891,28 @@ accorded only temporary or strong Minor Trend significance. True, it may
 appear at the very peak of a long advance, forming perhaps on the high day
 of the head in a Head-and-Shoulders Pattern which will be followed by a
 long decline, but it can hardly be credited with forecasting that entire decline;
-all it really signaled was the turn in the “head” itself. A One-Day Reversal
+all it really signaled was the turn in the “head” itself. A One-Day Reversal 
+may just as well occur, for example, at the beginning (the first peak) of a
+Symmetrical Triangle which only Consolidates instead of Reversing the pre-
+vious uptrend. Even so, it serves, as you can see, to warn us of at least
+temporary exhaustion of Bullish forces.
 
-![fig-099](./img/fig-099.png)
-**FIGURE 99.** An “ideal” Falling Wedge that developed in Loew’s in 1936. Note
-volume trend therein, irregular but generally diminishing. July produced a small
-Flag (Chapter 11), and at the end of the year, “LW” went into a Rectangle out of
-which prices “skyrocketed” to 75.
-
-```
-LOEW’S , INC. LW
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-1936
-```
-```
-72
-68
-```
-```
-64
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-4 11 18 25 1 8 15 22 29 5 12 19 26 3 1017 24 31 7 14 21 28 5 12 19 26
-```
-
-_170 Technical Analysis of Stock Trends_
 
 ![fig-100](./img/fig-100.png)
 **FIGURE 100.** Wedges seldom appear at Major Trend Reversals, but Schenley’s Bull
 high in 1946 was made at the end of an 8-month Rising Wedge, plain to see on its
 weekly chart. The dashed line at 60 marks a Support Level (see Chapter 13) which
-served to stem the subsequent decline for 9 weeks.
+served to stem the subsequent decline for 9 weeks. 
 
-```
-SCHENLEY DISTILLERS SH
-```
-```
-1945–1947
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-72
-68
-64
-```
-```
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-```
-```
-30
-28
-```
-```
-26
-```
-```
-24
-Sales
-100’s
-125
-100
-75
-50
-25
-N D J F M MA J J A S O N D J F M MA
-```
 
-_Chapter ten: Other Reversal Phenomena 171_
-
-```
-FIGURE 101.
-```
-```
-There are many interesting and technically signi
-```
-```
-ficant features in this 12-month daily chart record of
-```
-```
-“TWA.” Note the extraordinary One-Day Reversal, December 3, which marked its Major Top. Although the next 4 weeksproduced a sort of poorly formed Descending Triangle, the Reversal Day was the only clear-cut and unmistakable signalto sell. When you study pennants, turn back to this chart for its November Pennant. Its long Intermediate Down Trendlinewas tentatively broken in August 1946 but without con
-```
-```
-fi
-rming volume (see Chapter 14). Note that at no time during the
-```
-```
+**FIGURE 101**. There are many interesting and technically significant features in this 12-month daily chart record of
+“TWA.” Note the extraordinary One-Day Reversal, December 3, which marked its Major Top. Although the next 4 weeks
+produced a sort of poorly formed Descending Triangle, the Reversal Day was the only clear-cut and unmistakable signal
+to sell. When you study pennants, turn back to this chart for its November Pennant. Its long Intermediate Down Trendline
+was tentatively broken in August 1946 but without confirming volume (see Chapter 14). Note that at no time during the
 decline did a “Buy” Pattern appear.
-```
-```
-TRANSCONTINENTAL & WESTERN AIRLINES
-```
-```
-TWA
-```
-```
-1945–1946
-```
-```
-RD
-```
-```
-OCTOBER NOVEMBER
-```
-```
-DECEMBER
-```
-```
-JANUARY FEBRUARY
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-SEPTEMBE
-```
-```
-R
-```
-```
-7672686460 56 52 48 44 4038363432
-Sales100’s
-```
-```
-5040302010
-```
-```
-6 13 20 27 3 10 17 24 1 8 15 22 29 5 12 19 26 2 9 16 23 2 9 16
-```
-```
-23 30 6 13 20 27
-```
-```
-8 15 22 29
-```
-```
-6 13 20 27 3 10 17 24 31 7 14 21 28
-```
-```
-4 11 18 25 1
-```
 
-_172 Technical Analysis of Stock Trends_
 
-may just as well occur, for example, at the beginning (the first peak) of a
-Symmetrical Triangle which only Consolidates instead of Reversing the pre-
-vious uptrend. Even so, it serves, as you can see, to warn us of at least
-temporary exhaustion of Bullish forces.
 On the downside, a One-Day Reversal often appears in magnified and
 conspicuous form at the end of a Panic Sell-Off, in which case, it usually is
 referred to as a _Climax Day_ or Selling Climax. This manifestation of it has
@@ -7783,12 +5955,17 @@ trend developments. In any event, it is an urgent warning to watch closely
 the chart in which it has appeared to see what pattern of price action may
 follow and be prepared for the worthwhile move when it comes.
 
-
-_Chapter ten: Other Reversal Phenomena 173_
-
 It is worth noting that the type of false move or shakeout that we
 described in Chapter 8 as occurring at the apex end of a Symmetrical Triangle
 often takes the form of a One-Day Reversal.
+
+
+![fig-102](./img/fig-102.png)
+**FIGURE 102.** The strong One-Day Reversal which marked Greyhound’s 1946 Bull
+Market high. Note climax volume. A less conspicuous Reversal Day appeared on
+August 26. It is suggested that the reader go back over all charts in preceding
+chapters; he will find many Reversal Days of greater or lesser consequence. Many
+gaps (G) were of measuring type — see Chapter 12.
 
 ##### The Selling Climax
 
@@ -7808,60 +5985,12 @@ calls and forced selling will, of course, always exist as a market factor so
 long as stocks can be bought on margin, and will come into play whenever
 prices drop extensively following a spree of public buying.
 
-![fig-102](./img/fig-102.png)
-**FIGURE 102.** The strong One-Day Reversal which marked Greyhound’s 1946 Bull
-Market high. Note climax volume. A less conspicuous Reversal Day appeared on
-August 26. It is suggested that the reader go back over all charts in preceding
-chapters; he will find many Reversal Days of greater or lesser consequence. Many
-gaps (G) were of measuring type — see Chapter 12.
-
-```
-GREYHOUND CORP. G
-```
-```
-RD 1946
-```
-```
-G
-```
-```
-G
-```
-```
-I. U. T.
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6 13 20 27 4 11 18 25 1 8 15 22 29 6 13 20 27 3 10 17 24 31 7 14 21 28
-```
-
-_174 Technical Analysis of Stock Trends_
+![fig-102.1](./img/fig-102.1.png)
+**FIGURE 102.1.** Apple. 1987 Reagan Crash. Does this plunge appear to be out of
+the blue? Not really. Numerous signs are given: break of major trendline; short-term
+momentum down before crash in an environment of extreme top psychology; then
+the crash itself, the panic selling exhibiting the typical pattern of short covering, then
+further decline.
 
 Most true Selling Climaxes, if not all, have been produced by distress
 selling of the type referred to in the preceding paragraph. They have come
@@ -7875,50 +6004,14 @@ the total turnover may exceed any single day’s volume during the previous
 swing up. It is a harvest time for traders who, having avoided the Bullish
 infection at the top of the market, have funds in reserve to pick up stocks
 available at panic prices.
+
 Obviously, a clean-out day or Selling Climax radically reverses the tech-
 nical condition of the market, for in its process, shares have passed from
 weak hands into strong hands at very much lower prices. The ominous
 weight of potential selling that has been overhanging the market has been
-removed. And usually the Panic has carried quotations (although only
+removed. And usually the Panic has carried quotations (although only temporarily, 
+as a rule) well below even conservative values based on current business conditions.
 
-![fig-102.1](./img/fig-102.1.png)
-**FIGURE 102.1.** Apple. 1987 Reagan Crash. Does this plunge appear to be out of
-the blue? Not really. Numerous signs are given: break of major trendline; short-term
-momentum down before crash in an environment of extreme top psychology; then
-the crash itself, the panic selling exhibiting the typical pattern of short covering, then
-further decline.
-
-```
-APPLE COMPUTER INC-(Nasdaq NM) 62.72 –0.03 –0.05%
-```
-```
-14
-13
-12
-11
-10
-9 8 7 6 5 4
-```
-```
-Aug Sep Oct Nov Dec 87 Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec^3
-©1998-2004 Prophet Financial Systems, Inc. Terms of use apply.
-```
-
-_Chapter ten: Other Reversal Phenomena 175_
-
-temporarily, as a rule) well below even conservative values based on current
-business conditions.
-A Selling Climax need not be completed, and the Reversal of Trend
-actually become evident, within a single day. We have classified it as a variety
-of One-Day Reversal, but some of them have actually spread out over 2 days,
-with the decline exhausted and coming to a halt late on the first day, too
-near the end of the session to permit much recovery. The next day sees an
-extensive rally right from the opening gong, as it is immediately apparent
-then, if not late the preceding day, that there are no more distress offerings.
-The all-time percentage record for Selling Climaxes is held by October 29,
-
-1929. Prices in terms of the Dow–Jones Industrial Average opened that day
-practically at their high, 252.38, which was more than 8 points below the
 
 ![fig-103](./img/fig-103.png)
 **FIGURE 103.** The “Panic” selling of October 19, 1937, produced a conspicuous
@@ -7929,57 +6022,18 @@ Triangle in early October. “CN” made a final Bear Market low the following M
 at 10½. On a logarithmic price scale, its down trendline from August was not broken
 until June 1938.
 
-```
-NEW YORK CENTRAL CN
-```
-```
-1937
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-40
-```
-```
-35
-```
-```
-30
-```
-```
-25
-```
-```
-20
-```
-```
-Sales
-100’s
-400
-300
-200
-100
-```
-```
-SC
-```
-```
-NL
-```
-```
-S H S
-```
-```
-S H
-S
-```
-```
-3 10 17 24 31 7 14 21 28 4 11 18 25 2 9 16 23 30 6 13 20 27 4 11 18 25
-```
 
-_176 Technical Analysis of Stock Trends_
+A Selling Climax need not be completed, and the Reversal of Trend
+actually become evident, within a single day. We have classified it as a variety
+of One-Day Reversal, but some of them have actually spread out over 2 days,
+with the decline exhausted and coming to a halt late on the first day, too
+near the end of the session to permit much recovery. The next day sees an
+extensive rally right from the opening gong, as it is immediately apparent
+then, if not late the preceding day, that there are no more distress offerings.
 
+The all-time percentage record for Selling Climaxes is held by October 29,
+1929. Prices in terms of the Dow–Jones Industrial Average opened that day
+practically at their high, 252.38, which was more than 8 points below the
 previous day’s closing level. Panic selling flooded the Exchange from the
 start, and before it was over, the Industrial Average had lost 40.05 points!
 From that low, 212.33, it rallied in the final 2 hours to 230.07 for a gain of
@@ -7990,18 +6044,9 @@ during the entire preceding Bull Market. But the low level of October 29 was
 broken a week later, and the bottom of that particular early phase of the
 1929–32 Bear Market was not reached until November 13. _EN: See comments
 on the following page on the Reagan Crash of 1987._
-The Panic of 1937 ended with a classic Selling Climax on October 19,
-another “Black Tuesday” in stock market annals. The Dow Industrials had
-closed at 125.73 the night before. Prices had already fallen without a rally
-of consequence from a high of 190 in mid-August, and margin accounts were
-nearly all in a precarious situation. The telephones had been worked over-
-time the preceding day by brokers demanding additional margin, most of
-which was not forthcoming. When the Exchange opened on the 19th, quo-
-tations hit the toboggan under a flood of offerings. By 11:30 a.m., with the
-Industrial Average around 115, the selling was over and offerings disap-
-peared. An hour later, prices were jumping a point between sales and the
 
-![fig-103](./img/fig-103.png)
+
+![fig-103.1](./img/fig-103.1.png)
 **FIGURE 103.1.** Dow Industrials, 1987 Reagan Crash. Rumors proliferated — iron-
 ically, one that Reagan had Alzheimer’s. Proximate cause: professional panic exac-
 erbated by an ill-considered portfolio insurance scheme propagated by academics.
@@ -8012,65 +6057,24 @@ hedging and liquidating through September, and fund managers panicked in Octo-
 ber. According to the Brady Report, Hull Trading Co. bought the bottom October 20,
 thus saving American capitalism.
 
-```
-$INDUA LAST-Daily 12/24/1987 C = 1998 .67 –9000 .74 –81 .82% O = 10039 .58 H = 10204 .03 L = 10029 .96 V = 1181488000
-Created with TradeStation http://www.TradeStation .com
-```
-```
-Volume 108803664.00
-```
-```
-2700.00
-2600.00
-2500.00
-2400.00
-2300.00
-2200.00
-2100.00
-2000.00
-1900.00
-1800.00
-1700.00
-```
-```
-2700.00
-2600.00
-2500.00
-2400.00
-2300.00
-2200.00
-2100.00
-2000.00
-1900.00
-1800.00
-1700.00
-```
-```
-5500000
-4500000
-3500000
-2500000
-1500000
-```
-```
-55000000
-45000000
-35000000
-25000000
-15000000
-3/1987 4/1987 5/1987 6/1987 7/1987 8/1987 9/1987 10/1987 11/1987 12/1987
-```
-
-_Chapter ten: Other Reversal Phenomena 177_
-
+The Panic of 1937 ended with a classic Selling Climax on October 19,
+another “Black Tuesday” in stock market annals. The Dow Industrials had
+closed at 125.73 the night before. Prices had already fallen without a rally
+of consequence from a high of 190 in mid-August, and margin accounts were
+nearly all in a precarious situation. The telephones had been worked over-
+time the preceding day by brokers demanding additional margin, most of
+which was not forthcoming. When the Exchange opened on the 19th, quo-
+tations hit the toboggan under a flood of offerings. By 11:30 a.m., with the
+Industrial Average around 115, the selling was over and offerings disap-
+peared. An hour later, prices were jumping a point between sales and the
 day closed at 126.85, recovering its entire loss. Volume on that climax was
 7,290,000 shares, double that of any day at the top of the preceding Bull
 Market. An intraday high of 141.22 was reached 10 days later, but the Panic
 Low was subsequently broken on November 20, 1937, and that Bear Market
 finally ended at 98.95 (Dow–Jones Industrials’ closing level) on March 31,
 1938.
-_EN: Compare 1987. No wonder investors have instinctual angst on October_
 
+_EN: Compare 1987. No wonder investors have instinctual angst on October_
 _19. In 1987 the Bear returned to create another great Panic — on the very same
 date. From a high of 2746.65 on August 25 the Dow bungeed to a low of 1616.21
 on October 20. The actual full-blown panic took place from October 14 (high
@@ -8081,6 +6085,8 @@ they stay the same, as André Malraux is said to have remarked. Actually he said
 in French, which is more elegant, and expresses the same idea:_ Plus ça change,
 c’est plus la meme chose. _Readers should not assume that similar crashes will
 not occur in the future._
+
+
     The foregoing were _general market_ climaxes, a phenomenon which, of
 course, produces (or rather is produced by) simultaneous selling in practi-
 cally every actively traded individual issue. A Climax Bottom, as a matter
@@ -8090,6 +6096,7 @@ and completely unexpected piece of bad news affects one certain company
 and causes panicky liquidation of its shares alone, terminating with a One-
 Day Reversal. The _Top_ Reversal Day, on the other hand, is normally a man-
 ifestation of an individual stock rather than of the general market average.
+    
     The two outstanding examples of Selling Climaxes that we have cited
 above, and numbers of others which have appeared at the conclusion of
 various Panic Sell-offs, obviously offered extraordinary opportunities for a
@@ -8102,6 +6109,7 @@ the possibilities of error, there was a 30-point drop, followed by a 30-point
 recovery, on a turnover of nearly 13 million shares, on October 24, 1929, but
 the trader who didn’t grab his profits within 48 hours never had another
 chance to get out even (in terms of the Averages, that is).
+    
     But it isn’t impossible to recognize a Selling Climax, if you have friends
 in the Street to keep you informed on the condition of margin accounts and
 the amount of necessitous selling to be expected. _EN: This information is now
@@ -8110,16 +6118,14 @@ climax comes _after_ a decline approaching Panic proportions. The day usually
 opens with a substantial Downside Gap (opening prices considerably below
 the previous night’s closing); offerings appear too great to be absorbed; prices
 collapse; the ticker runs late; the market is exceptionally “broad” with nearly
-
-
-_178 Technical Analysis of Stock Trends_
-
 every listed stock crowding into the record. Then, some time after 11 a.m.,
 perhaps not until afternoon, the selling appears to dry up; a few issues
 continue to decline while others begin to climb. Suddenly prices are jumping.
 That is the time to act. Buy a stock that has been thoroughly depressed but
 one which normally has at all times a good following (for example, U.S.
 Steel). Don’t hang on too long; take a reasonable profit as soon as it is
+available and sell, in any event, whenever the recovery shows signs of
+bogging down.
 
 ![fig-104](./img/fig-104.png)
 **FIGURE 104.** The Selling Climax discussed on the preceding pages is typically a
@@ -8136,51 +6142,8 @@ not shown to give the idea that such phenomena carry important technical indica-
 tions. On the contrary, most “Reversal weeks” are followed by very disappointing
 moves.
 
-```
-NATIONAL CASH REGISTER NC
-```
-```
-1941–1943
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-Sales
-100’s
-50
-40
-30
-20
-10
-OS N D J F M MA J J A S O N D J F M
-```
 
-_Chapter ten: Other Reversal Phenomena 179_
 
-available and sell, in any event, whenever the recovery shows signs of
-bogging down.
 Remember, a One-Day Reversal is not a dependable Major Trend indi-
 cator. Selling Climaxes do not normally occur at the final Bottoms of Bear
 Markets — weak holdings usually have been shaken out long before that
@@ -8192,16 +6155,7 @@ subject of _Gaps_ which we have not yet had an appropriate occasion to discuss.
 Gaps will be taken up in detail in Chapter 12, and we will defer the Island
 Reversal until then.
 
-
-
-```
-181
-```
-## chapter 10.1
-
-# Short-Term Phenomena
-
-# of Potential Importance
+## chapter 10.1. Short-Term Phenomena of Potential Importance
 
 Very short-term phenomena — of a one-day or a few days’ duration — can
 sometimes be indicative of not only short-term direction, but also give hints
@@ -8222,11 +6176,11 @@ are the marks of a far-ranging battle between bulls and bears, with the close
 giving a clue as to whom the eventual winner will be. The importance of
 the spike is highlighted by
 
-```
-A. The strength and length of the action which preceded it
-B. The close of the day, whether up on a Bottom or down on a Top
-C. Its prominence when compared to the days before and after it
-```
+
+1. The strength and length of the action which preceded it
+2. The close of the day, whether up on a Bottom or down on a Top
+3. Its prominence when compared to the days before and after it
+
 An extremely wide-range day at the end of a long bull move which
 closes down after making unusual new highs might even be construed as a
 one-day signal. Whether one trades on it or not would depend on his par-
@@ -8237,13 +6191,22 @@ below the opening or at the low of the day. Such action might be compared
 to an army pursuing a seemingly defeated enemy only to discover the retreat
 was a ruse, then turning and fleeing the other way in a rout.
 
-
-_182 Technical Analysis of Stock Trends_
-
 Turn this description on its head and you have a Spike Bottom. It is not
 infrequent that a Spike will be followed by significant price movement in
 the opposite direction. Figure 104.1 illustrates a modern Spike. Figures 1 and
 35 show some spikes on Edwards’ and Magee’s charts.
+
+
+![fig-104.1](./img/fig-104.1.png)
+**FIGURE 104.1.** A church spire top in Qualcomm. The December gap might be
+mistaken for a buy signal, as might be the runaway days, but they are actually hand-
+engraved invitations to leave the party with near progressive stops ⅛ off the day’s
+low. Also valid—exit on the Key Reversal on day 2 after the gap. How does the trader
+know this is a blow-off and not a signal to pyramid? By the age, length, state, and
+slope of the market. When trendlines go vertical, blow-off management must be used.
+The return to the base of the first runaway day is notification that it is a bull trap.
+The first bull trap. The second bull trap is the breakout of the triangle in March. A
+wonderful chart filled with fin de siècle and fin de millennium lessons.
 
 ##### Runaway Days
 
@@ -8258,60 +6221,18 @@ that reveal the true significance. Nice consolidation and continued volume
 will confirm the day as significant while a tapering of volume and rounding
 or volatile pullback will call into question its validity. While these days may
 be taken as hair-trigger buy signals (or sell signals, depending) the return
-
-![fig-104](./img/fig-104.png)
-**FIGURE 104.1.** A church spire top in Qualcomm. The December gap might be
-mistaken for a buy signal, as might be the runaway days, but they are actually hand-
-engraved invitations to leave the party with near progressive stops ⅛ off the day’s
-low. Also valid—exit on the Key Reversal on day 2 after the gap. How does the trader
-know this is a blow-off and not a signal to pyramid? By the age, length, state, and
-slope of the market. When trendlines go vertical, blow-off management must be used.
-The return to the base of the first runaway day is notification that it is a bull trap.
-The first bull trap. The second bull trap is the breakout of the triangle in March. A
-wonderful chart filled with fin de siècle and fin de millennium lessons.
-
-```
-QUALCOMM (58.7500, 62.0625, 58.0000, 59.8750, →1.5625)
-Created with Meta Stock http://www.equis.com
-```
-```
-210
-200
-190
-180
-170
-160
-150
-140
-130
-120
-110
-100
-90
-80
-70
-60
-50
-40
-30
-10000
-```
-(^90008000)
-(^70006000)
-(^50004000)
-(^30002000)
-x100 000
-September October November December 2000 February March April May June July August
-
-
-_Chapter 10.1: Short-Term Phenomena of Potential Importance 183_
-
 of prices to the low of the Runaway Day will probably indicate that the day
 was a false signal, and that a trade in the opposite direction is shaping up.
 See Figure 39 for runaways complete with gaps.
 Figure 104.2 showing Microsoft in 2000 was one such example where a
 bull trap precipitated by a Runaway Day with a subsequent collapse foretold
 the 50% decline in Microsoft stock.
+
+
+![fig-104.2](./img/fig-104.2.png)
+**FIGURE 104.2.** Microsoft. A Key Reversal Day in March. Department of Justice
+breakaway gaps: runaway gaps, exhaustion gaps. Selling climax. As usual, further
+lows are achieved. A cornucopia of chartist’s delights.
 
 ##### Key Reversal Days
 
@@ -8329,59 +6250,6 @@ a position for an anticipated Bear Market, adding other positions as more
 significant patterns occur and as support levels are broken.
 This pattern also is useful in trading range markets, as shown in some
 Internet stocks from 2000, where trading with Key Reversal Days would
-
-![fig-104](./img/fig-104.png)
-**FIGURE 104.2.** Microsoft. A Key Reversal Day in March. Department of Justice
-breakaway gaps: runaway gaps, exhaustion gaps. Selling climax. As usual, further
-lows are achieved. A cornucopia of chartist’s delights.
-
-```
-MSFT(D) - Daily NASDAQ L = 27.56 +0.35 +1 .29% B = 27.55 A = 27.56 O = 27.67 Hi = 27.73 Lo = 27.44 C = 27.56 V = 57145012
-Bull Trap
-```
-```
-Runaway Days
-```
-```
-Runaway Gap
-```
-```
-Exhasution Gap
-```
-```
-Department of Justice Gap
-```
-```
-48.00
-```
-```
-42.00
-```
-```
-37.00
-```
-```
-31.3332.00
-```
-```
-28.00
-```
-```
-25.00
-```
-```
-44.06
-```
-```
-35.30
-```
-```
-S O N D 00 F M A M J J A S O N
-Created with TradeStation
-```
-
-_184 Technical Analysis of Stock Trends_
-
 have allowed the trader to escape _unscathed_ in the minicrash of the NASDAQ
 in early 2000. (Cf. Figures 104.3 and 104.4 on the following pages for Ebay
 and Lucent.)
@@ -8393,51 +6261,12 @@ icant profits.
 Clearly these are the tactics of scalpers and speculators, but it does not
 hurt the long-term investor to know and understand them.
 
-![fig-104](./img/fig-104.png)
+![fig-104.3](./img/fig-104.3.png)
 **FIGURE 104.3.** Ebay. As Ebay broke its trendline and drifted sideways, it became
 a good subject for Key Reversal Day trading. Note several instances.
 
-```
-EBAY INC-(Nasdaq NM) 39.00 –0.29 –0.74%
-```
-```
-32
-30
-28
-26
-24
-22
-20
-18
-16
-```
-```
-14
-```
-```
-12
-```
-```
-10
-```
-```
-8
-Apr May Jun Jul Aug Sep Oct Nov Dec 00 Feb Mar Apr
-1998–2004 Prophet Financial Systems, Inc. | Terms of use apply.
-```
-```
-k
-```
-```
-k k k
-```
-```
-k k
-k
-```
 
-_Chapter 10.1: Short-Term Phenomena of Potential Importance 185_
-
+![fig-104.3.1](./img/fig-104.3.1.png)
 **FIGURE 104.3.1.** If you can’t deliver groceries electronically what good is the In-
 ternet? Meg Whitman (a competent, well, more than competent, CEO) and Ebay
 found a use for it: The biggest flea market ever invented (and growing every day).
@@ -8452,50 +6281,12 @@ Ellison at Oracle. Moore at Intel. Gates at Microsoft. Jobs at Apple (and Pixar 
 NEXT and etc., etc., etc...). In 2005 what’s to be done with Ebay? Draw a trendline,
 raise your stops and sell it if it reverses.
 
-```
-EBAY(D) -Weekly NASDAQ L = 35 .14 –0 .24 –0 .68% B = 35 .14 A = 35 .15 O = 35 .15 Hi = 35 .58 Lo = 34 .93 C = 35 .14 V = 11216380
-```
-```
-35 .83
-```
-```
-47.00
-35.14
-25.00
-18.00
-13.00
-10.00
-7.00
-5.00
-4.00
-3.00
-```
-```
-2.00
-```
-(^1999200020012002200320042005) Created with TradeStation
+
+![fig-104.4.](./img/fig-104.4.png)
+**FIGURE 104.4.** Lucent. Late 20th and early 21st century schizophrenia. Runaway Days, Breakaway Gaps. Maalox is to be prescribed for the investor. Ecstasy for the trader. Reversal Days and short-term tactics win the day when the subject is insane. An excellent example of fitting the trader to the stock. Why would a rational investor own such a stock?
 
 
-_186 Technical Analysis of Stock Trends_
-
-```
-FIGURE 104.4.
-```
-```
-Lucent. Late 20th and early 21st century schizophrenia. Runaway Days, Breakaway Gaps. Maalox is to be prescribed for
-```
-```
-the investor. Ecstasy for the trader. Reversal Days and short-term tactics win the day when the subject is insane. An excellent example offitting the trader to the stock. Why would a rational investor own such a stock?
-```
-```
-LU (Lucent Tech Inc) 08/26/2006 3:34 PM EDT
-```
-```
-© 2002-2006 Prophet Financial Systems, Inc. All Rights Reserved.
-```
-
-_Chapter 10.1: Short-Term Phenomena of Potential Importance 187_
-
+![fig-104.4.1](./img/fig-104.4.1.png)
 **FIGURE 104.4.1.** In the caption to Figure 104.4, the editor asked, apparently rhe-
 torically why a rational investor would own Lucent. The picture here shows what
 happens when apparently rational investors do not set a stop to protect themselves
@@ -8503,52 +6294,7 @@ from irrational volatility. The market knows things investors do not know. But i
 reveal these things to the most basic of investors if he reads the chart. This chart is
 added for the 9th Edition to pick up the picture where the 8th left it.
 
-```
-LU(D) -Weekly NYSE L = 2 .84 –0 .02 –0 .70% B = 0 .00 A = 0 .00 O = 2 .85 Hi = 2 .90 Lo = 2 .81 C = 2 .84 V = 31864800
-```
-```
-8th Edition
-Fig. 104 .4
-```
-```
-3.97
-```
-```
-1.99
-```
-```
-55.00
-40.00
-29.00
-21.00
-15.00
-11.00
-8.00
-```
-```
-5.00
-4.00
-3.00
-2.00
-```
-```
-2.84
-```
-```
-1.00
-```
-```
-1998 1999 2000 2001 2002 2003 2004 2005
-Created with TradeStation
-```
-
-
-```
-189
-```
-## chapter eleven
-
-# Consolidation Formations
+## Chapter 11. Consolidation Formations
 
 An army, which has pushed forward too rapidly, penetrated far into enemy
 territory, suffered casualties, and outrun its supplies, must halt eventually,
