@@ -906,8 +906,7 @@ nói là bán khống hoàn toàn — như Edwards và Magee ưa thích, và nh�
 này cũng ưa thích.
 
 
-## chương bốn
-# Lý thuyết Dow trong thực hành
+## Chương 4. Lý thuyết Dow trong thực hành
 
 _EN9: Người đọc hời hợt và cẩu thả sẽ lắc đầu trước chương này và hỏi tại sao
 trên đời này Biên tập viên lại không cắt bỏ nó khỏi cuốn sách. Biên tập viên
