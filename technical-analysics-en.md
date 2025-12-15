@@ -6331,18 +6331,6 @@ of Trend Consolidation are fairly well defined, taking on a recognizable
 pattern.
 
 
-_190 Technical Analysis of Stock Trends_
-
-##### Flags and Pennants
-
-We do not need to spend more time here on the Triangles and Rectangles;
-they have been examined in both their Reversal and Consolidation manifes-
-tations in previous chapters. Our first two formations, which are character-
-istic of Consolidation _only_ , are the Flags and Pennants, and they are curiously
-related in certain aspects, as we shall see, to Triangles, Rectangles, and
-Wedges.
-A _Flag_ looks like a flag on the chart. That is, it does if it appears in an
-uptrend; the picture is naturally turned upside down in a downtrend. It
 
 ![fig-105](./img/fig-105.png)
 **FIGURE 105.** This is a typical and practically perfect Flag, constructed May 12 to
@@ -6353,56 +6341,29 @@ topside with high volume in another straight-line push from 15 to 21. Study this
 chart again when you come to the Flag-measuring formula on page 192. The dashes
 at 12 indicate the upper range of an old Resistance Level (Chapter 13).
 
-```
-MARTIN – PARRY MRT
-```
-```
-1945
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-G
-```
-```
-X D 150
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-14
-```
-```
-13
-12
-```
-```
-11
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-71421285 1219262 91623307 1421284 111825 1 8 152229
-```
+##### Flags and Pennants
 
-_Chapter eleven: Consolidation Formations 191_
+We do not need to spend more time here on the Triangles and Rectangles;
+they have been examined in both their Reversal and Consolidation manifes-
+tations in previous chapters. Our first two formations, which are character-
+istic of Consolidation _only_ , are the Flags and Pennants, and they are curiously
+related in certain aspects, as we shall see, to Triangles, Rectangles, and
+Wedges.
 
+
+
+![fig-106](./img/fig-106.png)
+**FIGURE 106.** Another typical Flag of 3 weeks’ duration, August 30 to September 18.
+This National Gypsum chart overlaps that in Figure 49, showing the false move at
+the apex of the May–June Symmetrical Triangle. A buy signal was given when prices
+pushed up through the old apex level on August 23 with increased volume. Most
+interesting is the second Symmetrical Triangle which formed in October–November,
+an almost exact replica of the first, but with a downside false move at its apex. The
+sharp increase in volume on November 27 left no doubt as to its being a Consolidation
+rather than Reversal Pattern. “NG” went on up to 33.
+
+A _Flag_ looks like a flag on the chart. That is, it does if it appears in an
+uptrend; the picture is naturally turned upside down in a downtrend. It
 might be described as a small, compact parallelogram of price fluctuations,
 or a tilted Rectangle which slopes back moderately against the prevailing
 trend. Let us consider the Uptrend Flag first. It usually forms after a rapid
@@ -6418,59 +6379,18 @@ tion carries quotations slightly below the preceding Bottom with further
 diminution of activity. Then follows a series of similar Minor Fluctuations,
 each of whose Tops and Bottoms are successively a trifle lower than its
 predecessor, and with volume shrinking markedly and constantly as the
-
-![fig-106](./img/fig-106.png)
-**FIGURE 106.** Another typical Flag of 3 weeks’ duration, August 30 to September 18.
-This National Gypsum chart overlaps that in Figure 49, showing the false move at
-the apex of the May–June Symmetrical Triangle. A buy signal was given when prices
-pushed up through the old apex level on August 23 with increased volume. Most
-interesting is the second Symmetrical Triangle which formed in October–November,
-an almost exact replica of the first, but with a downside false move at its apex. The
-sharp increase in volume on November 27 left no doubt as to its being a Consolidation
-rather than Reversal Pattern. “NG” went on up to 33.
-
-```
-NATIONAL GYPSUM NG
-```
-```
-1945
-```
-```
-JUNE JULY AUGUST SEPTEMBER OCTOBER NOVEMBER
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-14
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-162330 71421284 1118251 8 152229 61320273 101724 1 8
-```
-
-_192 Technical Analysis of Stock Trends_
-
 pattern develops. On the chart, the initial, steep up-move followed by the
 compact, sideways, and slightly down-sloping price Congestion Area, which
 can be roughly bounded, top and bottom, by parallel lines, takes on the
 appearance of a mast (or halyard) with a flag flying from its peak. Hence,
 of course, the name of the formation.
+
+![fig-107](./img/fig-107.png)
+**FIGURE 107.** Flags of the “Half-Mast” type appear most often in the later and most
+active stages of a Primary Advance. The above example (January) was the last
+Consolidation Formation before “NK’s” 1937 Bull Market Top. Note the Rectangle
+Reversal Pattern in March and series of step-down patterns that followed.
+
 Sometimes each rally and setback within the Flag takes 3 or 4 days,
 rarely more. In other cases, prices will skip back and forth between the upper
 and lower Flag boundaries in a single day or two, in which event the pattern
@@ -6483,53 +6403,23 @@ to a relatively low ebb. Then suddenly, prices will erupt with a new burst
 of activity from the end of the Flag and push straight up again in another
 advance that practically duplicates the original “mast” atop which the Flag
 was constructed.
+
+
+
 We have spoken of the Flag pattern as being moderately down-slanting,
 but the very short and “solid” ones will frequently develop horizontally and
 look like small squares. (On rare occasions a pattern of the Flag type in an
 uptrend will even slope up a trifle.)
 
-![fig-107](./img/fig-107.png)
-**FIGURE 107.** Flags of the “Half-Mast” type appear most often in the later and most
-active stages of a Primary Advance. The above example (January) was the last
-Consolidation Formation before “NK’s” 1937 Bull Market Top. Note the Rectangle
-Reversal Pattern in March and series of step-down patterns that followed.
 
-```
-NASH – KELVINATOR NK 1937
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-2 9 162330 6 1320276 1320273 101724 1 81522 295121926
-```
 
-_Chapter eleven: Consolidation Formations 193_
 
 Flags form on steep down moves in much the same manner and with
 precisely the same implications as they do in uptrends. Down Flags, of
 course, tend to slope up; i.e., they simply invert the picture presented by an
+up Flag. Trading volume diminishes during their formation and increases
+again as prices break down away from them.
+
 
 ![fig-108](./img/fig-108.png)
 **FIGURE 108.** Sometimes a stock will make a long series of small Consolidation
@@ -6541,62 +6431,6 @@ was still up. A final Top was made at 39½ in March. Note strong buy signal give
 on December 14. Refer to this record again in connection with Support and Resistance
 studies in Chapter 13.
 
-```
-VANADIUM CORP. VA
-```
-```
-1936–1937
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-```
-```
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-3 10 17 24 31 7 14 21 28 5 12 19 26 2 9 16 23 30 6 13 20 27 6 13 20 27
-```
-
-_194 Technical Analysis of Stock Trends_
-
-up Flag. Trading volume diminishes during their formation and increases
-again as prices break down away from them.
 
 ##### The Pennant — A Pointed Flag
 
@@ -6610,9 +6444,6 @@ a Pennant than in a Flag (which we naturally would expect on account of
 the progressively shorter fluctuations which compose it), and may drop
 almost to nothing before the Pennant is completed and prices break away
 from it in a new and rapid move.
-The Pennant might also be described as a short, compact Wedge, char-
-acterized by marked diminution of activity. When, as is usual, it slants back
-against the preceding trend, its forecasting implications are similar to those
 
 ![fig-109](./img/fig-109.png)
 **FIGURE 109.** A Bull Flag in February and a Bear Flag in April 1936, in Briggs. The
@@ -6621,46 +6452,11 @@ ered to 64½ in November 1936, making there a long-term Major Double Top with
 this March high. The Support–Resistance Zone at 51–53, indicated by dashed line,
 was still effective in 1946! (See Chapter 13.)
 
-```
-BRIGGS BG
-```
-```
-1936
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-68
-64
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-4 1118251 815222971421284 1118252 91623 306 132027
-```
 
-_Chapter eleven: Consolidation Formations 195_
 
+The Pennant might also be described as a short, compact Wedge, char-
+acterized by marked diminution of activity. When, as is usual, it slants back
+against the preceding trend, its forecasting implications are similar to those
 of the Wedge, in that prices break out of it in a direction opposite to its slant.
 But there are rarer Minor variations of the Pennant, comparable with those
 sometimes found in the Flag, in which the price area is very short and “solid”
@@ -6673,10 +6469,6 @@ pattern then resembles a curved horn which runs to a long, slender point.
 Don’t let these variations worry you; there is nothing deceptive about their
 appearance; their kinship to the more common, normal form is quite apparent.
 
-##### The Measuring Formula
-
-The same approximate measuring formula applies to the Pennant as to the
-Flag. They are both “Half-Mast” Patterns which ordinarily form after a fairly
 
 ![fig-110](./img/fig-110.png)
 **FIGURE 110.** The down-sloping, Converging Price Formation of November 4
@@ -6684,60 +6476,18 @@ through December 9 might be called either a short Wedge or a Pennant. Note small
 Flag in October; also Runaway Gaps November 4 and February 19, and Breakout
 Gap December 10.
 
-```
-ANACONDA COPPER A
-```
-```
-1936–1937
-```
-```
-OCTOBER NOVEMBERDECEMBER JANUARY FEBRUARY MARCH
-```
-```
-72
-68
-64
-```
-```
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-Sales
-100’s
-500
-400
-300
-200
-100
-```
-```
-G
-G
-```
-```
-G
-```
-```
-3 101724317 1421285 1219262 9162330 61320 27 6132027
-```
+##### The Measuring Formula
 
-_196 Technical Analysis of Stock Trends_
+![fig-111](./img/fig-111.png)
+**FIGURE 111.** An example (in June 1944) of the very brief and compact type of price
+“Congestion” which can be classed as a Flag. The advance here started at 5 from a
+13-month Symmetrical Triangle of which only the last 2 months appear above. The
+measuring implication (see below) of this tiny Flag was not fulfilled until after prices
+had undergone a sort of Triangular Consolidation in July.
 
+
+The same approximate measuring formula applies to the Pennant as to the
+Flag. They are both “Half-Mast” Patterns which ordinarily form after a fairly
 steady and rapid (steep) price movement. In applying the measuring rule,
 go back to the beginning of that immediately preceding move, to the point
 where it broke away from a previous Consolidation of Reversal Formation
@@ -6754,49 +6504,6 @@ mula is best applied on a semilogarithmic chart by measuring actual chart
 distance rather than by counting points. You can check this by referring to
 the examples illustrating this study.
 
-![fig-111](./img/fig-111.png)
-**FIGURE 111.** An example (in June 1944) of the very brief and compact type of price
-“Congestion” which can be classed as a Flag. The advance here started at 5 from a
-13-month Symmetrical Triangle of which only the last 2 months appear above. The
-measuring implication (see below) of this tiny Flag was not fulfilled until after prices
-had undergone a sort of Triangular Consolidation in July.
-
-```
-PACIFIC TIN PTC
-```
-```
-1944
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-7
-```
-```
-6
-```
-```
-5
-```
-(^412)
-Sales
-100’s
-125
-100
-75
-50
-25
-8 152229 61320273 1017241 81522295 121926 2 9162330
-
-
-_Chapter eleven: Consolidation Formations 197_
-
-##### Reliability of Flags and Pennants
-
-These pretty little patterns of Consolidation are justly regarded as among the
-most dependable of chart formations, both as to directional and measuring
-
 ![fig-112](./img/fig-112.png)
 **FIGURE 112.** Another example of the series of Flag-type Consolidations that may
 form in a rapid, third-phase Bull Market Advance. Mullins went from 15 to above
@@ -6810,57 +6517,14 @@ it looked as though this Flag had “gone stale,” but when prices rose above t
 previous high on August 27, with a smart pickup in volume, purchases were obvi-
 ously safe.
 
-```
-MULLINS MANUFACTURING B MNS 1936
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-G
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-4 111825 2 9162330 6132027 4 111825 1 81522 295 121926
-```
+##### Reliability of Flags and Pennants
 
-_198 Technical Analysis of Stock Trends_
 
+
+
+
+These pretty little patterns of Consolidation are justly regarded as among the
+most dependable of chart formations, both as to directional and measuring
 indications. They do fail occasionally, but almost never without giving warn-
 ing before the pattern itself is completed. All that is necessary to guard
 against such failures is to strictly apply the tests as to authenticity of pattern
@@ -6888,6 +6552,18 @@ your chart at all times.
 
 ##### Where They May Be Expected
 
+
+
+![fig-113](./img/fig-113.png)
+**FIGURE 113.** The vertical lines marked “M” show how the measuring formula is
+applied to a Flag Pattern. Note that the first measurement is taken from the level
+where the mast leaves the previous “Congestion” up to the peak of the Flag. This
+same distance is then measured up from the Flag breakout. In “WYO,” the formula
+worked out exactly. Trading commitments should normally have been cashed in
+above 36 on this move. They might then have been reinstated when it became
+apparent by April 2 that a Rounding Bottom was completed (note volume) for a new
+advance.
+
 Flag and Pennant Consolidations are characteristic of fast moves. Therefore,
 they show up most frequently in the later, dynamic phase of Bull Markets,
 after the first accumulation and the more orderly early markup stages have
@@ -6908,8 +6584,6 @@ hold strictly to the limitations we have stated above under the heading of
 “reliability,” do not trade on them.
 
 
-_Chapter eleven: Consolidation Formations 199_
-
 ##### Flag Pictures on Weekly and Monthly Charts
 
 One of our requisites for a dependable Flag (or Pennant) was that it should
@@ -6919,74 +6593,6 @@ on a monthly chart and barely appears on a weekly chart. You will find price
 areas on long-range charts, patterns which have taken 8 or 10 weeks to as
 many months, and sometimes a year or two, in their construction, which
 assume the shape of a Flag, but do not expect them to function as Flags.
-
-![fig-113](./img/fig-113.png)
-**FIGURE 113.** The vertical lines marked “M” show how the measuring formula is
-applied to a Flag Pattern. Note that the first measurement is taken from the level
-where the mast leaves the previous “Congestion” up to the peak of the Flag. This
-same distance is then measured up from the Flag breakout. In “WYO,” the formula
-worked out exactly. Trading commitments should normally have been cashed in
-above 36 on this move. They might then have been reinstated when it became
-apparent by April 2 that a Rounding Bottom was completed (note volume) for a new
-advance.
-
-```
-WYANDOTTE WORSTED WYO
-```
-```
-1945–1946
-```
-```
-M
-```
-```
-M
-```
-```
-G
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-22295 1219262 916232 9 16233061320274 11 18251 8 15
-```
-
-_200 Technical Analysis of Stock Trends_
-
 Examined in detail on a daily chart, these same long areas almost always
 will be found to contain price formations having entirely different signifi-
 cance. Frequently, what is really a Major _Reversal_ Area following a long, rapid
@@ -7007,56 +6613,6 @@ Rectangles may develop in the first stage just before a Panic Decline, or in
 Mast” Pattern in January, with measuring gaps (G, G) above and below it; a downside
 Flag in early February (check measurement); a fine Ascending Triangle at the bottom
 of this reaction, with a Throwback in April, giving an ideal “buy spot.”
-
-```
-AMERICAN WOOLEN WY
-```
-```
-1946
-G
-```
-```
-G
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-68
-64
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-5121926 2 9 16232 9162330 6132027 4111825 1 8 152229
-```
-
-_Chapter eleven: Consolidation Formations 201_
-
 the last stage preceding a strictly limited final sell-off. The latter manifesta-
 tion presumably betokens premature accumulation by interests who feel that
 prices have already gone low enough to suit their purposes. (They come out
@@ -7064,17 +6620,6 @@ all right, of course, if they are able to hold on through the remainder of the
 Bear Swing and long enough for the next Bull Market to put prices back up
 again to profitable levels.)
 
-##### Head-and-Shoulders Consolidations
-
-All our references to the Head-and-Shoulders Formations up to this point
-(see Chapters 6 and 7) have considered that pattern as typifying a Reversal
-of Trend, and, in its normal and common manifestation, that is most defi-
-nitely the Head-and-Shoulders function. But, occasionally, prices will go
-through a series of fluctuations which construct a sort of inverted Head-and-
-Shoulders picture, which in turn leads to _continuation_ of the previous trend.
-There is no danger of confusing such Continuation or Consolidation
-Formations with regular Head-and-Shoulders Reversals because, as we have
-said, they are inverted or abnormal with respect to the direction of the price
 
 ![fig-114](./img/fig-114.png)
 **FIGURE 114.1.** MO. Talk about your technician’s delights. Altria Group throws off
@@ -7085,45 +6630,25 @@ nontechnician probably is suffering from nausea at this point. It’s an ill rol
 which bodes ill for everyone. And note well, a completely tradable situation for the
 alert short-term technician.
 
-```
-MO(D) - Daily NYSE L = 65.41 +0.42 +0.65% B = 0.00 A = 0.00 O = 65.65 Hi = 65.65 Lo = 65.05 C = 65.41 V = 4968500
-```
-```
-52 .51
-```
-```
-69.00
-```
-```
-66.00
-65 .41
-```
-```
-60.00
-```
-```
-56.00
-```
-```
-52.00
-```
-```
-48.00
-```
-```
-45.00
-```
-```
-42.00
-```
-```
-39.00
-S O N D 04 F M A M J J A S O N D 05 F M A M
-Created with TradeStation
-```
 
-_202 Technical Analysis of Stock Trends_
+##### Head-and-Shoulders Consolidations
 
+
+![fig-115](./img/fig-115.png)
+**FIGURE 115.** A Flag (end of November) which seemed for several weeks to have
+failed completely. However, prices rose quickly to 36¼ from their December 23 low,
+thus finally carrying through according to formula. Note Flat-Topped Broadening
+Formation which started the move.
+
+All our references to the Head-and-Shoulders Formations up to this point
+(see Chapters 6 and 7) have considered that pattern as typifying a Reversal
+of Trend, and, in its normal and common manifestation, that is most defi-
+nitely the Head-and-Shoulders function. But, occasionally, prices will go
+through a series of fluctuations which construct a sort of inverted Head-and-
+Shoulders picture, which in turn leads to _continuation_ of the previous trend.
+There is no danger of confusing such Continuation or Consolidation
+Formations with regular Head-and-Shoulders Reversals because, as we have
+said, they are inverted or abnormal with respect to the direction of the price
 trend prior to their appearance. In other words, one of these patterns that
 develops in a rising market will take the form of a Head-and-Shoulders
 Bottom. Those that appear in decline assume the appearance of a Head-and-
@@ -7137,62 +6662,17 @@ Consolidation Formation resembled in its price contour a Head-and-Shoul-
 ders Top, but the attendant volume will diminish instead of increase on the
 left shoulder and head, as well as on the right shoulder. The same holds true
 for the “Bottom” Patterns that develop as Consolidation in an advance
-
-![fig-115](./img/fig-115.png)
-**FIGURE 115.** A Flag (end of November) which seemed for several weeks to have
-failed completely. However, prices rose quickly to 36¼ from their December 23 low,
-thus finally carrying through according to formula. Note Flat-Topped Broadening
-Formation which started the move.
-
-```
-AMERICAN LOCOMOTIVE LA
-```
-```
-1935
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-613 2 27 3101724317142128 51219262 91623 307142128
-```
-
-_Chapter eleven: Consolidation Formations 203_
-
 market. Breakouts, however, resemble in all respects those arising from
 Reversal Formations.
+
+
+![fig-116](./img/fig-116.png)
+**FIGURE 116.** Typical of the form that Head-and-Shoulders Consolidation Patterns
+may take, both as to price pattern and volume, was this development in Anaconda.
+Measuring formula for the small Flag in October should be applied from the point
+of breakout through the Head-and-Shoulders neckline.
+
+
 Head-and-Shoulders Consolidations of the Complex or Multiple-type
 very seldom appear on the charts. Theoretically, they might, of course, and
 should be as easy for the chart technician to handle as the simple forms.
@@ -7212,53 +6692,12 @@ tion Areas with assurance that it sets up a definite and dependable objective;
 one has to look, in these cases, to a variety of other chart indications in order
 to appraise the probable proportions of the move to follow.
 
-![fig-116](./img/fig-116.png)
-**FIGURE 116.** Typical of the form that Head-and-Shoulders Consolidation Patterns
-may take, both as to price pattern and volume, was this development in Anaconda.
-Measuring formula for the small Flag in October should be applied from the point
-of breakout through the Head-and-Shoulders neckline.
 
-```
-ANACONDA COPPER A
-```
-```
-1936
-```
-```
-S S
-H
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-Sales
-100’s
-500
-400
-300
-200
-100
-```
-```
-4 1118251 8152229 51219263 10172431 7 1421 285121926
-```
-
-_204 Technical Analysis of Stock Trends_
+![fig-117](./img/fig-117.png)
+**FIGURE 117.** A 1945 Head-and-Shoulders Consolidation in which both of the
+shoulders and the head took a “Saucer” form. Compare price and volume trends.
+Prices advanced to 31½ in July, came back again to 25½ in August, and then shot up
+to 40 in November.
 
 ##### Scallops–Repeated Saucers
 
@@ -7284,63 +6723,8 @@ to about 10 to l5% of the price of the issue. The total reaction from the left-
 hand lip of each Saucer to its Bottom level is usually a little greater, from
 20 to 30%. And the length (duration) of the Saucers is normally 5 to 7 weeks,
 rarely less than 3. Thus, overall advance is slow but steady, in much the
-
-![fig-117](./img/fig-117.png)
-**FIGURE 117.** A 1945 Head-and-Shoulders Consolidation in which both of the
-shoulders and the head took a “Saucer” form. Compare price and volume trends.
-Prices advanced to 31½ in July, came back again to 25½ in August, and then shot up
-to 40 in November.
-
-```
-AMERICAN & FOREIGN POWER 2d Pfd A FP 2d Pr
-```
-```
-1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6 132027 3 101724 3 10172431 7 142128 5 121926 2 9162330
-```
-
-_Chapter eleven: Consolidation Formations 205_
-
 same sense as the progress of the man who eventually got out of the deep
 well by climbing three steps for each two that he slipped back.
-The charts of stocks that take this sort of course show a picture of strikingly
-similar and Symmetrical Rising Scallops, one succeeding another with little or
-no pause between. Trading activity runs up to a peak at the latter stage of each
-Scallop, as the previous high is approached and exceeded, then diminishes into
-dullness as prices curve down and flatten out at the Bottom of the next Saucer,
-and picks up again as prices curve up into their next rise.
-The trading opportunities afforded by stocks of the Saucering habit hardly
-require extended comment (although we shall set down some detailed speci-
-fications in the second section of this book). The Bottom level of each Scallop
-is usually easy to detect by watching price trend and volume, and so is the
-topping out at the end. Yet it is curiously a fact that most “tape watchers”
-handle such stocks in the wrong way, becoming interested in them and buying
-when they show activity (“make a new high on volume”) and neglecting them
-entirely when they are in the dull, rounding-out stage of their trends.
 
 ![fig-118](./img/fig-118.png)
 **FIGURE 118.** Part of a genuine “Scallop” uptrend, typical except for the short
@@ -7350,55 +6734,28 @@ to 18½ in February. A 4-month Saucer, from February 1945 to June, preceded this
 chart. Note position traders found themselves in, who bought at 9 on the “new high
 volume” in June.
 
-```
-MIAMI COPPER MI
-```
-```
-1945
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-8
-```
-```
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-XD .25 ¢
-```
-```
-2330 71421284 111825 1 81522 9 6132027 310 17241 815
-```
+The charts of stocks that take this sort of course show a picture of strikingly
+similar and Symmetrical Rising Scallops, one succeeding another with little or
+no pause between. Trading activity runs up to a peak at the latter stage of each
+Scallop, as the previous high is approached and exceeded, then diminishes into
+dullness as prices curve down and flatten out at the Bottom of the next Saucer,
+and picks up again as prices curve up into their next rise.
 
-_206 Technical Analysis of Stock Trends_
+The trading opportunities afforded by stocks of the Saucering habit hardly
+require extended comment (although we shall set down some detailed speci-
+fications in the second section of this book). The Bottom level of each Scallop
+is usually easy to detect by watching price trend and volume, and so is the
+topping out at the end. Yet it is curiously a fact that most “tape watchers”
+handle such stocks in the wrong way, becoming interested in them and buying
+when they show activity (“make a new high on volume”) and neglecting them
+entirely when they are in the dull, rounding-out stage of their trends.
 
-(Many boardroom tape watchers scorn charts with unfortunate conse-
+![fig-119](./img/fig-119.png)
+**FIGURE 119.** Although the Scalloping habit characteristically appears in low-priced
+issues, it is sometimes found in widely held, semi-investment stocks of medium price,
+such as “CWE.”
+
+    (Many boardroom tape watchers scorn charts with unfortunate conse-
 quences to their capital in the long run. Genuinely expert tape readers —
 those who are able to show fairly consistent profits in their trades — are
 really extremely rare. _EN: For “tape readers” substitute “day traders,” 99% of
@@ -7425,40 +6782,6 @@ greater-than-wanted advance arising at the end of one of the Saucers. Con-
 sequently, if you have previously taken a position in it at a favorable point
 (near the Bottom of a Scallop), you will unlikely be hurt when the stock
 finally alters its action.
-
-![fig-119](./img/fig-119.png)
-**FIGURE 119.** Although the Scalloping habit characteristically appears in low-priced
-issues, it is sometimes found in widely held, semi-investment stocks of medium price,
-such as “CWE.”
-
-```
-COMMONWEALTH EDISON CWE
-```
-```
-1945
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-36
-34
-32
-30
-28
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-7 142128 4 1118251 8152229 6 132027 3101724 1 8 152229
-```
-
-_Chapter eleven: Consolidation Formations 207_
 
 Very low-priced issues may persist in a Scalloping Trend right up to
 their Major Bull Tops, and even attempt another Saucer Movement following
@@ -7507,8 +6830,14 @@ sive practices even if the desire were there. Most of them go far beyond the
 most reasonable needs to safeguard themselves against any contacts which,
 however innocent or useful, might be viewed with suspicion.
 
-
-_208 Technical Analysis of Stock Trends_
+![fig-120](./img/fig-120.png)
+**FIGURE 120.** This chart shows the last 5 months of a broad, 13-month Saucer-like
+Consolidation in “IT,” which followed its rapid run up from 3 to 16 in late 1943 and
+early 1944. “IT” is an erratic actor, and its volume is apt to be particularly deceptive
+in day-to-day movements. Major Price Patterns in it, however, are dependable. This
+final phase of its long Consolidation (distribution and reaccumulation) took first the
+form of a Rectangle (with a premature breakout) and then an Ascending Triangle.
+Its 1945–46 Bull Market Top was a massive Head-and-Shoulders.
 
 The old-time “plunger” hasn’t disappeared entirely, but high margins
 and regulations preventing “Bear Raiding” have made present-day stock
@@ -7519,65 +6848,8 @@ In recent years, they have appeared in numbers only in the final stages of
 Bull Markets. _EN: Note the Day Trading craze that infected the markets in the late
 1990s._ Of course, their operations never did affect the charts much except to
 augment activity.
-On the other hand, higher taxes and greater regulation have most cer-
-tainly not provided safer, closer, or more stable markets for the small investor.
-Higher margins have not prevented Panic Collapses. If anything, markets
-have been “thinner” on the downside, more vulnerable to rapid and drastic
-decline, than they were prior to modern regulation. We still have the very
-same sort of Bull and Bear Markets, and much the same sort of market trend
-development, that we had 50 years ago. The surprising thing is not that a
 
-![fig-120](./img/fig-120.png)
-**FIGURE 120.** This chart shows the last 5 months of a broad, 13-month Saucer-like
-Consolidation in “IT,” which followed its rapid run up from 3 to 16 in late 1943 and
-early 1944. “IT” is an erratic actor, and its volume is apt to be particularly deceptive
-in day-to-day movements. Major Price Patterns in it, however, are dependable. This
-final phase of its long Consolidation (distribution and reaccumulation) took first the
-form of a Rectangle (with a premature breakout) and then an Ascending Triangle.
-Its 1945–46 Bull Market Top was a massive Head-and-Shoulders.
 
-```
-INTERNATIONAL TEL. & TEL. IT 1944
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-8 152229 5 1219264 111825 1 8152229 6132027 3 1017241
-```
-
-_Chapter eleven: Consolidation Formations 209_
-
-few types of chart patterns that were, on occasion, produced by unregulated
-trading are now less common, but that the great majority of technical phe-
-nomena have been practically unaffected. The chart student of 1907 would
-be quite at home with the charts of 1966. _EN: And with those of 2000. That is_
 
 ![fig-121](./img/fig-121.png)
 **FIGURE 121.** There are times when a Consolidation Pattern gives the only good
@@ -7598,48 +6870,19 @@ upside from both — is something to watch for when it appears that a Reversal f
 a Bear to Bull Trend is due.
 Resistance Levels will be discussed in Chapter 13.
 
-```
-FLINTKOTE FO
-```
-```
-1941–1943
-```
-```
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-Sales
-100’s
-50
-40
-30
-20
-10
-OS N D J F M MA J J A S O N D J F M
-```
 
-_210 Technical Analysis of Stock Trends_
 
+On the other hand, higher taxes and greater regulation have most cer-
+tainly not provided safer, closer, or more stable markets for the small investor.
+Higher margins have not prevented Panic Collapses. If anything, markets
+have been “thinner” on the downside, more vulnerable to rapid and drastic
+decline, than they were prior to modern regulation. We still have the very
+same sort of Bull and Bear Markets, and much the same sort of market trend
+development, that we had 50 years ago. The surprising thing is not that a
+few types of chart patterns that were, on occasion, produced by unregulated
+trading are now less common, but that the great majority of technical phe-
+nomena have been practically unaffected. The chart student of 1907 would
+be quite at home with the charts of 1966. _EN: And with those of 2000. That is_
 _why so little change has been necessary to bring Edwards’ classic account current
 to the third millennium. EN9: A note to a note. Pools and manipulators disappear
 and are replaced by some new pernicious form of skullduggery. Specialists and
@@ -7653,10 +6896,6 @@ horizontal lines seem to be more “zones” than hard and fast lines and more j
 might be necessary in interpretation. But everything which Edwards says here might
 have been written in 2005 instead of in the mid-20th century._
 
-
-```
-211
-```
 ## chapter twelve
 
 # Gaps
@@ -7697,10 +6936,6 @@ The most common superstition is that “a gap must be closed.” Some-
 times it is stated more cautiously in such words as: “If a gap isn’t closed in
 three days, it will be closed in three weeks, and if it isn’t closed in three
 weeks, it will be closed in three months, etc.” There are numerous variations,
-
-
-_212 Technical Analysis of Stock Trends_
-
 but they all add up to the belief that a gap must be closed, and that the trend
 is not to be trusted until the gap has been covered. It is the latter inference
 which leads to error.
@@ -7733,10 +6968,12 @@ was split 4-for-1 in 1930). In the meantime, he saw his investment shrink in
 hundreds of gaps made in the charts of the 1929 to 1930 markets which never
 have been covered since then, and many of them, it is safe to say, never will
 be closed.
+
 If you will think the matter over for a moment, you will see that the
 probabilities we have stated above for a gap’s being closed apply just as well
 to a stock’s returning to _any_ price range at which it has once been traded,
 gap or no gap.
+
 Another point: there are thousands of price gaps made in trading —
 some of them quite wide — which do not appear at all on the standard daily
 range charts because they are made _during_ a single day and not between one
@@ -7748,7 +6985,14 @@ Triangle is attended by a gap, but only those few show up on the charts that
 occur at the day’s opening gong.
 
 
-_Chapter twelve: Gaps 213_
+![fig-122](./img/fig-122.png)
+**FIGURE 122.** The April–June Rectangle on this 1945 chart of “AW” contained a
+number of insignificant Pattern Gaps. The two larger gaps marked “G” are of the
+Continuation or Runaway class. Note that prices closed at or near the top on each
+day that made a gap. Neither of these was closed for 2 years.
+Also of interest in this chart is the Descending Triangle, which started to form in
+March, but was never completed — a deceptive and discouraging picture until the
+April 7 gap was made.
 
 If we seem to have “protested too much” in the foregoing, it is only
 because we want our readers to study this topic with an open mind, free
@@ -7762,67 +7006,8 @@ trend possibilities. Let us see what we can make of them.
 First, however, we must eliminate from consideration the gaps that do _not_
 mean anything. An eighth-point gap obviously has no technical significance
 
-![fig-122](./img/fig-122.png)
-**FIGURE 122.** The April–June Rectangle on this 1945 chart of “AW” contained a
-number of insignificant Pattern Gaps. The two larger gaps marked “G” are of the
-Continuation or Runaway class. Note that prices closed at or near the top on each
-day that made a gap. Neither of these was closed for 2 years.
-Also of interest in this chart is the Descending Triangle, which started to form in
-March, but was never completed — a deceptive and discouraging picture until the
-April 7 gap was made.
 The Flag of mid-April “measured” the move from 9½ to 14. The gaps measured
 the two halves of it, on either side of the Flag.
-
-```
-AMERICAN WATER WORKS & ELECTRIC AW
-```
-```
-1945
-G
-```
-```
-G
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-6132027 3 101724 3 10172431 7 142128 5 1219262 9162330
-```
-
-_214 Technical Analysis of Stock Trends_
-
 as it represents only the minimum permitted change in price. By the same
 token, a gap of a quarter of a point or even a half point in a high-priced
 stock, such as Norfolk & Western (before the split), represents only a normal,
@@ -7867,9 +7052,6 @@ completed and prices break away from it. But not always. Sometimes a gap
 will develop in the _last_ traverse of prices across the pattern area just before
 a breakout, and in such cases, it is not closed for a long time, nor is there
 any reason why it should be.
-
-
-_Chapter twelve: Gaps 215_
 
 The forecasting significance of Common or Pattern Gaps is practically
 nil. They have some use to the technician simply because they help him
@@ -7917,17 +7099,6 @@ with Head-and-Shoulders Patterns, for instance, and they even occur on the
 penetration of trendlines, which we shall discuss in a subsequent chapter.
 
 
-_216 Technical Analysis of Stock Trends_
-
-What forecasting value can we ascribe to them? First, they serve to call
-attention to, and emphasize the fact of, a breakout. There can be little doubt
-that a genuine breakout has eventuated when prices jump out of a pattern
-with a conspicuous gap. False moves are seldom attended by gaps. Second,
-they carry the suggestion that the buying demand (or selling pressure, as
-the case may be) that produced the gap is _stronger_ than would be indicated
-by a gapless breakout. Hence, it may be inferred that the ensuing move will
-carry prices farther or faster, or both. It does not do to make too much of
-this point; it is a logical inference and one which has been borne out in the
 
 ![fig-123](./img/fig-123.png)
 **FIGURE 123.** The large up-gap made on July 5 in this chart was a typical Breakaway
@@ -7939,72 +7110,6 @@ of breakaway — through a Support Level.
 The first gap marked, on April 26, must be classified as a Runaway. It made a sort
 of “Island” of the whole April/June complex base.
 
-```
-BETHLEHEM STEEL BS
-```
-```
-1937
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-120
-```
-```
-112
-```
-```
-104
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-72
-68
-64
-60
-56
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-G
-```
-```
-3 10 17 24 1 8 15 22 29 5 12 19 26 3 10 17 24 31 7 14 21 28 4 11 18 25
-```
-
-_Chapter twelve: Gaps 217_
-
-majority of cases, but it has its exceptions and may prove most disappointing
-on occasion. Nevertheless, _other things being equal_ , of two stocks which
-emerged from Ascending Triangles at the same time, we should choose to
-buy the one that gapped out over the one that pushed its way out by small
-fractional steps.
 
 ![fig-124](./img/fig-124.png)
 **FIGURE 124.** A potent Breakaway Gap that showed on Zenith’s weekly chart when
@@ -8013,66 +7118,25 @@ developed beyond the gap, suggesting that it would not be quickly closed. The Ap
 reaction stopped short of it. In fact, this gap had still not been closed in 1956, more
 than 14 years later.
 
-```
-ZENITH RADIO ZE 1941–1943
-```
-```
-S S
-```
-```
-H
-```
-```
-G
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-8
-Sales
-100’s
-500
-400
-300
-200
-100
-OS N D J F M MA J J A S O N D J F M
-```
+What forecasting value can we ascribe to them? First, they serve to call
+attention to, and emphasize the fact of, a breakout. There can be little doubt
+that a genuine breakout has eventuated when prices jump out of a pattern
+with a conspicuous gap. False moves are seldom attended by gaps. Second,
+they carry the suggestion that the buying demand (or selling pressure, as
+the case may be) that produced the gap is _stronger_ than would be indicated
+by a gapless breakout. Hence, it may be inferred that the ensuing move will
+carry prices farther or faster, or both. It does not do to make too much of
+this point; it is a logical inference and one which has been borne out in the
+majority of cases, but it has its exceptions and may prove most disappointing
+on occasion. Nevertheless, _other things being equal_ , of two stocks which
+emerged from Ascending Triangles at the same time, we should choose to
+buy the one that gapped out over the one that pushed its way out by small
+fractional steps.
 
-_218 Technical Analysis of Stock Trends_
+![fig-125](./img/fig-125.png)
+**FIGURE 125.** As a matter of interest, this monthly chart of Zenith Radio is repro-
+duced for comparison with the weekly chart on the preceding page. The Head-and-
+Shoulders Bottom is easily seen.
 
 Except for the presumption of somewhat greater “steam” behind the
 move, the Breakaway Gap carries no particular measuring implication, nor
@@ -8096,34 +7160,10 @@ _always_ or _never_ without qualification. Unfortunately, the authors have _neve
 been able to discover a rule of techniques to which the market did not, on
 rare occasion, produce an exception. It is _always_ necessary to be on guard
 against such exceptional developments. Many of them are caused by general
-
-![fig-125](./img/fig-125.png)
-**FIGURE 125.** As a matter of interest, this monthly chart of Zenith Radio is repro-
-duced for comparison with the weekly chart on the preceding page. The Head-and-
-Shoulders Bottom is easily seen.
-
-```
-ZENITH RADIO ZE
-40
-```
-```
-30
-```
-```
-20
-```
-```
-10
-```
-```
-1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_Chapter twelve: Gaps 219_
-
 market conditions which counteract the technical trend in individual issues.
 Keep an eye on the charts of the “Averages,” as well as the particular issues
 in which you are interested.)
+
 Where Breakaway Gaps develop intraday, the daily chart cannot, of
 course, indicate how the day’s volume was distributed. In that event, it may
 be necessary to examine the ticker tape or ask your broker to refer to the
@@ -8165,23 +7205,6 @@ measurement of the move in which it develops. Its inference is that _prices
 will go as much farther beyond the gap as they already have gone between_ the
 beginning of the move and the gap, as measured directly (and vertically) on
 the chart.
-Since there is a tendency for advances to run, in terms of points, beyond
-the price levels arithmetically implied by this rule, and for declines to be
-
-
-_220 Technical Analysis of Stock Trends_
-
-more strictly limited, the gap-measuring rule works out particularly well
-when applied directly on semilogarithmic scale charts. On arithmetic charts,
-look for a trifle more on the upside and a trifle less on the downside. (In any
-event, you will be wise to “bank” on something short of the theoretical goal.)
-Runaway Gaps are easy to find and identify in retrospect, but our task
-is to recognize them as such at the time they appear. Of course, there is,
-obviously, no danger of confusing them with Pattern or Breakout Gaps. With
-those aside, any gap which shows up in a fast advance or decline _after_ prices
-have moved well away from an Area Formation (or the penetration of an
-important trendline or break through a potent Support or Resistance Level,
-which we shall discuss later) may be a Runaway Gap. What then becomes
 
 ![fig-126](./img/fig-126.png)
 **FIGURE 126.** The early 1946 daily chart of Blaw–Knox contained a number of
@@ -8204,59 +7227,23 @@ To return to the February 15 gap, this is fairly typical of many cases in which 
 impossible to say whether Continuation or Exhaustion is being signaled until 2 or
 3 days after the day the gap is made.
 
-```
-BLAW – KNOX BX
-```
-```
-1946
-```
-```
-FEBRUARY MARCH APRIL MAY JUNE JULY
-```
-```
-32
-30
-28
-```
-```
-26
-```
-```
-24
-```
-```
-G
-```
-```
-G
-```
-```
-RD
-```
-```
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-2 91623 2 9 162330 6132027 4 111825 1 8 1522 296132027
-```
 
-_Chapter twelve: Gaps 221_
-
+Since there is a tendency for advances to run, in terms of points, beyond
+the price levels arithmetically implied by this rule, and for declines to be
+more strictly limited, the gap-measuring rule works out particularly well
+when applied directly on semilogarithmic scale charts. On arithmetic charts,
+look for a trifle more on the upside and a trifle less on the downside. (In any
+event, you will be wise to “bank” on something short of the theoretical goal.)
+Runaway Gaps are easy to find and identify in retrospect, but our task
+is to recognize them as such at the time they appear. Of course, there is,
+obviously, no danger of confusing them with Pattern or Breakout Gaps. With
+those aside, any gap which shows up in a fast advance or decline _after_ prices
+have moved well away from an Area Formation (or the penetration of an
+important trendline or break through a potent Support or Resistance Level,
+which we shall discuss later) may be a Runaway Gap. What then becomes
 necessary is to distinguish it from our next type, the _Exhaustion Gap_. Usually,
 the price and volume action on the day following the gap furnishes the
 evidence required for a safe diagnosis.
-
-##### Two or More Runaway Gaps
-
-But it will be much easier to bring out the characteristics distinguishing
-Runaway and Exhaustion Gaps when we take up the latter in detail. Before
-doing so, we must mention those cases where two, and, rarely, even three,
 
 ![fig-127](./img/fig-127.png)
 **FIGURE 127.** A good example of a Runaway Gap which performed according to
@@ -8273,52 +7260,21 @@ The measuring-gap rule should be used for purposes of “getting out” rather t
 but it does give assurance that the move is near an end when the rule has been
 fulfilled.
 
-```
-BALTIMORE & OHIO BO 1936–1937
-```
-```
-G
-```
-```
-S S
-H
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-3101724317 142128 51219262 9 162330 61320 27 6132027
-```
 
-_222 Technical Analysis of Stock Trends_
 
+##### Two or More Runaway Gaps
+
+
+![fig-128](./img/fig-128.png)
+**FIGURE 128.** Panic Declines often produce large Runaway Gaps. The September
+7 gap in this chart, judged by its size, volume, subsequent action, and the fact that
+it was made in “new low ground,” marked it as of the measuring type. Implied goal
+was 26 or below. All other gaps in this chart were obviously of the “common” variety.
+
+
+But it will be much easier to bring out the characteristics distinguishing
+Runaway and Exhaustion Gaps when we take up the latter in detail. Before
+doing so, we must mention those cases where two, and, rarely, even three,
 gaps intervene in a fast move and are evidently all classifiable as of the
 Continuation or Runaway breed. It doesn’t happen often, and is particularly
 unlikely to appear in the chart of a fairly large and active issue, but one of
@@ -8327,82 +7283,6 @@ for 3 or 4 days making gaps between each successive pair. The only question
 of practical importance that arises in such cases is: where should the halfway
 measuring point be located? No quick and easy rule can be laid down, but
 studious inspection of the chart, especially of the volume trend, will usually
-
-![fig-128](./img/fig-128.png)
-**FIGURE 128.** Panic Declines often produce large Runaway Gaps. The September
-7 gap in this chart, judged by its size, volume, subsequent action, and the fact that
-it was made in “new low ground,” marked it as of the measuring type. Implied goal
-was 26 or below. All other gaps in this chart were obviously of the “common” variety.
-
-```
-SOUTHERN PACIFIC SX
-```
-```
-1937
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBERDECEMBER
-```
-```
-S
-```
-```
-H S
-```
-```
-G
-```
-```
-RD
-```
-```
-S H S
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-310172431 71421284 111825 2 91623306 1320 274 111825
-```
-
-_Chapter twelve: Gaps 223_
-
 afford an answer. Remember that halfway in these fast moves tends to come
 at the stage where prices are moving most easily and rapidly with respect
 to number of transactions recorded (whence the tendency to gap). If there
@@ -8449,14 +7329,15 @@ be enumerated as follows. If the trend has already carried out the full impli-
 cations of the price formation or Congestion Area from which it emerged,
 Exhaustion is more likely than Continuation. By the same token, if the
 reasonable measuring implications of the pattern of origin are still far short
-
-
-_224 Technical Analysis of Stock Trends_
-
 of attainment, the gap is probably of the Continuation type. An Exhaustion
 Gap is seldom the first gap in a runaway move; it is usually preceded by at
 least one Continuation Gap. Thus, you may ordinarily assume (unless the
 contrary appears from other and more weighty indications) that the first gap
+in a rapid advance or decline is a Continuation Gap. But each succeeding
+gap must be regarded with more and more suspicion, especially if it is wider
+than its predecessor.
+
+
 
 ![fig-129](./img/fig-129.png)
 **FIGURE 129.** The “skyrocket” run-up of Willys–Overland in June 1944 was marked
@@ -8469,77 +7350,16 @@ so the June 27 gap was now marked as another Runaway with an implied objective
 of 18½ plus, which had already been reached. Note the Head-and-Shoulders Reversal
 that then formed and subsequent Intermediate Reaction.
 
-```
-WILLYS – OVERLAND WO
-```
-```
-1944
-```
-```
-NL
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-G
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-19
-18
-17
-16
-15
-```
-```
-14
-```
-```
-13
-```
-```
-12
-```
-```
-11
-```
-```
-10
-```
-```
-9
-```
-```
-8
-```
-```
-7
-Sales
-100’s
-500
-400
-300
-200
-100
-```
-```
-81522296 132027 31017241 8 1522295 121926 2 9 162330
-```
 
-_Chapter twelve: Gaps 225_
+![fig-130](./img/fig-130.png)
+**FIGURE 130.** “SMC” is a thin stock whose daily chart is usually “full of holes,”
+but this large gap that appeared on its weekly chart in September 1946 evidently
+possessed technical significance. Treated as a Runaway, and measuring from the
+8-week Congestion at 68, it called for a downside objective of 44 or below, which
+was duly fulfilled.
 
-in a rapid advance or decline is a Continuation Gap. But each succeeding
-gap must be regarded with more and more suspicion, especially if it is wider
-than its predecessor.
+
+
 We have referred to Exhaustion Gaps as _wide_ gaps. Width is, of necessity,
 relative in this study; it is impossible to lay down any exact rules to define
 wide or narrow. Do not let this bother you too much. Recognition of what
@@ -8549,65 +7369,14 @@ Runaway Gaps are usually not covered for a considerable length of time,
 not, as a rule, until the market stages a swing of Major or full Intermediate
 proportions in the opposite direction. But Exhaustion Gaps are quickly
 closed, most often within 2 to 5 days, a fact which furnishes a final clue to
-
-![fig-130](./img/fig-130.png)
-**FIGURE 130.** “SMC” is a thin stock whose daily chart is usually “full of holes,”
-but this large gap that appeared on its weekly chart in September 1946 evidently
-possessed technical significance. Treated as a Runaway, and measuring from the
-8-week Congestion at 68, it called for a downside objective of 44 or below, which
-was duly fulfilled.
-
-```
-A. O. SMITH CORPORATION SMC
-```
-```
-1945–1947
-```
-```
-G
-```
-```
-96
-```
-```
-88
-```
-```
-80
-76
-72
-68
-64
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-Sales
-100’s
-50
-40
-30
-20
-10
-N D J F M MA J J A S O N D J F M MA
-```
-
-_226 Technical Analysis of Stock Trends_
-
 distinguish Exhaustion from Continuation, if it should still be needed at that
 stage. (This, incidentally, upsets the common superstition that all gaps must
 be closed before the trend can be trusted to continue very far. In the case of
+the Runaway Gap, it is not closed, but the trend moves right along never-
+theless, and often for a surprising distance. In the case of the Exhaustion
+Gap, the closing of it actually contributes to the signal that the trend has run
+out.)
+
 
 ![fig-131](./img/fig-131.png)
 **FIGURE 131.** A small Island in the right shoulder of the Head-and-Shoulders Top
@@ -8619,96 +7388,7 @@ chart’s Bearish implications.
 should develop as they do is hard to explain, but their forecasting implications are
 obvious.
 
-```
-BALTIMORE & OHIO PFD. BO Pr
-```
-```
-1946
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-```
-```
-S S
-H
-```
-```
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-S
-```
-```
-H S
-```
-```
-G-G
-```
-```
-5121926 2 916232 9162330 6132027 4 1118251 8152229
-```
-```
-LION OIL COMPANY LNO
-```
-```
-1947
-```
-```
-MARCH APRIL MAY JUNE JULY AUGUST
-```
-```
-G G
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-8 152229 5 121926 3101724317 142128 5121926 2 9 162330
-```
 
-_Chapter twelve: Gaps 227_
-
-the Runaway Gap, it is not closed, but the trend moves right along never-
-theless, and often for a surprising distance. In the case of the Exhaustion
-Gap, the closing of it actually contributes to the signal that the trend has run
-out.)
 An Exhaustion Gap, taken by itself, should not be read as a sign of
 Reversal, nor even, necessarily, of Reversal at all. It calls “stop,” but the halt
 is ordinarily followed by some sort of area pattern development which may,
@@ -8752,14 +7432,6 @@ changed hands in the past, where, in other words, previous owners have no
 “vested interest.”
 
 
-_228 Technical Analysis of Stock Trends_
-
-Sometimes the second gap — the Breakaway that completes the Island —
-is closed a few days later by a quick Pullback or reaction. More often it is
-not. Rarely, the first gap — the Exhaustion Gap that starts the Island — is
-covered in a few days before the second gap appears, in which event the
-Island Congestion takes on a sort of V-Shape (if it is a Top), and there is no
-
 ![fig-133](./img/fig-133.png)
 **FIGURE 133.** This Island Reversal Pattern at Bethlehem Steel’s Major Top in 1937
 is a “classic,” yet it was followed by a curious and disturbing abnormality in the
@@ -8775,54 +7447,12 @@ forget or neglect the previous plain signal. Give such situations time to work o
 Figure 123 on page 212 shows the sequel to the above chart and, incidentally,
 another Island. Compare the volume.
 
-```
-BETHLEHEM STEEL BS
-```
-```
-1937
-```
-```
-G G
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-128
-120
-112
-```
-```
-104
-```
-```
-96
-88
-```
-```
-80
-76
-72
-68
-64
-```
-```
-60
-56
-Sales
-100’s
-250
-200
-150
-100
-50
-```
-```
-2 9162330 6 132027 61320273 101724 1 81522 29 5121926
-```
 
-_Chapter twelve: Gaps 229_
-
+Sometimes the second gap — the Breakaway that completes the Island —
+is closed a few days later by a quick Pullback or reaction. More often it is
+not. Rarely, the first gap — the Exhaustion Gap that starts the Island — is
+covered in a few days before the second gap appears, in which event the
+Island Congestion takes on a sort of V-Shape (if it is a Top), and there is no
 clear “open water” across the chart horizontally between the Island and the
 trends preceding and following it. In any of these variations, however, the
 interpretation remains the same: the preceding Minor Move should be prac-
@@ -8837,11 +7467,6 @@ Island is in evidence. Perhaps, the greatest utility that Islands have for the
 chart analyst is that of calling attention to a situation, of putting him on the
 alert as to its potentialities.
 
-##### Gaps in the Averages
-
-Gaps appear also in nearly all Averages but, for obvious reasons, with rather
-less frequency than in the charts of individual issues. While it is not necessary
-for all of the stocks composing an average to make a gap simultaneously in
 
 ![fig-134](./img/fig-134.png)
 **FIGURE 134.** This looked like an Island in “PA,” but the second gap was actually
@@ -8851,48 +7476,12 @@ Support Line at 40 (see Chapter 13) by half a point. That Support, therefore, wa
 violated in December, and prices subsequently advanced to above 50 the following
 March.
 
-```
-PENNSYLVANIA RAILROAD PA
-```
-```
-1936
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBERDECEMBER
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-```
-```
-28
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-XD .50
-```
-```
-G G
-```
-```
-4 111825 1 81522295 1219263 1017243171421285121926
-```
 
-_230 Technical Analysis of Stock Trends_
+##### Gaps in the Averages
 
+Gaps appear also in nearly all Averages but, for obvious reasons, with rather
+less frequency than in the charts of individual issues. While it is not necessary
+for all of the stocks composing an average to make a gap simultaneously in
 order to produce a gap in the Average figures, a majority of them must. As
 might therefore be expected, Common or Pattern Gaps are particularly rare
 in Average charts, but Breakaway and Runaway types are not uncommon,
@@ -8913,10 +7502,6 @@ _EN9: The truth is there is nothing more that need be said about gaps, and the
 truth also is that no modern examples need be added. But gaps are fun, so see Figure
 114.1 and Chapter 16.1 for modern examples._
 
-
-```
-231
-```
 ## chapter thirteen
 
 # Support and Resistance
@@ -8957,9 +7542,6 @@ amount of each will vary according to circumstances and determine the
 trend.) But a Support Range represents a _concentration_ of demand, and a
 Resistance Range represents a _concentration_ of supply.
 
-
-_232 Technical Analysis of Stock Trends_
-
 According to the foregoing definitions, you can see that the top boundary
 of a Horizontal Congestion Pattern such as a Rectangle is a Resistance Level,
 and its bottom edge a Support Level; the top line of an Ascending Triangle
@@ -8970,6 +7552,7 @@ few exceptions which we will examine later, it is quite possible to do this.
 Expert chart readers are able frequently to make some amazingly accurate
 predictions as to where an advance will encounter Resistance (supply) or
 where a declining trend will meet Support.
+
 The basis for such predictions — the elementary data from which Sup-
 port and Resistance theories are derived — is that turnover in any given
 issue tends to be concentrated at the several price levels where a large
@@ -9006,10 +7589,6 @@ Why should this be? It will be easier to suggest an answer to that
 question if we first go on with a similar example of typical action in a
 downtrend. This time, suppose our stock makes a Major Top and declines
 from, say, 70 to 50. There, at 50, a temporary Selling Climax occurs; there is
-
-
-_Chapter thirteen: Support and Resistance 233_
-
 a large turnover, prices rally, perhaps slip back for a “test” of 50, and then
 stage a good recovery to 60. At 60, buying peters out, the trend rounds over,
 turns down, and accelerates in renewed decline which carries to a new low
@@ -9056,9 +7635,13 @@ plenty high for it, and cashed in. Thereupon XYZ reacted to 20, and you
 congratulate yourself on your astuteness. But then, unexpectedly, it turns
 around and rushes up to 30. Now you don’t feel so smart; that was a better
 stock than you gave it credit for being. You wish you had it back. You will
-
-
-_234 Technical Analysis of Stock Trends_
+not pay more for it, but if it comes back down to 24, the price at which you
+sold, you’ll “reinstate your position.”
+Perhaps you have never been in either of these situations. Perhaps your
+own reactions wouldn’t, in such cases, have been the same as those we have
+indicated. But, if you have had a fair amount of experience in the market —
+have some knowledge of the psychology of the “average investor” — you
+know that the pictures we have described are typical.
 
 ![fig-135](./img/fig-135.png)
 **FIGURE 135.** Why now was so much time spent, so much “work” done during
@@ -9068,66 +7651,19 @@ late 1939 and late 1940. These old Bottoms, representing Support, originally, we
 able to produce some supply (Resistance) 5 years later. Once prices had worked
 through that supply, however, they were able to rise quickly to 44, and then their
 subsequent reaction found Support just where you might have expected — at 33–34.
-Support had turned to Resistance and then to Support again.
-We can skip over the next few swings which “followed the rules” and go on to
-the change in the picture which came with the first notable violation of a Support
+Support had turned to Resistance and then to Support again. We can skip over the next few swings which “followed the rules” and go on to the change in the picture which came with the first notable violation of a Support
 Level in 1946. Prices had pushed up the first of February nearly to 54, well out above
 the Tops around 46, formed the previous November. The late February reaction
 should have “caught Support” around 46 — but it didn’t; it crashed on down to the
 “round figure” 40. This was an ominous (although not necessarily “fatal”) develop-
 ment. Thereafter, a massive Symmetrical Triangle was formed and broke downside
-in September.
-The first Panic Decline in the Bear Market is no respecter of Support Levels. This
+in September. The first Panic Decline in the Bear Market is no respecter of Support Levels. This
 one was no exception, although it is noteworthy that prices “bounced” several times
 from the important old 33–34 zone. By November, the Top Triangle’s measurement
-had been exactly fulfilled.
-You should turn back to this record and study it again after you have read the
+had been exactly fulfilled. You should turn back to this record and study it again after you have read the
 next 10 or 11 pages.
 
-```
-JONES & LAUGHLIN JL 1944–1947
-```
-```
-1944 1945 1946 1947
-```
-```
-52
-48
-44
-```
-```
-40
-38
-36
-34
-32
-30
-28
-26
-24
-```
-```
-22
-```
-```
-20
-Sales
-100’s
-```
-(^500400)
-300
-(^200100)
 
-
-_Chapter thirteen: Support and Resistance 235_
-
-not pay more for it, but if it comes back down to 24, the price at which you
-sold, you’ll “reinstate your position.”
-Perhaps you have never been in either of these situations. Perhaps your
-own reactions wouldn’t, in such cases, have been the same as those we have
-indicated. But, if you have had a fair amount of experience in the market —
-have some knowledge of the psychology of the “average investor” — you
-know that the pictures we have described are typical.
 At this point you may not be satisfied that we have succeeded in giving
 an adequate explanation for our basic principle of Support and Resistance
 Levels. Remember, however, that the supply and demand balance in the
@@ -9168,8 +7704,6 @@ tance Zones, and how to locate, more exactly, the centers of axes of such
 zones.
 
 
-_236 Technical Analysis of Stock Trends_
-
 ##### Estimating Support–Resistance Potential
 
 To go back to first principles, we have seen that the Resistance that an upward
@@ -9182,6 +7716,8 @@ cannot set up much Resistance to a subsequent advance, but a Selling Climax
 Bottom where several thousand shares were bought will provide a lot of
 potential supply after prices, at some later date, have dropped well below
 it, and then attempt to rise up through it again.
+
+
 A long Rectangle or a Descending Triangle has a number of Bottoms at
 the same level. We can get a crude approximation of the amount of Resistance
 there by summing up the volume of trading on all its Bottoms, but then
@@ -9190,6 +7726,8 @@ the Bottom of the pattern in its early stages and then sold near the Top before
 it was completed. In brief, a single, sharp, high-volume Bottom offers some-
 what more Resistance than a series of Bottoms with the same volume spread
 out in time and with intervening rallies.
+
+
 Another criterion is the extent of the subsequent decline. Or, to put it
 another way, how far prices will have to climb before they encounter the old
 Bottom zone whose Resistance potential we are attempting to appraise.
@@ -9204,6 +7742,10 @@ In brief, prices have to break far enough below the price at which a trader
 bought his stock to convince him that he made a bad investment and,
 hence, that he should sell when he gets a chance to do so without too great
 a loss.
+
+
+
+
 It is impossible to formulate any precise rule or equation to define how
 far a decline must proceed to set up Resistance above it. However, do not
 look for much supply to come out of a Bottom level in the low-middle price
@@ -9213,17 +7755,25 @@ buy a stock at 5 and see it drop to 4 or 3½ with considerable equanimity
 despite the fact that he stands a loss of 30% at the latter figure. His “dollar”
 loss looks small, and he still thinks it will be easy for his stock to get back
 up to 6 or 7; he is willing to wait.
+
+![fig-136](./img/fig-136.png)
+**FIGURE 136.** Support–Resistance Levels in a long Intermediate Uptrend. The read-
+er will need no guidance in applying the principles stated in this chapter to the
+Bendix weekly chart reproduced above. Observe that when prices broke down in
+1945 through a long trendline, their decline stopped, nevertheless, at the Support set
+up by the previous November’s Top.
+
 Another factor enters into and reinforces the “extent of decline” criterion.
 If our PDQ rallies, as before, from 20 to 24 and then drops rapidly to 12, not
-
-
-_Chapter thirteen: Support and Resistance 237_
-
 only will many of the old owners at 20 be thoroughly disgusted and glad
 to get out at that price, given an opportunity, but the new owners at 12 will
 also be pleased to take 20 (66⅔% profit) and quick to do so if they detect
 any signs of trouble there. New buyers at 18, needless to say, would not be
 quite so ready to sell at 20.
+
+
+
+
 A third criterion for appraising the Resistance potential at an old Bottom
 level is the length of time that has elapsed since it was formed and the nature
 of general market developments in the interim. You will, no doubt, find it
@@ -9240,47 +7790,15 @@ capitalization of the company which might obscure, in the mind of the owner,
 the original cost of his stock. Under the latter heading, we would put split-
 ups and large stock dividends, or even an unusually generous cash “melon.”
 
-![fig-136](./img/fig-136.png)
-**FIGURE 136.** Support–Resistance Levels in a long Intermediate Uptrend. The read-
-er will need no guidance in applying the principles stated in this chapter to the
-Bendix weekly chart reproduced above. Observe that when prices broke down in
-1945 through a long trendline, their decline stopped, nevertheless, at the Support set
-up by the previous November’s Top.
 
-```
-BENDIX AVIATION BX
-```
-```
-1944–1945
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-Sales
-100’s
-50
-40
-30
-20
-10
-J F M MA J J A S O N D J F M MA J
-```
+![fig-137](./img/fig-137.png)
+**FIGURE 137.** For Major Support–Resistance Level study, monthly charts are most
+useful. This one presents many points of interest. Observe how important levels are
+formed and how, once formed, they appear again, and reverse their roles. The price
+scale shows 1947 values with previous years adjusted for the splits of 1933 and 1946.
 
-_238 Technical Analysis of Stock Trends_
+
+
 
 We do not mean to imply that an investor is ever actually deceived as to the
 actual cost of his shares, no matter how they may have been split, or what
@@ -9295,39 +7813,6 @@ some approximation of the amount of Resistance consumed. In any event,
 it is an odds-on assumption that a third attack at a Resistance Level will
 succeed in penetrating it.
 
-![fig-137](./img/fig-137.png)
-**FIGURE 137.** For Major Support–Resistance Level study, monthly charts are most
-useful. This one presents many points of interest. Observe how important levels are
-formed and how, once formed, they appear again, and reverse their roles. The price
-scale shows 1947 values with previous years adjusted for the splits of 1933 and 1946.
-
-```
-NATIONAL DISTILLERS DR
-```
-```
-30
-```
-```
-25
-```
-```
-20
-```
-```
-15
-```
-```
-10
-```
-```
-5
-```
-```
-3 for 1 3 for 1
-1926 1927 1928 19291930 1931 1932 1933 19341935 1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1947 1948
-```
-
-_Chapter thirteen: Support and Resistance 239_
 
 We have named three criteria — volume, distance away, and time
 elapsed — to be used in assessing the amount of Resistance to be expected
@@ -9374,12 +7859,22 @@ ematical rule can be laid down, it is easy to relate the price and volume
 patterns visually, and by simple inspection, arrive at a near estimate of the
 figure at which supply in quantity is likely to be forthcoming. Look partic-
 ularly at the closing levels of the days making up the Bottom Congestion,
-
-
-_240 Technical Analysis of Stock Trends_
-
 and average them mentally; this figure is apt to be pretty close to the “center
 of gravity” of the entire Resistance Area.
+
+
+
+![fig-138](./img/fig-138.png)
+**FIGURE 138.** Particularly noteworthy in this monthly record is the Resistance met
+in 1939, 1940, 1941, and even in 1944, at the Bottom level (just above 26), the 3-month
+Congestion of 1936. Also, the appearance 8 years later (!) in 1945 of Resistance at the
+Bottom level (28) of the High-Volume Top Congestion of 1936–37.
+Prices were able to “skyrocket” when that Resistance was finally overcome. You
+will find that several additional Support–Resistance Lines might have been drawn
+on this chart. Note Major Bottom Formations of 1937–38 and 1942.
+
+
+
 Of course, some supply is likely to start coming in as soon as a subse-
 quent advance reaches the bottommost fraction of the Resistance Zone, and
 more and more will appear as the move pushes up into it. Sometimes, it is
@@ -9394,42 +7889,6 @@ Resistance phenomena, and the reader should make it a point, when he has
 finished this chapter, to go back over them and study them all in detail. The
 practical application of the rules we have been discussing will be greatly
 clarified. Equally instructive, if you can manage to obtain such a collection,
-
-![fig-138](./img/fig-138.png)
-**FIGURE 138.** Particularly noteworthy in this monthly record is the Resistance met
-in 1939, 1940, 1941, and even in 1944, at the Bottom level (just above 26), the 3-month
-Congestion of 1936. Also, the appearance 8 years later (!) in 1945 of Resistance at the
-Bottom level (28) of the High-Volume Top Congestion of 1936–37.
-Prices were able to “skyrocket” when that Resistance was finally overcome. You
-will find that several additional Support–Resistance Lines might have been drawn
-on this chart. Note Major Bottom Formations of 1937–38 and 1942.
-
-```
-KRESGE (S.S.) CO. KG
-```
-```
-50
-```
-```
-40
-```
-```
-30
-```
-```
-20
-```
-```
-10
-Sales
-100’s
-800
-400
-1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_Chapter thirteen: Support and Resistance 241_
-
 is a study of the Support and Resistance Levels appearing in the monthly
 charts of all actively traded stocks over a period of 10 years or more. _EN:
 Easily generated by most currently available software and on the Internet at
@@ -9475,13 +7934,17 @@ Sooner or later, however, a normal Minor Wave Pattern is bound to be broken
 up. This generally occurs in one of two ways (although there is an infinity
 of possible variations). In one, prices spurt away in an advance out of all
 proportion to the previous succession of up waves. Such a move is seldom
-
-
-_242 Technical Analysis of Stock Trends_
-
 followed by a reaction to the Support now left far behind, but rather, by the
 construction of some sort of Area Pattern — which may be either Consoli-
 dation or Reversal.
+
+
+![fig-139](./img/fig-139.png)
+**FIGURE 139.** A monthly chart of Jewel Tea Company with its Major Support–Re-
+sistance Levels marked. Note reversal of roles.
+
+
+
 The other type of disruption appears when a reaction does _not_ halt and
 reverse at the level of the previous Minor Top, but sifts on down through
 that zone, perhaps to the level of the preceding Minor Bottom. This move
@@ -9508,34 +7971,21 @@ discussed in the second part of this book; Support and Resistance Levels are
 particularly useful as basing points for stop-loss orders which are discussed
 there.
 
-![fig-139](./img/fig-139.png)
-**FIGURE 139.** A monthly chart of Jewel Tea Company with its Major Support–Re-
-sistance Levels marked. Note reversal of roles.
 
-```
-JEWEL TEA CO. JWT
-```
-```
-2 for 1
-```
-```
-60
-52
-44
-36
-28
-Sales
-100’s
-80
-40
-```
-```
-1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
 
-_Chapter thirteen: Support and Resistance 243_
+![fig-140](./img/fig-140.png)
+**FIGURE 140.** When prices broke down out of the large Descending Triangle which
+formed on Remington Rand’s weekly chart in 1946, the decline might have halted,
+at least temporarily, around 37 at the level of the 4-week Congestion made in April,
+and should have “caught Support” at 35–36, the level of the February top. Failure of
+the latter carried Major Trend significance (see next page). Note later Resistance at
+40 ½.
+
+
+
 
 ##### Popular Misconceptions
+
 
 The reader will understand, of course, that all we have said here about the
 breaking of Supports applies, as well, but in reverse direction, to the pene-
@@ -9552,47 +8002,6 @@ important to grasp, and sometimes extremely important in practical results.
 Admittedly, it does not come easy to think of a former Top as denoting
 the level at which a later Bottom should form, or vice versa; it would seem
 superficially to be much more logical to relate Top to Top and Bottom to
-
-![fig-140](./img/fig-140.png)
-**FIGURE 140.** When prices broke down out of the large Descending Triangle which
-formed on Remington Rand’s weekly chart in 1946, the decline might have halted,
-at least temporarily, around 37 at the level of the 4-week Congestion made in April,
-and should have “caught Support” at 35–36, the level of the February top. Failure of
-the latter carried Major Trend significance (see next page). Note later Resistance at
-40 ½.
-
-```
-REMINGTON RAND RR 1945–1947
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-32
-30
-28
-```
-```
-26
-Sales
-100’s
-50
-40
-30
-20
-10
-N D J F M MA J J A S O N D J F M MA
-```
-
-_244 Technical Analysis of Stock Trends_
-
 Bottom. Moreover, it is perfectly true, to use our X example again, that some
 of the investors who wanted to buy it at 57 might not have succeeded in
 getting it before the second advance to 68 took it away, and that their buy
@@ -9603,14 +8012,6 @@ buying. On the other hand, we have seen how there is a sort of vested interest
 set up at an old Bottom which produces selling (Resistance), and thereby
 creates a new Top, and at an old Top which produces buying (Support) and
 thereby creates a new Bottom.
-The reader is urged to keep this concept well in mind. Any analytical
-study of the chart records will quickly show that it is much easier for prices
-to push up through a former Top level than through the Resistance set up
-at a previous volume Bottom (and vice versa, of course, with respect to
-declines). You will find that a little selling may come in at a former high, but
-usually only enough to cause a brief halt rather than the more or less exten-
-sive reactions or Consolidations that develop when the trend comes up
-against a real Resistance Zone.
 
 ![fig-141](./img/fig-141.png)
 **FIGURE 141.** York is a relatively thin stock, which normally makes many small,
@@ -9620,43 +8021,29 @@ to 26½ plus. But prices halted their advance at 24½ and went into a 3-month Re
 angle. An upside breakout on January 10, 1946, carried out the minimum measure-
 ment of the Rectangle (and October gap); prices then reacted. See sequel in Figure 142.
 
-```
-YORK CORPORATION YOK
-```
-```
-1945–1946
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6 132027 3 101724 1 8152229 5121926 2 91623 2 9162330
-```
 
-_Chapter thirteen: Support and Resistance 245_
+The reader is urged to keep this concept well in mind. Any analytical
+study of the chart records will quickly show that it is much easier for prices
+to push up through a former Top level than through the Resistance set up
+at a previous volume Bottom (and vice versa, of course, with respect to
+declines). You will find that a little selling may come in at a former high, but
+usually only enough to cause a brief halt rather than the more or less exten-
+sive reactions or Consolidations that develop when the trend comes up
+against a real Resistance Zone.
+
+
+
+
+![fig-142](./img/fig-142.png)
+**FIGURE 142.** The February reaction in Figure 141 met momentary Support at 24;
+prices bounced far enough to close the February 7 gap, and then broke down through
+the Rectangle Top-Line Support — technically a distinct warning. Then a Symmetrical
+Triangle formed, but the breakout came too near the apex, produced only a rally to
+the former high, and then an “end run.” One did not need to wait for the Double
+Top signal on August 22 to forecast a decline of more than Minor consequence.
+
+
+
 
 ##### The Round Figures
 
@@ -9675,52 +8062,9 @@ diminish in importance.
 
 ##### Repeating Historical Levels
 
+
 If, once they had been set up, important Support and Resistance Levels
 always “worked,” we should see Intermediate Tops and Bottoms form at
-
-![fig-142](./img/fig-142.png)
-**FIGURE 142.** The February reaction in Figure 141 met momentary Support at 24;
-prices bounced far enough to close the February 7 gap, and then broke down through
-the Rectangle Top-Line Support — technically a distinct warning. Then a Symmetrical
-Triangle formed, but the breakout came too near the apex, produced only a rally to
-the former high, and then an “end run.” One did not need to wait for the Double
-Top signal on August 22 to forecast a decline of more than Minor consequence.
-
-```
-YORK CORPORATION YOK 1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-18
-17
-16
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-61320274 111825 1 8 152229 61320273 1017 24 31 714 21 28
-```
-
-_246 Technical Analysis of Stock Trends_
-
 exactly the same ranges year after year in one Bull and Bear cycle after
 another. As a matter of fact, there is a well-marked tendency for this to occur
 in old-line, actively traded stock. In General Electric, for example, the 22–24,
@@ -9817,22 +8161,6 @@ a Support after prices have pushed above it on volume and by a decisive
 margin.
 
 
-_248 Technical Analysis of Stock Trends_
-
-Earlier in this chapter, in our discussion of the three criteria for apprais-
-ing the amount of Resistance to be expected at a former Bottom level, we
-named “distance away” as one of them and stated as a general rule that
-prices should have gone at least 10% beyond that level in a medium-priced
-stock before much Resistance would be set up. This 10%-away rule does not
-apply, however, in the case of a Throwback to a well-defined area formation,
-when it follows shortly after a breakout. All that is necessary to establish
-strong Resistance to such moves at the pattern boundary is a conclusive
-breakout.
-The Symmetrical Triangle has a different sort of Support and Resistance
-“field.” You will recall that the first Reversal point in the formation of a
-Symmetrical Triangle (a Top, if it forms on a rising trend, or a Bottom if on
-a decline) is normally accompanied by high trading volume, but that activity
-
 ![fig-143](./img/fig-143.png)
 **FIGURE 143.** We first discussed Pullbacks in connection with the Head-and-Shoul-
 ders in Chapter 6 and refer to them again in this chapter (page 243) as Support–Re-
@@ -9846,37 +8174,21 @@ another in October, a third in November, and a fourth in February 1947, which me
 the Double Resistance of the neckline and the down trendline (Chapter 14) projected
 from the 1946 April head and August right shoulder.
 
-```
-GOODYEAR TIRE GT 1945–1947
-```
-```
-76
-72
-68
-64
-60
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-Sales
-100’s
-50
-40
-30
-20
-10
-N D J F M MA J J A S O N D J F M MA
-```
 
-_Chapter thirteen: Support and Resistance 249_
+Earlier in this chapter, in our discussion of the three criteria for apprais-
+ing the amount of Resistance to be expected at a former Bottom level, we
+named “distance away” as one of them and stated as a general rule that
+prices should have gone at least 10% beyond that level in a medium-priced
+stock before much Resistance would be set up. This 10%-away rule does not
+apply, however, in the case of a Throwback to a well-defined area formation,
+when it follows shortly after a breakout. All that is necessary to establish
+strong Resistance to such moves at the pattern boundary is a conclusive
+breakout.
 
+The Symmetrical Triangle has a different sort of Support and Resistance
+“field.” You will recall that the first Reversal point in the formation of a
+Symmetrical Triangle (a Top, if it forms on a rising trend, or a Bottom if on
+a decline) is normally accompanied by high trading volume, but that activity
 diminishes rapidly on succeeding fluctuations within its converging bound-
 aries. Consequently, once prices have broken out of the Triangle and have
 proceeded well beyond the level of the pattern’s first Reversal point, that
@@ -9902,50 +8214,11 @@ under an apex level (see Chapter 27). Here the apex held, however, and prices we
 into another “Coil,” breaking out topside on March 10. Their next reaction was
 supported, as was to be expected after an early breakout like this, at the Top Pattern
 Line.
+
+
 The price track from mid-March to the end of April fell into an Ascending Triangle
 Pattern, the top boundary of which functioned as Support in June but was broken
 in July. Refer back to Figure 120, page 204.
-
-```
-INTERNATIONAL TEL. & TEL. IT
-```
-```
-1945
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-30
-```
-```
-28
-```
-```
-26
-```
-```
-24
-```
-```
-22
-```
-```
-20
-19
-Sales
-100’s
-500
-400
-300
-200
-100
-```
-```
-6132027 3 1017243 101724317 1421285 121926 2 9162330
-```
-
-_250 Technical Analysis of Stock Trends_
 
 The intersection of the two converting boundary lines of a Symmetrical
 Triangle has sometimes been called a “cradle.” The axis Support (or Resis-
@@ -9958,6 +8231,16 @@ axis line, must be closely watched. (A stop-loss order may be indicated here.)
 Should the axis Support fail to hold, the reaction may plunge through and
 accelerate in a more extensive swing, which has aptly been termed an “end
 run around the line.”
+
+
+
+![fig-145](./img/fig-145.png)
+**FIGURE 145.** In this instance, a belated upside breakout (August 10) from a Sym-
+metrical Triangle failed quickly and the subsequent reaction, after holding for several
+days at the apex level, finally broke down for an “end run.” Thereafter, note that the
+apex level turned into a Resistance against Recovery Moves.
+
+
 
 ##### Volume on Breaks Through Support
 
@@ -9973,44 +8256,19 @@ dence that technicians see what has happened and are now jumping in.” But
 that line of thought, in the authors’ opinions, also has little to substantiate
 it. (We shall have more to say about the questionable influence of technicians
 on the trend later on.) Many of the arguments over volume change vs. price
-
-![fig-145](./img/fig-145.png)
-**FIGURE 145.** In this instance, a belated upside breakout (August 10) from a Sym-
-metrical Triangle failed quickly and the subsequent reaction, after holding for several
-days at the apex level, finally broke down for an “end run.” Thereafter, note that the
-apex level turned into a Resistance against Recovery Moves.
-
-```
-INTERLAKE IRON IK 1944
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBERDECEMBER
-```
-```
-10
-```
-```
-9
-```
-```
-8
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-1 8 152229 51219262 91623307 142128 4 1118 25 2 91623
-```
-
-_Chapter thirteen: Support and Resistance 251_
-
 change savor of the old hen-or-egg riddle. In any event, causes for many
 technical phenomena, such as this one, may be left to the academicians,
 provided the practical implications are clear.
+
+
+![fig-146](./img/fig-146.png)
+**FIGURE 146.** Here is a typical case of two Pullbacks to a Head-and-Shoulders
+neckline, the first immediately after the breakout and the second 3 weeks later. Note
+that the initial breakthrough “bounced” from the early April Top Support, and the
+late July decline met Support at the general April–May Congestion Area. But what
+this chart illustrates, particularly, is how volume increases when a good Support
+Range is penetrated. Note the decided pickup on August 27, when the April–May
+area was left behind.
 
 ##### Support and Resistance in the Averages
 
@@ -10022,77 +8280,11 @@ a minority of them frequently evincing quite divergent patterns, it follows
 naturally that Support and Resistance Zones in the Averages cannot be as
 sharply and narrowly construed. Minor Tops and Bottoms in the Averages,
 particularly, are less dependable as Resistance Levels. Clearly defined and
-
-![fig-146](./img/fig-146.png)
-**FIGURE 146.** Here is a typical case of two Pullbacks to a Head-and-Shoulders
-neckline, the first immediately after the breakout and the second 3 weeks later. Note
-that the initial breakthrough “bounced” from the early April Top Support, and the
-late July decline met Support at the general April–May Congestion Area. But what
-this chart illustrates, particularly, is how volume increases when a good Support
-Range is penetrated. Note the decided pickup on August 27, when the April–May
-area was left behind.
-
-```
-SOUTHERN RAILWAY SR
-```
-```
-1946
-```
-```
-APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-XD 75C XD 75C
-```
-```
-NL
-```
-```
-H
-SS
-```
-```
-S H S
-```
-```
-64
-60
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-34
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-6132027 4 1118251 81522296 1320273 101724 317142128
-```
-
-_252 Technical Analysis of Stock Trends_
-
 important Intermediate Reversals, however, since they nearly always repre-
 sent Reversals in the entire market (practically all stocks), will normally
 produce strong Resistance (or Support, as the case may be) in the subsequent
 Average Trend.
+
 When the Averages break down through a Support Level, but one or
 more stocks, at the same time, hold firm at or above their corresponding
 individual Supports, there is a presumption that those particular stocks are
@@ -10109,12 +8301,7 @@ is safest to treat all such relative performance indications as only one minor
 factor to be appraised in the overall chart picture.
 
 
-```
-253
-```
-## chapter fourteen
-
-# Trendlines and Channels
+## Chapter 14. Trendlines and Channels
 
 One of our basic tenets in this system of technical stock chart analysis —
 indeed, a fact which any neophyte can quickly verify for himself by inspec-
@@ -10151,9 +8338,6 @@ supplement the technical forecasts derived from our other chart formation
 and Support–Resistance studies — sometimes to furnish even earlier fore-
 casts or warnings of change.
 
-
-_254 Technical Analysis of Stock Trends_
-
 One of the first discoveries a new student is likely to make when he
 begins to inspect stock charts with a critical eye is that nearly all Minor and
 most Intermediate Trends follow nearly straight lines. A few readers will,
@@ -10176,6 +8360,7 @@ their upper tips would be more or less crooked.
 On a Descending Price Trend, the line most likely to be straight is the
 one that connects the _Tops_ of the Minor Rallies within it, while the Minor
 Bottoms may or may not fall along a straight edge.
+
 These two lines — the one that slants up along the successive wave
 Bottoms within a broad up-move and the one that slants down across suc-
 cessive wave Tops within a broad down-move — are the basic trendlines.
@@ -10188,32 +8373,6 @@ tangent will eventually become established in this new sense. However, we
 shall be satisfied herein with the overworked “line,” but can give it some
 distinctiveness in its present context by joining it to trend in the one word
 “trendline.”
-Trendlines, you may have heard it said, “are made to be broken,” but
-that is one of those exasperatingly sententious remarks which fails to clarify
-anything. Of course they are broken; they are all always broken, ultimately,
-and some very shortly after they are set up. The problem is to decide which
-breaks (i.e., penetrations by a price movement) are of important technical
-significance and which are of no practical consequence, requiring possibly
-only a Minor Correction in the drawing of the original trendline. There are
-no 100% certain, quick answers to this problem; the significance of some
-penetrations cannot be determined as soon as they appear, but must await
-confirmatory indications from other chart developments. In a great majority
-of instances, however, an important break — one that requires a prompt
-review and possibly a revision of trading policy — is easy to recognize.
-
-
-_Chapter fourteen: Trendlines and Channels 255_
-
-##### How Trendlines Are Drawn
-
-But first, how are trendlines drawn? A straight line is mathematically deter-
-mined by any two points along it. In order to draw a trendline, therefore,
-we require two determining points — two established Top Reversal points
-to fix a Down Trendline and two established Bottom Reversal points to fix
-an Up Trendline. The principle here is the same as the one we laid down in
-our specifications for drawing Triangle boundary lines in Chapter 8. The fact
-is that boundary lines of Triangles and Rectangles, as well as necklines of
-Head-and-Shoulders Formations, are simply special types of trendlines.
 
 ![fig-147](./img/fig-147.png)
 **FIGURE 147.** A series of Intermediate Trendlines drawn to illustrate the “basic”
@@ -10231,35 +8390,31 @@ There are here also some interesting examples of Pullbacks (after trendline pene
 tration) which are discussed on the following pages. Note July 1944, April 1945,
 September 1945, and May 1947.
 
-```
-ATLANTIC REFINING AFI
-```
-```
-1944 1945 1946 1947
-```
-```
-52
-48
-44
-```
-```
-40
-38
-36
-34
-32
-30
-28
-26
-Sales
-100’s
-```
-(^250200)
-(^150100)
-50
+
+Trendlines, you may have heard it said, “are made to be broken,” but
+that is one of those exasperatingly sententious remarks which fails to clarify
+anything. Of course they are broken; they are all always broken, ultimately,
+and some very shortly after they are set up. The problem is to decide which
+breaks (i.e., penetrations by a price movement) are of important technical
+significance and which are of no practical consequence, requiring possibly
+only a Minor Correction in the drawing of the original trendline. There are
+no 100% certain, quick answers to this problem; the significance of some
+penetrations cannot be determined as soon as they appear, but must await
+confirmatory indications from other chart developments. In a great majority
+of instances, however, an important break — one that requires a prompt
+review and possibly a revision of trading policy — is easy to recognize.
 
 
-_256 Technical Analysis of Stock Trends_
+##### How Trendlines Are Drawn
+
+But first, how are trendlines drawn? A straight line is mathematically deter-
+mined by any two points along it. In order to draw a trendline, therefore,
+we require two determining points — two established Top Reversal points
+to fix a Down Trendline and two established Bottom Reversal points to fix
+an Up Trendline. The principle here is the same as the one we laid down in
+our specifications for drawing Triangle boundary lines in Chapter 8. The fact
+is that boundary lines of Triangles and Rectangles, as well as necklines of
+Head-and-Shoulders Formations, are simply special types of trendlines.
 
 Suppose we start with a Major Bottom point and describe how a series
 of Up Trendlines might develop therefrom. To make this first illustration
@@ -10301,15 +8456,21 @@ rule in a new trendline across the original base point at 6½ and the new
 point at 8. This should be, and probably is, an _Intermediate_ Up Trendline
 which will not be penetrated for several weeks, and maybe for several
 months, until the Intermediate Advance tops out.
+
+![fig-148](./img/fig-148.png)
+**FIGURE 148.** This 1935–36 daily chart of Atchison illustrates how the latter part of
+a long, strong Intermediate Advance may accelerate away from its trendline. (Notice
+the action in late January and early February.) Prices dropped back to 66 in April
+1936 after this Up Trendline was broken at the end of March. Note also that at the
+point where the December 1935 reaction met Support, the trendline coincided with
+a Triangle apex level. Such “coincidences” appear frequently in technical studies.
+
+
 Then, if that Intermediate Top takes the form of a Head-and-Shoulders
 Reversal Pattern, our Intermediate Up Trendline may be broken by the
 recession from the top of the head to the neckline. As a rule, however, the
 final advance in a strong Intermediate Move accelerates far enough away
 from the extended trendline to leave room (to the right on the chart) for
-
-
-_Chapter fourteen: Trendlines and Channels 257_
-
 considerable pattern construction before the line is again touched and pen-
 etrated. Hence, the actual puncturing of the trendline is more apt to occur
 either on the decline from the right shoulder to the neckline, or at about the
@@ -10323,56 +8484,12 @@ trendline indication which produces a working signal a little earlier, and
 often at a much more favorable price level, than is given by the completion
 of a Reversal Formation.
 
+
+
 ##### Arithmetic vs. Logarithmic Scale
 
 By this time, the more mathematically inclined among our readers must have
 begun to ponder the difference between trendlines projected on the ordinary
-
-![fig-148](./img/fig-148.png)
-**FIGURE 148.** This 1935–36 daily chart of Atchison illustrates how the latter part of
-a long, strong Intermediate Advance may accelerate away from its trendline. (Notice
-the action in late January and early February.) Prices dropped back to 66 in April
-1936 after this Up Trendline was broken at the end of March. Note also that at the
-point where the December 1935 reaction met Support, the trendline coincided with
-a Triangle apex level. Such “coincidences” appear frequently in technical studies.
-
-```
-ATCHINSON, TOPEKA, & SANTA FESF
-```
-```
-1935–1936
-```
-```
-OCTOBER NOVEMBER DECEMBER JANUARY FEBRUARY MARCH
-```
-```
-80
-76
-72
-68
-64
-60
-56
-```
-```
-52
-```
-```
-48
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-5121926 2 9 162330 71421284 1118251 8 1522 297 142128
-```
-
-_258 Technical Analysis of Stock Trends_
-
 or arithmetic scale and on the logarithmic or ratio scale. A series of points
 which fall on a perfectly straight, up-sloping line on arithmetic chart paper
 will, when transferred to a semilogarithmic sheet, produce a curved line that
