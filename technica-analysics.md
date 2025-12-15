@@ -1605,513 +1605,679 @@ xác suất tiếp diễn ngày càng suy giảm sau mỗi lần tái
 khẳng định Xu hướng Sơ cấp.
 
 
-# chapter 5.  The Dow Theory’s Defects
-Our readers, we suspect, heaved a deep sigh of relief when they closed the
-preceding chapter on a difficult, tedious, and, at times, confusing subject.
-Some may even wish at this point that the Dow Theory had never been
-conceived. Others doubtless spotted one or more of its real or supposed
-defects and have questions to ask. Before we proceed to more interesting
-chart matters, we had better devote a few pages to clearing them up.
-First, let’s take up the charge of “second guessing” which is so often
-flung at writers on Dow Theory. It is a charge which will continue to crop
-up so long as opinions differ among Dow theorists at critical periods (which,
-unfortunately, is often the case). Even the most experienced and careful Dow
-analysts find it necessary occasionally to change their interpretations when
-a stand first ventured is rendered untenable by some subsequent action of
-the market. They would not attempt to deny it — but, they say, in the long
-run, surprisingly little is lost by such temporary misinterpretations. Many
-of them publish their comments regularly and can refer you to the printed
-files of opinions and advice expressed before and during the event, as well
-as after it. As for the preceding chapter of this book, the reader, if he cares
-to check such records, will find that the interpretations given therein (aside
-from the remarks made “in retrospect” and so labeled) were precisely the
-interpretations published at the time by the best established Dow analysts.
-_EN9: While, in the modern age Richard Russell (dowtheoryletters.com) is probably
-senior in terms of reputation, a host of other Dow Theorists (actually trying to
-round them up is like herding cats) inhabit the scene, among them Jack Schannep
-(thedowtheory.com) and Richard Moroney (dowtheory.com) who must be taken into
-account when consulting the sacred-chicken bones. Robert W. Colby (robertw-
-colby.com) is currently doing interesting work in Dow Theory. Note that it is the
-chicken which is sacred, and the bones only secondarily._
+# chương 5.  Những Khiếm Khuyết của Lý thuyết Dow
 
-## The Dow Theory Is “Too Late”
+Chúng tôi nghi ngờ rằng các độc giả của mình đã thở phào nhẹ nhõm khi
+khép lại chương trước về một chủ đề khó khăn, tẻ nhạt và đôi khi gây
+bối rối. Một số người thậm chí có thể ước vào lúc này rằng Lý thuyết
+Dow chưa bao giờ được hình thành. Những người khác hẳn đã nhận ra
+một hoặc nhiều khiếm khuyết — thực hoặc được cho là — của nó và có
+những câu hỏi muốn đặt ra. Trước khi chúng ta chuyển sang các vấn đề
+biểu đồ thú vị hơn, tốt hơn hết là dành vài trang để làm sáng tỏ chúng.
 
-This is a more valid objection. It is sometimes expressed in the rather intem-
-perate statement that “the Dow Theory is a sure fire system for depriving
-the investor of the first third and the last third of every Major Move, and
-sometimes there isn’t any middle third!” Or, to give a specific example:
+Trước hết, hãy xem xét lời buộc tội về việc “đoán ngược lại” (second
+guessing) vốn thường xuyên được ném vào các tác giả viết về Lý thuyết
+Dow. Đây là một lời buộc tội sẽ còn tiếp tục xuất hiện chừng nào các ý
+kiến giữa các nhà lý thuyết Dow vẫn còn khác nhau tại những giai đoạn
+then chốt (điều mà, đáng tiếc, lại thường xảy ra). Ngay cả những nhà
+phân tích Dow giàu kinh nghiệm và cẩn trọng nhất đôi khi cũng thấy
+cần phải thay đổi cách diễn giải của mình khi lập trường ban đầu tỏ ra
+không thể bảo vệ được trước một diễn biến tiếp theo nào đó của thị
+trường. Họ sẽ không cố phủ nhận điều này — nhưng họ nói rằng, về
+lâu dài, một cách đáng ngạc nhiên là rất ít bị mất mát do những cách
+diễn giải sai tạm thời như vậy. Nhiều người trong số họ công bố các
+bình luận của mình đều đặn và có thể dẫn bạn tới các hồ sơ in ấn về
+những quan điểm và lời khuyên đã được đưa ra trước và trong sự kiện,
+cũng như sau đó. Còn đối với chương trước của cuốn sách này, người
+đọc, nếu muốn kiểm tra các hồ sơ như vậy, sẽ nhận thấy rằng các cách
+diễn giải được đưa ra ở đó (ngoại trừ những nhận xét được thực hiện
+“nhìn lại” và đã được gắn nhãn như vậy) chính xác là những cách diễn
+giải đã được các nhà phân tích Dow uy tín nhất công bố vào thời điểm
+xảy ra sự kiện.
 
-A Primary Bull Market started in 1942 with the Industrial Average at 92.92
-and ended in 1946 at 212.50, for a total gain of 119.58 Average points, but
-the strict Dow theorists could not buy until the Industrials were up to 125.88
-and couldn’t sell until prices had already declined to 191.04, thus capturing,
-at best, only about 65 points, or not much more than half of the total move.
-This specific statement cannot be disputed. But the answer to the general
-objection is “Try and find a man who first bought his stocks at 92.92 (or even
-within 5 points of that level) and stayed 100% long throughout the interven-
-ing years, and finally sold out at 212.50, or within 5 points thereof.” The
-reader is welcome to try; he will, in fact, find it very difficult to locate even
-a dozen who did as well as the Dow Theory.
-A still better answer, since it comprehends all of the hazards of every
-known kind of Bull and Bear Market to date, is the overall dollars and cents
-record of the past 60 years. We are indebted to Richard Durant for permission
-to reprint the following computation of what would, in theory, have resulted
-if a fund of only $100 could have been invested in the stocks of the
-Dow–Jones Industrial Average on July 12, 1897, when a Primary Bull Market
-was signaled by the Dow Theory, and those stocks were thereafter sold and
-repurchased when, and only when, the Dow Theory had definitely con-
-firmed a change in the Major Trend (see Table 1).
-In brief, an investment of $100 in 1897 would have become $11,236.65
-in 1956 simply by buying the Industrial Average stocks each time the Dow
-Theory announced a Bull Market and holding them until the Dow Theory
-announced a Bear Market. During this period, the investor would have made
-15 purchases and 15 sales, or about 1 transaction every 2 years on average.
-The record is not perfect. It shows one losing transaction and three
-instances where reinvestment would have been made at a higher level than
-the preceding liquidation. But, at that, it hardly needs defending! Also, it
-takes no account of commissions and transfer taxes, but neither does it
-include the dividends the investor would have received during the time he
-held his stocks; the latter would, needless to say, have added many more
-dollars to the fund.
-For the enlightenment of the man who believes in “just buying good
-stocks and putting them away,” compare the above results with the best that
-could have been done by buying shares only once at the lowest price
-recorded by the Industrial Average during these entire 50 years and selling
-them only once at the highest. $100 invested at the all-time low, 29.64 on
-August 10, 1896, would have become only $1,757.93 at the all-time high,
-521.05, 60 years later on April 6, 1956, as against the $11,236.65 derived from
-the straight Dow Theory program.
-_EN: This record of the Dow Theory is updated to the year 2006 in Chapter 5.1._
+_EN9: Trong thời hiện đại, Richard Russell (dowtheoryletters.com) có lẽ
+là người cao niên nhất xét về danh tiếng, nhưng còn có rất nhiều nhà
+Lý thuyết Dow khác (thực sự thì việc tập hợp họ lại cũng giống như
+lùa mèo) đang hoạt động, trong số đó có Jack Schannep
+(thedowtheory.com) và Richard Moroney (dowtheory.com) — những
+người phải được tính đến khi tham khảo các “xương gà thiêng”.
+Robert W. Colby (robertw-colby.com) hiện đang thực hiện những công
+trình thú vị về Lý thuyết Dow. Lưu ý rằng chính con gà mới là thiêng,
+còn các khúc xương thì chỉ là thứ yếu._
 
-##### The Dow Theory Is Not Infallible
+## Lý thuyết Dow “Quá Muộn”
 
-Of course, it isn’t. It depends on interpretation and is subject to all the
-hazards of human interpretive ability. But, again, the record speaks for itself.
+Đây là một phản đối có cơ sở hơn. Đôi khi nó được diễn đạt bằng một
+câu nói khá quá khích rằng “Lý thuyết Dow là một hệ thống chắc chắn
+để tước đi của nhà đầu tư một phần ba đầu tiên và một phần ba cuối
+cùng của mọi Chuyển động Lớn, và đôi khi thậm chí còn chẳng có
+phần ba ở giữa!” Hoặc, để đưa ra một ví dụ cụ thể:
 
-**Table 1.** The Dow Theory’s 60-Year Record
+Một Thị trường Bò Sơ cấp bắt đầu vào năm 1942 khi Chỉ số Công
+nghiệp ở mức 92,92 và kết thúc vào năm 1946 tại 212,50, với tổng
+mức tăng là 119,58 điểm chỉ số, nhưng các nhà lý thuyết Dow tuân
+thủ nghiêm ngặt không thể mua cho tới khi Industrials tăng lên
+125,88 và cũng không thể bán cho tới khi giá đã giảm xuống còn
+191,04, do đó, trong trường hợp tốt nhất, chỉ nắm bắt được khoảng
+65 điểm, hay không nhiều hơn một nửa toàn bộ chuyển động.
 
-##### The Dow Theory Frequently Leaves the Investor in Doubt
+Tuyên bố cụ thể này không thể bị bác bỏ. Nhưng câu trả lời cho sự
+phản đối chung là: “Hãy thử tìm một người đã mua cổ phiếu của
+mình ngay từ 92,92 (hoặc thậm chí trong phạm vi 5 điểm quanh
+mức đó) và giữ trạng thái mua 100% xuyên suốt những năm tiếp
+theo, rồi cuối cùng bán ra tại 212,50, hoặc trong phạm vi 5 điểm
+quanh mức ấy.” Người đọc cứ việc thử; trên thực tế, anh ta sẽ thấy
+rất khó để tìm ra dù chỉ một tá người làm được tốt như Lý thuyết
+Dow.
 
-This is true in one sense and not in another. There is never a time when the
-Dow Theory does not afford a presumptive answer to the question of the
-direction of the Primary Trend. That answer will be wrong for a relatively
-short time at the beginning of each new Major Swing. There will also be
-times when a good Dow analyst should say, “The Primary Trend is still
-presumably up, but it has reached a dangerous stage, and I cannot consci-
-entiously advise you to buy now. It may be too late.”
-Frequently, however, the above objection simply reflects the inability of
-the critic mentally to accept the fundamental concept that the Averages
-discount all the news and statistics. He doubts the Dow Theory because he
-cannot reconcile its message with his own ideas, derived from other sources,
-of what stocks should do. The theory, needless to say, is usually more nearly
-right.
-This criticism in other cases reflects nothing but impatience. There may
-be weeks or months (as, for example, during the formation of a Line) when
-the Dow Theory cannot “talk.” The active trader quite naturally rebels. But
-patience is a virtue in the stock market as elsewhere — in fact, essential if
-serious mistakes are to be avoided.
+Một câu trả lời còn tốt hơn nữa — bởi vì nó bao quát tất cả các rủi
+ro của mọi loại Thị trường Bò và Gấu đã từng được biết tới cho đến
+nay — là hồ sơ lãi lỗ tổng thể bằng tiền mặt của 60 năm qua. Chúng
+tôi mang ơn Richard Durant vì đã cho phép tái bản phép tính sau
+đây về những gì, về mặt lý thuyết, sẽ xảy ra nếu một quỹ chỉ với
+100 đô la có thể đã được đầu tư vào các cổ phiếu của Chỉ số Công
+nghiệp Dow–Jones vào ngày 12 tháng 7 năm 1897, khi một Thị
+trường Bò Sơ cấp được Lý thuyết Dow phát tín hiệu, và các cổ
+phiếu đó sau này được bán ra và mua lại khi, và chỉ khi, Lý thuyết
+Dow đã xác nhận dứt khoát một sự thay đổi trong Xu hướng Lớn
+(xem Bảng 1).
 
+Tóm lại, một khoản đầu tư 100 đô la vào năm 1897 sẽ trở thành
+11.236,65 đô la vào năm 1956 chỉ bằng cách mua các cổ phiếu
+trong Chỉ số Công nghiệp mỗi khi Lý thuyết Dow công bố một Thị
+trường Bò và giữ chúng cho tới khi Lý thuyết Dow công bố một
+Thị trường Gấu. Trong giai đoạn này, nhà đầu tư sẽ thực hiện
+15 lần mua và 15 lần bán, hay trung bình khoảng 1 giao dịch
+mỗi 2 năm.
 
-##### The Dow Theory Does Not Help the Intermediate
+Thành tích này không phải là hoàn hảo. Nó cho thấy một giao
+dịch thua lỗ và ba trường hợp mà việc tái đầu tư được thực hiện
+ở mức cao hơn so với lần thanh lý trước đó. Nhưng dù vậy,
+thành tích này hầu như không cần phải biện hộ! Ngoài ra, nó
+không tính đến hoa hồng và thuế chuyển nhượng, nhưng cũng
+không bao gồm các khoản cổ tức mà nhà đầu tư sẽ nhận được
+trong thời gian nắm giữ cổ phiếu; những khoản sau này, dĩ
+nhiên, sẽ còn bổ sung thêm nhiều đô la nữa cho quỹ.
 
-##### Trend Investor
+Để làm sáng tỏ vấn đề cho người tin vào việc “chỉ mua các cổ
+phiếu tốt và cất đi,” hãy so sánh các kết quả trên với kết quả
+tốt nhất có thể đạt được bằng cách chỉ mua cổ phiếu một lần
+duy nhất tại mức giá thấp nhất được Chỉ số Công nghiệp ghi
+nhận trong toàn bộ 50 năm này và chỉ bán ra một lần duy
+nhất tại mức cao nhất. 100 đô la được đầu tư tại mức đáy
+mọi thời đại, 29,64 vào ngày 10 tháng 8 năm 1896, sẽ chỉ
+trở thành 1.757,93 đô la tại mức đỉnh mọi thời đại 521,05,
+60 năm sau đó vào ngày 6 tháng 4 năm 1956 — so với
+11.236,65 đô la thu được từ chương trình Lý thuyết Dow
+thuần túy.
 
-This is perfectly true. The theory gives little or no warning of changes in
-Intermediate Trend. Yet, if a fair share of these can be captured, the profit
-amounts to more than can be derived from the Primary Trend alone. Some
-traders have worked out supplementary rules based on Dow principles
-which they apply to Intermediate Movements, but these have not proved to
-be satisfactory. The remainder of our book is devoted to a better approach
-to this problem.
-The Dow Theory is a mechanical device, designed to tell the direction
-of the Primary Market Trend, which is important because, as we said at the
-beginning of this study, most stocks tend to go with the trend. The Dow
-Theory does not and cannot tell you which individual stocks to buy, aside
-from those stocks which make up the averages themselves. That, again, is a
-problem for the remainder of this book.
-_EN: An Old Criticism, obsolete in Modern Markets. The Dow Theory does not
-tell you which stocks to buy. True at the time Edwards wrote this. But in modern
-markets the investor can buy substitute instruments which almost perfectly mimic
-its behavior (DIA). As it is possible to trade in surrogates for the Dow Averages in
-present markets, see Chapter 15.1._
+_EN: Hồ sơ thành tích này của Lý thuyết Dow được cập nhật
+tới năm 2006 trong Chương 5.1._
 
 
-## chapter 5.1. The Dow Theory in the 20th and 21st Centuries
+##### Lý thuyết Dow Không Phải Là Không Bao Giờ Sai
 
-As may be seen in the following table, replacing the table from Chapter 5,
-the Dow Theory continued to provide its user an advantage over the
-unaware Buy-and-Hold Investor. From its original investment of $100 in
-1897 the Theory investment would have grown to $345,781.94 by December
-31, 2005, with the long trade still open. The table below shows the details,
-including the post-2000 bust drawdown. To my mind this table is a powerful
-demonstration of the power of methodical technical investing.
-By contrast, the investment of $100, if bought at the low, 29.64, and sold at
-the historic high, 11762.71, in January 2000 would have grown to $39,685.03.
+Dĩ nhiên là không. Nó phụ thuộc vào cách diễn giải và chịu mọi rủi ro
+gắn liền với năng lực diễn giải của con người. Nhưng, một lần nữa,
+thành tích thực tế tự nó đã nói lên tất cả.
 
 
-I am indebted to Jack Schannep of _The Dow Theory.Com_ (www.thedowtheory.
-com) for the data recapitulated here. At that URL an enlightening exposition
-of the Theory and its record may be found — much more complete than that
-which is found here outside of Edwards’ magisterial presentation.
-Minor discrepancies are acknowledged within these and others’ data, a
-point which will be raised by purists. This is occasioned by disagreements
-within the priestly circles of those who keep the sacred records. That is, not
-all theorists are in 100% agreement as to the exact date or nature of the
-signals. (Some will say the reentry date of October 1, 1956, should have been
-October 7, 1957, for example.) Meaning, of course, that some judgment is
-involved in interpretation of the entrails. The Dow Theory is not a 100%
-objective algorithm, just as chart analysis is not reducible to an objective
-algorithm. (I am allowed to jest at the priesthood as I am a junior acolyte in
-these matters. It would not be seemly for the uninitiated to burlesque.)
-In brief, an investment of $100 in 1897 would have become $345,781.94
-simply by buying the Industrial Average stocks each time the Dow Theory
-announced a Bull Market and holding them until the Dow Theory
-announced a Bear Market, then selling.
-The Technical Investor would have had this amount in pocket marked
-to market at the end of 2005 as opposed to the $39,685.03 of his dozing
-counterpart, or the Trust Department of the Rip Van Winkle Bank of Sleepy
-Hollow. And, in addition, he would not have been deliquidified during Bear
-Markets.
-Whether or not the Dow Theory retains its validity over the market as
-a whole, there can be no question that it still calls the turn for its sector of
-the market, which as Jack Schannep correctly notes, has five times the cap-
-italization of the NASDAQ.
-As Mark Twain observed, everybody talks about the Dow Theory, but
-nobody does anything about it. Perhaps that is not precisely what Twain
-said, but close enough for government work. As further inquiry into the
-inner workings of the Theory I have initiated a series of studies of the record
-with Brian Brooker, MS Finance, Golden Gate University. Following are some
-of the results of our study, from the monograph, _Dissecting Dow Theory_.
 
-It seems obvious that the risk characteristics of Dow Theory investing
-are unique, and I will belabor the obvious. The Buy-and-Hold Investor
-mentioned above for comparison with the Dow Theory Investor not only
-realized less profit over the period of his investment; he also experienced
-greatly expanded risk over the life of the investment. At first blush all the
-profits garnered by the Reversing Investor in the table above represent risk
-actually experienced by the Buy-and-Hold Investor. But that is only first
-blush. A little deeper thought reveals that the true extent of the
-Buy-and-Hold Investor’s risk is measured by maximum drawdowns over
-any given period of time. It is not necessary to theorize about this question.
-The measurement is empirical.
-When viewed in perspective these risks are startling. From the top in 2000
-to the low in 2002 a 39% drawdown occurred. Is this disquieting? A 41%
-drawdown occurred during the Reagan crash of 1987. A mere bagatelle. The
-drawdown from 1929 to 1932 was 89%. Of course such things are unlikely to
-happen again. The big guys would step in and support the market.
-Clearly the way to reduce market risk to zero is to be out of the market.
-Less obviously, or perhaps blatantly, the second most important way to
-reduce risk is to be right the trend — or not to be wrong. And in fact because
-of the nature of the Theory much time is spent on the sidelines by the Dow
-Investor. A natural reduction of risk. In fact of the total days from 1897 to
-2006, 39,493, the Dow Investor spent 14,378 (or about 37% of the time) days
-at the beach or at the S&L. But his accumlated profits have not been credited
-with interest as this is a “pure” study.
-As will be readily apparent Table 1.2 is much richer in data than just the
-duration of investments in the long side of the market. Acting on the maxim
-(my own) that it is unwise to invest on only one side of the market I have
-computed the accumulated profits gained by trading the Dow long and
-short. After all the market goes down as well up, and for a reversing system
-a liquidation of longs is a signal to go short. If the record on the long side
-is impressive, showing accumulated profits to 2006 of $345,781.94, how much
-more impressive is the accumulated profit of $1,902,859 garnered from trad-
-ing both sides of the Dow, long and short.
-The reader who listens carefully will hear the meta message here. For
-the great majority of investors it is the long run which is important. In the
-“right now” culture of the Internet and the computer and get rich quick one
-wonders if there are still such investors, outside of the very rich and very
-intelligent. Perhaps there are still a few aged readers of early editions of this
-book. And, not to despair, perhaps some new converts.
+**Bảng 1.** Thành tích 60 năm của Lý thuyết Dow
 
 
-In Figures 9.1 and 9.2 I practice what I preach. I post historical Dow
-Theory buy and sell signals on the Dow chart. I am constantly urging stu-
-dents and clients to take the chart of an issue they have done poorly (or
-well) in and post their trades on it. The mere examination of this kind of
-chart should be an enlightening experience. When this exercise is accom-
-plished the investor may see whether in fact he is operating according to
-sound methods. Sound Methods being, in the opinion of this book and this
-Editor, mid- to long-term trend following methods.
-Further, these charts of the Dow Theory method may be compared with
-Figures 210 and 210.1 showing the use of Basing Points and the reader will
-have extensive cases of two methods for following the market in addition
-to the chart analysis methods prevalent thoughout the book.
-Robert W. Colby (robertwcolby.com), a member of the Market Techni-
-cians Association (mta.org), in a paper published by that organization (and
-available at his website), explored many objective algorithms for duplicating
-the performance of Dow Theory. Among these is a naturalistic channel
-breakout algorithm which I find worth further investigation. I will quote the
-rules here without further comment, reminding the reader that no (repeat
-NO) system should EVER be backed with money until the trader has exhaus-
-tively vetted it. Colby’s algorithm:
+##### Lý thuyết Dow Thường Khiến Nhà Đầu Tư Ở Trong Tình Trạng Nghi Ngờ
 
-1. Enter Long (Buy) when INDU rises to a new 9-trading day high and
-    TRAN rises to a new 39-trading day high.
-2. Close Long (Sell) when INDU falls to a new 22-trading day low and
-    TRAN falls to a new 166-trading day low.
-3. Enter Short (Sell Short) when INDU falls to a new 22-trading day
-    low and TRAN falls to a new 166-trading day low.
-4. Close Short (Cover) when INDU rises to a new 36-trading day high
-    and TRAN rises to a new 32-trading day high.
+Điều này đúng theo một nghĩa, nhưng lại không đúng theo nghĩa khác.
+Không bao giờ có thời điểm mà Lý thuyết Dow không đưa ra một câu
+trả lời mang tính giả định cho câu hỏi về hướng đi của Xu hướng Sơ
+cấp. Câu trả lời đó sẽ sai trong một khoảng thời gian tương đối ngắn
+ở giai đoạn đầu của mỗi Chuyển động Lớn mới. Cũng sẽ có những lúc
+mà một nhà phân tích Dow giỏi nên nói rằng: “Xu hướng Sơ cấp hiện
+vẫn được giả định là đang đi lên, nhưng nó đã bước vào một giai đoạn
+nguy hiểm, và tôi không thể, với lương tâm nghề nghiệp, khuyên bạn
+mua vào lúc này. Có thể đã quá muộn.”
 
-## Chapter 6. Important Reversal Patterns
+Tuy nhiên, trong nhiều trường hợp, lời chỉ trích trên đơn giản phản ánh
+sự bất lực của người phê phán trong việc chấp nhận về mặt tư duy khái
+niệm nền tảng rằng các Chỉ số đã chiết khấu toàn bộ tin tức và số liệu
+thống kê. Anh ta nghi ngờ Lý thuyết Dow vì không thể dung hòa thông
+điệp của nó với những quan điểm riêng của mình — vốn được hình
+thành từ các nguồn khác — về việc giá cổ phiếu “lẽ ra” phải diễn biến
+như thế nào. Không cần phải nói, lý thuyết này thường gần với sự thật
+hơn.
 
-In our discussion of certain deficiencies in the Dow Theory from the point
-of view of the practical trader, we mentioned the fact that it did not tell us
-what specific stocks to trade in. _(EN9: Obviously no longer a problem as the
-investor may buy the DIA and trade the Average like a stock_. _)_ A conservative and
-wealthy investor, more interested in safety than maximum profit, can solve
-this problem by making up a comprehensive and thoroughly diversified list
-of sound, well-seasoned “blue chip” issues and handing his broker an order
-to buy the lot when the Dow Theory signals a Bull Trend. Some of his
-selections will do better than others; some may “go sour,” but wide diver-
-sification will ensure his getting a fair Average result. Better results should
-be obtained if we can find a way to select for purchase the most favorably
-situated issues at any given time, and can manage to sell them promptly
-and switch to others whenever the prospects for the first have been fully
-discounted.
-There is the possibility, too, of increasing our gains if we can, at times,
-buy with safety earlier in an uptrend than the Dow theorist does, and sell
-before the market has reacted far enough to give a Dow Bear Signal.
-We mentioned also the fact that the Dow Theory is of little or no assis-
-tance in trading on the Intermediate Trends. There is obviously more money
-to be made if we can get the benefit of all of each up move without having
-to write off some of our profits in each reaction. Or if we can profit both
-ways by trading on both the “long side” and “short side” of the market.
-Finally, although all stocks tend to move with “the market” as typified
-in the Averages, there are in fact wide variations in the price paths of indi-
-vidual issues. An average, after all, is just that, a device for expressing in
-one figure a diversity of other figures. A Primary Bull Market ended in the
-Dow–Jones Industrial Average on May 29, 1946; but United Air Lines regis-
-tered its highest price in December 1945; General Motors saw its peak in
-January 1946; Goodyear in April, DuPont in June, and Schenley in August.
-Is there a way of capitalizing on these Divergences?
-Technical analysis of the charts of individual stocks definitely answers
-the first and most important of these four problems, the matter of selection.
-It frequently, but not always, gives us a running start on the Dow Theory;
-it also, in large part, takes care of the question of the Intermediate Trend,
-although there are certain reservations as to policy and risk in connection
-with both these points which will be taken up in due course. Finally, careful
-technical analysis should, in nearly every case, get us out of a stock that
-“tops out” ahead of the Averages long before it has suffered any considerable
-decline, often in time to transfer funds to other issues which have yet to
-complete their advances.
-Just as the Averages constantly discount all known and foreseeable fac-
-tors affecting the future of security prices in general, in the same way does
-the market action of an individual issue reflect all the factors affecting its
-individual future. Among these factors, and, expressed in its chart, are the
-general market conditions which influence all stocks to a greater or lesser
-degree, as well as the particular conditions applying to the particular stock,
-including the operations of “insiders.”
-Let us assume right from the start that you, the reader, are not a member
-of that mysterious inner circle known to the boardrooms as “the insiders.”
-Such a group — genuinely entitled to be called insiders, thoroughly informed
-on every fact, figure, and development that might determine the fortunes of
-a certain corporation — may exist from time to time, may influence the
-market price of its stock _(EN9: and wind up in prison)_. But it is fairly certain
-that there are not nearly so many “insiders” as the amateur trader supposes,
-and that they do not cause one tenth of the market movements for which
-the public blames them. It is even more certain that insiders can be wrong;
-they would, in fact, be the first to admit it. Frequently, their plans are upset
-by some development which they could not foresee, or by some blind force
-which puts to scorn all expert estimates of value. Any success they have,
-however, can be accomplished only by buying and selling on the floor of
-the Exchange. _(EN9: No longer strictly true. Insiders sold stock to their companies
-in the tulip bubble which went unreported publicly for up to a year_. _Still, only an
-isolated problem.)_ They can do neither without altering the delicate poise of
-supply and demand which governs prices. Whatever they do is sooner or
-later reflected on the charts where you, the “outsider,” can detect it. Or detect,
-at least, the way in which the supply–demand equation is being affected by
-insiders’ operations plus all other prevailing market factors. So, you don’t
-need to be an insider in order frequently to ride with them.
+Trong những trường hợp khác, lời phê phán này chẳng phản ánh điều gì
+ngoài sự thiếu kiên nhẫn. Có thể có những tuần hoặc thậm chí nhiều
+tháng (ví dụ, trong quá trình hình thành một Line) mà Lý thuyết Dow
+không thể “lên tiếng”. Nhà giao dịch năng động, dĩ nhiên, sẽ phản ứng.
+Nhưng sự kiên nhẫn là một đức tính trong thị trường chứng khoán cũng
+như ở những nơi khác — trên thực tế, là điều thiết yếu nếu muốn tránh
+những sai lầm nghiêm trọng.
 
-##### Important Reversal Patterns
 
-Stock prices move in trends. Some of those trends are straight, some are
-curved; some are brief and some are long-continued; some are irregular or
-poorly defined and others are amazingly regular or “normal,” produced in
-a series of action and reaction waves of great uniformity. Sooner or later,
-these trends change direction; they may reverse (as from up to down) or
-they may be interrupted by some sort of sideways movement and then, after
-a time, proceed again in their former direction.
-In most cases, when a price trend is in the process of Reversal, either
-from up to down or from down to up, a characteristic area or “pattern” takes
-shape on the chart, becomes recognizable as a Reversal Formation. Some of
-these chart pictures are built and completed very quickly, while others may
-require several weeks to reach a stage where one can surely say that a reversal
-of trend is definitely indicated. Speaking in broad generalities, the greater
-the Reversal Area — the wider the price fluctuations within it, the longer it
-takes to build, the more shares transferred during its construction — the
-more important its implications. Thus, roughly speaking, a big Reversal
-Formation suggests a big move to follow and a small pattern, a small move.
-Needless to say, the first and most important task of the technical chart
-analyst is to learn to know the important Reversal Formations and to judge
-what they may signify in terms of trading opportunities.
-There is one recognized Reversal Pattern which appears and is com-
-pleted within a single day’s trading, and is, in consequence, named the
-“One-Day Reversal.” There are times when it has great significance as calling
-a halt, at least temporarily, to any up or down move, but in its ordinary
-manifestations it does not imply much of an immediate move in the opposite
-direction. It is a useful pattern and we shall have more to say about it later.
-But the price formations from which extensive new trends proceed take time
-to build. One does not bring instantly to a stop a heavy car moving at 70 miles
-an hour and, all within the same split second, turn it around and get it
-moving back down the road in the opposite direction at 70 miles an hour.
+##### Lý thuyết Dow Không Giúp Ích Cho Nhà Đầu Tư Theo Xu Hướng Trung Gian
 
-##### Time Required to Reverse Trend
+Điều này hoàn toàn đúng. Lý thuyết này đưa ra rất ít, hoặc hầu như
+không có, cảnh báo về những thay đổi trong Xu hướng Trung gian.
+Tuy nhiên, nếu có thể nắm bắt được một phần hợp lý của những
+chuyển động này, lợi nhuận thu được sẽ lớn hơn nhiều so với việc
+chỉ dựa vào Xu hướng Sơ cấp. Một số nhà giao dịch đã xây dựng
+những quy tắc bổ trợ dựa trên các nguyên lý của Dow để áp dụng
+cho các chuyển động Trung gian, nhưng những quy tắc đó không
+chứng tỏ được tính thỏa đáng. Phần còn lại của cuốn sách này
+được dành để trình bày một cách tiếp cận tốt hơn cho vấn đề này.
 
-But we do not need to lean on a racing automobile analogy to explain why
-it takes time (and volume and price action) to produce an important Trend
-Reversal. The logic of it is plain enough, if we take but a moment to examine
-it. We can do so most easily by describing what might have (and, doubtless,
-many times has) happened in specific terms. Suppose a certain
-well-informed and well-financed coterie _(EN9: A congerie of mutual funds, for
-example.)_ decides that the shares of a certain company, now selling around
-40, are cheap, that this company’s affairs are progressing so satisfactorily
-that, before long, it will attract the attention of many investors and its stock
-will be in demand at much higher levels, perhaps at 60 or 65. Our group
-realizes that if they manage their market operations skillfully, if nothing
-unforeseen intervenes to upset their calculations, they can “take” 20 points
-out of the situation. So they proceed to buy in all offerings, going about this
-business as quietly as possible, until they have accumulated their “line,”
-which may run to several thousand shares and represent practically all of
-the current floating supply of the issue. Then they wait. Presently, profes-
-sionals become suspicious and the rumor circulates that there is “something
-doing in PDQ,” or other canny bargain hunters discover the company’s
-bright prospects, or chart analysts detect the signs of accumulation in the
-stock’s action. Buyers now find that the stock is scarce; there are few offerings
-on the books and they have to raise their bids to get it. An advance starts.
-The up-move gathers momentum as more and more traders are
-attracted by rising prices. It is helped along by the good reports (higher
-earnings, increased dividend, etc.) which our group knew were to be
-expected. Eventually, prices approach the level at which they had planned
-to take profits. But this operation, the “distribution” of their holdings, may
-require even more patient and skillful handling than did the accumulation.
-Suppose they have 20,000 shares to unload. They cannot throw all on the
-market at once; to do so would defeat their own ends immediately and,
-perhaps, permanently. They must feed their line out little by little, trying to
-avoid attention, feeling their way along and never permitting a surplus of
-offerings to kill the demand. If activity in their stock has reached a level of,
-say, 2000 shares transferred daily, they may be able to dispose of 500 shares
-a day from their holdings without bringing the price down. (They will be
-competing, sooner or later, with others who have followed their play, who
-bought lower down and will be ready to take profits as soon as the advance
-shows signs of weakening.) So they start to sell when the rising Trend
-appears to have attained maximum momentum, or as it nears their price
-objective, but well before it has reached its probable limit, and they push
-out their shares as rapidly as buyers will take them.
-Before long, as a rule — before they have distributed their entire line —
-a lull in demand will occur. Perhaps prospective buyers sense the increase
-in supply. A reaction develops. Our group quickly ceases selling, withdraws
-its offers, perhaps even buys back a few shares to support prices if they
-threaten to drop too far. With supply temporarily held off the market, the
-decline halts and the advance resumes. Our group lets it proceed this time
-until it carries prices into new high ground; this reassures other holders and
-brings in more buyers. As soon as the pot is once again merrily boiling,
-distribution is started anew and, if the maneuver has been well directed,
-completed in perhaps 2 or 3 weeks, before the second wave of demand has
-been exhausted.
-Our group is now out of its stock with a nice profit; its 20,000 shares
-have passed into other hands. If they gauged the market correctly and
-distributed their line at a price about as high as the situation would bear,
-demand will have been satiated for a long time to come. Prices will probably
-first drift back to somewhere near the level where they were supported on
-the previous dip, then rally feebly on the strength of a little new buying from
-traders who were waiting for just such a Minor Reaction, meet sales from
-other traders who failed to seize the opportunity to take their profits on the
-preceding volume Top and are now anxious to get out, and then break down
-into a decline of Intermediate or Major proportions.
-You can see now why, under one specific set of circumstances, a Top
-area, a chart pattern of distribution, takes time and volume to complete. But,
-it doesn’t matter whether we have to deal with the highly organized oper-
-ations of a single group of insiders or of an investment syndicate or, as is
-more often the case, with the quite unorganized activities of all the investors
-variously interested in an issue. The result is pretty much the same. Distri-
-bution, which is simply the Street’s way of expressing the process of supply
-overcoming demand, takes time and a change in ownership (turnover) of a
-large number of shares. And it is amazing to see how these patterns of
-distribution, which hereafter we shall find it simpler to refer to as “Tops,”
-tend to assume certain well-defined forms. Most of the same pattern forms
-appear also as “Bottoms,” in which manifestation they signify accumulation,
-of course, instead of distribution.
+Lý thuyết Dow là một công cụ mang tính cơ học, được thiết kế để
+xác định hướng đi của Xu hướng Thị trường Sơ cấp, điều vốn quan
+trọng bởi vì, như chúng ta đã nói ở phần mở đầu của nghiên cứu
+này, phần lớn các cổ phiếu có xu hướng đi theo thị trường chung.
+Lý thuyết Dow không và cũng không thể cho bạn biết nên mua
+những cổ phiếu riêng lẻ nào, ngoài các cổ phiếu cấu thành chính
+những chỉ số trung bình đó. Một lần nữa, đây là vấn đề dành cho
+phần còn lại của cuốn sách.
 
-##### The Head-and-Shoulders
+_EN: Một lời chỉ trích cũ, nay đã lỗi thời trong các thị trường hiện đại.
+Lý thuyết Dow không cho bạn biết nên mua cổ phiếu nào. Điều này
+đúng vào thời điểm Edwards viết tác phẩm này. Nhưng trong các
+thị trường hiện đại, nhà đầu tư có thể mua những công cụ thay thế
+mô phỏng gần như hoàn hảo hành vi của nó (DIA). Do hiện nay có
+thể giao dịch các công cụ đại diện cho các Chỉ số Dow, hãy xem
+Chương 15.1._
 
-If you followed closely and were able successfully to visualize how the fore-
-going example of distribution would appear on a chart, you saw a
-Head-and-Shoulders Top Formation. This is one of the more common and, by
-all odds, the most reliable of the Major Reversal Patterns. Probably you have
-heard it mentioned, for there are many traders who are familiar with its name,
-but not so many who really know it and can distinguish it from somewhat
-similar price developments which do not portend a real Reversal of Trend.
-The typical or, if you will, the ideal Head-and-Shoulders Top is illus-
-trated in Diagram 2. You can easily see how it got its name. It consists of:
 
-```
-A. A strong rally, climaxing a more or less extensive advance, on which
-trading volume becomes very heavy, followed by a Minor Recession
-on which volume runs considerably less than it did during the days
-of rise and at the Top. This is the “left shoulder.”
-B. Another high-volume advance which reaches a higher level than the
-top of the left shoulder, and then another reaction on less volume
-which takes prices down to somewhere near the bottom level of the
-preceding recession, somewhat lower perhaps or somewhat higher,
-but, in any case, below the top of the left shoulder. This is the “Head.”
-C. A third rally, but this time on decidedly less volume than accompa-
-nied the formation of either the left shoulder or the head, which fails
-to reach the height of the head before another decline sets in. This is
-the “right shoulder.”
-D. Finally, decline of prices in this third recession down through a line
-(the “neckline”) drawn across the Bottoms of the reactions between
-the left shoulder and head, and the head and right shoulder, respec-
-tively, and a close below that line by an amount approximately equiv-
-alent to 3% of the stock’s market price. This is the “confirmation” or
-“breakout.”
-```
-Note that each and every item cited in A, B, C, and D is essential to a
-valid Head-and-Shoulders Top Formation. The lack of any one of them casts
-in doubt the forecasting value of the pattern. In naming them, we have left
-the way clear for the many variations that occur (for no two Head-and-
-Shoulders are exactly alike) and have included only the features which must
-be present if we are to depend upon the pattern as signaling an important
-Reversal of Trend. Let us examine them in greater detail.
 
-##### Volume Is Important
 
-First, the matter of volume. It is always to be watched as a vital part of the
-total picture. The chart of trading activity makes a pattern just as does the
-chart of price ranges. The two go together and each must conform to the
-requirements of the case. But note also that volume is relative. When we
-speak of high volume, we mean a rate of trading notably greater than has
-been customary in that particular stock during that particular period under
-examination. The exact number of shares traded is not important, nor will
-it ordinarily signify anything for our purposes to compare a daily volume
-of, say, 6500 shares in Radio Corporation with 500 in Bohn Aluminum and
+## Chương 5.1. Lý Thuyết Dow Trong Thế Kỷ 20 Và 21
 
-**DIAGRAM 2**. A hypothetical daily stock chart — price in the upper part and
-volume at bottom — drawn to show how an ideal Head-and-Shoulders Top Reversal
-Formation would develop. A, B, C, and D refer to essential features listed on the
-previous page.
+Như có thể được thấy trong bảng sau đây, thay thế bảng từ Chương 5,
+Lý Thuyết Dow tiếp tục cung cấp cho người sử dụng của nó một lợi thế so với
+Nhà Đầu Tư Mua-Và-Giữ Không Hay Biết. Từ khoản đầu tư ban đầu của $100 vào
+1897 khoản đầu tư Lý Thuyết sẽ đã phát triển đến $345,781.94 vào ngày 31 tháng 12,
+2005, với giao dịch dài vẫn mở. Bảng dưới đây cho thấy chi tiết,
+bao gồm sự sụt giảm sau bong bóng 2000. Theo ý kiến của tôi bảng này là một minh chứng
+mạnh mẽ về sức mạnh của đầu tư kỹ thuật có phương pháp.
+Ngược lại, khoản đầu tư $100, nếu mua ở mức thấp, 29.64, và bán ở
+mức cao lịch sử, 11762.71, vào tháng 1 năm 2000 sẽ đã phát triển đến $39,685.03.
 
-Brass. The former may be very low and the latter very high as judged by
-the proper technical criterion which is, in each case, the average recent
-activity in the same issue. In the case of a Head-and-Shoulders Top, we have
-said that high volume attends the making of the left shoulder; so, this means
-that activity on the rise to and at the Top of the left shoulder should be
-greater than on the preceding rally waves in the same issue, then a Minor
-Recession on dwindling activity, and then a new advance on high volume.
-The action thus far does not differ from what we should expect of normal
-wave development within a continuing uptrend. In these respects, any two
-typical, successively higher waves in an advance may, as you can see, become
-the left shoulder and head, respectively, of a Head-and-Shoulders Reversal.
-The first suggestion that a Head-and-Shoulders is really developing may
-come when the volume record shows that activity accompanying the most
-recent Top was somewhat less than on the one preceding it. If this volume
-disparity is conspicuous, and if it becomes evident from the way prices are
-receding that the second and higher rally has ended, then the chart should
-be tabbed with a “red” signal and further developments closely scrutinized.
-But such a preliminary warning does not always appear, nor should it be
-taken as conclusive when it does appear. Roughly estimated, about one third
+Tôi mang ơn Jack Schannep của _The Dow Theory.Com_ (www.thedowtheory.
+com) vì dữ liệu được tóm tắt lại ở đây. Tại URL đó một bài trình bày
+giải thích về Lý Thuyết và hồ sơ của nó có thể được tìm thấy — đầy đủ hơn nhiều so với
+điều mà được tìm thấy ở đây bên ngoài bài trình bày uy nghi của Edwards.
+Những sự khác biệt nhỏ được thừa nhận trong những dữ liệu này và của người khác, một
+điểm mà sẽ được nêu ra bởi những người thuần túy. Điều này được gây ra bởi sự bất đồng
+trong các vòng tròn giáo sĩ của những người giữ hồ sơ thiêng liêng. Đó là, không
+tất cả các nhà lý thuyết đều đồng ý 100% về ngày chính xác hoặc bản chất của các
+tín hiệu. (Một số sẽ nói ngày tái nhập của ngày 1 tháng 10, 1956, nên đã là
+ngày 7 tháng 10, 1957, ví dụ.) Nghĩa là, tất nhiên, rằng một số phán đoán là
+liên quan trong việc diễn giải nội tạng. Lý Thuyết Dow không phải là một thuật toán
+khách quan 100%, giống như phân tích biểu đồ không thể giảm xuống thành một thuật toán
+khách quan. (Tôi được phép đùa giỡn với giới giáo sĩ vì tôi là một trợ tế sơ cấp trong
+những vấn đề này. Sẽ không phù hợp cho người chưa được khởi xướng để nhái lại.)
+Tóm lại, một khoản đầu tư $100 vào năm 1897 sẽ đã trở thành $345,781.94
+đơn giản bằng cách mua cổ phiếu Trung Bình Công Nghiệp mỗi lần Lý Thuyết Dow
+thông báo một Thị Trường Bò và giữ chúng cho đến khi Lý Thuyết Dow
+thông báo một Thị Trường Gấu, sau đó bán.
+Nhà Đầu Tư Kỹ Thuật sẽ đã có số tiền này trong túi được đánh dấu
+đến thị trường vào cuối năm 2005 trái ngược với $39,685.03 của người đồng nghiệp
+ngủ gật của anh ta, hoặc Phòng Tin Cậy của Ngân Hàng Rip Van Winkle của Sleepy
+Hollow. Và, ngoài ra, anh ta sẽ không đã bị mất thanh khoản trong Thị Trường
+Gấu.
+Dù Lý Thuyết Dow có giữ được tính hợp lệ của nó trên thị trường như
+một toàn thể hay không, không thể có câu hỏi rằng nó vẫn gọi lượt cho lĩnh vực của
+thị trường của nó, mà như Jack Schannep lưu ý đúng, có vốn hóa gấp năm lần
+của NASDAQ.
+Như Mark Twain quan sát, mọi người đều nói về Lý Thuyết Dow, nhưng
+không ai làm gì về nó. Có lẽ đó không chính xác là những gì Twain
+nói, nhưng đủ gần cho công việc chính phủ. Là cuộc điều tra thêm vào
+các hoạt động bên trong của Lý Thuyết tôi đã khởi xướng một loạt nghiên cứu về hồ sơ
+với Brian Brooker, MS Finance, Đại Học Golden Gate. Sau đây là một số
+kết quả của nghiên cứu của chúng tôi, từ chuyên khảo, _Dissecting Dow Theory_.
+
+Có vẻ rõ ràng rằng các đặc tính rủi ro của đầu tư Lý Thuyết Dow
+là độc đáo, và tôi sẽ nhấn mạnh điều rõ ràng. Nhà Đầu Tư Mua-Và-Giữ
+được đề cập ở trên để so sánh với Nhà Đầu Tư Lý Thuyết Dow không chỉ
+thực hiện ít lợi nhuận hơn trong khoảng thời gian đầu tư của anh ta; anh ta cũng trải qua
+rủi ro mở rộng lớn trong suốt cuộc đời của khoản đầu tư. Thoạt nhìn tất cả các
+lợi nhuận thu được bởi Nhà Đầu Tư Đảo Ngược trong bảng trên đại diện cho rủi ro
+thực sự trải qua bởi Nhà Đầu Tư Mua-Và-Giữ. Nhưng đó chỉ là thoạt nhìn.
+Một suy nghĩ sâu hơn một chút tiết lộ rằng mức độ thực sự của
+rủi ro của Nhà Đầu Tư Mua-Và-Giữ được đo lường bởi các sụt giảm tối đa trong
+bất kỳ khoảng thời gian nào. Không cần thiết phải lý thuyết hóa về câu hỏi này.
+Việc đo lường là thực nghiệm.
+Khi xem xét trong góc nhìn những rủi ro này là đáng kinh ngạc. Từ đỉnh năm 2000
+đến đáy năm 2002 một sụt giảm 39% xảy ra. Điều này có đáng lo ngại? Một sụt giảm
+41% xảy ra trong vụ sụp đổ Reagan năm 1987. Chỉ là một thứ nhỏ nhặt. Sự
+sụt giảm từ 1929 đến 1932 là 89%. Tất nhiên những điều như vậy không thể xảy ra lại.
+Những gã lớn sẽ bước vào và hỗ trợ thị trường.
+Rõ ràng cách để giảm rủi ro thị trường xuống zero là ra khỏi thị trường.
+Ít rõ ràng hơn, hoặc có lẽ rõ ràng, cách quan trọng thứ hai để
+giảm rủi ro là đúng xu hướng — hoặc không sai. Và trên thực tế vì
+bản chất của Lý Thuyết nhiều thời gian được dành trên lề bởi Nhà Đầu Tư
+Dow. Một sự giảm rủi ro tự nhiên. Trên thực tế của tổng số ngày từ 1897 đến
+2006, 39,493, Nhà Đầu Tư Dow dành 14,378 (hoặc khoảng 37% thời gian) ngày
+ở bãi biển hoặc ở S&L. Nhưng lợi nhuận tích lũy của anh ta chưa được ghi có
+với lãi suất vì đây là một nghiên cứu “thuần túy”.
+Như sẽ rõ ràng ngay lập tức Bảng 1.2 giàu dữ liệu hơn nhiều so với chỉ
+thời gian đầu tư ở phía dài của thị trường. Hành động theo châm ngôn
+(của tôi) rằng không khôn ngoan để đầu tư chỉ ở một phía của thị trường tôi đã
+tính toán lợi nhuận tích lũy thu được bằng cách giao dịch Dow dài và
+ngắn. Sau tất cả thị trường đi xuống cũng như lên, và đối với một hệ thống đảo ngược
+việc thanh lý dài là tín hiệu để đi ngắn. Nếu hồ sơ ở phía dài
+là ấn tượng, cho thấy lợi nhuận tích lũy đến 2006 là $345,781.94, bao nhiêu
+hơn ấn tượng là lợi nhuận tích lũy $1,902,859 thu được từ giao dịch
+cả hai phía của Dow, dài và ngắn.
+Người đọc lắng nghe cẩn thận sẽ nghe thông điệp meta ở đây. Đối với
+đa số lớn các nhà đầu tư đó là dài hạn quan trọng. Trong
+văn hóa “ngay bây giờ” của Internet và máy tính và làm giàu nhanh người ta
+tự hỏi nếu vẫn còn những nhà đầu tư như vậy, bên ngoài những người rất giàu và rất
+thông minh. Có lẽ vẫn còn một vài độc giả lớn tuổi của các ấn bản đầu của cuốn sách này.
+Và, không tuyệt vọng, có lẽ một số người chuyển đổi mới.
+
+Trong Hình 9.1 và 9.2 tôi thực hành những gì tôi thuyết giảng. Tôi đăng các tín hiệu
+mua và bán Lý Thuyết Dow lịch sử trên biểu đồ Dow. Tôi liên tục thúc giục học
+sinh và khách hàng lấy biểu đồ của một vấn đề mà họ đã làm kém (hoặc
+tốt) trong và đăng các giao dịch của họ trên đó. Việc kiểm tra đơn thuần của loại
+biểu đồ này nên là một trải nghiệm khai sáng. Khi bài tập này được hoàn
+thành nhà đầu tư có thể thấy liệu trên thực tế anh ta có đang hoạt động theo
+các phương pháp lành mạnh. Các Phương Pháp Lành Mạnh là, theo ý kiến của cuốn sách này và
+Biên Tập Viên này, các phương pháp theo xu hướng trung đến dài hạn.
+Hơn nữa, những biểu đồ này của phương pháp Lý Thuyết Dow có thể được so sánh với
+Hình 210 và 210.1 cho thấy việc sử dụng Điểm Cơ Sở và người đọc sẽ
+có các trường hợp rộng rãi của hai phương pháp để theo dõi thị trường ngoài
+các phương pháp phân tích biểu đồ phổ biến xuyên suốt cuốn sách.
+Robert W. Colby (robertwcolby.com), một thành viên của Hiệp Hội Kỹ Thuật
+Thị Trường (mta.org), trong một bài báo được xuất bản bởi tổ chức đó (và
+có sẵn tại trang web của ông), đã khám phá nhiều thuật toán khách quan để nhân bản
+hiệu suất của Lý Thuyết Dow. Trong số này là một thuật toán đột phá kênh
+tự nhiên mà tôi thấy đáng điều tra thêm. Tôi sẽ trích dẫn các
+quy tắc ở đây mà không bình luận thêm, nhắc nhở người đọc rằng không (lặp lại
+KHÔNG) hệ thống nào nên BAO GIỜ được hỗ trợ bằng tiền cho đến khi nhà giao dịch đã kiểm tra
+toàn diện nó. Thuật toán của Colby:
+
+1. Vào Dài (Mua) khi INDU tăng đến một mức cao mới 9-ngày giao dịch và
+    TRAN tăng đến một mức cao mới 39-ngày giao dịch.
+2. Đóng Dài (Bán) khi INDU giảm đến một mức thấp mới 22-ngày giao dịch và
+    TRAN giảm đến một mức thấp mới 166-ngày giao dịch.
+3. Vào Ngắn (Bán Khống) khi INDU giảm đến một mức thấp mới 22-ngày giao
+    dịch và TRAN giảm đến một mức thấp mới 166-ngày giao dịch.
+4. Đóng Ngắn (Che) khi INDU tăng đến một mức cao mới 36-ngày giao dịch
+    và TRAN tăng đến một mức cao mới 32-ngày giao dịch.
+
+## Chương 6. Các Mô Hình Đảo Chiều Quan Trọng
+
+Trong phần thảo luận về một số khiếm khuyết của Lý thuyết Dow xét từ
+góc nhìn của nhà giao dịch thực hành, chúng ta đã đề cập đến việc
+rằng lý thuyết này không cho biết nên giao dịch những cổ phiếu cụ
+thể nào. _(EN9: Hiển nhiên đây không còn là vấn đề nữa, vì nhà đầu
+tư hiện nay có thể mua DIA và giao dịch Chỉ số như một cổ phiếu.)_
+Một nhà đầu tư bảo thủ và giàu có, quan tâm đến sự an toàn hơn là
+tối đa hóa lợi nhuận, có thể giải quyết vấn đề này bằng cách lập ra
+một danh mục toàn diện, được đa dạng hóa kỹ lưỡng gồm các cổ
+phiếu “blue chip” vững chắc, đã trưởng thành, rồi giao cho môi
+giới một lệnh mua toàn bộ danh mục đó khi Lý thuyết Dow phát tín
+hiệu Xu hướng Tăng. Một số lựa chọn của ông ta sẽ hoạt động tốt
+hơn các lựa chọn khác; một số có thể “xuống cấp”, nhưng sự đa
+dạng hóa rộng rãi sẽ đảm bảo ông ta đạt được một kết quả trung
+bình chấp nhận được. Tuy nhiên, kết quả sẽ còn tốt hơn nếu chúng
+ta có thể tìm ra cách lựa chọn để mua những cổ phiếu đang ở vào
+vị thế thuận lợi nhất tại bất kỳ thời điểm nào, đồng thời có thể
+bán chúng kịp thời và chuyển sang các mã khác ngay khi triển
+vọng của những mã đầu tiên đã được thị trường chiết khấu đầy đủ.
+
+Cũng có khả năng gia tăng lợi nhuận nếu, trong một số trường hợp,
+chúng ta có thể mua một cách an toàn sớm hơn trong một xu hướng
+tăng so với thời điểm mà nhà phân tích Dow hành động, và bán ra
+trước khi thị trường điều chỉnh đủ sâu để phát ra một tín hiệu Gấu
+theo Dow.
+
+Chúng ta cũng đã đề cập đến thực tế rằng Lý thuyết Dow rất ít hoặc
+gần như không hỗ trợ cho việc giao dịch theo các Xu hướng Trung
+gian. Rõ ràng là sẽ có nhiều tiền hơn để kiếm được nếu ta có thể
+hưởng trọn vẹn toàn bộ mỗi nhịp tăng mà không phải xóa bỏ một
+phần lợi nhuận trong mỗi lần điều chỉnh. Hoặc nếu ta có thể kiếm
+lợi theo cả hai chiều bằng cách giao dịch cả “vị thế mua” lẫn “vị
+thế bán” của thị trường.
+
+Cuối cùng, mặc dù tất cả các cổ phiếu đều có xu hướng di chuyển
+cùng với “thị trường chung” như được phản ánh qua các Chỉ số,
+thực tế vẫn tồn tại những khác biệt rất lớn trong quỹ đạo giá của
+từng cổ phiếu riêng lẻ. Rốt cuộc, một chỉ số trung bình chỉ đơn
+thuần là một công cụ để biểu đạt, bằng một con số, sự đa dạng của
+nhiều con số khác. Một Thị trường Tăng Sơ cấp kết thúc trong Chỉ
+số Dow–Jones Industrials vào ngày 29 tháng 5 năm 1946; nhưng
+United Air Lines lại ghi nhận mức giá cao nhất vào tháng 12 năm
+1945; General Motors đạt đỉnh vào tháng 1 năm 1946; Goodyear
+vào tháng 4; DuPont vào tháng 6; và Schenley vào tháng 8. Liệu
+có cách nào để khai thác những Sự Phân kỳ này không?
+
+Phân tích kỹ thuật các đồ thị của từng cổ phiếu riêng lẻ trả lời một
+cách dứt khoát cho vấn đề đầu tiên và quan trọng nhất trong bốn
+vấn đề trên, đó là vấn đề lựa chọn. Nó thường xuyên, nhưng không
+phải lúc nào cũng vậy, giúp chúng ta đi trước Lý thuyết Dow một
+bước; đồng thời, ở mức độ lớn, nó cũng giải quyết được vấn đề
+Xu hướng Trung gian, mặc dù vẫn tồn tại một số dè dặt về chính
+sách và rủi ro liên quan đến cả hai điểm này, sẽ được bàn đến
+vào thời điểm thích hợp. Cuối cùng, phân tích kỹ thuật cẩn thận
+trong hầu hết mọi trường hợp sẽ giúp chúng ta thoát khỏi một
+cổ phiếu đã “tạo đỉnh” sớm hơn Chỉ số chung, rất lâu trước khi
+nó phải chịu bất kỳ sự sụt giảm đáng kể nào, và thường kịp thời
+để chuyển vốn sang những mã khác vẫn chưa hoàn tất đà tăng
+của chúng.
+
+Cũng như các Chỉ số trung bình liên tục chiết khấu tất cả các yếu
+tố đã biết và có thể dự đoán ảnh hưởng đến tương lai của giá
+chứng khoán nói chung, thì hành động giá của một cổ phiếu
+riêng lẻ cũng phản ánh toàn bộ các yếu tố ảnh hưởng đến tương
+lai riêng của nó. Trong số những yếu tố đó, và được thể hiện
+trên đồ thị của nó, bao gồm các điều kiện thị trường chung ảnh
+hưởng đến mọi cổ phiếu ở mức độ nhiều hay ít, cũng như các
+điều kiện đặc thù áp dụng cho chính cổ phiếu đó, bao gồm cả
+các hoạt động của “người nội bộ”.
+
+Ngay từ đầu, hãy giả định rằng bạn, người đọc, không phải là
+thành viên của vòng tròn bí ẩn được biết đến trong các phòng
+họp hội đồng quản trị với tên gọi “người nội bộ”. Một nhóm như
+vậy — thực sự xứng đáng được gọi là nội bộ, được cung cấp đầy
+đủ mọi dữ kiện, con số và diễn biến có thể quyết định vận mệnh
+của một công ty nào đó — có thể tồn tại trong một số thời kỳ,
+và có thể ảnh hưởng đến giá thị trường của cổ phiếu đó
+_(EN9: và rồi kết thúc trong tù)_. Nhưng điều khá chắc chắn là
+số lượng “người nội bộ” không nhiều như nhà giao dịch nghiệp
+dư nghiệp dư vẫn tưởng, và họ cũng không gây ra đến một
+phần mười những biến động thị trường mà công chúng vẫn
+đổ lỗi cho họ. Càng chắc chắn hơn nữa là bản thân những
+người nội bộ cũng có thể sai; trên thực tế, chính họ sẽ là
+những người đầu tiên thừa nhận điều đó. Thường xuyên,
+các kế hoạch của họ bị phá vỡ bởi những diễn biến mà họ
+không thể dự đoán trước, hoặc bởi những lực mù quáng
+đặt mọi ước tính giá trị của chuyên gia vào thế nực cười.
+Dù sao đi nữa, bất kỳ thành công nào của họ cũng chỉ có
+thể đạt được thông qua việc mua và bán trực tiếp trên
+sàn giao dịch. _(EN9: Không còn hoàn toàn đúng nữa. Người
+nội bộ từng bán cổ phiếu cho chính công ty của họ trong
+bong bóng hoa tulip, và các giao dịch đó không được công
+bố trong vòng tới một năm. Tuy vậy, đây chỉ là một vấn đề
+cá biệt.)_ Họ không thể làm điều đó mà không làm xáo trộn
+trạng thái cân bằng mong manh của cung và cầu, yếu tố
+chi phối giá cả. Bất cứ điều gì họ làm, sớm hay muộn đều
+được phản ánh trên đồ thị, nơi bạn — một “người ngoài” —
+có thể phát hiện ra nó. Hoặc ít nhất, có thể nhận ra cách
+mà phương trình cung–cầu đang bị tác động bởi các hoạt
+động của người nội bộ cộng với tất cả các yếu tố thị
+trường hiện hành khác. Vì vậy, bạn không cần phải là
+người nội bộ để thường xuyên “đi cùng chuyến” với họ.
+
+
+##### Các Mô Hình Đảo Chiều Quan Trọng
+
+Giá cổ phiếu di chuyển theo các xu hướng. Một số xu hướng
+là thẳng, một số là cong; một số ngắn hạn, một số kéo dài;
+một số không đều hoặc khó xác định, trong khi những xu
+hướng khác lại đều đặn hoặc “chuẩn mực” một cách đáng
+kinh ngạc, được tạo thành từ một chuỗi các làn sóng hành
+động và phản ứng có độ đồng nhất rất cao. Sớm hay muộn,
+những xu hướng này sẽ đổi hướng; chúng có thể đảo chiều
+(thí dụ, từ tăng sang giảm), hoặc có thể bị gián đoạn bởi
+một giai đoạn đi ngang nào đó rồi, sau một thời gian, lại
+tiếp tục theo hướng cũ.
+
+Trong hầu hết các trường hợp, khi một xu hướng giá đang
+trong quá trình Đảo chiều, dù là từ tăng sang giảm hay từ
+giảm sang tăng, một khu vực hay “mô hình” đặc trưng sẽ
+hình thành trên đồ thị và trở nên có thể nhận diện như
+một Cấu trúc Đảo chiều. Một số hình thái đồ thị này được
+xây dựng và hoàn tất rất nhanh, trong khi những hình
+thái khác có thể cần đến vài tuần để đạt tới giai đoạn mà
+người ta có thể chắc chắn rằng sự đảo chiều xu hướng đã
+được chỉ báo một cách rõ ràng. Nói một cách khái quát,
+khu vực Đảo chiều càng lớn — biên độ dao động giá bên
+trong nó càng rộng, thời gian hình thành càng dài, số
+lượng cổ phiếu được sang tay trong quá trình xây dựng
+nó càng nhiều — thì ý nghĩa của nó càng quan trọng.
+Do đó, nói một cách tương đối, một Cấu trúc Đảo chiều
+lớn hàm ý một chuyển động lớn theo sau, còn một mô
+hình nhỏ chỉ báo một chuyển động nhỏ.
+
+Không cần phải nói, nhiệm vụ đầu tiên và quan trọng nhất
+của nhà phân tích đồ thị kỹ thuật là học cách nhận biết
+các Cấu trúc Đảo chiều quan trọng và đánh giá xem chúng
+có thể hàm ý điều gì xét trên phương diện cơ hội giao
+dịch.
+
+Có một mô hình Đảo chiều được công nhận xuất hiện và
+hoàn tất chỉ trong phạm vi một phiên giao dịch duy nhất,
+và vì thế được gọi là “Đảo chiều Một Ngày”. Có những
+thời điểm mà nó mang ý nghĩa rất lớn trong việc chặn
+đứng, ít nhất là tạm thời, bất kỳ đà tăng hay giảm nào,
+nhưng trong những biểu hiện thông thường của nó,
+mô hình này không hàm ý nhiều về một chuyển động
+ngay lập tức theo hướng ngược lại. Đây là một mô hình
+hữu ích và chúng ta sẽ còn nói thêm về nó sau này.
+Nhưng những cấu trúc giá mà từ đó các xu hướng mới
+lớn hình thành thì cần thời gian để xây dựng. Không
+ai có thể ngay lập tức dừng hẳn một chiếc xe nặng
+đang chạy 70 dặm một giờ và, chỉ trong cùng một
+khoảnh khắc ngắn ngủi, quay đầu nó lại rồi khiến nó
+chạy ngược trở lại con đường đó với tốc độ 70 dặm
+một giờ.
+
+
+
+##### Thời Gian Cần Thiết Để Đảo Chiều Xu Hướng
+
+Nhưng chúng ta không cần phải dựa vào phép so sánh với một chiếc xe
+đua để giải thích vì sao cần có thời gian (và khối lượng và hành động giá)
+để tạo ra một sự Đảo Chiều Xu Hướng quan trọng. Logic của điều đó
+khá rõ ràng, nếu chúng ta chỉ dành một khoảnh khắc để xem xét nó.
+Chúng ta có thể làm điều này dễ dàng nhất bằng cách mô tả những gì
+có thể đã xảy ra (và, chắc chắn, nhiều lần đã xảy ra) theo các thuật ngữ
+cụ thể. Giả sử một nhóm nhỏ nhất định được thông tin đầy đủ và có
+nguồn vốn mạnh _(EN9: Một nhóm các quỹ tương hỗ, chẳng hạn.)_
+quyết định rằng cổ phiếu của một công ty nào đó, hiện đang giao dịch
+quanh mức 40, là rẻ, rằng công việc kinh doanh của công ty này đang
+tiến triển thỏa đáng đến mức, trong thời gian không lâu nữa, nó sẽ thu
+hút sự chú ý của nhiều nhà đầu tư và cổ phiếu của nó sẽ được săn đón
+ở những mức cao hơn nhiều, có lẽ ở 60 hoặc 65. Nhóm của chúng ta
+nhận ra rằng nếu họ quản lý các hoạt động thị trường của mình một
+cách khéo léo, nếu không có điều gì bất ngờ can thiệp làm đảo lộn các
+tính toán của họ, họ có thể “lấy” được 20 điểm từ tình huống này. Vì
+vậy họ tiến hành mua vào tất cả các lệnh chào bán, thực hiện công việc
+này một cách yên lặng nhất có thể, cho đến khi họ đã tích lũy được
+“đường” của mình, có thể lên tới vài nghìn cổ phiếu và đại diện cho
+gần như toàn bộ nguồn cung lưu hành hiện tại của mã đó. Sau đó họ
+chờ đợi. Không lâu sau, các nhà chuyên nghiệp trở nên nghi ngờ và tin
+đồn lan truyền rằng có “điều gì đó đang diễn ra ở PDQ,” hoặc những
+người săn tìm món hời khôn ngoan khác phát hiện ra triển vọng sáng
+sủa của công ty, hoặc các nhà phân tích đồ thị phát hiện các dấu hiệu
+tích lũy trong hành động của cổ phiếu. Người mua giờ đây nhận thấy
+rằng cổ phiếu trở nên khan hiếm; có rất ít lệnh chào bán trên sổ và họ
+phải nâng giá chào mua để có được nó. Một đợt tăng bắt đầu. Chuyển
+động đi lên này tích lũy động lượng khi ngày càng nhiều nhà giao dịch
+bị thu hút bởi giá tăng. Nó còn được hỗ trợ bởi các báo cáo tốt (lợi
+nhuận cao hơn, cổ tức tăng, v.v.) mà nhóm của chúng ta biết là sẽ được
+công bố. Cuối cùng, giá tiến gần đến mức mà họ đã lên kế hoạch để
+chốt lời. Nhưng hoạt động này, việc “phân phối” lượng nắm giữ của
+họ, có thể đòi hỏi sự kiên nhẫn và xử lý khéo léo còn nhiều hơn so với
+việc tích lũy. Giả sử họ có 20.000 cổ phiếu để bán ra. Họ không thể
+ném tất cả ra thị trường cùng một lúc; làm như vậy sẽ phá hỏng mục
+đích của chính họ ngay lập tức và, có lẽ, vĩnh viễn. Họ phải tung hàng
+ra từng chút một, cố gắng tránh gây chú ý, dò dẫm từng bước và không
+bao giờ cho phép một lượng dư cung các lệnh bán làm triệt tiêu nhu
+cầu. Nếu hoạt động giao dịch của cổ phiếu đó đã đạt đến mức, giả sử,
+2.000 cổ phiếu được chuyển nhượng mỗi ngày, họ có thể bán ra 500
+cổ phiếu mỗi ngày từ lượng nắm giữ của mình mà không làm giá giảm
+xuống. (Họ sẽ sớm hay muộn phải cạnh tranh với những người khác
+đã theo chân họ, những người đã mua ở mức thấp hơn và sẽ sẵn sàng
+chốt lời ngay khi đợt tăng cho thấy dấu hiệu suy yếu.) Vì vậy họ bắt
+đầu bán khi Xu Hướng tăng dường như đã đạt được động lượng tối đa,
+hoặc khi nó tiến gần đến mục tiêu giá của họ, nhưng khá lâu trước khi
+nó chạm đến giới hạn có khả năng xảy ra, và họ đẩy cổ phiếu của mình
+ra nhanh nhất có thể khi người mua còn sẵn sàng nhận.
+
+Không lâu sau, theo quy luật — trước khi họ đã phân phối toàn bộ
+“đường” của mình — một sự chững lại trong nhu cầu sẽ xảy ra. Có lẽ
+những người mua tiềm năng cảm nhận được sự gia tăng của nguồn
+cung. Một đợt điều chỉnh hình thành. Nhóm của chúng ta nhanh chóng
+ngừng bán, rút lại các lệnh chào bán, thậm chí có thể mua lại một vài
+cổ phiếu để hỗ trợ giá nếu chúng có nguy cơ giảm quá xa. Khi nguồn
+cung tạm thời bị giữ ngoài thị trường, đà giảm dừng lại và đợt tăng
+tiếp tục. Lần này nhóm của chúng ta để cho nó tiếp diễn cho đến khi
+đưa giá lên vùng đỉnh cao mới; điều này trấn an các cổ đông khác và
+thu hút thêm người mua. Ngay khi cái nồi lại một lần nữa sôi sục vui
+vẻ, việc phân phối được bắt đầu lại và, nếu sự điều khiển đã được
+thực hiện tốt, hoàn tất trong khoảng 2 hoặc 3 tuần, trước khi làn sóng
+nhu cầu thứ hai bị cạn kiệt.
+
+Nhóm của chúng ta giờ đây đã thoát khỏi cổ phiếu của mình với một
+khoản lợi nhuận đẹp; 20.000 cổ phiếu của họ đã chuyển sang tay người
+khác. Nếu họ đã đánh giá thị trường một cách chính xác và phân phối
+“đường” của mình ở mức giá gần như cao nhất mà tình huống cho
+phép, nhu cầu sẽ đã được thỏa mãn trong một thời gian dài sắp tới. Giá
+có lẽ trước tiên sẽ trôi dạt trở lại đâu đó gần mức mà chúng đã được
+hỗ trợ trong nhịp giảm trước, sau đó hồi phục yếu ớt nhờ một chút
+mua mới từ các nhà giao dịch đang chờ đợi chính một Đợt Điều Chỉnh
+Nhỏ như vậy, gặp phải lực bán từ các nhà giao dịch khác đã không
+nắm bắt được cơ hội chốt lời ở Đỉnh khối lượng trước đó và hiện giờ
+đang lo lắng muốn thoát ra, rồi sau đó phá vỡ đi xuống thành một đợt
+giảm có quy mô Trung Gian hoặc Lớn.
+
+Bây giờ bạn có thể thấy vì sao, trong một tập hợp hoàn cảnh cụ thể,
+một vùng Đỉnh, một mô hình đồ thị của sự phân phối, cần thời gian và
+khối lượng để hoàn tất. Nhưng, không quan trọng liệu chúng ta phải
+đối mặt với các hoạt động được tổ chức chặt chẽ của một nhóm nội bộ
+duy nhất hay của một nghiệp đoàn đầu tư hay, như thường xảy ra hơn,
+với các hoạt động khá vô tổ chức của tất cả các nhà đầu tư với mức độ
+quan tâm khác nhau đối với một mã cổ phiếu. Kết quả gần như giống
+nhau. Phân phối, vốn đơn giản là cách Phố Wall diễn đạt quá trình mà
+nguồn cung vượt qua nhu cầu, đòi hỏi thời gian và sự thay đổi quyền
+sở hữu (vòng quay) của một số lượng lớn cổ phiếu. Và thật đáng kinh
+ngạc khi thấy những mô hình phân phối này, mà từ đây về sau chúng
+ta sẽ thấy đơn giản hơn khi gọi là các “Đỉnh,” có xu hướng mang những
+hình thức nhất định được xác định rõ ràng. Phần lớn các dạng mô hình
+tương tự cũng xuất hiện dưới dạng các “Đáy,” trong biểu hiện đó
+chúng biểu thị sự tích lũy, dĩ nhiên, thay vì sự phân phối.
+
+
+
+##### Mô Hình Vai–Đầu–Vai
+
+Nếu bạn theo dõi sát và có thể hình dung thành công cách mà ví dụ
+phân phối vừa trình bày ở trên sẽ xuất hiện trên đồ thị như thế nào,
+bạn hẳn đã thấy một Cấu trúc Đỉnh Vai–Đầu–Vai. Đây là một trong
+những Mô hình Đảo chiều Lớn phổ biến hơn cả và, xét trên mọi
+phương diện, cũng là mô hình đáng tin cậy nhất. Có lẽ bạn đã từng
+nghe nhắc đến nó, vì có rất nhiều nhà giao dịch quen thuộc với tên
+gọi này, nhưng không nhiều người thực sự hiểu nó và có thể phân
+biệt nó với những diễn biến giá có phần tương tự nhưng không hề
+báo hiệu một sự Đảo chiều Xu hướng thực sự.
+
+Mô hình Đỉnh Vai–Đầu–Vai điển hình, hay nếu bạn muốn gọi là
+“lý tưởng”, được minh họa trong Sơ đồ 2. Bạn có thể dễ dàng
+nhận ra lý do vì sao nó có tên như vậy. Nó bao gồm:
+
+- **A**. Một đợt tăng mạnh, kết thúc một giai đoạn tăng giá kéo
+dài ở mức độ nào đó, trong đó khối lượng giao dịch trở nên
+rất lớn, tiếp theo là một đợt điều chỉnh nhỏ với khối lượng
+giảm đi đáng kể so với những ngày tăng và so với thời điểm
+tạo đỉnh. Đây là “vai trái”.
+
+- **B**. Một đợt tăng tiếp theo với khối lượng lớn, đạt tới mức
+cao hơn đỉnh của vai trái, rồi sau đó là một đợt điều chỉnh
+khác với khối lượng thấp hơn, đưa giá xuống gần mức đáy
+của đợt điều chỉnh trước — có thể thấp hơn đôi chút hoặc
+cao hơn đôi chút, nhưng trong mọi trường hợp đều nằm
+dưới đỉnh của vai trái. Đây là “đầu”.
+
+- **C**. Một đợt tăng lần thứ ba, nhưng lần này khối lượng
+rõ ràng thấp hơn so với khối lượng đi kèm quá trình hình
+thành vai trái hoặc đầu, và đợt tăng này không đạt tới độ
+cao của đầu trước khi một đợt giảm mới bắt đầu. Đây là
+“vai phải”.
+
+- **D**. Cuối cùng, giá giảm trong đợt điều chỉnh thứ ba này
+xuống xuyên qua một đường (gọi là “đường cổ” – neckline)
+được kẻ nối các đáy của những đợt điều chỉnh giữa vai
+trái và đầu, cũng như giữa đầu và vai phải, và đóng cửa
+dưới đường này với biên độ xấp xỉ tương đương 3% giá
+thị trường của cổ phiếu. Đây là bước “xác nhận” hay
+“phá vỡ”.
+
+Lưu ý rằng từng và mọi yếu tố được nêu trong các mục A, B, C
+và D đều là điều kiện thiết yếu để hình thành một Cấu trúc Đỉnh
+Vai–Đầu–Vai hợp lệ. Việc thiếu bất kỳ yếu tố nào trong số đó đều
+khiến giá trị dự báo của mô hình trở nên đáng nghi ngờ. Khi
+đặt tên cho các thành phần, chúng tôi đã chừa không gian cho
+nhiều biến thể có thể xảy ra (vì không có hai mô hình Vai–Đầu–
+Vai nào hoàn toàn giống nhau), và chỉ bao gồm những đặc điểm
+bắt buộc phải có nếu chúng ta muốn dựa vào mô hình này như
+một tín hiệu Đảo chiều Xu hướng quan trọng. Giờ hãy xem xét
+chúng một cách chi tiết hơn.
+
+##### Khối Lượng Là Yếu Tố Quan Trọng
+
+Trước hết là vấn đề khối lượng. Đây luôn là yếu tố phải được
+theo dõi như một phần sống còn của toàn bộ bức tranh. Biểu đồ
+hoạt động giao dịch cũng tạo thành một mô hình giống như biểu
+đồ biên độ giá. Hai biểu đồ này song hành với nhau và mỗi bên
+đều phải phù hợp với yêu cầu của từng tình huống cụ thể. Tuy
+nhiên, cũng cần lưu ý rằng khối lượng mang tính tương đối.
+Khi chúng ta nói đến khối lượng cao, ý của chúng ta là tốc độ
+giao dịch lớn hơn một cách đáng kể so với mức thông thường
+của chính cổ phiếu đó trong khoảng thời gian đang xét. Con số
+chính xác về số cổ phiếu được giao dịch không phải là điều
+quan trọng, và trong hầu hết các trường hợp, việc so sánh
+khối lượng giao dịch hàng ngày, chẳng hạn 6.500 cổ phiếu
+của Radio Corporation với 500 cổ phiếu của Bohn Aluminum
+and Brass, cũng không mang nhiều ý nghĩa cho mục đích
+của chúng ta. Trường hợp thứ nhất có thể là rất thấp và
+trường hợp thứ hai có thể là rất cao nếu xét theo tiêu chí
+kỹ thuật đúng đắn, đó là mức hoạt động trung bình gần
+đây của chính cổ phiếu đó.
+
+Trong trường hợp Đỉnh Vai–Đầu–Vai, chúng ta đã nói rằng
+khối lượng cao đi kèm quá trình hình thành vai trái; điều
+này có nghĩa là hoạt động giao dịch trong đợt tăng và tại
+đỉnh của vai trái phải lớn hơn so với các làn sóng tăng
+trước đó của cùng cổ phiếu. Sau đó là một đợt điều chỉnh
+nhỏ với hoạt động giao dịch suy giảm, rồi đến một đợt
+tăng mới với khối lượng lớn. Cho đến thời điểm này, hành
+động giá không khác gì những gì ta kỳ vọng ở sự phát
+triển làn sóng bình thường trong một xu hướng tăng đang
+tiếp diễn. Xét trên những phương diện đó, như bạn có thể
+thấy, bất kỳ hai làn sóng tăng liên tiếp, điển hình và cao
+dần trong một đợt tăng giá cũng có thể lần lượt trở thành
+vai trái và đầu của một Cấu trúc Đảo chiều Vai–Đầu–Vai.
+
+Dấu hiệu đầu tiên cho thấy một mô hình Vai–Đầu–Vai thực
+sự đang hình thành có thể xuất hiện khi dữ liệu khối lượng
+cho thấy hoạt động giao dịch đi kèm với đỉnh gần nhất
+thấp hơn đôi chút so với đỉnh trước đó. Nếu sự chênh lệch
+khối lượng này là rõ rệt, và nếu từ cách giá đang điều
+chỉnh ta có thể nhận ra rằng đợt tăng thứ hai và cao hơn
+đã kết thúc, thì đồ thị nên được đánh dấu bằng một tín
+hiệu “đỏ” và các diễn biến tiếp theo cần được theo dõi
+một cách chặt chẽ. Tuy nhiên, dạng cảnh báo sơ bộ này
+không phải lúc nào cũng xuất hiện, và ngay cả khi xuất
+hiện thì cũng không nên được xem là kết luận cuối cùng.
+Ước tính một cách tương đối, khoảng một phần ba số
+mô hình Vai–Đầu–Vai đã được xác nhận cho thấy khối
+lượng ở vai trái lớn hơn ở đầu; một phần ba khác cho
+thấy khối lượng gần như bằng nhau; và một phần ba
+còn lại cho thấy khối lượng ở đầu lớn hơn so với vai
+trái.
+
+Một cảnh báo khác — hoặc thường xuyên hơn, là cảnh
+báo đầu tiên — xuất hiện khi giá trong quá trình điều
+chỉnh lần thứ hai (tức là từ đầu) giảm xuống dưới mức
+đỉnh của vai trái. Như chúng ta sẽ thấy sau này trong
+phần nghiên cứu cụ thể về các mức Hỗ trợ và Kháng cự,
+hành động như vậy là dấu hiệu của sự suy yếu trong
+cấu trúc giá. Cho đến lúc này, đó mới chỉ là sự suy yếu
+ở mức độ Nhỏ; nó có thể chỉ là tạm thời; và chắc chắn
+chưa mang tính kết luận. Tuy vậy, khi điều này xảy ra,
+hãy đặt một dấu cảnh báo đỏ thứ hai trên đồ thị của bạn.
+
 
 ![fig-010](./img/fig-010.png)
 **FIGURE 10**. Starting in March, “HUM” formed a broad Head-and-Shoulders Top
@@ -2119,3208 +2285,2743 @@ pattern on the daily chart. August’s decline penetrated the neckline by 3%, co
 ing the Reversal Pattern. The minimum objective for the Head-and-Shoulders Top
 would be 18.
 
+##### Phá Vỡ Đường Viền Cổ
 
-of all confirmed Head-and-Shoulders Formations show more volume on the
-left shoulder than on the head, another third show about equal volume, and
-the final third show greater volume on the head than on the left shoulder.
-Another warning — or, more often, the first — comes when prices drop
-in the course of the second reaction (i.e., from the head) below the level of
-the Top of the left shoulder. Such action, as we shall see later on in our
-specific study of Support and Resistance levels, is significant of weakness in
-the price structure. So far it is Minor; it may be only temporary; it is certainly
-not conclusive. Nevertheless, when this occurs, put a double red tab on your
-chart.
-
-##### Breaking the Neckline
-
-The real tip-off appears when activity fails to pick up appreciably on the
-third rally, the right shoulder. If the market remains dull as prices recover
-(at which stage you can draw a tentative “neckline” on your chart) and if,
-as they approach the approximate level of the left shoulder Top and begin
-to round over, volume is still relatively small, your Head-and-Shoulders Top
-is at least 75% completed. Although the specific application of these pattern
-studies in trading tactics is the province of the second part of this book, we
-may note here that many stock traders sell or switch just as soon as they are
-sure a low-volume right shoulder has been completed, without waiting for the
-final confirmation which we named under D as the breaking of the neckline.
-Nevertheless, the Head-and-Shoulders is not complete, and an impor-
-tant Reversal of Trend is not conclusively signaled until the neckline has
-been penetrated downside by a decisive margin. Until the neckline is broken,
-a certain percentage of Head-and-Shoulders developments, perhaps 20%,
-are “saved”; i.e., prices go no lower, but simply flounder around listlessly
-for a period of time in the general range of the right shoulder, eventually
-firm up, and renew their advance.
-Finally, it must be said that, in rare cases, a Head-and-Shoulders Top is
-confirmed by a decisive neckline penetration and still prices do not go down
-much farther. “False moves” such as this are the most difficult phenomena
-with which the technical analyst has to cope. Fortunately, in the case of the
-Head-and-Shoulders, they are extremely rare. The odds are so overwhelm-
-ingly in favor of the downtrend continuing once a Head-and-Shoulders has
-been confirmed that it pays to believe the evidence of the chart no matter
-how much it may appear to be out of accord with the prevailing news or
-market psychology.
-There is one thing that can be said and is worth noting about Head-and-
-Shoulders Formations that fail completion or produce false confirmations.
-Such developments almost never occur in the early stages of a Primary
-Advance. A Head-and-Shoulders that does not “work” is a warning that,
-even though there is still some life in the situation, a genuine turn is near.
-The next time something in the nature of a Reversal Pattern begins to appear
-on the charts it is apt to be final.
+Dấu hiệu báo động thực sự xuất hiện khi hoạt động không gia tăng đáng
+kể trong đợt hồi thứ ba, vai phải. Nếu thị trường vẫn trầm lắng khi giá
+phục hồi (ở giai đoạn này bạn có thể vẽ một “đường viền cổ” tạm thời
+trên đồ thị của mình) và nếu, khi chúng tiến gần đến mức xấp xỉ của
+đỉnh vai trái và bắt đầu uốn cong xuống, khối lượng vẫn tương đối nhỏ,
+mô hình Đỉnh Đầu-và-Vai của bạn đã hoàn thành ít nhất 75%. Mặc dù
+việc áp dụng cụ thể các nghiên cứu mô hình này vào chiến thuật giao
+dịch thuộc phạm vi của phần thứ hai của cuốn sách này, chúng ta có
+thể lưu ý ở đây rằng nhiều nhà giao dịch cổ phiếu bán ra hoặc chuyển
+đổi vị thế ngay khi họ chắc chắn rằng một vai phải có khối lượng thấp
+đã được hoàn thành, mà không chờ đợi sự xác nhận cuối cùng mà
+chúng ta đã nêu dưới mục D là việc phá vỡ đường viền cổ.
+Tuy nhiên, mô hình Đầu-và-Vai chưa hoàn tất, và một sự Đảo Chiều Xu
+Hướng quan trọng chưa được báo hiệu một cách dứt khoát cho đến khi
+đường viền cổ bị xuyên thủng xuống phía dưới với một biên độ quyết
+định. Cho đến khi đường viền cổ bị phá vỡ, một tỷ lệ nhất định các diễn
+biến Đầu-và-Vai, có lẽ khoảng 20%, được “cứu”; tức là, giá không giảm
+thấp hơn, mà chỉ đơn giản là loay hoay một cách uể oải trong một thời
+gian trong phạm vi chung của vai phải, cuối cùng trở nên vững chắc
+hơn, và nối lại đà tăng của chúng.
+Cuối cùng, cần phải nói rằng, trong những trường hợp hiếm hoi, một
+Đỉnh Đầu-và-Vai được xác nhận bởi một sự xuyên thủng đường viền cổ
+dứt khoát nhưng giá vẫn không giảm nhiều hơn nữa. Những “chuyển
+động giả” như vậy là những hiện tượng khó khăn nhất mà nhà phân
+tích kỹ thuật phải đối phó. May mắn thay, trong trường hợp của mô
+hình Đầu-và-Vai, chúng cực kỳ hiếm. Xác suất nghiêng áp đảo về việc
+xu hướng giảm tiếp diễn một khi mô hình Đầu-và-Vai đã được xác
+nhận đến mức việc tin vào bằng chứng của đồ thị là điều đáng làm,
+bất kể nó có vẻ không phù hợp đến mức nào với tin tức hiện hành hay
+tâm lý thị trường.
+Có một điều có thể nói ra và đáng lưu ý về các Cấu Trúc Đầu-và-Vai
+không hoàn thành hoặc tạo ra các xác nhận giả. Những diễn biến như
+vậy hầu như không bao giờ xảy ra trong các giai đoạn đầu của một
+Xu Hướng Tăng Chính. Một mô hình Đầu-và-Vai không “hoạt động”
+là một lời cảnh báo rằng, mặc dù tình hình vẫn còn một ít sinh khí, một
+sự đảo chiều thực sự đã ở rất gần. Lần tiếp theo khi một điều gì đó
+mang tính chất của một Mô Hình Đảo Chiều bắt đầu xuất hiện trên các
+đồ thị thì rất có khả năng đó sẽ là lần cuối cùng.
 
 
 
 ![fig-011](./img/fig-011.png)
-**FIGURE 11.** Daily chart of Chicago, Milwaukee, St. Paul & Pacific common from
-January 1 to June 29, 1946. Head-and-Shoulders which topped this issue’s Primary
-Advance in February was unmistakable despite small size of shoulders (S S). Note
-volume pattern. Measuring implication (see following pages) of this formation was
-carried out by April. Rectangular price congestion of March 30 to May 4 is a subject
-of Chapter 9. “ST” fell to 11½ in October.
+**HÌNH 11.** Đồ thị ngày của cổ phiếu phổ thông Chicago, Milwaukee,
+St. Paul & Pacific từ ngày 1 tháng Giêng đến ngày 29 tháng Sáu, 1946.
+Mô hình Đầu-và-Vai đã tạo đỉnh cho Xu Hướng Tăng Chính của mã
+này vào tháng Hai là không thể nhầm lẫn mặc dù kích thước các vai
+nhỏ (S S). Lưu ý mô hình khối lượng. Hàm ý đo lường (xem các trang
+tiếp theo) của cấu trúc này đã được thực hiện vào tháng Tư. Vùng
+tắc nghẽn giá hình chữ nhật từ ngày 30 tháng Ba đến ngày 4 tháng
+Năm là chủ đề của Chương 9. “ST” đã giảm xuống 11½ vào tháng Mười.
 
-##### Variations in Head-and-Shoulders Tops
+##### Các Biến Thể Trong Các Đỉnh Đầu-và-Vai
 
-There is a tendency, surprising when one thinks of all the vagaries of news
-and crosscurrents which may influence day-to-day trading, for Head-and-
-Shoulders Patterns to develop a high degree of symmetry. The neckline tends
-to be horizontal and the right shoulder tends to resemble the left in price
-confirmation (although not, of course, in volume); there is a sort of satisfying
-balance to the overall picture. But symmetry is not essential to a significant
-Head-and-Shoulders development. The neckline may slope up (from left to
-right) or down. The only qualification on an up-sloping neckline is that the
-Bottom of the recession between the head and right shoulder must form
-appreciably below the general level of the Top of the left shoulder. It is
-sometimes said that a down-sloping neckline indicates an unusually weak
-situation. This is so obvious that it is apt to be given even more weight than
-it deserves. A share of that excessive weakness, it should be noted, will have
-already been discharged by the time the down-sloping pattern is formed
-and prices have broken the neckline. The measuring formula which we shall
-discuss later applies to such situations.
-Because of the tendency toward symmetry in shoulder development,
-some traders, as soon as the neckline has formed, will draw on their charts
-a line parallel to the neckline, extending from the top of the left shoulder
-through the head and on to the right. This furnishes a guide as to the
-approximate height that the right shoulder rally should attain and, conse-
-quently, a selling level. But you will not see very many formations as perfect
-and symmetrical as our ideal picture, a fact which the several actual exam-
-ples accompanying this chapter amply illustrate. Either shoulder may, in
-fact, go higher or take more time than the other. Either or both may come
-up nearly to the level of the head (but not equal it, else no Head-and-Shoul-
-ders) or both may fall considerably short of it. If activity attending the right
-shoulder is abnormally dull, that shoulder is apt to be low but protracted in
-time. In general, there seems to be a balanced relation between the three
-elements of price pattern, time, and volume which is practically impossible
-to express in words or figures, but which one comes with experience to sense
-in its development. However, there are no “laws” beyond those stated in our
-A, B, C, and D; within those limits, look for an infinity of minor variations.
+Có một xu hướng, đáng ngạc nhiên khi người ta nghĩ đến tất cả những
+biến động thất thường của tin tức và các dòng chảy chéo có thể ảnh
+hưởng đến giao dịch hàng ngày, khiến cho các Mô Hình Đầu-và-Vai
+phát triển với mức độ đối xứng cao. Đường viền cổ có xu hướng nằm
+ngang và vai phải có xu hướng giống với vai trái về mặt xác nhận giá
+(mặc dù dĩ nhiên không phải về khối lượng); có một kiểu cân bằng
+thỏa mãn trong bức tranh tổng thể. Nhưng tính đối xứng không phải là
+điều thiết yếu đối với một diễn biến Đầu-và-Vai quan trọng. Đường
+viền cổ có thể dốc lên (từ trái sang phải) hoặc dốc xuống. Điều kiện duy
+nhất đối với một đường viền cổ dốc lên là đáy của đợt suy giảm giữa
+đầu và vai phải phải hình thành thấp hơn đáng kể so với mức chung
+của đỉnh vai trái. Đôi khi người ta nói rằng một đường viền cổ dốc
+xuống cho thấy một tình trạng yếu kém bất thường. Điều này quá rõ
+ràng đến mức nó thường được gán cho nhiều trọng lượng hơn mức nó
+xứng đáng. Cần lưu ý rằng một phần của sự yếu kém quá mức đó sẽ đã
+được giải tỏa vào thời điểm mô hình dốc xuống được hình thành và
+giá đã phá vỡ đường viền cổ. Công thức đo lường mà chúng ta sẽ bàn
+luận sau áp dụng cho những tình huống như vậy.
+Do xu hướng đối xứng trong sự phát triển của các vai, một số nhà
+giao dịch, ngay khi đường viền cổ đã hình thành, sẽ vẽ trên đồ thị của
+họ một đường song song với đường viền cổ, kéo dài từ đỉnh vai trái
+xuyên qua đầu và sang bên phải. Điều này cung cấp một chỉ dẫn về độ
+cao xấp xỉ mà đợt hồi của vai phải nên đạt tới và, do đó, một mức bán.
+Nhưng bạn sẽ không thấy nhiều cấu trúc hoàn hảo và đối xứng như
+hình ảnh lý tưởng của chúng ta, một thực tế mà một số ví dụ thực tế
+đi kèm chương này minh họa đầy đủ. Trên thực tế, bất kỳ vai nào cũng
+có thể lên cao hơn hoặc mất nhiều thời gian hơn vai kia. Một trong hai
+hoặc cả hai có thể lên gần đến mức của đầu (nhưng không bằng nó,
+nếu không thì sẽ không có Đầu-và-Vai) hoặc cả hai có thể thấp hơn nó
+đáng kể. Nếu hoạt động đi kèm với vai phải trầm lắng một cách bất
+thường, vai đó có xu hướng thấp nhưng kéo dài về mặt thời gian. Nói
+chung, dường như tồn tại một mối quan hệ cân bằng giữa ba yếu tố của
+mô hình giá, thời gian, và khối lượng mà gần như không thể diễn đạt
+bằng lời hay con số, nhưng mà người ta với kinh nghiệm sẽ cảm nhận
+được trong quá trình hình thành của nó. Tuy nhiên, không có “luật”
+nào ngoài những luật đã nêu trong các mục A, B, C, và D của chúng ta;
+trong những giới hạn đó, hãy chờ đợi vô số các biến thể nhỏ.
+
 
 
 ![fig-012](./img/fig-012.png)
-**FIGURE 12.** Bull Market Top of Westinghouse Electric in 1946 was the “wideswing-
-ing,” powerful type of Head-and-Shoulders (S-H-S). Decline that broke neckline (NL)
-on February 13 produced a Breakaway Gap (G) discussed in Chapter 12. Measuring
-formula (see following pages) called for initial decline to 33. The possible Bottom
-Head-and- Shoulders pattern (S?-H?-S?) formed in March was never completed (see
-Chapter 7). Note failure of prices to push up through neckline of latter at any time,
-despite several rally efforts in late spring while general market Averages were actu-
-ally reaching new high levels. By the following November, “WX” had broken on
-down to 21½. Study in detail the change in volume pattern after the end of January.
+**HÌNH 12.** Đỉnh Thị Trường Giá Lên của Westinghouse Electric năm
+1946 là kiểu Đầu-và-Vai mạnh mẽ, “dao động rộng” (S-H-S). Đợt giảm
+đã phá vỡ đường viền cổ (NL) vào ngày 13 tháng Hai tạo ra một Khoảng
+Trống Thoát Ly (G) được thảo luận trong Chương 12. Công thức đo
+lường (xem các trang tiếp theo) cho thấy đợt giảm ban đầu xuống 33.
+Mô hình Đầu-và-Vai Đáy có thể có (S?-H?-S?) hình thành vào tháng Ba
+chưa bao giờ được hoàn tất (xem Chương 7). Lưu ý việc giá không thể
+đẩy lên xuyên qua đường viền cổ của mô hình sau này vào bất kỳ thời
+điểm nào, mặc dù có vài nỗ lực hồi phục vào cuối mùa xuân trong khi
+các Chỉ Số thị trường chung thực sự đang đạt các mức cao mới. Đến
+tháng Mười Một tiếp theo, “WX” đã phá vỡ xuống mức 21½. Hãy nghiên
+cứu chi tiết sự thay đổi của mô hình khối lượng sau cuối tháng Giêng.
 
 ![fig-013](./img/fig-013.png)
-**FIGURE 13.** A large Head-and-Shoulders Topping Pattern evolved in “TDY” over
-5 months, with December’s high-volume plunge through the neckline confirming
-the Trend Reversal. Since this was a very expensive stock, you might have considered
-buying the April 260 puts instead of selling “TDY” shares outright. Our measured
-objective in this issue was 44 points from penetration of the 264 neckline, or 220.
+**HÌNH 13.** Một Mô Hình Đỉnh Đầu-và-Vai lớn đã phát triển ở “TDY”
+trong 5 tháng, với cú lao xuống có khối lượng cao vào tháng Mười Hai
+xuyên qua đường viền cổ xác nhận sự Đảo Chiều Xu Hướng. Vì đây là
+một cổ phiếu rất đắt tiền, bạn có thể đã cân nhắc việc mua các quyền
+bán tháng Tư ở mức 260 thay vì bán thẳng cổ phiếu “TDY”. Mục tiêu
+đo lường của chúng tôi đối với mã này là 44 điểm tính từ sự xuyên thủng
+đường viền cổ 264, tức là 220.
 
 
+#### Hành Động Giá Sau Khi Xác Nhận:
 
-##### Price Action Following Confirmation:
+##### Công Thức Đo Lường
 
-##### The Measuring Formula
+Bước cuối cùng, sự xuyên thủng xuống phía dưới của đường viền cổ,
+có thể đi kèm với một số gia tăng hoạt động, nhưng thường thì ban đầu
+không xảy ra. Nếu khối lượng vẫn nhỏ trong vài ngày khi giá trôi dần
+xuống, một đợt “Pullback” thường xuất hiện, đưa giá trở lại mức
+đường viền cổ (hiếm khi vượt qua nó). Thông thường, đây là “nhịp
+hơi thở cuối cùng”; giá sau đó sẽ quay xuống nhanh chóng, theo quy
+luật, và phá vỡ mạnh mẽ với khối lượng giao dịch tăng vọt. Việc có
+xảy ra một Pullback Rally sau khi xuyên thủng ban đầu hay không dường
+như phụ thuộc vào tình trạng chung của thị trường. Nếu toàn bộ xu
+hướng thị trường đang giảm đồng thời với mã cổ phiếu riêng lẻ của
+chúng ta, vừa hoàn thành mô hình Đầu-và-Vai, có lẽ sẽ không có
+Pullback; thay vào đó giá sẽ có xu hướng tăng tốc giảm, với hoạt
+động tăng lên khi rời khỏi khu vực Đỉnh. Ngược lại, nếu thị trường
+chung vẫn vững, thì một nỗ lực Pullback là có khả năng xảy ra. Ngoài
+ra, xác suất có vẻ hơi nghiêng về một Pullback nếu đường viền cổ bị
+phá trước khi vai phải phát triển nhiều, nhưng chắc chắn không có
+quy tắc nào đảm bảo hoàn toàn. Trong mọi trường hợp, Pullback Rally
+chủ yếu quan trọng đối với nhà giao dịch muốn bán khống cổ phiếu, hoặc
+người đã bán khống và phải quyết định đặt lệnh dừng lỗ ở đâu.
 
-The final step, the downside penetration of the neckline, may be attended
-by some increase in activity, but usually isn’t at first. If volume remains small
-for a few days as prices drift lower, a “Pullback” move frequently ensues
-which brings quotations up again to the neckline level (rarely through it).
-Normally, this is the “last gasp”; prices then turn down quickly, as a rule,
-and break away on a sharply augmented turnover. Whether or not a Pullback
-Rally will occur after the initial penetration seems often to depend on the
-condition of the market in general. If the whole market trend is turning down
-at the same time as our individual issue, which has just completed its
-Head-and-Shoulders, there will probably be no Pullback; prices instead will
-tend to accelerate their decline, with activity increasing as they leave the
-vicinity of the Top. If, on the other hand, the general market is still firm,
-then an attempt at a Pullback is likely. Also, the odds seem slightly to favor
-a Pullback if the neckline has been broken before much of a right shoulder
-developed, but certainly no very sure rules can be laid down. In any event,
-the Pullback Rally is of practical interest chiefly to the trader who wants to
-sell the stock short, or who has sold it short and has then to decide where
-he should place a stop-loss order.
-Now we come to one of the most interesting features of this basic Rever-
-sal Formation — the indication which it gives as to the extent (in points) of
-the move which is likely to follow the completion of a Head-and-Shoulders.
-Measure the number of points down vertically from the Top of the head to
-the neckline as drawn on the chart. Then measure the same distance down
-from the neckline at the point where prices finally penetrated it following
-the completion of the right shoulder. The price level thus marked is the
-minimum probable objective of the decline.
-
+Giờ chúng ta đến một trong những đặc điểm thú vị nhất của mô hình
+Đảo Chiều cơ bản này — dấu hiệu nó cung cấp về phạm vi (tính theo
+điểm) của chuyển động có khả năng xảy ra sau khi hoàn tất mô hình
+Đầu-và-Vai. Đo số điểm thẳng đứng từ đỉnh đầu xuống đường viền cổ
+theo như vẽ trên đồ thị. Sau đó đo cùng khoảng cách từ đường viền cổ
+tại điểm giá cuối cùng xuyên thủng nó sau khi hoàn tất vai phải. Mức
+giá được đánh dấu như vậy là mục tiêu tối thiểu có khả năng của đợt
+giảm giá.
 
 
 
 ![fig-014](./img/fig-014.png)
-**FIGURE 14.** “ICX” was in a powerful uptrend for over a decade and gains were
-spectacular. But the upward momentum began to fade and Topping indications were
-evident. The August peak fulfilled the objective of the measuring Flag formed during
-1985. The August gap to new highs was quickly filled, indicating that it was an
-Exhaustion Gap. The reaction back to Support, followed by a slow, relatively low-
-volume rally to the July high, formed a credible right shoulder. The final week’s high-volume plunge through the neckline confirmed the Reversal. The minimum objective
-for the Head-and-Shoulders Pattern was 19¼, the top of the 1985 Flag. A possible
-alternative cover point was the Bottom of the Flag at 14¼.
+**HÌNH 14.** “ICX” đã trong một xu hướng tăng mạnh trong hơn một
+thập kỷ và lợi nhuận rất ấn tượng. Nhưng động lực tăng bắt đầu suy
+yếu và các dấu hiệu Topping xuất hiện rõ rệt. Đỉnh tháng Tám đã
+hoàn tất mục tiêu của Lá Cờ đo lường hình thành trong năm 1985. Khoảng
+trống tháng Tám lên mức cao mới nhanh chóng được lấp đầy, cho thấy
+đây là một Khoảng Trống Cạn Kiệt. Đợt điều chỉnh trở về vùng Hỗ
+Trợ, sau đó là một đợt hồi phục chậm, khối lượng thấp đến đỉnh tháng
+Bảy, tạo thành vai phải đáng tin cậy. Cú lao xuống cuối tuần với
+khối lượng cao xuyên qua đường viền cổ xác nhận sự Đảo Chiều.
+Mục tiêu tối thiểu cho mô hình Đầu-và-Vai là 19¼, đỉnh của Lá Cờ
+1985. Một điểm thay thế có thể là đáy của Lá Cờ ở 14¼.
 
-Let us hasten to state one important qualification to the Head-and-
-Shoulders Measuring Formula. Refer back to our original set of specifications
-for a Head-and-Shoulders. Under A, we required “strong rally climaxing a
-more or less extensive advance.” If the up-move preceding the formation of
-a Reversal Area has been small, the down-move following it may, in fact
-probably will, be equally small. In brief, a Reversal Pattern has to have
-something to reverse. So, we really have two minimums, one being the extent
-of the advance preceding the formation of the Head-and-Shoulders and the
-other that derived by our measuring formula; whichever is the smaller will
-apply. The measuring rule is indicated on several of the examples that
-illustrate this chapter. You can see now why a down-sloping neckline indi-
-cates a “weaker” situation than an up-sloping, and just how much weaker,
-as well as the fact that more than half of the minimum expected weakness
-has already been expended in the decline from the Top of the head to the
-penetration of the neckline.
-The maximum indications are quite another matter, for which no simple
-rules can be laid down. Factors that enter into this are the extent of the
+Hãy nhanh chóng nêu một điều quan trọng về Công Thức Đo Lường
+Đầu-và-Vai. Quay lại bộ tiêu chí gốc của chúng ta về Đầu-và-Vai.
+Dưới mục A, chúng ta yêu cầu “một đợt tăng mạnh kết thúc một
+xu hướng tăng tương đối rộng.” Nếu nhịp tăng trước khi hình thành
+vùng Đảo Chiều nhỏ, nhịp giảm theo sau có thể, thực ra có lẽ sẽ,
+cũng tương đối nhỏ. Tóm lại, một Mô Hình Đảo Chiều phải có điều
+gì đó để đảo chiều. Vì vậy, chúng ta thực sự có hai mức tối thiểu, một
+là phạm vi của nhịp tăng trước khi hình thành Đầu-và-Vai, và một là
+phạm vi được tính theo công thức đo lường; mức nào nhỏ hơn sẽ được
+áp dụng. Quy tắc đo lường được minh họa trên một số ví dụ minh họa
+cho chương này. Bạn có thể thấy vì sao đường viền cổ dốc xuống
+cho thấy một tình trạng “yếu” hơn so với đường viền cổ dốc lên,
+và mức yếu hơn là bao nhiêu, cũng như thực tế rằng hơn một nửa
+yếu tố yếu tối thiểu dự kiến đã được tiêu hao trong đợt giảm từ
+đỉnh đầu đến điểm xuyên thủng đường viền cổ.
+
+Các chỉ dẫn tối đa là vấn đề hoàn toàn khác, không có quy tắc
+đơn giản nào có thể áp dụng. Các yếu tố ảnh hưởng bao gồm độ
+mạnh của nhịp tăng trước đó, kích thước, khối lượng và thời gian
+của mô hình Đầu-và-Vai, Xu Hướng Chính của thị trường chung
+(rất quan trọng), và khoảng cách mà giá có thể giảm trước khi
+đến vùng Hỗ Trợ đã xác lập. Một số vấn đề này sẽ được thảo
+luận sau.
+
+
 
 ![fig-015](./img/fig-015.png)
-**FIGURE 15.** Reversal Formations, which develop in important stocks while the
-general market is still apparently in a strong trend, are often difficult to believe, much
-less act upon. But they may be highly significant. DuPont topped out in 1936,
-4 months ahead of the Averages. Despite its extended right shoulder (but note vol-
-ume), Reversal implications were clear on December 19. The Pullback of January,
-meeting supply at the old neckline level, and the second try in March were interesting
-and typical of such a general market situation. Compare with Figure 12.
-previous rise, the size, volume, and duration of the Head-and-Shoulders
-Formation, the general market Primary Trend (very important), and the
-distance that prices can fall before they come to an established Support Zone.
-Some of these are topics for later discussion.
-
+**HÌNH 15.** Các Mô Hình Đảo Chiều, phát triển ở các cổ phiếu quan
+trọng trong khi thị trường chung vẫn đang trong xu hướng mạnh, thường
+khó tin, chứ chưa nói đến việc hành động theo. Nhưng chúng có thể
+cực kỳ quan trọng. DuPont đạt đỉnh năm 1936, trước các Chỉ Số thị
+trường 4 tháng. Mặc dù vai phải kéo dài (nhưng lưu ý khối lượng),
+tác động Đảo Chiều đã rõ ràng vào ngày 19 tháng Mười Hai. Pullback
+tháng Một, gặp cung ở mức đường viền cổ cũ, và nỗ lực thứ hai
+tháng Ba là điển hình và thú vị trong tình hình thị trường chung như
+vậy. So sánh với Hình 12.
 
 ![fig-016](./img/fig-016.png)
-**FIGURE 16.** Another 1937 Bull Market Top of Head-and-Shoulders Form, with only
-one quick Pullback (February 10). In this case, volume increased sharply on February
-5 with the initial break through the neckline (NL). Measuring formula was satisfied
-in March. Study this picture in connection with “ED’s” long-range chart (Figure 89)
-in Chapter 10, and turn back to it later when you come to the Support-Resistance
-study in Chapter 13.
+**HÌNH 16.** Một Đỉnh Thị Trường Giá Lên năm 1937 khác của mô hình
+Đầu-và-Vai, với chỉ một Pullback nhanh (ngày 10 tháng Hai). Trong
+trường hợp này, khối lượng tăng mạnh vào ngày 5 tháng Hai với cú
+xuyên thủng đầu tiên qua đường viền cổ (NL). Công thức đo lường
+được hoàn tất vào tháng Ba. Nghiên cứu hình này kết hợp với đồ
+thị dài hạn của “ED” (Hình 89) trong Chương 10, và quay lại sau
+khi đến phần nghiên cứu Hỗ Trợ-Kháng Cự trong Chương 13.
 
-##### Relation of Head-and-Shoulders to Dow Theory
 
-Without doubt, some readers have already suspected that the Head-and-
-Shoulders Pattern is, in a sense, just an adaptation of the principles of Dow
-Theory to the action of an individual stock. So it is. The decline of prices
-from the head to the neckline, the rally to the right shoulder, and then the
-ensuing decline that breaks the neckline set up a sequence of lower Tops
-and Bottoms analogous to those which signal a downtrend in Dow Theory.
-This logical relation of the Head-and-Shoulders to Dow Theory is another
-reason, in addition to its basic importance, frequency, and dependability,
-why we have placed it first in our study of Reversal Formations. But it is
-more definite, gives advance warnings which are relatively easier to detect,
-and is quicker with its signals in the case of up-sloping necklines. Also, it
-requires no specified minimum time for any of its component moves, and
-no confirmation by another stock or Average.
-There are Head-and-Shoulders Bottoms _(EN: An undescriptive term for a
-bottom formation which I would prefer to call the “Kilroy Bottom.” See Figure 23.1)_
-as well as Tops, with equally important implications. The Bottom Formations
-will be taken up in our next chapter.
 
+##### Mối quan hệ của Mô hình Vai-Đầu-Vai với Lý thuyết Dow
+
+Không nghi ngờ gì, một số độc giả đã nghi ngờ rằng Mô hình Vai-Đầu-
+Vai, theo một nghĩa nào đó, chỉ là sự điều chỉnh các nguyên tắc của Lý thuyết
+Dow áp dụng cho biến động của một cổ phiếu riêng lẻ. Quả đúng như vậy. Sự
+giảm giá từ đỉnh đầu đến đường cổ, sự tăng trở lại vai phải, và sau đó là sự
+giảm tiếp theo phá đường cổ tạo ra một chuỗi Đỉnh và Đáy thấp hơn, tương tự
+như những tín hiệu cho xu hướng giảm trong Lý thuyết Dow. Mối quan hệ
+logic này giữa Vai-Đầu-Vai và Lý thuyết Dow là một lý do nữa, bên cạnh tầm
+quan trọng cơ bản, tần suất và độ tin cậy của nó, khiến chúng tôi đặt nó đầu
+tiên trong nghiên cứu về Các Mô hình Đảo chiều. Nhưng nó rõ ràng hơn, đưa
+ra cảnh báo trước mà tương đối dễ nhận biết, và tín hiệu xuất hiện nhanh hơn
+trong trường hợp đường cổ hướng lên. Hơn nữa, nó không yêu cầu thời gian tối
+thiểu cụ thể cho bất kỳ chuyển động nào của các thành phần, và không cần xác
+nhận từ cổ phiếu khác hay Chỉ số Trung bình.
+
+Có cả Vai-Đầu-Vai Đáy _(EN: Thuật ngữ không mô tả rõ ràng cho một mô hình đáy mà
+tôi thích gọi là “Đáy Kilroy.” Xem Hình 23.1)_ cũng như Đỉnh, với những ý nghĩa
+quan trọng không kém. Các Mô hình Đáy sẽ được trình bày trong chương tiếp theo.
 
 ![fig-017](./img/fig-017.png)
-**FIGURE 17.** The 6-month-long Head-and-Shoulders Top of Republic Aviation in
-1946. Such a pattern became a possibility to be watched for when prices broke down
-in May below the level of the February high (first S). Refer to requirement B. Note
-also how the Head-and-Shoulders Measuring Formula (Chapter 7) is applied to patterns
-with up-slanting necklines. Minimum downside requirement here was 12½, reached
-in November. The quick Pullback on July 27 gave a last good selling opportunity.
-
-
+**HÌNH 17.** Mô hình Vai-Đầu-Vai Đỉnh kéo dài 6 tháng của Republic Aviation
+năm 1946. Một mô hình như vậy trở thành khả năng cần theo dõi khi giá giảm
+xuống dưới mức cao của tháng Hai (S đầu tiên) vào tháng Năm. Tham khảo yêu
+cầu B. Lưu ý cách Công thức Đo lường Vai-Đầu-Vai (Chương 7) được áp dụng
+cho các mô hình với đường cổ hướng lên. Yêu cầu giảm tối thiểu ở đây là 12½,
+đạt được vào tháng Mười Một. Đợt Pullback nhanh ngày 27 tháng 7 cung cấp cơ
+hội bán cuối cùng tốt.
 
 ![fig-018](./img/fig-018.png)
-**FIGURE 18.** After a sharp reaction from its 1983 high, which lasted a year and
-pushed “DIS” back to long-term Support, the Bulls took over and sent Walt and
-friends on a trip to the moon. But beginning in April, the rocket began to lose power,
-and it looked like reentry had begun. Since the big-volume days of spring, this issue
-etched out a large Head-and-Shoulders Top. High-volume penetration of the neckline
-by 3% confirmed the Reversal.
-
+**HÌNH 18.** Sau phản ứng mạnh từ mức cao năm 1983, kéo dài một năm và
+đẩy “DIS” trở lại Hỗ trợ dài hạn, phe Bò tiếp quản và đưa Walt cùng bạn bè
+lên “mặt trăng”. Nhưng bắt đầu từ tháng Tư, tên lửa bắt đầu mất lực, và
+có vẻ như quá trình tái nhập đã bắt đầu. Kể từ những ngày khối lượng lớn
+mùa xuân, cổ phiếu này hình thành một mô hình Vai-Đầu-Vai Đỉnh lớn. Sự
+xâm nhập đường cổ với khối lượng cao hơn 3% xác nhận sự Đảo chiều.
 
 ![fig-019](./img/fig-019.png)
-**FIGURE 19.** New York Central made a Head-and-Shoulders Top in June 1945.
-Intermediate Up Trendline (IUT) was broken by drop from head on July 5. Minimum
-measuring implication was carried out at 24 on August 18. Reaction ended a few
-days later at 22¾. Prices recovered to projected neckline (see September 25), dropped
-again to 26⅞ in October, and then pushed up, giving “rebuy” signal (on Fan Line
-construction) at 30 in first week of November. Final Bull Market High was made in
-January at 35½. The period from August 1945 to February 1946 was difficult for
-technical traders in this stock. Those who sold at 26–27 in July 1945 could, however,
-congratulate themselves in May 1947 when “CN” hit 12.
-
+**HÌNH 19.** New York Central tạo mô hình Vai-Đầu-Vai Đỉnh vào tháng Sáu
+1945. Đường xu hướng trung gian tăng (IUT) bị phá bởi sự giảm từ đỉnh ngày
+5 tháng 7. Ý nghĩa đo lường tối thiểu thực hiện được ở mức 24 ngày 18 tháng
+8. Phản ứng kết thúc vài ngày sau ở mức 22¾. Giá hồi về đường cổ dự kiến (xem
+ngày 25 tháng 9), giảm lại xuống 26⅞ vào tháng Mười, rồi tăng trở lại, đưa
+ra tín hiệu “mua lại” (trên cách dựng Fan Line) tại 30 trong tuần đầu tháng
+Mười Một. Đỉnh Thị trường Bò cuối cùng hình thành vào tháng Giêng ở 35½. Giai
+đoạn từ tháng 8/1945 đến tháng 2/1946 là khó khăn cho các nhà kỹ thuật
+trong cổ phiếu này. Những người bán ở 26–27 vào tháng 7/1945 có thể tự chúc
+mừng vào tháng 5/1947 khi “CN” chạm 12.
 
 ![fig-020](./img/fig-020.png)
-**FIGURE 20.** The great 1929 Bull Market Top was characterized by many impressive
-Head-and-Shoulders Formations, of which this is an interesting example. Note the
-small Head-and-Shoulders Pattern of September, which became the head of a much
-larger formation of the same character. The Pullback of October 9 to the upper
-neckline afforded a second chance to get out at 128 to those who did not sell imme-
-diately when this first line was decisively penetrated on September 28. The larger
-pattern “broke” on October 19, with a quick pullback on October 22. Less than a
-month later “UUK” had lost half its peak value. By 1932 it had fallen to 15½. Although
-such a catastrophic decline as 1929–32 may never come again, the moral is, nonethe-
-less, plain: Never scorn a Head-and-Shoulders Formation. Patterns such as this merge
-into the “multiple” types discussed in Chapter 7. Although this example is selected
-from the 1929 portfolio, they were not at all uncommon mid-20th century. Several
-modern examples appear in our later pages.
-
+**HÌNH 20.** Đỉnh Thị trường Bò vĩ đại năm 1929 được đặc trưng bởi nhiều Mô
+hình Vai-Đầu-Vai ấn tượng, trong đó đây là một ví dụ thú vị. Lưu ý Mô hình
+Vai-Đầu-Vai nhỏ của tháng 9, trở thành đỉnh của một mô hình lớn hơn cùng
+tính chất. Pullback ngày 9 tháng 10 về đường cổ trên cung cấp cơ hội thứ hai
+để thoát ở 128 cho những ai chưa bán ngay khi đường này bị phá quyết định
+ngày 28 tháng 9. Mô hình lớn hơn “phá” vào ngày 19 tháng 10, với một đợt
+pullback nhanh ngày 22 tháng 10. Chưa đầy một tháng sau “UUK” đã mất một
+nửa giá trị đỉnh. Đến năm 1932, nó giảm xuống 15½. Mặc dù sự sụt giảm thảm
+khốc như 1929–32 có thể không xảy ra lần nữa, bài học vẫn rõ ràng: Đừng bao
+giờ coi thường Mô hình Vai-Đầu-Vai. Các mô hình như vậy hòa nhập vào các
+mô hình “đa dạng” được thảo luận trong Chương 7. Mặc dù ví dụ này lấy từ
+danh mục năm 1929, chúng không hề hiếm vào giữa thế kỷ 20. Một số ví dụ
+hiện đại xuất hiện trong các trang sau.
 
 ![fig-020.1](./img/fig-020.1.png)
-**FIGURE 20.1.** A massive Head-and-Shoulders in the S&P? It can clearly be seen
-here, even when not pointed out by Richard Russell. It is marked on the chart with
-a complex head. If one took the complex head alone the formation might be said to
-have fulfilled itself with the bear market of 2001-2002. The long term trendline which
-was broken in 2000 should have been signal enough that the drunken binge was
-over. Not to mention numerous Basing Points and/or lower lows. The bull market
-(or bear market rally of 2004) presents an interpretation problem. The question is has
-this prolonged rally nullified the massive Head-and-Shoulders? Such an extended
-penetration of the neckline might imply that we were reading too much into the
-pattern. And, in 2005, this rally is nose to nose with the huge top resistance made in
-1999-2000. the technician is _forced_ to conclude that it will take years to overcome this resistance. But remember, as technicians we are obliged to change our analysis as
-old highs are taken out, and new situations develop.
+**HÌNH 20.1.** Một Vai-Đầu-Vai khổng lồ trong S&P? Có thể thấy rõ ràng
+tại đây, ngay cả khi Richard Russell không chỉ ra. Nó được đánh dấu trên biểu
+đồ với đầu phức tạp. Nếu chỉ lấy đầu phức tạp, mô hình có thể được cho là
+hoàn tất với thị trường gấu 2001-2002. Đường xu hướng dài hạn bị phá năm
+2000 lẽ ra đã là tín hiệu đủ để biết “cơn say” đã kết thúc. Chưa kể nhiều
+Basing Points và/hoặc đáy thấp hơn. Thị trường bò (hoặc đợt hồi phục thị
+trường gấu 2004) đặt ra vấn đề giải thích. Câu hỏi là liệu đợt hồi phục kéo
+dài này đã làm vô hiệu hóa Vai-Đầu-Vai khổng lồ? Sự xâm nhập kéo dài của
+đường cổ có thể ám chỉ chúng ta đang đọc quá nhiều vào mô hình. Và, năm 2005,
+đợt hồi phục này sát với kháng cự đỉnh khổng lồ hình thành năm 1999-2000. Kỹ
+thuật viên _bắt buộc_ kết luận rằng sẽ mất nhiều năm để vượt qua kháng cự này.
+Nhưng hãy nhớ, với tư cách kỹ thuật viên, chúng ta buộc phải thay đổi phân
+tích khi các đỉnh cũ bị phá và tình huống mới xuất hiện.
 
 
 
 
-## chapter 7. Important Reversal Patterns — Continued
 
-### Head-and-Shoulders (EN: or Kilroy) Bottoms
+## chương 7. Các Mô Hình Đảo Chiều Quan Trọng — Tiếp Theo
 
-A formation of the Head-and-Shoulders type may develop at an important
-Reversal of Trend from down to up. In that case, it is, of course, called a
-Head-and-Shoulders Bottom, and its price pattern (as compared with a Top)
-is turned upside down, i.e., it stands on its head. _EN: The present Editor has
-always been disturbed by the undescriptive nature of the term “Head-and-Shoulders
-Bottom.” And so he has renamed it the “Kilroy Bottom.” See Figure 23.1._ The
-volume pattern is somewhat the same (not turned upside down) as at a Top,
-but with some important changes in the latter half of the formation, which
-we shall discuss in detail. We can lay down specifications for it in much the
-same words as we used for the Head-and-Shoulders Top. Here they are, with
-the portions that differ in principle from the Top printed in italics.
+### Đáy Đầu-và-Vai (EN: hoặc Kilroy)
 
+Một mô hình loại Đầu-và-Vai có thể hình thành tại một Đảo Chiều
+Quan Trọng từ giảm sang tăng. Trong trường hợp đó, tất nhiên, nó được
+gọi là Đáy Đầu-và-Vai, và mô hình giá của nó (so với một Đỉnh) bị
+lật ngược, tức là đứng trên đầu. _EN: Biên tập viên hiện tại luôn bị
+làm phiền bởi tính không mô tả của thuật ngữ “Đáy Đầu-và-Vai.”
+Vì vậy ông đã đổi tên nó thành “Đáy Kilroy.” Xem Hình 23.1._ Mô hình
+khối lượng tương tự (không bị lật ngược) như ở Đỉnh, nhưng với một
+số thay đổi quan trọng ở nửa sau của mô hình, mà chúng ta sẽ thảo
+luận chi tiết. Chúng ta có thể đặt các tiêu chí cho nó bằng gần như
+những từ ngữ đã dùng cho Đỉnh Đầu-và-Vai. Dưới đây là các tiêu
+chuẩn, với những phần khác biệt về nguyên tắc so với Đỉnh được in
+nghiêng.
 
-- A. A decline, climaxing a more or less extensive downtrend, on which
-trading volume increases notably, followed by a Minor Recovery on
-which volume runs less than it did during the days of final decline
-and at the Bottom. This is the “left shoulder.” EN9: Or left hand.
-- B. Another decline that carries prices below the Bottom of the left shoul-
-der, on which activity shows some increase (as compared with the
-preceding recovery) but usually does not equal the rate attained on the
-left shoulder decline , followed by another recovery which carries above
-the Bottom level of the left shoulder and on which activity may pick
-up, at any rate exceed that on the recovery from the left shoulder. This is
-the “head.” EN9: Or nose.
-- C. A third decline on decidedly less volume than accompanied the
-making of either the left shoulder or head, which fails to reach the
-low level of the head before another rally starts. This is the “right
-shoulder.” EN9: Or right hand.
-- D. Finally, an advance on which activity increases notably , which pushes
-up through the neckline (EN9: Or fenceline) and closes above by an
-amount approximately equivalent to 3% of the stock’s market price,
-with a conspicuous burst of activity attending this penetration. This is the
-“confirmation” or “breakout.”
+- A. Một đợt giảm, đạt cực điểm sau một xu hướng giảm tương đối
+rộng, với khối lượng giao dịch tăng rõ rệt, tiếp theo là một hồi phục
+nhỏ với khối lượng thấp hơn so với các ngày giảm cuối cùng và
+tại đáy. Đây là “vai trái.” EN9: Hoặc tay trái.
+- B. Một đợt giảm khác đưa giá xuống thấp hơn đáy của vai trái, với
+hoạt động tăng lên một chút (so với hồi phục trước đó) nhưng thường
+không bằng mức đạt được trong đợt giảm vai trái, tiếp theo là một
+hồi phục khác đưa giá lên trên mức đáy của vai trái và trong đó
+hoạt động có thể tăng, ít nhất vượt mức hồi phục từ vai trái. Đây là
+“đầu.” EN9: Hoặc mũi.
+- C. Một đợt giảm thứ ba với khối lượng chắc chắn thấp hơn so với đợt
+hình thành vai trái hoặc đầu, không chạm mức thấp của đầu trước khi
+một đợt hồi khác bắt đầu. Đây là “vai phải.” EN9: Hoặc tay phải.
+- D. Cuối cùng, một đợt tăng với hoạt động tăng rõ rệt, đẩy giá lên
+vượt đường viền cổ (EN9: Hoặc fenceline) và đóng cửa phía trên khoảng
+tương đương 3% giá thị trường cổ phiếu, với một đợt bùng nổ hoạt
+động rõ ràng kèm theo sự xuyên thủng này. Đây là “xác nhận” hoặc
+“phá vỡ.”
 
 
 
 ![fig-021](./img/fig-021.png)
-**FIGURE 21.** After “rounding over” in October 1943 in the last phase of a long
-decline from 41 in 1940, Lockheed made a conspicuous 2-month Head-and-Shoulders
-Bottom. Note especially, on the above chart, the volume on the rally in early December
-and in the first week of January with reference to points B and D on the preceding
-pages. “LK” dropped back to 15 again in June 1944, then ran up quickly to 23 by
-November and finally reached 45 in January 1946. One advantage of logarithmically
-scaled charts is that they expand, and thus call attention to important formations
-which develop at low price levels, and which would be obscured on an arithmetic
-scale.
+**HÌNH 21.** Sau khi “uốn cong” vào tháng Mười 1943 trong giai đoạn
+cuối của một đợt giảm dài từ 41 năm 1940, Lockheed đã tạo một Đáy
+Đầu-và-Vai rõ rệt trong 2 tháng. Lưu ý đặc biệt, trên đồ thị trên,
+khối lượng trong đợt hồi đầu tháng Mười Hai và tuần đầu tháng Một
+tham chiếu các điểm B và D ở các trang trước. “LK” lại giảm xuống 15
+vào tháng Sáu 1944, sau đó tăng nhanh lên 23 vào tháng Mười Một
+và cuối cùng đạt 45 vào tháng Một 1946. Một lợi thế của đồ thị
+theo tỉ lệ logarit là nó mở rộng và thu hút sự chú ý đến các mô hình
+quan trọng phát triển ở mức giá thấp, vốn sẽ bị che khuất trên đồ thị
+tỉ lệ số học.
 
-The essential difference between Top and Bottom patterns, you can see,
-lies in their volume charts. Activity in Head-and-Shoulders Bottom Forma-
-tion begins usually to show uptrend characteristics at the start of the head
-and always to a detectable degree on the rally from the head. It is even more
-marked on the rally from the right shoulder. _It must be present on the penetra-
-tion of the neckline_ , else the breakout is not to be relied upon as a decisive
-confirmation.
-There is an important basic principle of technics involved here which
-merits further discussion. Wall Street has an old saying that expresses it: “It
-takes buying to put stocks up, but they can fall of their own weight.” Thus,
-we trust, and regard as conclusive, any price break (by a decisive margin)
-down through the neckline of a Head-and-Shoulders Top even though it
-occurs on a light turnover, but we do not trust a breakout from a Head-and-
-Shoulders Bottom unless it is definitely attended by high volume. A low-
-volume breakout from a Bottom Pattern may only be premature, to be
-followed after more “work” around the Bottom levels by a genuine advance,
-or it may be a “false” move entirely. It pays generally to wait and see. This
-same distinction in volume development applies to some of the other Rever-
-sal Patterns we shall take up farther on.
+Sự khác biệt cơ bản giữa mô hình Đỉnh và Đáy, bạn có thể thấy,
+nằm ở đồ thị khối lượng. Hoạt động trong Đáy Đầu-và-Vai thường
+bắt đầu thể hiện đặc tính tăng từ đầu đầu, và luôn xuất hiện ở mức
+có thể nhận thấy trên đợt hồi từ đầu. Nó còn rõ rệt hơn trên đợt
+hồi từ vai phải. _Nó phải xuất hiện khi xuyên thủng đường viền cổ_,
+nếu không thì đột phá không được tin cậy như một xác nhận dứt khoát.
+Có một nguyên tắc cơ bản quan trọng về kỹ thuật ở đây cần được thảo
+luận thêm. Phố Wall có câu nói cũ diễn đạt điều này: “Cần có việc mua
+mới đẩy cổ phiếu lên, nhưng chúng có thể giảm theo trọng lượng tự
+nhiên.” Vì vậy, chúng ta tin tưởng và xem là kết luận bất kỳ sự phá
+vỡ giá nào (với biên độ quyết định) xuống dưới đường viền cổ của
+Đỉnh Đầu-và-Vai dù xảy ra trên khối lượng nhỏ, nhưng không tin
+vào đột phá từ Đáy Đầu-và-Vai trừ khi đi kèm khối lượng cao rõ rệt.
+Một đột phá khối lượng thấp từ mô hình Đáy có thể chỉ là sớm,
+sẽ theo sau bởi một đợt tăng thực sự sau khi “làm việc” quanh mức
+Đáy, hoặc hoàn toàn là một chuyển động “giả.” Thông thường, nên
+chờ xem. Phân biệt tương tự về sự phát triển khối lượng cũng áp dụng
+cho một số mô hình Đảo Chiều khác mà chúng ta sẽ đề cập sau.
 
-Other differences between Top and Bottom Head-and-Shoulders do not
-involve any new principles. It can be said that Bottoms are generally longer
-and flatter, i.e., they take more time in relation to depth of pattern in points
-than do Tops. This is particularly true when they occur at Reversals in the
-Primary Trend. The overall volume at Bottoms tends to be less than at Tops,
-and the turns more “rounded.” In the construction of a Head-and-Shoulders
-Top the activity that goes into the left shoulder usually exceeds that on any
-preceding rally in the entire uptrend. In a downtrend, on the other hand,
-there may be Panic Selling in some of the earlier phases of decline, which
-runs the volume chart up to a mark higher than any that is subsequently
-registered in the final Bottom Formation. But none of these differences affects
-our essential Head-and-Shoulders specifications.
-
+Các khác biệt khác giữa Đỉnh và Đáy Đầu-và-Vai không liên quan đến
+nguyên tắc mới nào. Có thể nói Đáy thường dài và bằng phẳng hơn,
+tức là tốn nhiều thời gian hơn liên quan đến độ sâu của mô hình
+tính theo điểm so với Đỉnh. Điều này đặc biệt đúng khi chúng xuất
+hiện tại các Đảo Chiều trong Xu Hướng Chính. Tổng khối lượng ở
+Đáy thường ít hơn ở Đỉnh, và các nhịp quay tròn hơn. Trong việc
+xây dựng Đỉnh Đầu-và-Vai, hoạt động tạo vai trái thường vượt quá
+mọi đợt hồi trước đó trong toàn bộ xu hướng tăng. Trong xu hướng
+giảm, ngược lại, có thể xảy ra Bán Hoảng Loạn ở một số giai đoạn
+giảm trước đó, đẩy đồ thị khối lượng lên mức cao hơn bất kỳ mức
+nào được ghi nhận sau đó trong Đáy cuối cùng. Nhưng không sự
+khác biệt nào trong số này ảnh hưởng đến các tiêu chí cơ bản của
+Đầu-và-Vai.
 
 ![fig-022](./img/fig-022.png)
-**FIGURE 22.** Weekly charts are particularly useful for detecting Major Bottom Rever-
-sals, since Bottom Formations characteristically take longer to build than Tops. Dome
-Mines made a typical Head-and-Shoulders base, 13 months long, at its Primary Trend
-Reversal in 1942. Note volume pattern. (Volume detail, however, is better studied on
-daily charts.) Dome’s powerful Head-and-Shoulders Bottom was “high” enough to be
-conspicuous on an arithmetic monthly chart. Reached 25 in 1944.
+**HÌNH 22.** Đồ thị tuần đặc biệt hữu ích để phát hiện các Đảo Chiều
+Đáy Quan Trọng, vì mô hình Đáy thường mất nhiều thời gian để hình
+thành hơn Đỉnh. Dome Mines đã tạo một Đáy Đầu-và-Vai điển hình, kéo
+dài 13 tháng, tại Đảo Chiều Xu Hướng Chính năm 1942. Lưu ý mô
+hình khối lượng. (Chi tiết khối lượng, tuy nhiên, nên nghiên cứu trên
+đồ thị ngày.) Đáy Đầu-và-Vai mạnh mẽ của Dome đủ “cao” để nổi bật
+trên đồ thị tháng theo tỉ lệ số học. Đạt 25 năm 1944.
 
-The measuring implications of the Head-and-Shoulders Bottom are the
-same in all respects and are applied in the same way as with Tops. Tendency
-to symmetry is again the rule, with variations as to slope of neckline, relative
-size of shoulders about the same as in Tops. Reactions to the neckline fol-
-lowing the initial breakout from the Bottom type appear in about the same
-frequency and proportions as do the Pullback Rallies which follow initial
-breakdown from the Top type.
+Các hàm ý đo lường của Đáy Đầu-và-Vai giống hệt về mọi mặt và
+được áp dụng tương tự như Đỉnh. Xu hướng đối xứng vẫn là quy tắc,
+với biến thể về độ dốc đường viền cổ, kích thước tương đối các vai
+tương tự như ở Đỉnh. Các phản ứng với đường viền cổ sau đột phá
+ban đầu từ mô hình Đáy xuất hiện với tần suất và tỷ lệ gần giống
+như các Pullback Rally theo sau đột phá từ mô hình Đỉnh.
 
 
 
 ![fig-023](./img/fig-023.png)
-**FIGURE 23.** With a strong movement toward lower interest rates evident since
-June, the timing of the low in “FNM” is not surprising. Neither is the massive width
-(from March through October) of its evolving pattern, which closely matches that of
-the huge, complex Inverse Head-and-Shoulders Bottom in Treasury Bills (December
-1984), September 25, 1984. Even the slight timing lag is appropriate.
+**HÌNH 23.** Với xu hướng rõ ràng hướng đến lãi suất thấp hơn kể
+từ tháng Sáu, thời điểm đáy của “FNM” không gây ngạc nhiên. Cũng không
+ngạc nhiên về độ rộng lớn (từ tháng Ba đến tháng Mười) của mô hình
+đang hình thành, rất tương đồng với Đáy Đầu-và-Vai đảo ngược khổng
+lồ và phức tạp của Trái Phiếu Kho bạc (tháng Mười Hai 1984), ngày
+25 tháng Chín 1984. Ngay cả độ trễ thời gian nhỏ cũng phù hợp.
 
 
-##### Multiple Head-and-Shoulders Patterns
 
-The Head-and-Shoulders Formations we have examined up to this point
-have been, despite minor variations, relatively simple and clean-cut, consist-
-ing of three well-defined elements. We come now to a group of related
-patterns which carry much the same technical significance but have more
-elements and are much less clearly defined. These are the Multiple Head-
-and-Shoulders Tops and Bottoms, also known as Complex Formations. We
-need not take much of our space to define them or lay down specifications
-for them, since they may be described quite sufficiently as Head-and-Shoul-
-ders Reversals in which either the shoulders or the head, or both, have been
-doubled or proliferated into several distinct waves.
+##### Các Mô hình Vai-Đầu-Vai Nhiều Lần
+
+Các Mô hình Vai-Đầu-Vai mà chúng ta đã xem xét đến lúc này, mặc dù có
+một số biến thể nhỏ, tương đối đơn giản và rõ ràng, bao gồm ba yếu tố
+xác định rõ ràng. Bây giờ chúng ta chuyển sang một nhóm mô hình liên
+quan, mang ý nghĩa kỹ thuật tương tự nhưng có nhiều thành phần hơn và
+ít rõ ràng hơn. Đây là các Mô hình Vai-Đầu-Vai Đỉnh và Đáy Nhiều Lần,
+còn được gọi là Các Mô hình Phức tạp. Chúng ta không cần dành nhiều
+không gian để định nghĩa hay đưa ra các thông số cho chúng, vì chúng
+có thể được mô tả đầy đủ như các Mô hình Đảo chiều Vai-Đầu-Vai mà
+ở đó vai hoặc đầu, hoặc cả hai, đã được nhân đôi hoặc sinh ra thành
+vài sóng riêng biệt.
 
 ![fig-023.1](./img/fig-023.1.png)
-**FIGURE 23.1.** _EN: At the risk of being considered a comic (actually, a satirist), I suggest that, though the image is comical, the pattern is more descriptive of the incongruously named “Head-and-Shoulders Bottom” than the present terminology. Left hand equals left shoulder. Right hand equals right shoulder and nose equals head and neckline equals fence line, or, as easily, neckline. I am teaching all of my students to think and use this term, which makes much more sense than the absurd “upside down Head-and-Shoulders Bottom standing on its head.” One hundred years from now this contribution to the nomenclature will be accepted as totally descriptive and appropriate and the term “Head-and Shoulders Bottom” will have disappeared from the lexicon.
+**HÌNH 23.1.** _EN: Dù có nguy cơ bị coi là hài hước (thực ra, là châm
+biếm), tôi gợi ý rằng, mặc dù hình ảnh hài hước, mô hình mô tả chính xác
+“Đáy Vai-Đầu-Vai” hơn là thuật ngữ hiện tại. Tay trái = vai trái. Tay
+phải = vai phải, mũi = đầu, đường cổ = hàng rào, hoặc đơn giản là đường
+cổ. Tôi dạy tất cả học sinh của mình nghĩ và dùng thuật ngữ này, hợp lý
+hơn nhiều so với “Đáy Vai-Đầu-Vai ngược đứng trên đầu”. Một trăm năm
+từ nay, đóng góp này sẽ được công nhận là mô tả đầy đủ và phù hợp, và
+thuật ngữ “Đáy Vai-Đầu-Vai” sẽ biến mất khỏi từ điển._
 
-Almost any combination is possible, of which only a few can be illus-
-trated in the actual chart examples reproduced with this chapter. Formations
-of this type appear with fair frequency at Primary Bottoms and Tops, but
-more often at Bottoms than at Tops. They appear less frequently at Interme-
-diate Reversals.
-A common form consists of two left shoulders of approximately equal
-size, a single head, and then two right shoulders, again of approximately
-even size and balancing the two on the left. Another is made up of two heads
-with two or more shoulders on either side. Still another, of which you will
-usually find several good examples at any Major Market Turn, consists of
-double shoulders on either side of a head which is itself composed of a small
-but quite distinguishable Head-and-Shoulders development.
+Hầu hết mọi kết hợp đều có thể, nhưng chỉ một vài ví dụ được minh họa
+trên các biểu đồ trong chương này. Các mô hình loại này xuất hiện
+tương đối thường xuyên ở Đáy và Đỉnh Chính, nhưng thường xuất hiện
+nhiều hơn ở Đáy so với Đỉnh. Chúng ít khi xuất hiện ở các Đảo chiều
+Trung gian. Một dạng phổ biến bao gồm hai vai trái xấp xỉ bằng nhau,
+một đầu duy nhất, và sau đó hai vai phải, lại xấp xỉ bằng nhau và cân
+bằng hai vai bên trái. Một dạng khác gồm hai đầu với hai hoặc nhiều vai
+ở mỗi bên. Một dạng nữa, mà bạn thường tìm thấy vài ví dụ tốt ở bất
+kỳ Điểm Quay Thị trường Chính nào, bao gồm đôi vai ở mỗi bên của một
+đầu vốn là một phát triển Vai-Đầu-Vai nhỏ nhưng khá rõ ràng.
 
-##### Tendency to Symmetry
+##### Khuynh hướng Đối xứng
 
-We have mentioned the tendency toward symmetry in the simple Head-and-
-Shoulders Formation. Patterns of the Multiple or Complex type show an
-even stronger urge toward symmetry — so strong, in fact, that it may be
-counted on in determining trading policy. If there are two shoulders on the
-left, there are almost always two on the right of nearly the same size and
-duration. (Of course, one does not know that a Multiple is in process of
-formation until its right shoulder becomes evident.) Except in volume, the
-right-hand half of the pattern is, in the great majority of cases, an approxi-
-mate mirror image of the left.
-Necklines on Multiple Head-and-Shoulders Formations are not always
-easy to draw, since the reactions between the shoulders and between shoulders
-and heads may not stop at levels that all fall on a single line. Up-sloping
-and down-sloping variants seldom appear in this class of patterns; necklines
-are almost always very close to the horizontal. Sometimes, it is possible to
-estimate by simple inspection where the critical line really lies. More often,
-there are two necklines, an inner and an outer, and no price movement of
-consequence is to be expected until the outer has been penetrated (which,
-of course, is simply another expression of that tendency toward symmetry
-referred to above).
-Curiously enough, the “power” of a Multiple Head-and-Shoulders Pat-
-tern is more apt to be over- than underestimated. One might think, in view
-of the length of time and amount of trading entering into its construction,
-that it would signal a move (in reverse direction to the trend preceding it)
-of greater extent than the simple Head-and-Shoulders. Yet, in its immediate
-consequences, at least, the Complex shows consistently less power. Mini-
-mum measuring rules for the two types of formations are the same and are
-applied in the same manner. The difference between the patterns appears in
-the price action after the minimum has been reached. The first downswing
-out of a plain Head-and-Shoulders Top, not counting any early Pullback
-Rally, will frequently carry out the minimum measuring implications of that
-pattern quickly and run well beyond it. From a Multiple Top, the first
-downswing is often more leisurely, and very seldom does it exceed the bare
-minimum — a probability well worth remembering when you are dealing
-with an Intermediate rather than a Primary Top. Of course, if the Complex
-does develop at a turn in the Primary Trend, prices will eventually go much
-farther, but even then there is usually a strong recovery (or reaction, in the
-case of a Bottom) from the “minimum rule” level.
+Chúng ta đã đề cập khuynh hướng đối xứng trong Mô hình Vai-Đầu-Vai
+đơn giản. Các mô hình Nhiều Lần hoặc Phức tạp thể hiện khuynh hướng
+đối xứng mạnh hơn — mạnh đến mức có thể dựa vào để xác định chính
+sách giao dịch. Nếu có hai vai bên trái, gần như luôn có hai vai bên phải
+có kích thước và thời gian gần như bằng nhau. (Tất nhiên, người ta không
+biết mô hình Nhiều Lần đang hình thành cho đến khi vai phải rõ ràng.)
+Ngoại trừ khối lượng, nửa bên phải của mô hình, trong đa số trường
+hợp, là ảnh phản chiếu gần như chính xác của nửa bên trái.
+
+Đường cổ trong các Mô hình Vai-Đầu-Vai Nhiều Lần không phải lúc nào
+cũng dễ vẽ, vì phản ứng giữa các vai và giữa vai và đầu có thể không dừng
+ở các mức tất cả nằm trên cùng một đường. Các biến thể đường cổ hướng lên
+hoặc hướng xuống hiếm khi xuất hiện trong loại mô hình này; đường cổ
+gần như luôn gần ngang. Đôi khi có thể ước lượng bằng cách quan sát
+đơn giản vị trí thực sự của đường quan trọng. Thường thì có hai đường cổ,
+một trong và một ngoài, và không kỳ vọng bất kỳ biến động giá nào đáng
+kể cho đến khi đường ngoài bị phá (điều này, tất nhiên, chỉ là cách khác
+diễn tả khuynh hướng đối xứng đã đề cập ở trên).
+
+Thật kỳ lạ, “sức mạnh” của Mô hình Vai-Đầu-Vai Nhiều Lần thường bị đánh
+giá quá cao hơn là đánh giá thấp. Người ta có thể nghĩ, xét về thời gian
+và khối lượng giao dịch tham gia vào việc xây dựng mô hình, rằng nó sẽ
+báo hiệu một chuyển động (ngược hướng xu hướng trước đó) lớn hơn mô
+hình Vai-Đầu-Vai đơn giản. Tuy nhiên, ít nhất trong tác động tức thời,
+Mô hình Phức tạp thường thể hiện sức mạnh thấp hơn. Quy tắc đo tối thiểu
+cho hai loại mô hình giống nhau và được áp dụng cùng cách. Sự khác biệt
+xuất hiện trong hành động giá sau khi đạt mức tối thiểu. Lần giảm đầu
+tiên từ một Đỉnh Vai-Đầu-Vai đơn giản, không tính bất kỳ Pullback Rally
+sớm nào, thường nhanh chóng thực hiện các hàm ý đo lường tối thiểu
+và vượt xa hơn. Từ một Đỉnh Nhiều Lần, lần giảm đầu tiên thường chậm
+hơn, và hiếm khi vượt quá mức tối thiểu — điều này đáng nhớ khi bạn
+xử lý một Đỉnh Trung gian thay vì Đỉnh Chính. Tất nhiên, nếu Phức tạp
+hình thành tại điểm quay của Xu hướng Chính, giá cuối cùng sẽ đi xa hơn,
+nhưng ngay cả khi đó thường có sự hồi phục mạnh (hoặc phản ứng trong
+trường hợp Đáy) từ mức “quy tắc tối thiểu”.
 
 ![fig-023.2](./img/fig-023.png)
-**FIGURE 23.2.** A ragged Kilroy (or if from the old school a Head-and-Shoulders)
-Bottom which ended the bear market (or first phase thereof) of 2001-2002. Some 7½
-months in formation it threw a few knuckle balls and curves and looked right up to
-March 2003 as though it were a bear market rally. Once the neckline was taken out
-there was no arguing with it. It was a real bottom. It balked at the neckline for a
-couple of months before becoming the full bull. Complex economic and political
-realities affected the markets. The terrorist attacks of September 11, 2001, which put
-paid to the tulipomania of the roaring nineties and the ill-advised tax cuts of the
-Bush (II) administration. Using the Reagan formula of cut taxes and increase spend-
-ing and start a war the market was sufficiently stimulated to rally exuberantly.
-Although the trend line is not drawn here the reader should have no trouble seeing
-that the break of the long-term down trend as well as the Kilroy Bottom demanding
-a shifting of gears from bear to bull.
+**HÌNH 23.2.** Một Đáy Kilroy lởm chởm (hoặc nếu từ trường phái cũ là
+một Vai-Đầu-Vai) kết thúc thị trường gấu (hoặc giai đoạn đầu của nó)
+2001-2002. Khoảng 7½ tháng hình thành, nó ném vài quả bóng cong và
+có vẻ đến tháng 3/2003 như một đợt hồi phục thị trường gấu. Khi đường
+cổ bị phá, không còn tranh cãi gì. Đó là một đáy thực sự. Nó ngần ngại
+trước đường cổ vài tháng trước khi trở thành bò đầy đủ. Các yếu tố kinh
+tế và chính trị phức tạp ảnh hưởng thị trường. Các vụ tấn công khủng
+bố ngày 11/9/2001 chấm dứt cơn tulipomania thập niên 90 và các cắt
+giảm thuế không khôn ngoan của chính quyền Bush (II). Sử dụng công thức
+Reagan giảm thuế, tăng chi tiêu và bắt đầu chiến tranh, thị trường được
+kích thích hồi phục mạnh. Mặc dù đường xu hướng không vẽ ở đây, người
+đọc vẫn thấy rõ việc phá đường xu hướng dài hạn cũng như Đáy Kilroy
+bắt buộc chuyển từ gấu sang bò.
+
+**HÌNH 24.** “MCA” trải qua giai đoạn tăng trưởng tuyệt vời 1980–1986.
+Nhưng tình hình trở nên ngày càng khó khăn sau năm mới, khi cổ phiếu
+bắt đầu thách thức mức cao 1985. Mặc dù phe Bò đã tạo mức cao mới
+tháng 4, nhưng một loạt Pullback giữ cổ phiếu này xa khỏi các thử nghiệm
+tiếp theo. Thực tế, một Đỉnh Vai-Đầu-Vai Phức tạp dường như hình thành
+với đường cổ Chính bị phá nhẹ trong đợt bán tháo.
 
 
 
-**FIGURE 24. “** MCA” enjoyed an excellent advance from 1980–1986. But the going
-became increasingly difficult after the turn of the year, when this issue began to
-challenge its 1985 high. Although the Bulls did manage to set a new high water mark
-in April, a series of Pullbacks kept this issue well away from any further tests. Indeed, a large Complex Head-and-Shoulders Top appeared to be unfolding with the Major
-Neckline penetrated slightly on the sell-off.
+##### Một Mô Hình Nhàn Nhã
 
-##### A Leisurely Pattern
+Khối lượng đi kèm với việc hình thành Đầu-và-Vai Phức Tạp (Multiple)
+về cơ bản tuân theo các “luật” mà chúng ta đã nêu và giải thích trước
+đây cho các Đảo Chiều Đầu-và-Vai đơn giản. Trong giai đoạn đầu của
+sự phát triển Mô Hình Phức Tạp, đồ thị khối lượng có thể rất bất
+thường, với ít mẫu nhận dạng được, nhưng trong giai đoạn sau, sự
+tương ứng với xu hướng Đầu-và-Vai nên được thấy rõ.
 
-The volume attending the construction of Multiple Head-and-Shoulders
-conforms in general to the “laws” we have previously stated and explained
-for simple Head-and-Shoulders Reversals. During the earlier stages of Multiple
-Formation development, the volume chart may show much irregularity with
-little recognizable pattern, but in the latter stages, its correspondence with
-the Head-and-Shoulders Trend should be plainly seen.
-There is something about Multiple Head-and-Shoulders patterns espe-
-cially pleasing to technical chart followers. Because of their symmetrical
-tendencies, it is fascinating to watch them evolve to completion. Once com-
-pleted, however, they may try your patience by their seeming reluctance to
-“get going” with a new trend. On that account, it becomes easy at times to
-jump to the conclusion that they have “blown out,” i.e., produced a false
-signal. Actually, except in the matter of extent of move which we have
-already discussed, they are fully as reliable as the plain Head-and-Shoulders.
-False moves are relatively rare with both. And in those extraordinary cases
-when a Complex Formation does go wrong, it still stands, like the plain
-Head-and-Shoulders, as a warning that the final Reversal is near.
+Có điều gì đó về các mô hình Đầu-và-Vai Phức Tạp đặc biệt làm hài
+lòng những người theo dõi đồ thị kỹ thuật. Do xu hướng đối xứng của
+chúng, thật hấp dẫn khi quan sát chúng phát triển đến hoàn tất. Tuy
+nhiên, một khi hoàn tất, chúng có thể thử thách sự kiên nhẫn của bạn
+bằng việc dường như “ngại” khởi động với xu hướng mới. Vì lý do đó,
+đôi khi dễ nhảy đến kết luận rằng chúng đã “phá sản,” tức là tạo ra
+tín hiệu giả. Thực ra, ngoại trừ về phạm vi chuyển động mà chúng
+ta đã bàn, chúng hoàn toàn tin cậy như Đầu-và-Vai đơn giản. Chuyển
+động giả tương đối hiếm ở cả hai. Và trong những trường hợp phi
+thường khi một Mô Hình Phức Tạp xảy ra sai, nó vẫn đứng đó, giống
+Đầu-và-Vai đơn giản, như một cảnh báo rằng Đảo Chiều cuối cùng
+đã gần kề.
+
 
 
 ![fig-025](./img/fig-025.png)
-**FIGURE 25.** An “ideal” Multiple Top made by Budd in 1946, with two heads.
-Observe accompanying volume. Prices often break away from Complex Formations
-more reluctantly than from the simple Head-and-Shoulders type. The late March
-rally, which went back through the old neckline, was greater than normal in that
-respect, but the general market Averages were pushing to new highs at this time.
-Re-penetration of a neckline does not, of itself alone, cancel the implications of a
-Reversal Formation.
+**HÌNH 25.** Một Đỉnh Multiple “lý tưởng” do Budd tạo ra năm 1946,
+với hai đầu. Quan sát khối lượng đi kèm. Giá thường phá vỡ từ các
+Mô Hình Phức Tạp chậm hơn so với loại Đầu-và-Vai đơn giản. Đợt
+hồi cuối tháng Ba, quay trở lại đường viền cổ cũ, lớn hơn bình
+thường về mặt này, nhưng Chỉ Số thị trường chung vẫn đang đẩy
+lên mức cao mới lúc đó. Việc xuyên thủng lại đường viền cổ tự nó
+không hủy bỏ các hàm ý của Mô Hình Đảo Chiều.
 
-##### Rounding Tops and Bottoms
+##### Đỉnh và Đáy Bo Tròn
 
-The Multiple Formations we have just examined are produced by a sort of
-extension or proliferation of the ordinary Head-and-Shoulders pattern. Carry
-this process still further and the Complexes merge into our next class of
-Reversals, known as Rounding Turns.
+Các Mô Hình Phức Tạp mà chúng ta vừa xem xét được tạo ra bởi một
+sự mở rộng hoặc nhân bản của mô hình Đầu-và-Vai thông thường.
+Tiếp tục quá trình này và các cấu trúc phức hợp hợp nhất thành
+lớp Đảo Chiều tiếp theo, được gọi là Đỉnh/Đáy Bo Tròn.
 
 
 
 ![fig-026](./img/fig-026.png)
-**FIGURE 26.** The long Multiple Head-and-Shoulders Top made by American Lo-
-comotive in 1946 displays very well the sort of volume pattern — irregular, but taking
-on definitely Bearish character in its latter half — that is normal to this formation.
-The rounded Bear Market Rally of August (compare price and volume trends) was
-unable to attain the old neckline, but was stopped at a Resistance (RL) created by
-earlier Bottom levels (see Chapter 13). G and G mark Breakaway Gaps which were
-not “covered” (see Chapter 12).
+**HÌNH 26.** Đỉnh Multiple dài của American Locomotive năm 1946
+hiển thị rõ ràng kiểu mô hình khối lượng — bất thường, nhưng mang
+bản chất giảm trong nửa sau — vốn bình thường cho mô hình này.
+Đợt hồi của Thị Trường Gấu vào tháng Tám (so sánh xu hướng giá
+và khối lượng) không thể đạt tới đường viền cổ cũ, nhưng bị chặn
+tại mức Kháng Cự (RL) tạo ra bởi các mức Đáy trước đó (xem
+Chương 13). G và G đánh dấu các Khoảng Trống Thoát Ly chưa
+“lấp đầy” (xem Chương 12).
 
-In our first approach to the theory of chart Reversal Patterns, we saw
-why it takes time and a considerable volume of trading to swing an estab-
-lished trend in prices from up to down or down to up. In the Head-and-
-Shoulders type of Reversal, the trend surges, struggles, attacks again and
-again before it finally gives up and retreats. During this struggle, the balance
-between the forces of supply and demand fluctuates, often wildly, until
-finally the one overcomes the other. In the Multiple Formations, a similar
-process goes on but rather less violently and, over a period of time, the
-progressive change from one force to the other becomes clearly apparent.
-The Rounding Turn is a much more simple and logical manifestation of
-this technical phenomenon. It pictures simply and plainly a gradual, pro-
-gressive, and fairly symmetrical change in the trend direction, produced by
-a gradual shift in the balance of power between buying and selling.
-If, for example, the buying has been stronger than the selling for some
-time past, we know that the result will have been a general upward trend
-in the price of our stock, as indicated by our pictorial chart record of its
-trading history. So long as the buyers of the stock remain more anxious, more
-numerous, more aggressive, more powerful than the sellers, that preceding
-upward trend will continue. Now, however, suppose the selling grows a
-little stronger, while the buying either weakens slightly or remains stationary
-at its previous strength. This slight change in the technical balance will be
-indicated by a slowing up of the previous advance. As the selling increases
-in relative power, it will finally become equal to the buying power, with the
-result that the market level moves neither up nor down but remains for a
-time quite stationary (except for Minor and insignificant fluctuations).
-Assume that the new development continues and the selling pressure
-grows until it is finally stronger than buying power. Now the balance is
-moving the other way. There are now more sellers than buyers, and the result
-will be a gradual decline in the market quotations for the stock. If this change
-in the balance of power is fairly steady and continues to its logical conclusion,
-we can see, even without the aid of a chart, that our picture of the price
-movement for that stock would be one of a long advancing trend slowly
-beginning to round off, holding in stationary suspense for a time, and then
-commencing a retreat, reversing the previous upward movement into a new
-and Accelerating Downward Trend.
-Rounding Bottoms are commonly referred to as _Bowl_ or _Saucer_ Patterns.
-Rounding Tops are sometimes called _Inverted Bowls_. Despite the logic of their
-construction, neither type appears as frequently as Head-and-Shoulders For-
-mations. Rounding Bottoms occur most often in low-priced stocks, in an
-extended, flat-bottomed form which usually takes many months to complete.
-There was a host of such developments during 1942 and 1943 among issues
-selling under $10 a share. (It should be noted here that “Saucer” Bottoms of
-two or three months’ duration also appear frequently, one right after another,
-in the charts of low-priced issues _during_ an extended up-movement. Their
-characteristics and denotations will be discussed later when we come to
-_Consolidation_ .)
+Trong lần tiếp cận đầu tiên với lý thuyết các Mô Hình Đảo Chiều,
+chúng ta thấy tại sao cần thời gian và khối lượng giao dịch đáng kể
+để đảo chiều một xu hướng giá đã thiết lập từ tăng sang giảm hoặc
+giảm sang tăng. Trong loại Đảo Chiều Đầu-và-Vai, xu hướng dâng,
+vật lộn, tấn công lại nhiều lần trước khi cuối cùng nhường bước và
+rút lui. Trong cuộc vật lộn này, cân bằng giữa cung và cầu dao
+động, thường dữ dội, cho đến khi một bên vượt trội. Trong Mô Hình
+Phức Tạp, quá trình tương tự xảy ra nhưng ít dữ dội hơn và, trong
+một khoảng thời gian, sự thay đổi tiến triển từ lực lượng này sang
+lực lượng kia trở nên rõ ràng. Đỉnh/Đáy Bo Tròn là hiện tượng
+kỹ thuật đơn giản và logic hơn nhiều. Nó thể hiện một cách đơn
+giản, rõ ràng sự thay đổi từ từ, tiến triển và khá đối xứng của hướng
+xu hướng, do sự dịch chuyển dần dần trong cân bằng quyền lực giữa
+mua và bán.
+
+Nếu, ví dụ, việc mua mạnh hơn bán trong một thời gian trước, ta
+biết rằng kết quả là xu hướng giá chung tăng, như thể hiện bởi
+đồ thị lịch sử giao dịch. Miễn là người mua cổ phiếu vẫn hăng hái,
+nhiều hơn, hung hăng hơn, mạnh hơn người bán, xu hướng tăng
+trước đó sẽ tiếp tục. Tuy nhiên, giả sử việc bán tăng mạnh hơn
+một chút, trong khi mua giảm nhẹ hoặc giữ nguyên, sự thay đổi
+nhỏ này sẽ được thể hiện bằng việc nhịp tăng trước đó chậm lại.
+Khi lực bán tăng lên, cuối cùng sẽ bằng lực mua, kết quả là mức
+thị trường đứng yên (ngoại trừ các dao động nhỏ không quan trọng).
+Giả sử diễn biến này tiếp tục và áp lực bán tăng lên vượt lực
+mua, cân bằng đang chuyển hướng. Lúc này có nhiều người bán
+hơn người mua, kết quả là giá cổ phiếu giảm dần. Nếu sự thay đổi
+cân bằng này ổn định và tiếp tục tới kết luận logic, chúng ta có thể
+thấy, ngay cả không có đồ thị, rằng hình ảnh chuyển động giá của
+cổ phiếu là một xu hướng tăng dài bắt đầu bo tròn, đứng yên
+một thời gian, rồi bắt đầu rút lui, đảo chiều xu hướng tăng trước
+thành xu hướng giảm mới và tăng tốc.
+
+Đáy Bo Tròn thường được gọi là _Bowl_ hoặc _Saucer_. Đỉnh Bo Tròn
+đôi khi gọi là _Inverted Bowl_. Mặc dù hợp lý trong cấu tạo, cả hai
+loại này xuất hiện không thường xuyên như Đầu-và-Vai. Đáy Bo Tròn
+thường xuất hiện ở cổ phiếu giá thấp, dạng đáy phẳng kéo dài, thường
+mất nhiều tháng để hoàn tất. Có nhiều trường hợp như vậy trong năm
+1942 và 1943 ở các cổ phiếu dưới 10$/cổ phiếu. (Cần lưu ý rằng các
+Đáy “Saucer” kéo dài 2–3 tháng cũng xuất hiện thường xuyên, nối
+tiếp nhau, trong đồ thị cổ phiếu giá thấp _trong_ một xu hướng tăng
+kéo dài. Tính chất và ký hiệu của chúng sẽ được thảo luận sau khi
+chúng ta tới phần _Consolidation_.)
 
 ![fig-027](./img/fig-027.png)
-**FIGURE 27.** From a Head-and-Shoulders Top in February, Digital plunged sharply
-lower into mid-June, retracting roughly two thirds of the 1983–85 advance. The
-summer low was the head of a Broad, Complex Head-and-Shoulders _(EN: Or Kilroy)_
-Bottom. “DEC”, however, had already enjoyed a high-volume penetration of the
-neckline and was, therefore, in a buying position.
+**HÌNH 27.** Từ một Đỉnh Đầu-và-Vai vào tháng Hai, Digital giảm mạnh
+xuống giữa tháng Sáu, thu hồi khoảng hai phần ba đợt tăng 1983–85.
+Mức thấp mùa hè là đầu của một Đáy Đầu-và-Vai Phức Tạp _(EN: Hoặc Kilroy)_. 
+“DEC”, tuy nhiên, đã có một đột phá đường viền cổ với khối lượng cao, do
+đó đang trong vị thế mua.
 
-Tops of the Rounding type are very rare among stocks in the lower- and
-medium-price ranges, but are found occasionally in the charts of those high-
-priced common stocks which command an AA rating among wealthy investors
-and do not ordinarily interest the general public. They also appear frequently
-in the charts of high-grade preferred stocks and quite naturally, because the
-demand for their shares reflects chiefly two factors — supply of funds seeking
-conservative investment and interest rates — both of which tend to change
-very slowly. The speculative appeal which produces wide-swinging price fluc-
-tuations is absent in such issues. The same line of reasoning explains why
-Rounding Tops almost never develop in lower-priced, speculative common
-stocks; Bull Markets in those are topped off by excited public buying which
-pays little or no heed to long-range investment considerations.
+Đỉnh Bo Tròn hiếm trong các cổ phiếu giá thấp và trung bình, nhưng
+thỉnh thoảng xuất hiện ở đồ thị các cổ phiếu giá cao, xếp hạng AA
+trong mắt nhà đầu tư giàu có và thường không thu hút công chúng. 
+Chúng cũng xuất hiện thường xuyên ở đồ thị cổ phiếu ưu đãi cao cấp, 
+và tự nhiên, vì nhu cầu cổ phiếu chủ yếu phản ánh hai yếu tố — nguồn 
+vốn tìm đầu tư an toàn và lãi suất — cả hai thay đổi chậm. Sức hấp 
+dẫn đầu cơ gây dao động giá mạnh vắng mặt ở các cổ phiếu này. Lý luận 
+tương tự giải thích tại sao Đỉnh Bo Tròn hầu như không hình thành ở 
+cổ phiếu phổ thông giá thấp, đầu cơ; Thị Trường Tăng ở các mã này 
+kết thúc bằng việc công chúng mua hăng hái, ít chú ý đến yếu tố đầu 
+tư dài hạn.
 
 ![fig-028](./img/fig-028.png)
-**FIGURE 28.** After testing its 1980 high in mid-1983, “ADM” turned sharply lower,
-retracing roughly 40% of the 1982–83 advance by mid-1984. The summer low, how-
-ever, appeared to be a Bottom. Indeed, if one looked at the volume pattern from
-April to November and correlated it with price activity, it was not difficult to make
-a good case for a Complex Head-and-Shoulders Bottom. A neckline through the
-closes gave us a go signal on a penetration of 20⅝.
+**HÌNH 28.** Sau khi kiểm tra mức cao 1980 giữa năm 1983, “ADM” giảm 
+mạnh, hồi khoảng 40% đợt tăng 1982–83 đến giữa năm 1984. Tuy nhiên, mức 
+thấp mùa hè có vẻ là một Đáy. Thực ra, nếu quan sát khối lượng từ tháng 
+Tư đến tháng Mười Một và so với hoạt động giá, không khó để lập luận cho 
+một Đáy Đầu-và-Vai Phức Tạp. Một đường viền cổ qua giá đóng cửa cho tín 
+hiệu mua khi xuyên thủng 20⅝.
 
 ![fig-029](./img/fig-029.png)
-**FIGURE 29.** An Intermediate Bottom of the Complex class, abnormal in its lack of
-symmetry but, nonetheless, easy to recognize. Low volume on reactions after head
-was completed gave usual (and essential) Bullish Confirmation. The sluggish start
-of the new trend was a common feature of Multiple Head-and-Shoulder Reversals.
+**HÌNH 29.** Một Đáy Trung Cấp loại Phức Tạp, bất thường vì thiếu đối
+xứng nhưng dễ nhận ra. Khối lượng thấp trong các phản ứng sau khi đầu 
+hoàn tất mang lại Xác Nhận Tăng điển hình (và cần thiết). Khởi đầu chậm
+của xu hướng mới là đặc trưng chung của Đảo Chiều Đầu-và-Vai Phức Tạp.
 
 ![fig-030](./img/fig-030.png)
-**FIGURE 30.** The slide in Amdahl occupied the Bears from March–June before a
-sharp rally gave notice that the Bulls were still alive. After that, a choppy sideways
-trading range evolved with Support near the Pullback lows established earlier in the
-year. Overall, there was a fine symmetry to this chart, including volume, which
-indicated the price action from March to September was actually a Broad Head-and-
-Shoulders Bottom. Entry was on a 3% breakout of the neckline with a minimum
-objective of 19¾.
-
-
+**HÌNH 30.** Sự trượt của Amdahl chiếm thời gian của phe Gấu từ tháng 
+Ba–Tháng Sáu trước khi một đợt hồi mạnh báo hiệu phe Bò vẫn còn sống. 
+Sau đó, một phạm vi giao dịch ngang lộn xộn hình thành với Hỗ Trợ gần mức 
+Pullback thấp được thiết lập trước đó trong năm. Nhìn chung, đồ thị cân 
+xứng tốt, bao gồm cả khối lượng, cho thấy hành động giá từ tháng Ba đến 
+tháng Chín thực sự là một Đáy Đầu-và-Vai Phức Rộng. Vào lệnh khi đột 
+phá 3% đường viền cổ với mục tiêu tối thiểu 19¾.
 
 ![fig-031](./img/fig-031.png)
-**FIGURE 31.** Another variant of the Head-and-Shoulders within a Major Reversal
-Formation. The smaller Head-and-Shoulders pattern was easily overlooked on the
-daily chart. Moreover, although it was 6 months long, this pattern in itself did not
-necessarily imply Primary Reversal. But when it pushed “PJ’s” prices up in October
-through the great supply which had been lodged at 12–13 the previous December,
-something more than a Secondary Advance could obviously be in prospect. An up-
-move of consequence was not finally signaled, however, until February 1943 when
-the upper neckline was penetrated and prices closed at 14. Public Service “threw
-back” to 12 in November 1943 (to the old neckline exactly), but then advanced steadily
-to 30. Study this again when you take up Support and Resistance, Chapter 13. This
-chart reiterates the point that, whereas Top Formations are often completed in a
-relatively short time, Major Bottoms usually require many months, and call for a
-great deal of patience. Allowing for the greater time needed, however, most Top
-Patterns have their counterparts in Bottom Formations.
+**HÌNH 31.** Một biến thể khác của Đầu-và-Vai trong một Mô Hình Đảo 
+Chiều Quan Trọng. Mô hình Đầu-và-Vai nhỏ hơn dễ bị bỏ qua trên đồ thị 
+ngày. Hơn nữa, mặc dù kéo dài 6 tháng, mô hình này tự nó không nhất 
+thiết báo hiệu Đảo Chiều Chính. Nhưng khi nó đẩy giá “PJ” lên trong 
+tháng Mười qua nguồn cung lớn đã tồn tại ở 12–13 vào tháng Mười Hai 
+trước đó, rõ ràng có thể xảy ra nhiều hơn một Đợt Tăng Phụ. Một nhịp 
+tăng đáng kể cuối cùng được báo hiệu vào tháng Hai 1943 khi đường 
+viền cổ phía trên bị xuyên thủng và giá đóng cửa ở 14. Public Service 
+“quay lại” 12 vào tháng Mười Một 1943 (vào đúng đường viền cổ cũ), 
+sau đó tăng đều lên 30. Xem lại khi học phần Hỗ Trợ và Kháng Cự, 
+Chương 13. Đồ thị này nhấn mạnh rằng, trong khi Đỉnh thường hoàn 
+tất trong thời gian tương đối ngắn, Đáy Quan Trọng thường cần nhiều 
+tháng và đòi hỏi kiên nhẫn. Với thời gian dài hơn, hầu hết các Đỉnh 
+vẫn có tương ứng trong Đáy.
 
-##### How Rounding Turns Affect Trading Activity
 
-We have not, as yet, mentioned the volume half of the Rounding Turn picture.
-It is interesting, as well as meaningful. In the case of Rounding Bottoms, its
-pattern is usually as clean-cut and decisive as the price pattern. The first step
-in the gradual conquest of supply by demand, which produces a Rounding
-Bottom, appears as a lessening in selling pressure. Volume, which has been
-running high, gradually decreases. Demand is still timid, but the pressure
-on it less; so, while prices still decline, the pace is slower and the trend curves
-more and more to the horizontal. At the Bottom, with the two forces techni-
-cally in balance, relatively few transactions are recorded. Then demand
-begins to increase, and as the price curve turns up, trading becomes more
-active. Volume accelerates with the trend until often it reaches a sort of
-climactic peak in a few days of almost “vertical” price movement on the
-chart.
-In such formations, the tips of the volume lines at the bottom of the
-chart, when connected, will describe an arc that often roughly parallels the
-arc formed by the price “Bowl” above. These patterns, when they occur _after
-an extensive decline_ , are of outstanding importance, for they nearly always
-denote a change in Primary Trend and an extensive advance yet to come.
-That advance, however, seldom carries in a “skyrocket” effect which com-
-pletes the entire Major Move in a few weeks. On the contrary, the uptrend
-that follows the completion of the pattern itself is apt to be slow and subject
-to frequent interruptions, tiring out the impatient trader, but yielding even-
-tually a substantial profit.
 
+##### Tác Động của Các Vòng Tròn Đáy Đối với Hoạt động Giao dịch
+
+Chúng ta chưa đề cập đến nửa khối lượng của bức tranh Vòng tròn Đáy. Điều
+này vừa thú vị, vừa có ý nghĩa. Trong trường hợp Đáy Tròn, mô hình của nó
+thường rõ ràng và quyết đoán như mô hình giá. Bước đầu trong việc chinh
+phục dần cung bởi cầu, tạo ra Đáy Tròn, xuất hiện dưới dạng áp lực bán
+giảm dần. Khối lượng, vốn đang cao, dần giảm. Cầu vẫn còn e dè, nhưng
+áp lực lên nó nhẹ hơn; vì vậy, mặc dù giá vẫn giảm, tốc độ chậm hơn và xu
+hướng uốn cong ngày càng gần ngang. Tại Đáy, khi hai lực cân bằng về mặt
+kỹ thuật, số giao dịch ghi nhận tương đối ít. Sau đó cầu bắt đầu tăng, và
+khi đường giá uốn lên, giao dịch trở nên sôi động hơn. Khối lượng tăng tốc
+cùng với xu hướng cho đến khi thường đạt đỉnh gần như “thẳng đứng” trên
+biểu đồ trong vài ngày.
+
+Trong các mô hình như vậy, các đỉnh của đường khối lượng ở đáy biểu đồ,
+khi nối lại, sẽ mô tả một cung thường song song gần như với cung tạo bởi
+“Bowl” giá phía trên. Những mô hình này, khi xuất hiện _sau một đợt giảm
+rộng_, có tầm quan trọng nổi bật, vì chúng gần như luôn báo hiệu sự thay
+đổi Xu hướng Chính và một đợt tăng đáng kể sắp tới. Tuy nhiên, đợt tăng
+này hiếm khi có hiệu ứng “tăng vọt” hoàn tất toàn bộ Động Thị trường Chính
+trong vài tuần. Ngược lại, xu hướng tăng theo sau khi mô hình hoàn tất
+thường chậm và bị gián đoạn nhiều lần, làm mệt nhà giao dịch thiếu kiên
+nhẫn, nhưng cuối cùng vẫn mang lại lợi nhuận đáng kể.
 
 ![fig-032](./img/fig-032.png)
-**FIGURE 32.** Still another form that the Complex Reversal may take. This can be
-described as a Head-and-Shoulders Pattern with two widely separated heads. Study
-its volume pattern, noting breakout June 20 and subsequent Pullback. Compare it
-with Bethlehem Steel’s Bottom Reversal shown in Chapter 12, Figure 123.
+**HÌNH 32.** Một dạng khác mà Mô hình Đảo chiều Phức tạp có thể mang
+lại. Nó có thể được mô tả như Mô hình Vai-Đầu-Vai với hai đầu tách biệt
+rộng. Nghiên cứu mô hình khối lượng, lưu ý breakout ngày 20 tháng 6 và
+Pullback tiếp theo. So sánh với Đáy Đảo chiều Bethlehem Steel trong Chương
+12, Hình 123.
 
 ![fig-033](./img/fig-033.png)
-**FIGURE 33.** Major Top Reversal Patterns in high-priced investment issues are
-frequently long and “flat.” The 1946 Top of Phillips Petroleum could be classified as
-either a Multiple Head-and-Shoulders or an irregular Rounding Top. An important
-trendline (Chapter 14) was broken downside in July.
-
+**HÌNH 33.** Các Mô hình Đảo chiều Đỉnh lớn trong các cổ phiếu đầu tư giá
+cao thường kéo dài và “bằng phẳng.” Đỉnh 1946 của Phillips Petroleum có
+thể được phân loại là Vai-Đầu-Vai Nhiều Lần hoặc Đỉnh Tròn bất thường.
+Một đường xu hướng quan trọng (Chương 14) bị phá xuống vào tháng 7.
 
 ![fig-034](./img/fig-034.png)
-**FIGURE 34.** The war-end reaction of 1945 in American & Foreign Power 2d Pre-
-ferred, as well as in many other issues, took the form of a Rounding Bottom. Compare
-the price and volume trends. By October 4, the implications here were plain to see.
-Let us repeat that trading volume should ebb to an extreme low at the
-Bottom of a Bowl Pattern if its implications are to be trusted. After prices
-have passed dead center, however, and begun their first gradual climb with
-as yet only a slight pickup in activity, something in the nature of a premature
-breakout may occur. Without warning, a burst of buying may shoot quota-
-tions straight up for a day or two. These incidents are by no means rare, but,
-almost invariably, prices will quickly drop back again into their former
-channel, and the gradual rounding movement is resumed. There is no par-
-ticular danger for the trader in these premature bursts but, if he is tempted
-to jump in on such a sudden showing of strength, he should realize that
-there probably will still be need for patience. A classic example of this type
-of premature break appears in one of our accompanying illustrations,
-Figure 38.
+**HÌNH 34.** Phản ứng sau chiến tranh năm 1945 ở American & Foreign Power
+2d Preferred, cũng như nhiều cổ phiếu khác, có dạng Đáy Tròn. So sánh
+xu hướng giá và khối lượng. Đến ngày 4 tháng 10, các hàm ý đã rõ ràng.
+Hãy nhắc lại rằng khối lượng giao dịch nên giảm đến cực thấp tại đáy của
+một Mô hình Bowl nếu muốn tin cậy các hàm ý. Tuy nhiên, sau khi giá
+vượt qua tâm, bắt đầu tăng dần với khối lượng chỉ tăng nhẹ, có thể xuất
+hiện một đợt breakout sớm. Không báo trước, một cơn mua bùng nổ có thể
+đẩy giá thẳng lên trong một, hai ngày. Những trường hợp này không hiếm,
+nhưng gần như luôn, giá nhanh chóng giảm trở lại kênh cũ và quá trình
+vòng tròn dần tiếp tục. Không có nguy hiểm đặc biệt cho nhà giao dịch từ
+các đợt bùng nổ sớm, nhưng nếu bị cám dỗ tham gia, họ nên nhận ra rằng
+cần vẫn phải kiên nhẫn. Một ví dụ kinh điển về breakout sớm xuất hiện
+trong hình minh họa kèm theo, Hình 38.
 
 ![fig-035](./img/fig-035.png)
-**FIGURE 35.** Monthly chart, on arithmetic scale. American Safety Razor’s 1932
-Major Bottom was a Head-and-Shoulders, also its 1936 Bull Top. Its 1942 to 1946 Bull
-Market started from a Rounding Bottom nearly two and a half years long! Monthly
-chart study pays.
-
+**HÌNH 35.** Biểu đồ tháng, theo thang số học. Đáy Chính 1932 của American
+Safety Razor là Vai-Đầu-Vai, cũng như Đỉnh Bò 1936. Thị trường Bò 1942–
+1946 bắt đầu từ Đáy Tròn kéo dài gần hai năm rưỡi! Nghiên cứu biểu đồ tháng
+rất hữu ích.
 
 ![fig-036](./img/fig-036.png)
-**FIGURE 36.** Monthly chart of Budd Company. Note that 1942 was the first year to
-produce a dull Saucer-shaped Pattern, a Rounding Bottom of Major import. “BF”
-climbed from below 3 in 1942 to above 26 in 1946.
+**HÌNH 36.** Biểu đồ tháng của Budd Company. Lưu ý rằng năm 1942 là năm
+đầu tiên xuất hiện Mô hình hình Chén tròn, một Đáy Tròn quan trọng. “BF”
+tăng từ dưới 3 năm 1942 lên trên 26 năm 1946.
 
 ![fig-037](./img/fig-037.png)
-**FIGURE 37.** Similar formation in CertainTeed Products, which rose from below 2
-in 1942 to above 25 in 1946. Study volume, 1940 to 1945. The up-curving type of
-Major Bull Trend shown on these charts will be discussed in Chapter 15.
+**HÌNH 37.** Mô hình tương tự ở CertainTeed Products, tăng từ dưới 2 năm
+1942 lên trên 25 năm 1946. Nghiên cứu khối lượng từ 1940–1945. Dạng
+xu hướng Bò lớn cong lên trên trên các biểu đồ này sẽ được bàn trong
+Chương 15.
 
-See Chapter 16.1 for some interesting 2005 rounding bottoms.
+Xem Chương 16.1 cho một số Đáy Tròn 2005 thú vị.
 
-##### The Dormant Bottom Variation
+##### Biến thể Đáy Ngủ
 
-There is one sort of Major Bottom chart picture that has been called a _Dormant
-Bottom_ , but which relates logically to our Bowl Pattern, being, in effect, an
-extreme development of the “extended, flat-bottomed form” to which we
-have alluded above. It appears characteristically in “thin” stocks, i.e., those
-in which the total number of shares outstanding or, more particularly, the
-floating supply of shares is very small. In such issues, a normal day’s turn-
-over may be only two or three hundred shares in an active rising market.
-Finally, weeks and sometimes months will pass during which no sales will
-be registered for days at a time, or only an occasional lot at a figure which
-fluctuates within a fractional range. The chart appears “fly specked.”
+Có một dạng hình ảnh Đáy Chính được gọi là _Đáy Ngủ_, nhưng liên quan
+logic đến Mô hình Bowl của chúng ta, về thực chất là sự phát triển cực
+đại của “dạng đáy bằng, kéo dài” mà chúng ta đã nhắc ở trên. Nó xuất
+hiện điển hình ở các cổ phiếu “mỏng”, tức là số cổ phiếu lưu hành tổng
+thể hoặc đặc biệt là số cổ phiếu tự do rất ít. Trong các cổ phiếu này,
+khối lượng giao dịch bình thường có thể chỉ hai, ba trăm cổ phiếu trong
+một thị trường tăng tích cực. Cuối cùng, có thể vài tuần hoặc vài tháng
+trôi qua mà không có giao dịch nào, hoặc chỉ một lô nhỏ với giá dao
+động trong phạm vi rất nhỏ. Biểu đồ xuất hiện “như bẩn bởi chấm nhỏ.”
 
+Cuối cùng, có thể xuất hiện đột ngột một làn sóng hoạt động khó giải
+thích. Vài trăm cổ phiếu xuất hiện trên bảng giá và giá tăng mạnh.
+“Breakout từ trạng thái ngủ” này có thể là một đợt tăng sớm, như
+chúng ta đã thấy ở các Đáy Tròn điển hình, tiếp theo vài tuần ít
+hoạt động, hoặc là bước đầu của quá trình tăng dần theo từng bậc với
+khoảng thời gian giữa các bước ngày càng ngắn, cho đến khi xu hướng
+tăng ổn định hình thành. Trong mọi trường hợp, đây là tín hiệu cho thấy
+chúng ta đang xử lý một Mô hình Tích lũy quan trọng.
 
-Eventually, there may appear a sudden and usually quite inexplicable
-flurry of activity. Several hundred shares appear on the tape and prices
-advance sharply. This “breakout of dormancy” can be a premature move,
-such as we have noted in connection with typical Rounding Bottoms, to be
-followed by several more weeks of inactivity, or it can be the first lift in a
-sort of step-up process with shorter and shorter intervals between each step,
-until finally a consistent uptrend develops. In any event, it is a signal that
-we are dealing with an important Accumulation Pattern.
-
-
-What has happened to form these Dormant Bottoms is easy to guess.
-With relatively few shares outstanding, and only an occasional lot put up
-for sale “at the market,” investors (perhaps insiders connected with the
-company) would succeed only in running the price up out of reach if they
-started to bid for the stock. So they simply “hold a basket under it,” as the
-saying goes, quickly picking up anything that is offered but never reaching
-for it, until eventually the tree is shaken clean. Then they may raise their
-bids a point or so; if that seems to bring out a lot of stock for sale, they go
-back to their waiting tactics.
+Nguyên nhân tạo ra các Đáy Ngủ này dễ đoán. Với số cổ phiếu lưu hành
+ít, và chỉ đôi khi có lô được bán “theo thị trường”, các nhà đầu tư
+(có thể là nội bộ công ty) chỉ thành công trong việc đẩy giá lên cao
+nếu họ bắt đầu đặt giá thầu. Vì vậy, họ đơn giản “giữ rổ bên dưới,”
+theo câu nói, nhặt nhanh bất cứ gì được đưa ra nhưng không vươn tới,
+cho đến khi cây “trắng sạch.” Sau đó họ có thể nâng giá thầu thêm một
+điểm; nếu thấy xuất hiện nhiều cổ phiếu để bán, họ lại trở về chiến
+thuật chờ đợi.
 
 ![fig-038](./img/fig-038.png)
-**FIGURE 38.** A classic example of Rounding Bottom at the Major Trend Reversal of
-1932. The jump out of line on June 10 and subsequent return to the Saucer Pattern
-is a common development in Rounding Bottoms.
-
+**HÌNH 38.** Ví dụ kinh điển về Đáy Tròn tại Đảo chiều Xu hướng Chính
+1932. Việc nhảy ra khỏi đường ngày 10 tháng 6 và trở lại Mô hình Chén
+là diễn biến phổ biến trong Đáy Tròn.
 
 ![fig-039](./img/fig-039.png)
-**FIGURE 39.** An extreme case of “Dormant Bottom.” There were many days in the
-first 4 months during which no shares were traded. A “buy” signal appeared on
-April 26. Note volume.
+**HÌNH 39.** Trường hợp cực đoan của “Đáy Ngủ.” Có nhiều ngày trong
+4 tháng đầu không giao dịch cổ phiếu nào. Tín hiệu “mua” xuất hiện ngày
+26 tháng 4. Lưu ý khối lượng.
 
-##### Volume Pattern at Tops
 
-The volume pattern on Rounding Tops is seldom as clearly defined as at
-Bottoms. Indeed, it is apt to be rather high and irregular throughout the
-entire rounding-over movement in prices. Under close scrutiny, one can
-usually see some signs of a change from Bullish to Bearish activity in the
-Minor Fluctuations after the peak has been passed, but the volume warnings
-do not become conspicuous in most cases until the downtrend has begun to
-accelerate toward the vertical.
-We know of no measuring formula which can be applied to Rounding
-Turns (except for the minimum qualifications we mentioned in connection
-with Head-and-Shoulders, i.e., they cannot be counted upon to produce a
-greater move than the preceding price swing in the opposite direction). But
-they almost never deceive. Their implications can be roughly estimated from
-the magnitude of the trends that led to them and the length of time they
-take in the rounding-over process. The Rounding Turns that often appear
-on weekly and monthly charts, thus, have major import.
 
-This leads us to the general consideration of weekly and monthly chart
-patterns. Thus far, we have been speaking in detail of only daily chart
-developments, but all of the formations we have taken up appear, as well,
-in the much larger swings into which daily movements are condensed on
-weekly and monthly charts, and with identical significance. Thus, volume
-record may not be quite so easy to read (climactic activity may occur on one
-day of a week and the other days run dull, which would not show at all in
-the week’s total figure) but is less critical — may almost be disregarded.
-Head-and-Shoulders Tops are particularly plentiful on monthly charts and
-should be accorded due respect. In fact, any clearly defined pattern, which
-is built to completion on a weekly or monthly chart, is proportionately
-significant (bearing always in mind that “a Reversal must have something
-to reverse”).
+##### Mô Hình Khối Lượng tại Đỉnh
+
+Mô hình khối lượng trên Đỉnh Bo Tròn hiếm khi được xác định rõ ràng
+như ở Đáy. Thực ra, nó có xu hướng cao và bất thường trong suốt
+toàn bộ chuyển động bo tròn giá. Khi quan sát kỹ, người ta thường
+thấy một số dấu hiệu thay đổi từ hoạt động Tăng sang Giảm trong
+các Dao Động Nhỏ sau khi đỉnh đã qua, nhưng cảnh báo về khối lượng
+hầu như không trở nên rõ ràng cho đến khi xu hướng giảm bắt đầu
+tăng tốc về hướng thẳng đứng.
+
+Chúng tôi không biết công thức đo lường nào có thể áp dụng cho
+Đỉnh/Đáy Bo Tròn (ngoại trừ các điều kiện tối thiểu đã nêu trong
+liên quan đến Đầu-và-Vai, tức là không thể dựa vào chúng để tạo
+một chuyển động lớn hơn so với dao động giá trước đó theo hướng
+ngược lại). Nhưng chúng hầu như không bao giờ đánh lừa. Hàm ý
+của chúng có thể ước lượng sơ bộ từ độ lớn của xu hướng dẫn đến
+chúng và thời gian mà chúng mất trong quá trình bo tròn. Vì vậy, các
+Đỉnh/Đáy Bo Tròn thường xuất hiện trên đồ thị tuần và tháng có
+tầm quan trọng lớn.
+
+Điều này dẫn chúng ta đến việc xem xét chung các mẫu đồ thị tuần
+và tháng. Cho đến nay, chúng ta chỉ bàn chi tiết về các diễn biến
+đồ thị ngày, nhưng tất cả các mô hình đã đề cập cũng xuất hiện trong
+các dao động lớn hơn, nơi các chuyển động ngày được cô đặc trên
+đồ thị tuần và tháng, với ý nghĩa giống hệt. Vì vậy, bản ghi khối
+lượng có thể không dễ đọc (hoạt động đỉnh có thể xảy ra trong một
+ngày trong tuần và các ngày còn lại trầm lắng, điều này sẽ không
+hiện trong tổng khối lượng tuần) nhưng ít quan trọng — gần như có
+thể bỏ qua. Đỉnh Đầu-và-Vai xuất hiện nhiều trên đồ thị tháng và
+cần được coi trọng. Thực tế, bất kỳ mô hình rõ ràng nào, hoàn tất
+trên đồ thị tuần hoặc tháng, đều có ý nghĩa tương xứng (luôn nhớ
+rằng “một Đảo Chiều phải có cái để đảo”).
+
+
 
 ![fig-040](./img/fig-040.png)
-**FIGURE 40.** The March 1935 reaction produced many Rounding Bottoms. This one
-verges on the dormant type. The gap (G), a Breakaway through a Resistance Level,
-was not closed until late 1937. (See Chapter 12.)
+**HÌNH 40.** Phản ứng tháng Ba 1935 tạo ra nhiều Đáy Bo Tròn. Trường
+hợp này gần với loại tiềm ẩn. Khoảng trống (G), một đột phá qua Mức
+Kháng Cự, không được lấp đầy cho đến cuối 1937. (Xem Chương 12.)
 
 ![fig-041](./img/fig-041.png)
-**FIGURE 41.** In a broad trading range (11–17½) during 1988, “APM” turned down
-from Resistance in the summer. The reaction, however, was slow, forming a Saucer-
-like Pattern from July through November on generally Bullish price/volume corre-
-lation. Of particular note was the fact that the low point of the Saucer was above the
-February low, i.e., higher lows were beginning to emerge. The High-Volume Rally
-through the Short-Term Downtrend Line signaled the start of the next upleg.
+**HÌNH 41.** Trong phạm vi giao dịch rộng (11–17½) năm 1988, “APM”
+giảm từ Kháng Cự vào mùa hè. Tuy nhiên, phản ứng diễn ra chậm,
+tạo thành mô hình giống “Chảo” từ tháng Bảy đến tháng Mười Một
+với sự tương quan giá/khối lượng chung là Tăng. Đáng chú ý là mức
+thấp của Chảo cao hơn mức thấp tháng Hai, tức là các mức thấp cao
+bắt đầu xuất hiện. Đợt hồi Khối Lượng Cao qua đường Xu Hướng Giảm
+Ngắn Hạn báo hiệu bắt đầu nhịp tăng tiếp theo.
 
 ![fig-042](./img/fig-042.png)
-**FIGURE 42.** Cray Research, a powerhouse stock for over a decade. Trading at under
-one dollar in 1976, it reached 135¾ before the late April gap, through the Bottom of
-a 7-week Diamond, started the decline. However, after the High-Volume Rally in
-mid-January, “CYR” also managed to form an impressive Rounding Top. The concave
-volume pattern, clearly evident after the high-volume decline to Support that fol-
-lowed the Diamond breakdown, was particularly significant in illuminating this
-Topping Pattern.
+**HÌNH 42.** Cray Research, cổ phiếu mạnh mẽ trong hơn một thập kỷ.
+Giao dịch dưới một đô la năm 1976, đạt 135¾ trước khoảng trống cuối
+tháng Tư, qua đáy của Kim Cương 7 tuần, bắt đầu giảm. Tuy nhiên,
+sau đợt hồi Khối Lượng Cao giữa tháng Một, “CYR” cũng tạo được
+Đỉnh Bo Tròn ấn tượng. Mô hình khối lượng lõm, rõ ràng sau đợt giảm
+khối lượng cao đến Hỗ Trợ theo sau sự phá vỡ Kim Cương, đặc biệt
+quan trọng trong việc làm sáng tỏ Mô Hình Đỉnh này.
 
 ![fig-043](./img/fig-043.png)
-**FIGURE 43.** 1984. We love the Scalloping tendency of Northern Indiana Public
-Service. Although it is obviously not a pattern portending rocket-like advance, the
-technical picture brightens with the high-volume breakout through Resistance at
-chart end.
-
-## Chapter 8. Important Reversal Patterns — The Triangles
-
-We come next to an entirely different family of technical patterns, the Triangles,
-a group that has not been as well represented on the charts of the decade of
-the 1940s as it was during the 1920s and 1930s. Their scarcity in that decade
-is regrettable because they are an intriguing lot with excellent profit potential.
-( _EN: Demonstrating that charts from the 1920s may be intermixed with charts from
-the 2000s, compare Figures 269 and 269.1.)_ Before we examine them in detail,
-however, a quick review of the basic theory, which gives meaning and value
-to technical analysis, may be appropriate. That theory can be resummarized
-in the following brief statements.
-
-1. The market value of a security is determined solely by the interaction
-    of supply and demand.
-2. Supply and demand are governed at any given moment by many
-    hundreds of factors, some rational and some irrational. Information,
-    opinions, moods, guesses (shrewd or otherwise) as to the future
-    combine with blind necessities in this equation. No ordinary man
-    can hope to grasp and weigh them all, but the market does this
-    automatically.
-3. Disregarding Minor Fluctuations, prices move in trends that persist
-    for an appreciable length of time.
-4. Changes in trend, which represent an important shift in the balance
-    between supply and demand, however caused, are detectable _sooner_
-    _or later_ in the action of the market itself.
-
-By this time, the fact expressed in the italicized words of the last state-
-ment may have begun to raise some misgivings in your mind. The complaint
-that the Dow Theory is often “late” has already been discussed. The Reversal
-Patterns studied in the two preceding chapters give no certain signal until
-after the trend has changed, usually “sooner” as compared with Dow Theory,
-but never at the absolute top or bottom price. The man who sells a stock as
-soon as, but not until, a Head-and-Shoulders Top has been completed on its
-chart may cash in on no more than half of the total decline from its extreme
-high to extreme bottom, since by the very terms of our measuring formula,
-the first half of the decline can have taken place before the Top Reversal
-Formation was finally confirmed.
+**HÌNH 43.** 1984. Chúng tôi yêu thích xu hướng Bo Tròn của Northern
+Indiana Public Service. Mặc dù rõ ràng đây không phải là mô hình báo
+trước đợt tăng như tên lửa, bức tranh kỹ thuật trở nên sáng sủa
+hơn với đột phá khối lượng cao qua Kháng Cự ở cuối đồ thị.
 
 
-Make up your mind that there is no help for it. Somebody, of course,
-managed to sell his shares at the very top eighth of a point on the peak of
-the “head” (and some poor devil bought them). The seller was just plain
-lucky! His exploit can be truly compared with a “hole-in-one” in golf. Even
-a complete duffer occasionally enjoys that thrill. But the more experienced
-a player, the better satisfied he is to land safely on the green and not too far
-from the cup. The more experienced an investor, the less concerned he is
-with getting the last point, or even the last ten points, out of his market
-commitments.
-No one can ever be sure _at the time_ that he is selling at the final high.
-No rules or methods have ever been devised — or ever will be — to ensure
-buying within fractions of the Bottom, or selling within fractions of the Top.
-Of course, a man can make certain of buying a stock at its absolute low
-provided he is prepared to take at that figure every last share offered, even
-to the entire outstanding issue if necessary. It might, in theory, require as
-much as $3.7 billion to “put a bottom” under U.S. Steel at 70, _(EN9: ca. 1950s)_
-in case you are tempted.
-The reader, who at this point may think we “protest too much,” will see
-more excuses for the foregoing remarks when we take up the habits of
-Triangles, for these formations are not always indicative of Trend Reversal.
-On the contrary, except in certain rather uncommon varieties, they are more
-apt to signal what may most conveniently be termed _Consolidation_ , termi-
-nating an up or down move only temporarily and setting the stage for
-another strong move _in the same direction_ later on. (Schabacker called such
-chart formations “Continuation Patterns.”) The reason for including Trian-
-gles in this section of our studies under the general heading of Reversal
-Formations is that they do, at times, develop at periods of Major Trend
-change, and those are, by all odds, the periods which it is most essential for
-the investor to recognize.
 
-##### Symmetrical Triangles
+## Chương 8. Các Mô hình Đảo chiều Quan trọng — Tam giác
 
-The most common form of a Triangle is composed of a series of price fluc-
-tuations, each of which is _smaller than its predecessor_ , each Minor Top failing
-to attain the height of the preceding rally, and each Minor Recession stopping
-above the level of the preceding Bottom. The result is a sort of contracting
-“Dow Line” on the chart — a sideways price area or trading range whose
-Top can be more or less accurately defined by a _down-slanting_ boundary line
-and whose Bottom can be similarly bounded by an _up-slanting_ line. This type
-of Triangle is called a Symmetrical Triangle. If we wanted to make a more
-accurate application of the language of geometry, we might better call it an
-Acute Triangle, since it is not at all necessary that its Top and Bottom bound-
-aries be of equal length or, in other words, make the same angle with the
-horizontal axis. However, there is a very strong tendency in these formations
-to approximate the symmetrical form; so, the established name will do well
-enough. This pattern is also sometimes referred to as a “Coil.”
+Tiếp theo, chúng ta đến với một họ mô hình kỹ thuật hoàn toàn khác, các
+Tam giác, một nhóm ít xuất hiện trên biểu đồ thập niên 1940 so với thập niên
+1920 và 1930. Sự hiếm hoi trong thập niên đó thật đáng tiếc vì chúng là
+một nhóm hấp dẫn với tiềm năng lợi nhuận tuyệt vời. (_EN: Minh chứng
+rằng biểu đồ từ thập niên 1920 có thể được trộn lẫn với biểu đồ từ thập
+niên 2000, xem so sánh Hình 269 và 269.1._) Trước khi xem xét chi tiết,
+một tổng quan nhanh về lý thuyết cơ bản, cung cấp ý nghĩa và giá trị
+cho phân tích kỹ thuật, có thể là cần thiết. Lý thuyết đó có thể tóm tắt
+ngắn gọn như sau:
 
-While the process of contraction or coiling, which makes up the price
-action of the Symmetrical Triangle Pattern, is going on, trading activity
-exhibits a diminishing trend, irregularly perhaps, but nevertheless quite
-noticeably as time goes on. The converging upper and lower boundary lines
-of the price formation come together somewhere out to the right (the future
-in the time sense) of the chart, at the apex of our Triangle. As prices work
-their way along in narrower and narrower fluctuations toward the apex,
-volume ebbs to an abnormally low daily turnover. Then, if we are dealing
-with a typical example, comes the action which first suggested the name
-“Coil.” For suddenly and without warning, as though a coil spring had been
-wound tighter and tighter and then snapped free, prices break out of their
-Triangle with a notable pickup in volume, and leap away in a strong move
-which tends to approximate in extent the up or down move that preceded
-its formation.
+1. Giá trị thị trường của một chứng khoán được xác định duy nhất bởi sự
+    tương tác giữa cung và cầu.
+2. Cung và cầu tại bất kỳ thời điểm nào bị chi phối bởi hàng trăm yếu
+    tố, có yếu tố hợp lý và yếu tố phi lý. Thông tin, ý kiến, tâm trạng,
+    dự đoán (thông minh hay không) về tương lai kết hợp với những nhu
+    cầu mù quáng trong phương trình này. Không ai có thể nắm bắt và
+    cân nhắc tất cả, nhưng thị trường làm điều đó tự động.
+3. Bỏ qua Dao động Nhỏ, giá di chuyển theo xu hướng kéo dài trong một
+    khoảng thời gian đáng kể.
+4. Thay đổi xu hướng, đại diện cho sự dịch chuyển quan trọng trong cân
+    bằng cung-cầu, bất kể nguyên nhân, đều có thể được phát hiện _sớm_
+    _hay muộn_ trong hành động thị trường.
 
+Đến lúc này, thực tế được nhấn mạnh bằng chữ nghiêng trong câu cuối
+có thể đã khiến bạn băn khoăn. Phàn nàn rằng Lý thuyết Dow thường
+“muộn” đã được bàn. Các Mô hình Đảo chiều trong hai chương trước
+không cho tín hiệu chắc chắn cho đến khi xu hướng thay đổi, thường
+“sớm hơn” so với Lý thuyết Dow, nhưng không bao giờ ở mức giá đỉnh
+hoặc đáy tuyệt đối. Người bán cổ phiếu ngay sau khi Đỉnh Vai-Đầu-Vai
+hoàn tất trên biểu đồ có thể chỉ thu được không quá một nửa tổng
+mức giảm từ đỉnh cực đại xuống đáy cực đại, vì theo công thức đo
+lường của chúng ta, nửa đầu của đợt giảm có thể đã diễn ra trước khi
+Mô hình Đảo chiều Đỉnh được xác nhận.
+
+Hãy quyết định rằng không có cách nào khác. Dĩ nhiên, có người
+may mắn bán cổ phiếu ở mức đỉnh tuyệt đối trên “đầu” (và một kẻ
+khốn nạn mua). Người bán chỉ đơn giản là may mắn! Thành tích của
+ông có thể so sánh với “hole-in-one” trong golf. Ngay cả người chơi
+tệ cũng thỉnh thoảng trải nghiệm cảm giác đó. Nhưng người chơi
+càng có kinh nghiệm, càng hài lòng khi hạ bóng an toàn lên green
+không quá xa lỗ. Nhà đầu tư có kinh nghiệm càng ít quan tâm
+đến việc kiếm điểm cuối cùng, hay thậm chí mười điểm cuối cùng,
+từ cam kết thị trường của mình.
+
+Không ai có thể chắc chắn _tại thời điểm đó_ rằng đang bán ở đỉnh cuối.
+Chưa từng có quy tắc hay phương pháp nào được phát minh — hoặc sẽ
+được — để đảm bảo mua gần đáy tuyệt đối, hoặc bán gần đỉnh tuyệt đối.
+Dĩ nhiên, một người có thể chắc chắn mua cổ phiếu ở mức thấp tuyệt
+đối nếu sẵn sàng mua tất cả cổ phiếu được chào bán, thậm chí toàn
+bộ cổ phiếu lưu hành nếu cần. Lý thuyết mà nói, có thể cần tới 3,7 tỷ
+USD để “đặt đáy” cho U.S. Steel ở 70, _(EN9: khoảng thập niên 1950)_
+nếu bạn bị cám dỗ.
+
+Người đọc, lúc này có thể nghĩ chúng ta “phàn nàn quá nhiều,” sẽ
+thấy thêm lý do khi xem thói quen của Tam giác, vì các mô hình này
+không luôn báo hiệu Đảo chiều Xu hướng. Ngược lại, ngoại trừ một
+số dạng hiếm, chúng thường báo hiệu cái gọi là _Hợp nhất_, tạm
+thời kết thúc một đợt lên hoặc xuống và tạo tiền đề cho một đợt
+tăng hoặc giảm mạnh khác _cùng hướng_ sau này. (Schabacker gọi
+các mô hình biểu đồ như vậy là “Mô hình Tiếp diễn.”) Lý do đưa
+Tam giác vào phần này của nghiên cứu dưới tiêu đề chung Mô hình
+Đảo chiều là vì chúng đôi khi hình thành tại các giai đoạn thay đổi
+Xu hướng Chính, và đó chính là khoảng thời gian mà nhà đầu tư cần
+nhận biết nhất.
+
+##### Tam giác Đối xứng
+
+Dạng Tam giác phổ biến nhất gồm một chuỗi dao động giá, mỗi dao
+động _nhỏ hơn dao động trước_, mỗi Đỉnh Nhỏ không đạt đến mức
+cao của đợt tăng trước, và mỗi Suy giảm Nhỏ dừng trên mức Đáy
+trước đó. Kết quả là một “Đường Dow” co lại trên biểu đồ — một
+khu vực giá ngang hoặc biên độ giao dịch mà đỉnh có thể xác định
+tương đối bằng _đường biên nghiêng xuống_ và đáy được giới hạn
+bằng _đường nghiêng lên_. Loại Tam giác này gọi là Tam giác Đối
+xứng. Nếu muốn áp dụng chính xác ngôn ngữ hình học, có thể gọi
+là Tam giác Nhọn, vì không nhất thiết đường biên Đỉnh và Đáy
+bằng nhau hay tạo cùng góc với trục ngang. Tuy nhiên, các mô hình
+này có khuynh hướng gần đối xứng; do đó, tên gọi hiện hành là phù
+hợp. Mô hình này đôi khi còn được gọi là “Cuộn”.
+
+Trong quá trình co lại hay cuộn, hình thành hành động giá của
+Tam giác Đối xứng, hoạt động giao dịch giảm, có thể không đều
+nhưng rõ rệt theo thời gian. Đường biên trên và dưới hội tụ về
+phía bên phải (tương lai trên trục thời gian) tại đỉnh của Tam giác.
+Khi giá dao động ngày càng hẹp về đỉnh, khối lượng giảm xuống
+cực thấp. Sau đó, nếu là ví dụ điển hình, xảy ra hành động gợi
+ý tên gọi “Cuộn.” Đột ngột và không báo trước, như lò xo bị siết
+căng rồi bật ra, giá phá Tam giác kèm tăng khối lượng, và bật lên
+trong đợt tăng mạnh tương đương khoảng di chuyển trước đó.
 
 ![fig-044](./img/fig-044.png)
-**FIGURE 44.** A fine Symmetrical Triangle Reversal Formation on a weekly chart.
-Upper boundary sloping down from February 1942 recovery high at 21 and lower
-boundary sloping up from “Pearl Harbor” Bottom at 16⅜ converge to an apex at
-about 18⅝. From this Major Bottom Pattern, “HD” advanced to 45 in 1946. Note
-shrinkage in volume as pattern formed, and increase as price broke out through Top
-in October 1942. Breakout came not quite three quarters of the way over from first
-Top to apex.
+**HÌNH 44.** Mô hình Đảo chiều Tam giác Đối xứng đẹp trên biểu đồ tuần.
+Đường biên trên nghiêng xuống từ đỉnh phục hồi tháng 2/1942 ở 21, đường
+biên dưới nghiêng lên từ Đáy “Pearl Harbor” ở 16⅜ hội tụ tại đỉnh khoảng
+18⅝. Từ Mô hình Đáy Chính này, “HD” tăng lên 45 năm 1946. Lưu ý
+khối lượng giảm khi hình thành mô hình, và tăng khi giá phá đỉnh
+tháng 10/1942. Breakout chưa qua ba phần tư từ đỉnh đầu tiên tới đỉnh.
 
-
-There is seldom any clue given on the one chart containing the Triangle
-to tell in which direction prices are going to break out of the pattern until
-that action finally occurs. Sometimes you can get a pretty good idea of what
-is likely to happen by observing what is going on at the same time in the
-charts of other stocks (which is an important topic for later discussion), but
-often, there is nothing to do but wait until the market makes up its mind
-which way to go. And “making up its mind” is just what the market seems
-to be doing when it builds a Triangle; everything about this pattern appears
-to exemplify doubt, vacillation, and stalling until finally a decision is reached.
-
-
+Trên biểu đồ chứa Tam giác hiếm khi có manh mối cho thấy giá sẽ phá
+mô hình theo hướng nào cho đến khi hành động xảy ra. Đôi khi có thể
+đoán khá chính xác bằng cách quan sát biểu đồ cổ phiếu khác (một
+vấn đề quan trọng sẽ bàn sau), nhưng thường thì chỉ còn cách chờ
+thị trường quyết định hướng đi. Và “quyết định hướng đi” chính là
+điều thị trường làm khi xây dựng Tam giác; mọi chi tiết của mô hình
+dường như thể hiện sự do dự, chần chừ, trì hoãn cho đến khi quyết
+định cuối cùng.
 
 ![fig-045](./img/fig-045.png)
-**FIGURE 45.** Sear’s Roebuck made a Symmetrical Triangle Reversal at its Bull Mar-
-ket Top in 1946, and then went into another long Triangle which turned out to be a
-Consolidation rather than Reversal Formation. (Logarithmic volume scaling mini-
-mizes volume variations.) Sell signal was given at 44½ and again at 41. Decline
-continued to 30½.
+**HÌNH 45.** Sear’s Roebuck tạo Tam giác Đối xứng Đảo chiều tại Đỉnh Thị
+trường Bò 1946, sau đó tiếp tục vào một Tam giác dài khác, hóa ra là
+Hợp nhất hơn là Đảo chiều. (Thang khối lượng logarit giảm thiểu biến
+động khối lượng.) Tín hiệu bán xuất hiện ở 44½ và 41. Giá tiếp tục giảm
+xuống 30½.
 
-##### Some Cautions About Symmetrical Triangles
 
-A compact, clean-cut Triangle is a fascinating picture, but it has its tricky
-features. The beginner in technical chart analysis is quite naturally prone to
-look for Triangles constantly, and will often think he has detected them when,
-in fact, something entirely different is in the process of development. Remem-
-ber that it takes two points to determine a line. The top boundary line of a
-price area cannot be drawn until two Minor Trend Tops have been definitely
-established, which means that prices must have moved up to and then down
-away from both far enough to leave the two peaks standing out clear and
-clean on the chart. A bottom boundary line, by the same token, cannot be
-drawn until two Minor Trend Bottoms have been definitely established.
-Therefore, before you can conclude that a Symmetrical Triangle is building,
-you must be able to see _four_ Reversals of Minor Trend. If it comes after an
-advance in prices, you must have first a Top, next a Bottom, next a second
-Top lower than the first, and finally a second Bottom higher than the first
-Bottom (and prices must move up away from the second Bottom before you
-can be sure it is a Bottom). Then, and only then, can you draw your boundary
-lines and proceed on the assumption that you have a Symmetrical Triangle.
 
-Another point to remember — and one which does not conform at all
-to the “coil” simile — is that the farther out into the apex of the Triangle
-prices push without bursting its boundaries, the less force or power the
-pattern seems to have. Instead of building up more pressure, it begins to
-lose its efficacy after a certain stage. The best moves (up or down) seem to
-ensue when prices break out decisively at a point somewhere between half
-and three quarters of the horizontal distance from the base (left-hand end)
-to the apex. If prices continue to move “sideways” in narrower and narrower
-fluctuations from day to day after the three quarter mark is passed, they are
-quite apt to keep right on to the apex and beyond in a dull drift or ripple
-which leaves the chart analyst completely at sea. The best thing to do in such
-cases is go away and look for something more promising elsewhere in your
-chart book.
-And a third tricky point is that it becomes necessary sometimes to redraw
-one or both boundaries of a Triangle before it is finally completed (i.e., before
-prices break out and move away from it in a decisive fashion). This can
-happen, for example, when, after the first two Rally Tops have established
-a down-slanting upper boundary line, the third rally starting from the lower
-boundary pushes up and _through_ the original Top line by a moderate margin
-and then, without developing a recognizable breakout volume on this move,
-stops short of surpassing the highest level of the preceding (second) pattern
-Top. When prices subsequently drop back again into pattern, it is necessary
-to abandon the original upper boundary line and draw a new one across the
-highs of the first and third rally tops.
+##### Một số Lưu ý về Tam giác Đối xứng
 
-##### How Prices Break Out of a Symmetrical Triangle
+Một Tam giác gọn gàng, rõ ràng là hình ảnh hấp dẫn, nhưng nó có những
+tính năng khó lường. Người mới trong phân tích biểu đồ kỹ thuật thường
+tự nhiên hay tìm Tam giác liên tục, và thường nghĩ đã phát hiện ra khi
+thực ra là điều gì đó hoàn toàn khác đang hình thành. Hãy nhớ rằng cần
+hai điểm để xác định một đường thẳng. Đường biên trên của một vùng giá
+không thể vẽ được cho đến khi hai Đỉnh Xu hướng Nhỏ được xác lập rõ
+ràng, tức là giá phải di chuyển lên rồi xuống đủ xa để hai đỉnh nổi bật
+rõ ràng trên biểu đồ. Tương tự, đường biên dưới không thể vẽ cho đến
+khi hai Đáy Xu hướng Nhỏ được xác lập rõ ràng. Do đó, trước khi kết
+luận Tam giác Đối xứng đang hình thành, bạn phải thấy được _bốn_ lần
+đảo chiều Xu hướng Nhỏ. Nếu xảy ra sau một đợt tăng giá, bạn phải có
+đầu tiên một Đỉnh, tiếp theo một Đáy, tiếp theo Đỉnh thứ hai thấp hơn
+Đỉnh đầu, và cuối cùng Đáy thứ hai cao hơn Đáy đầu (và giá phải tăng
+ra khỏi Đáy thứ hai trước khi bạn chắc chắn đó là Đáy). Chỉ khi đó,
+bạn mới vẽ được đường biên và giả định rằng bạn có Tam giác Đối xứng.
 
-Prices may move out of a Symmetrical Triangle either up or down. There is
-seldom, if ever, as we have said above, any clue as to direction until the
-move has actually started, i.e., until prices have broken out of their triangular
-“area of doubt” in decisive fashion. In a very general way, the precepts we
-have laid down for breakouts from Head-and-Shoulders Formations apply
-here as well. For example, the margin by which prices should close beyond
-the pattern lines is the same, roughly 3%. It is equally essential that an _upside_
-break in prices be confirmed by a marked increase in trading volume; lacking
-volume, do not trust the price achievement. But a _downside_ breakout, again
-as in the case of the Head-and-Shoulders, does not require confirmation by
-a pickup in activity. As a matter of record, volume does visibly increase in
-most cases, but in a majority of down breaks, not to any notable extent until
-after prices have fallen below the level of the last preceding Minor Bottom
-within the Triangle, which, as you can see, may be several points lower than
-the boundary line at the place (date) of the actual breakout.
-The curious fact is that a downside breakout from a Symmetrical Triangle
-which is attended right from the start by conspicuously heavy volume is much
-more apt to be a false signal rather than the start of a genuine downtrend that
-will be worth following. This is particularly true if the break occurs after
-prices have worked their way well out into the apex of the Triangle; a high
-volume crack then frequently — we might even say usually — develops into
-a 2- or 3-day “shakeout” which quickly reverses itself and is followed by a
-genuine move in the _up_ direction.
-All of the above the reader will have undoubtedly found most discon-
-certing. Here is a very pretty technical pattern and it cannot always be
-trusted. Unfortunately, Symmetrical Triangles are subject to _false_ moves to a
-far greater extent than the Head-and-Shoulders or any of the other forma-
-tions we have discussed or will discuss later. Unfortunately, some of these
-false moves cannot be identified as such until after a commitment has been
-risked (although good trading tactics should prevent their occasioning much
-more than a trivial loss). And, unfortunately again, even a typical shakeout,
-such as we described in the preceding paragraph, may produce a double
-cross, proceeding right on down in a genuine decline. No technical chart
-formation is 100% reliable, and, of all, our present subject is the worst
-offender.
+Một điểm khác cần nhớ — và không phù hợp với phép so sánh “cuộn” —
+là càng tiến vào đỉnh Tam giác mà giá không phá đường biên, mô hình
+càng có vẻ ít lực hay sức mạnh. Thay vì tạo thêm áp lực, nó bắt đầu
+mất hiệu quả sau một giai đoạn nhất định. Các đợt di chuyển tốt nhất
+(lên hay xuống) dường như xảy ra khi giá phá quyết đoán tại điểm
+nào đó giữa nửa và ba phần tư khoảng cách ngang từ đáy (bên trái)
+tới đỉnh. Nếu giá tiếp tục dao động “ngang” ngày càng hẹp sau dấu
+ba phần tư, chúng thường đi thẳng tới đỉnh và vượt ra trong trôi
+lờ đờ hoặc gợn sóng khiến nhà phân tích biểu đồ hoàn toàn bối
+rối. Việc tốt nhất trong trường hợp này là tạm rời và tìm điều
+hứa hẹn hơn ở phần khác của sổ biểu đồ.
+
+Điểm khó khác là đôi khi cần vẽ lại một hoặc cả hai đường biên
+trước khi Tam giác hoàn tất (tức là trước khi giá phá và di chuyển
+ra khỏi nó một cách quyết đoán). Ví dụ, sau hai Đỉnh Tăng đầu tiên
+xác lập đường biên trên nghiêng xuống, đợt tăng thứ ba từ đường
+biên dưới đẩy lên _qua_ đường đỉnh ban đầu một cách vừa phải,
+và sau đó, không tạo ra khối lượng breakout nhận diện, dừng lại
+trước khi vượt mức cao nhất của Đỉnh mẫu thứ hai trước đó. Khi
+giá rớt lại vào mô hình, cần từ bỏ đường biên trên ban đầu và vẽ
+một đường mới qua các đỉnh của đợt tăng thứ nhất và thứ ba.
+
+##### Cách Giá Phá Tam giác Đối xứng
+
+Giá có thể phá Tam giác Đối xứng lên hoặc xuống. Như đã nói ở
+trên, hiếm khi có manh mối về hướng cho đến khi giá thực sự
+phá khỏi “vùng nghi ngờ” hình tam giác một cách quyết đoán.
+Một cách tổng quát, các nguyên tắc đã nêu cho phá mô hình
+Vai-Đầu-Vai cũng áp dụng ở đây. Ví dụ, biên độ đóng giá vượt
+qua đường mô hình khoảng 3%. Cũng cần thiết là phá _lên_ phải
+được xác nhận bằng khối lượng giao dịch tăng rõ; nếu không, đừng
+tin vào thành tích giá. Nhưng phá _xuống_, như trong Vai-Đầu-Vai,
+không yêu cầu xác nhận bằng khối lượng. Thực tế, khối lượng
+thường tăng, nhưng với đa số phá xuống, không đáng kể cho đến
+khi giá rơi dưới Đáy Nhỏ trước đó trong Tam giác, có thể thấp
+hơn vài điểm so với đường biên tại thời điểm phá thực tế.
+
+Điều kỳ lạ là phá xuống với khối lượng nặng ngay từ đầu
+thường là tín hiệu sai hơn là bắt đầu xu hướng giảm thực sự
+đáng theo. Điều này đúng đặc biệt nếu phá xảy ra khi giá
+đã tiến xa tới đỉnh Tam giác; một crack khối lượng cao thường —
+chúng ta có thể nói hầu như luôn luôn — phát triển thành một
+“lắc 2-3 ngày” nhanh chóng đảo chiều và sau đó theo sau
+bởi đợt tăng _thật sự_.
+
+Tất cả những điều trên có thể khiến người đọc bối rối. Đây là
+một mô hình kỹ thuật đẹp nhưng không luôn đáng tin. Không may,
+Tam giác Đối xứng chịu nhiều _tín hiệu giả_ hơn Vai-Đầu-Vai
+hoặc các mô hình khác đã bàn. Một số tín hiệu giả không thể
+xác định trước khi đã cam kết rủi ro (dù chiến thuật tốt hạn
+chế mất mát nhỏ). Và, một lắc điển hình như mô tả ở đoạn
+trước, có thể tạo ra double cross, tiếp tục giảm thật sự.
+Không mô hình kỹ thuật nào đáng tin 100%, và Tam giác Đối xứng
+là trường hợp tệ nhất.
 
 ![fig-046](./img/fig-046.png)
-**FIGURE 46.** Johns-Manville’s Primary Trend Reversal in 1942 developed out of a
-Symmetrical Triangle which had also some aspects of a Head-and-Shoulders Pattern
-with a long right shoulder. Although this is a weekly chart, the volume here is worthy
-of detailed study in connection with the price action. “JM” (old stock) advanced more
-than 100 points in the next 4 years.
+**HÌNH 46.** Đảo chiều Xu hướng Chính của Johns-Manville năm 1942 từ
+Tam giác Đối xứng, cũng có vài nét của mô hình Vai-Đầu-Vai với
+vai phải dài. Mặc dù đây là biểu đồ tuần, khối lượng đáng chú
+ý khi nghiên cứu hành động giá. “JM” (cổ phiếu cũ) tăng hơn
+100 điểm trong 4 năm tiếp theo.
 
-But most Symmetrical Triangles — lacking an actual statistical count,
-our experience would suggest more than two thirds of them — behave
-themselves properly, produce no false signals which cannot be spotted before
-any damage is done. Upside breakouts on high volume may be premature
-in the sense that prices return to pattern and do some more “work” there
-before the genuine uptrend gets under way, but they seldom are false. We
-shall have a little more to say about false signals in this chapter and more
-later on what we trust will be helpful in developing the experience a trader
-needs to defend himself against them.
-
+Nhưng hầu hết Tam giác Đối xứng — thiếu thống kê chính xác,
+kinh nghiệm gợi ý hơn hai phần ba — hoạt động đúng, không tạo
+tín hiệu giả trước khi thiệt hại. Phá lên với khối lượng cao
+có thể sớm, tức giá trở lại mô hình và làm thêm “công việc”
+trước khi xu hướng lên thật sự bắt đầu, nhưng hiếm khi là giả.
+Chúng ta sẽ bàn thêm về tín hiệu giả trong chương này và
+sau về kinh nghiệm giúp trader tự bảo vệ.
 
 ![fig-047](./img/fig-047.png)
-**FIGURE 47.** Logarithmic price scaling on weekly chart emphasizes important tech-
-nical developments at low price levels. “DH’s” Symmetrical Triangle Bottom started
-a Bull Market which reached 57 in 1945. Note Throwback to apex of Triangle, a not
-uncommon development. The apex itself is a strong Support (Chapter 13).
+**HÌNH 47.** Thang giá logarit trên biểu đồ tuần nhấn mạnh phát triển
+kỹ thuật quan trọng ở mức giá thấp. Tam giác Đáy Đối xứng của
+“DH” bắt đầu Thị trường Bò, đạt 57 năm 1945. Lưu ý Throwback
+về đỉnh Tam giác, phát triển không hiếm. Đỉnh là Hỗ trợ mạnh
+(Chương 13).
 
-##### A Typical Triangle Development
+
+
+
+##### Một Mô Hình Tam Giác Điển Hình
 
 
 ![fig-048](./img/fig-048.png)
-**FIGURE 48.** Triangles often form as a part of a larger and more important pattern
-of some other type. Here a symmetrical figure constitutes the latter half of a Rounding Turn. Note premature breakout October 17, return to pattern, and then final break- away on November 8.
+**HÌNH 48.** Tam giác thường hình thành như một phần của mô hình lớn
+hơn và quan trọng hơn thuộc loại khác. Ở đây, một hình đối xứng
+tạo thành nửa sau của một Đỉnh Bo Tròn. Lưu ý đột phá sớm ngày
+17 tháng Mười, trở lại mô hình, và sau đó đột phá cuối cùng ngày
+8 tháng Mười Một.
 
-The several actual chart examples of Symmetrical Triangles that illustrate
-this chapter will serve, we trust, to give the reader a working acquaintance
-with their appearance in various manifestations. Yet it may help to clear up
-some of the more important points if we describe in detail just how a typical
-pattern develops step by step. Let us suppose that you are watching a stock
-on your charts which has climbed, with only the normal, brief hesitations
-and inconsequential reactions, from around 20 to 30, 32, 35, and is still
-moving up. (Let’s hope you bought it at 20!) Lower down, its turnover ran
-between 300 and 600 shares daily, but now, above 30, it has attracted quite
-a following, and daily volume has increased to around 1000. As it approaches
-40, activity shoots up to nearly 2000 shares, the market “churns” between
-39 and 40, and then prices begin to drop. As they fall back, you (especially
-if you own the stock) watch it with some concern, but you know it is hardly
-likely that it is going to go straight down again to 20; stocks don’t act that
-way. _(EN9: Sometimes they do now, in the 21st century.)_ If the trend of this issue
-has actually been reversed, it should, nevertheless, spend some more time
-and effort around its top levels, make some sort of a Distribution Pattern.
-The decline continues for 10 days with the turnover also declining quite
-appreciably. By the time prices have worked back to 33, volume is running
-at about 700 shares daily. At 33, it may pick up again for a single day to
-800 or 900 shares, but the reaction stops there, and after a day or two, prices
-begin to climb again with little change in their turnover rate. In 8 or 9 days,
-quotations have gotten back into the upper 30s and activity increases and
-reaches, say, 1200 shares on the day 39 is reached. Instead of going on to
-40 or beyond, however, a new reaction sets in and prices drift back to 37.
-(Perhaps you will find this growing picture easier to visualize if you pencil
-its development on a scrap of chart paper.) Now it is evident that a second
-Top has formed at 39; you can now draw a tentative pattern line (there are
-other names for this, as we shall see later) on your chart across the two
-extreme high ranges (not closing prices) which will slant downward from
-left to right. So far you have only one Bottom point so you can draw no lines
-from that. But this second decline brings out even less trading activity than
-the first. Volume ebbs to 400 shares and the down move halts at 34; the price
-track “rounds out” and turns up again; trading is very dull, but begins to
-pick up as 36 is reached.
+Một số ví dụ đồ thị thực tế về Tam Giác Đối Xứng minh họa chương
+này sẽ giúp người đọc làm quen với sự xuất hiện của chúng trong
+các hình thái khác nhau. Tuy nhiên, sẽ hữu ích nếu mô tả chi tiết
+cách một mô hình điển hình phát triển từng bước. Giả sử bạn đang
+theo dõi một cổ phiếu trên đồ thị của bạn, đã tăng, chỉ với các
+trì hoãn ngắn bình thường và các phản ứng không đáng kể, từ
+khoảng 20 lên 30, 32, 35, và vẫn tiếp tục đi lên. (Hy vọng bạn đã
+mua nó ở mức 20!) Thấp hơn, khối lượng giao dịch dao động từ
+300 đến 600 cổ phiếu mỗi ngày, nhưng bây giờ, trên 30, nó đã
+thu hút khá nhiều người theo dõi, và khối lượng hằng ngày tăng
+lên khoảng 1000. Khi gần 40, hoạt động nhảy lên gần 2000 cổ
+phiếu, thị trường “quay cuồng” giữa 39 và 40, và sau đó giá bắt
+đầu giảm. Khi giá giảm trở lại, bạn (đặc biệt nếu sở hữu cổ phiếu)
+theo dõi với một số lo lắng, nhưng bạn biết khó có khả năng nó
+sẽ giảm thẳng xuống 20; cổ phiếu không hành xử như vậy.
+_(EN9: Đôi khi hiện nay có thể vậy, thế kỷ 21.)_ Nếu xu hướng
+của cổ phiếu này thực sự đảo chiều, nó vẫn nên dành thêm thời
+gian quanh mức đỉnh, tạo ra một Mô Hình Phân Phối.
+
+Giá giảm tiếp tục trong 10 ngày với khối lượng cũng giảm khá
+đáng kể. Khi giá trở lại 33, khối lượng khoảng 700 cổ phiếu
+mỗi ngày. Ở mức 33, nó có thể tăng lại một ngày lên 800 hoặc
+900 cổ phiếu, nhưng phản ứng dừng lại ở đó, và sau một hai
+ngày, giá lại bắt đầu tăng với ít thay đổi về khối lượng. Trong
+8–9 ngày, giá đã trở lại vùng 30 cao và hoạt động tăng lên,
+đạt khoảng 1200 cổ phiếu khi giá chạm 39. Thay vì tiến lên 40
+hoặc hơn, một phản ứng mới xuất hiện và giá trượt xuống 37.
+(Có thể bạn sẽ hình dung dễ hơn nếu vẽ sự phát triển này
+trên một mẩu giấy đồ thị.) Bây giờ rõ ràng Đỉnh thứ hai đã
+hình thành tại 39; bạn có thể vẽ một đường mô hình tạm thời
+(trong các tài liệu khác có tên khác, như sẽ thấy sau) trên
+đồ thị, nối hai vùng cao cực đại (không phải giá đóng cửa),
+với đường nghiêng xuống từ trái sang phải. Cho đến nay bạn
+chỉ có một điểm Đáy nên chưa thể vẽ đường từ đó. Nhưng lần
+giảm thứ hai này cho thấy hoạt động giao dịch còn ít hơn
+lần đầu. Khối lượng giảm còn 400 cổ phiếu và giá dừng ở 34;
+đường giá “bo tròn” và tăng trở lại; giao dịch trầm lắng nhưng
+bắt đầu tăng khi chạm 36.
 
 ![fig-049](./img/fig-049.png)
-**FIGURE 49.** Prices in this Symmetrical Triangle squeezed way out into the apex
-before erupting. Breakout at that stage is unreliable; above is a fair sample of the
-false moves that occur there. Real move was down.
+**HÌNH 49.** Giá trong Tam Giác Đối Xứng nén lại vào đỉnh
+trước khi bùng phát. Đột phá ở giai đoạn này không đáng tin;
+phía trên là ví dụ điển hình về các chuyển động giả xuất hiện
+ở đó. Chuyển động thực là giảm.
 
-This action defines a second Minor Bottom and now you can draw a
-Bottom “tangent,” an up-slanting line across the extreme low prices regis-
-tered on the two reactions, the first at 33 and the second at 34. Your two
-pattern lines will converge, meeting near the 36½ level about 4 weeks ahead
-(i.e., to the right) on your chart. You have a Symmetrical Triangle — _but_ you
-don’t know whether prices are going to fall out of it eventually or shake off
-present doubts and push up in a new advance worth following. You can
-only watch further developments very closely and be prepared to take what-
-ever action is, in due time, indicated.
+Hành động này xác định Đáy Nhỏ thứ hai và bây giờ bạn có
+thể vẽ một “tiếp tuyến đáy,” một đường nghiêng lên nối các mức
+giá thấp cực đoan trong hai phản ứng, lần đầu tại 33 và lần
+thứ hai tại 34. Hai đường mô hình sẽ hội tụ, gặp nhau gần mức
+36½ khoảng 4 tuần sau (tức là về phía phải) trên đồ thị.
+Bạn có một Tam Giác Đối Xứng — _nhưng_ bạn không biết giá
+sẽ phá vỡ xuống hay vượt qua nghi ngờ hiện tại và tăng lên
+trong đợt tăng mới đáng theo dõi. Bạn chỉ có thể quan sát
+các diễn biến tiếp theo rất sát và sẵn sàng hành động khi
+cần thiết.
 
-
-The second rally picks up a little in activity, attains a daily turnover of
-about 700 shares, and pushes up to 38 and on for part of a day to 38½. This
-nudges through the previously drawn pattern line by perhaps a quarter of
-a point (since each swing is shorter in points traveled and, accordingly, in
-duration). But the volume on this Minor Penetration is less than on the
-preceding Top (at 39), and buying again ebbs. As the price range line falls
-back to 37 and 36, you had best now draw a new upper tangent across the
-first Top at 40 and the last Top at 38½. There is the suggestion here in this
-slight “lift” that the balance may be swinging slightly to the demand side,
-but don’t count on it. Pinpoint accuracy is not to be expected; Triangles must
-be allowed some leeway.
+Đợt hồi thứ hai tăng nhẹ khối lượng, đạt khối lượng hằng
+ngày khoảng 700 cổ phiếu, và tăng lên 38, một phần ngày
+tới 38½. Điều này chạm qua đường mô hình đã vẽ trước
+đó khoảng ¼ điểm (vì mỗi dao động ngắn hơn về điểm và
+tương ứng về thời gian). Nhưng khối lượng trong Đột phá
+Nhỏ này ít hơn đỉnh trước (tại 39), và mua lại giảm. Khi
+giá quay trở lại 37 và 36, bạn nên vẽ đường tiếp tuyến
+trên mới nối Đỉnh đầu 40 và Đỉnh cuối 38½. Có dấu hiệu
+rằng cân bằng có thể hơi nghiêng về phía cầu, nhưng
+đừng trông cậy quá. Độ chính xác tuyệt đối không được
+mong đợi; Tam Giác cần có một ít dung sai.
 
 ![fig-050](./img/fig-050.png)
-**FIGURE 50.** Recovery rallies from “Panic” Bottoms are often capped by Triangles,
-for those are periods in which doubt and indecision are prevalent. The doubt in such
-cases, however, is usually resolved in favor of renewed decline. “Panic” Bottoms
-seldom hold. This chart shows a typical Symmetrical Pattern topping the recovery
-from the famous Selling Climax of October 19, 1937. Note Pullback to apex.
+**HÌNH 50.** Các đợt hồi từ Đáy “Hoảng Loạn” thường bị Tam
+Giác chặn lại, vì đó là giai đoạn nghi ngờ và phân vân.
+Tuy nhiên, trong các trường hợp như vậy, nghi ngờ thường
+được giải quyết theo hướng giảm mới. Đáy “Hoảng Loạn”
+hiếm khi giữ được. Biểu đồ này cho thấy một Tam Giác
+Đối Xứng điển hình trên đỉnh hồi từ Đỉnh Bán Cao nổi
+tiếng ngày 19 tháng Mười 1937. Lưu ý Pullback về đỉnh.
 
-On the third reaction, activity dwindles away to the lowest yet. The
-up-slanting Bottom boundary will be reached at about the 35 level if prices
-continue their present course. It is worth noting now if they will come all
-the way down to it this time, because if they don’t — if their recession is
-halted half a point or so above it — that action would give some significance
-to the previous bulge through the upper boundary. But this doesn’t happen;
-the drift continues right on down to 35, and now volume is running at the
-rate of only 200 shares daily, less than it ran in the early stages of the original
-advance above 20. This is a critical spot. The price track flattens out momen-
-tarily, turns up feebly but keeps on hitching up, crosses 36½, picks up activity,
-reaches the (new) upper Triangle boundary at 37½ and, on the next day,
-punches through on a turnover of 1500 shares to close at 39⅛. This is a
-breakout; the doubt is resolved and (barring a false move, unlikely at this
-point) the trend is once again up. Note that it was not necessary for prices
-to surpass the previous high at 40 to produce this signal — that is one of
-the interesting things about Symmetrical Triangles.
+Trong phản ứng thứ ba, hoạt động giảm xuống thấp nhất
+từ trước đến nay. Đường biên đáy nghiêng lên sẽ đạt
+khoảng mức 35 nếu giá tiếp tục xu hướng hiện tại.
+Cần lưu ý xem liệu giá sẽ xuống hoàn toàn hay không,
+bởi nếu không — nếu suy giảm dừng nửa điểm hoặc
+hơn trên đó — hành động này sẽ làm nổi bật ý nghĩa
+của sự vượt qua đường biên trên trước đó. Nhưng điều
+này không xảy ra; giá tiếp tục giảm xuống 35, và khối
+lượng chỉ còn khoảng 200 cổ phiếu mỗi ngày, ít hơn
+giai đoạn đầu tiên của đợt tăng ban đầu trên 20. Đây là
+vị trí quan trọng. Đường giá phẳng đi một lúc, tăng nhẹ
+nhưng vẫn leo lên, vượt 36½, tăng khối lượng, chạm
+đường biên Tam Giác trên mới tại 37½ và ngày kế,
+phá vỡ với khối lượng 1500 cổ phiếu, đóng cửa 39⅛.
+Đây là đột phá; nghi ngờ được giải quyết và (trừ khi
+có chuyển động giả, ít khả năng ở giai đoạn này) xu
+hướng lại tăng. Lưu ý không cần giá vượt đỉnh trước
+40 để tạo tín hiệu này — đó là một điểm thú vị
+về Tam Giác Đối Xứng.
 
 ![fig-051](./img/fig-051.png)
-**FIGURE 51.** A Major Symmetrical Triangle Top in which prices squeezed out into
-the apex and then produced a false move upside (see Figure 49). “VEC,” as a matter
-of fact, was a bad actor technically, but this particular breakout would be suspect
-anyway.
-
-##### Reversal or Consolidation
+**HÌNH 51.** Một Tam Giác Đối Xứng Lớn, trong đó giá nén vào
+đỉnh và sau đó tạo một chuyển động giả lên (xem Hình 49).
+“VEC,” thực ra là một trường hợp kỹ thuật xấu, nhưng đột
+phá này vẫn đáng nghi ngờ.
 
 
+
+##### Đảo chiều hay Tích lũy
 
 ![fig-052](./img/fig-052.png)
-**FIGURE 52**. The other side of the story — an imposing Symmetrical Triangle which failed badly, although for the alert and experienced technician, there were warnings of something amiss in March and April. Eastern Airlines built, in late 1946and early 1947, a formation which, so far as price pattern was concerned, left little to be desired. Prices broke out topsidedecisively in late March. A Throwback in April met normal Support at the upper Triangle boundary. But the subsequentadvance fell short, weakened, and fi nally broke down, producing an “end run” around the apex. Warnings referred to were high and irregular volume, particularly on reactions, in February and March — not characteristic of valid Triangle devel-opment — and failure of prices to push up rapidly and vigorously after the April 14 Throwback.
+**HÌNH 52.** Mặt khác của câu chuyện — một Tam giác Đối xứng đồ sộ
+thất bại nặng, dù với nhà kỹ thuật cảnh giác và có kinh nghiệm,
+đã có cảnh báo điều bất thường vào tháng 3 và 4. Eastern Airlines
+xây dựng, cuối 1946 và đầu 1947, một hình thành mà về mô hình giá
+không còn gì để chê. Giá phá lên rõ ràng vào cuối tháng 3. Một
+Throwback vào tháng 4 gặp Hỗ trợ bình thường tại đường biên trên
+Tam giác. Nhưng đợt tăng sau đó yếu và cuối cùng sụp xuống,
+tạo “đường vòng” quanh đỉnh. Cảnh báo liên quan đến khối lượng
+cao và không đều, đặc biệt khi phản ứng, vào tháng 2 và 3 — không
+đặc trưng cho phát triển Tam giác hợp lệ — và giá không tăng nhanh
+và mạnh sau Throwback ngày 14 tháng 4.
 
-But, we started to discuss Symmetrical Triangles as Reversal Patterns, and
-our example has turned out to be, instead, a _Consolidation_ Pattern, i.e., only
-a sort of resting stage in a continued uptrend. Well, three out of four of these
-formations will turn out to be just that. The fourth is the dangerous one (if
-you own the stock). How would it differ?
-The example described might have been a Reversal instead of a Consol-
-idation Formation any time up to the point of the decisive breakthrough to
-39. If it had been a typical Reversal, the first change would probably have
-appeared shortly after the final rally started up from the third Bottom at 35.
-That rally would have petered out at about 36½, and prices would have
-started to drift back again. Then, with the activity increasing slightly, the
-Bottom boundary would be penetrated. As quotations dropped to 34, daily volume might mount to 600 or 700 shares. Any further decline would con-
-stitute a down signal and would result in a further pickup in turnover and
-an acceleration in the price decline as the stop-loss orders (to be discussed
-later) spotted under 34 were “touched off.”
-Before we leave our typical example, we might make some mention of
-the post-breakout reactions or Pullbacks that sometimes occur. As in the case
-of the Head-and-Shoulders Formation, the initial breakout move from a
-Symmetrical Triangle may halt before prices are carried very far away from
-the pattern and be followed by a Minor Reaction, usually lasting only 2 or
-3 days, which will carry quotations back to the nearest pattern boundary.
-Thus, in our first example in which the break, when it came, took our stock
-up through the top side to 39⅛, the next day might have seen a push on to
-40, and then prices might have backed off again in a couple of days of
-decreased activity to 37½ or 38. The up-move would then normally be
-resumed with greater vigor. Downside breakouts are sometimes followed in
-much the same manner by pullbacks to the lower boundary of the pattern,
-after which the decline is resumed with an increase in volume. However,
-these post-breakout reactions occur less often with Triangles than they do
-with Head-and-Shoulders patterns.
+Nhưng, chúng ta đã bắt đầu thảo luận Tam giác Đối xứng như Mô hình
+Đảo chiều, và ví dụ này hóa ra là _Mô hình Tích lũy_, tức chỉ là giai
+đoạn nghỉ trong xu hướng tăng liên tục. Thật vậy, ba trên bốn mô hình
+như vậy thường là như thế. Mẫu thứ tư là nguy hiểm (nếu bạn sở hữu
+cổ phiếu). Nó khác thế nào?
 
+Ví dụ trên có thể là Đảo chiều thay vì Tích lũy bất kỳ lúc nào
+trước bước phá quyết định lên 39. Nếu là Đảo chiều điển hình,
+thay đổi đầu tiên sẽ xuất hiện ngay sau khi đợt tăng cuối cùng
+bắt đầu từ Đáy thứ ba ở 35. Đợt tăng đó dừng khoảng 36½, giá
+bắt đầu trôi ngược lại. Khi hoạt động tăng nhẹ, đường biên dưới
+bị phá. Khi giá rơi về 34, khối lượng hàng ngày có thể lên 600–700
+cổ phiếu. Bất kỳ giảm thêm nào sẽ là tín hiệu giảm, kích hoạt
+tăng khối lượng và đẩy nhanh đà giảm khi lệnh stop-loss
+(sẽ bàn sau) dưới 34 bị “kích hoạt”.
+
+Trước khi rời ví dụ điển hình, chúng ta nên nhắc đến các phản
+ứng hậu phá hay Pullback đôi khi xảy ra. Như với mô hình
+Vai-Đầu-Vai, bước phá đầu tiên từ Tam giác Đối xứng có thể
+dừng trước khi giá đi xa khỏi mô hình và được theo sau bởi
+Phản ứng Nhỏ, thường 2–3 ngày, đưa giá trở lại gần đường
+biên gần nhất. Ví dụ đầu tiên, khi phá xảy ra, đưa cổ phiếu
+lên 39⅛, ngày tiếp theo có thể lên 40, rồi vài ngày sau giảm
+trở lại 37½–38 do hoạt động yếu. Đợt tăng tiếp theo sẽ tiếp tục
+với sức mạnh hơn. Phá xuống đôi khi cũng theo kiểu này, trở lại
+biên dưới, rồi giảm tiếp với khối lượng tăng. Tuy nhiên, phản
+ứng hậu phá ít gặp ở Tam giác hơn so với Vai-Đầu-Vai.
 
 ![fig-053](./img/fig-053.png)
-**FIGURE 53.** A weekly chart. The 7-month Consolidation area of 1944 — in “NG,”
-undefinable at first, developed eventually into a typical Symmetrical Triangle. Two
-months after the high-volume breakout in January 1945, prices reacted nearly to apex
-level, then pushed away rapidly. Minimum measuring implications of this Triangle
-were satisfied at 16.
-
-
+**HÌNH 53.** Biểu đồ tuần. Khu vực Tích lũy 7 tháng năm 1944 —
+“NG,” ban đầu không xác định, sau cùng trở thành Tam giác Đối
+xứng điển hình. Hai tháng sau phá khối lượng cao tháng 1
+1945, giá phản ứng gần mức đỉnh, rồi tăng nhanh. Ý nghĩa đo
+tối thiểu của Tam giác đạt 16.
 
 ![fig-054](./img/fig-054.png)
-**FIGURE 54.** A small Symmetrical Triangle which tended toward the “Ascending”
-type. Note that the higher volume that developed within this pattern in early January
-came on a rally. This sort of action is fairly typical of very “thin” stocks.
+**HÌNH 54.** Một Tam giác Đối xứng nhỏ nghiêng về kiểu “Tăng”.
+Lưu ý khối lượng cao xuất hiện trong mô hình đầu tháng 1
+trên một đợt tăng. Hành động này khá điển hình với cổ phiếu
+rất “mỏng.”
 
-
-Another matter we might take up, before going on to study the next
-formation, is the _rationale_ of the Symmetrical Triangle. It may help to fix its
-characteristics in mind if we try to deduce what sequence of events might
-typically produce it. Of course, any effort of this sort can result only in a
-gross oversimplification which will not fit all of the Triangle’s various man-
-ifestations, but it is an interesting mental speculation — and one not without
-benefit to our understanding of the general theory of chart formations. Let
-us turn back again to our typical example. We started with a stock that ran
-up rather steadily from around 20 to 40 and then reacted. It is fairly obvious
-what happened at 40: many investors had substantial paper profits,
-approaching 100%, at that price. (A “round figure” such as 40, 50, 75, or 100
-is apt to become a sort of mental profit objective and, hence, bring in
-increased selling.) Some of them were ready to cash in and did so, tempo-
-rarily swinging the technical balance from demand to supply; they sold less
-freely, of course, as prices receded. Other would-be investors had been
-attracted to the stock, but too late to “get aboard” below 30. Unwilling to
-“chase” it up to 40, they welcomed the reaction and, by the time prices had
-dropped back to 33, enough of them were now ready to buy to swing the
-balance back again to the demand side of the equation.
-
-
+Trước khi nghiên cứu mô hình tiếp theo, chúng ta có thể bàn
+về _lý do hình thành_ Tam giác Đối xứng. Việc này giúp hình
+dung đặc điểm nếu thử suy ra trình tự sự kiện thường tạo ra
+nó. Dĩ nhiên, nỗ lực này chỉ là đơn giản hóa quá mức, không
+phù hợp tất cả biểu hiện Tam giác, nhưng hữu ích cho hiểu biết
+về lý thuyết chung. Quay lại ví dụ điển hình. Chúng ta bắt
+đầu với cổ phiếu tăng đều từ khoảng 20 lên 40 rồi phản ứng.
+Điều gì xảy ra ở 40: nhiều nhà đầu tư có lợi nhuận giấy đáng kể,
+gần 100%. (Một “con số tròn” như 40, 50, 75, 100 dễ trở thành
+mục tiêu lợi nhuận tinh thần, tăng bán ra.) Một số người
+thực hiện bán, tạm thời làm cân bằng kỹ thuật từ cầu sang cung;
+họ bán ít hơn khi giá giảm. Những nhà đầu tư khác muốn tham
+gia nhưng quá muộn để “lên tàu” dưới 30. Không muốn “đuổi”
+lên 40, họ chào đón phản ứng, và khi giá về 33, đủ người sẵn
+sàng mua để cân bằng lại sang phía cầu.
 
 ![fig-055](./img/fig-055.png)
-**FIGURE 55.** An Ascending Triangle 10 months long which was the start of a Major
-Bull Trend, carrying “ABN” to 45. Refusal of prices to react to the lower pattern
-boundary, as here in August 1942, is a frequent development in strong formations,
-a warning of near completion and breakout.
+**HÌNH 55.** Tam giác Tăng 10 tháng, bắt đầu Xu hướng Bò lớn,
+đưa “ABN” lên 45. Giá từ chối phản ứng tại biên dưới, như
+tháng 8/1942, thường thấy trong mô hình mạnh, báo hiệu sắp
+hoàn tất và phá.
 
-Watching the ensuing rally, however, were the owners of the stock who
-had failed to grab their profits near 40 on the previous advance and had
-made up their minds to be a little less greedy if given a second opportunity.
-Their offerings began to come in above 37, say, and were sufficiently copious
-at 39 to stem the advance at that level. Behind the scenes, we can imagine
-this process repeated again and again, with new money constantly coming
-in and meeting supply from owners increasingly anxious to cinch their
-profits. Eventually, the offerings of the latter are all absorbed, or perhaps
-withdrawn, and then professionals, as well as hopeful investors, suddenly
-discover that there is no stock ahead on the books and rush to buy results.
-Since the advance (or decline) that follows the completion of a Symmet-
-rical Triangle usually runs to worthwhile trading proportions (we shall dis-
-cuss measuring implications later), there would be evident advantage to the
-trader who could tell in advance of the breakout which way prices were
-going to move. The odds are, as we have already said, that the new move
-will proceed in the same direction as the one prior to the Triangle’s formation.
-These odds are greatest, of course, in the _early_ stages of either a Primary Bull
-or Bear Market, with the chances of Reversal increasing as those Major Trends
-mature. But the charts of other stocks often furnish valuable collateral evi-
-dence. Thus, if at the same time you detect a Symmetrical Triangle in process
-of formation in “PDQ,” a majority of your charts are showing Saucers or
-Head-and-Shoulders Bottoms or Ascending Triangles or some other pattern
-of typically Bullish import, it is a fair assumption that your Symmetrical
-Triangle will break out topside. There are times when advance indications
-of this sort are strong enough to justify taking a position on it.
-
+Theo dõi đợt tăng, những người chưa kịp chốt lợi nhuận
+gần 40 lần trước quyết định “ít tham hơn.” Họ bắt đầu bán
+trên 37, đủ nhiều ở 39 để chặn đà. Quá trình lặp lại nhiều
+lần, tiền mới liên tục vào gặp cung từ chủ sở hữu muốn
+chốt lợi nhuận. Cuối cùng, cung được hấp thụ hoặc rút đi,
+chuyên gia và nhà đầu tư nhận ra không còn cổ phiếu nào
+trong sổ và đua mua. Đợt tăng (hoặc giảm) theo sau hoàn
+thành Tam giác Đối xứng thường đáng giao dịch. Lợi thế
+rõ ràng cho trader biết trước hướng phá. Khả năng cao
+là di chuyển mới theo cùng hướng với trước Tam giác.
+Khả năng cao nhất ở giai đoạn _đầu_ của Thị trường Bò hoặc
+Gấu Chính, khả năng Đảo chiều tăng khi Xu hướng lớn chín.
+Biểu đồ cổ phiếu khác cung cấp bằng chứng bổ sung. Ví dụ,
+nếu cùng lúc bạn phát hiện Tam giác Đối xứng ở “PDQ,”
+đa số biểu đồ khác cho thấy Saucers, Vai-Đầu-Vai Đáy,
+Tam giác Tăng hoặc mô hình Bull điển hình, có thể giả định
+Tam giác Đối xứng phá lên. Đôi khi tín hiệu sớm đủ mạnh
+để mở vị thế.
 
 ![fig-056](./img/fig-056.png)
-**FIGURE 56.** Premature breakouts from Right-Angle Triangles, such as appeared in
-Celanese in March 1946, are temporarily disappointing to the trader who buys on
-them, but work out all right eventually. Celanese, before its 1946 split, was subject
-to frequent and peculiar shakeouts, as here on March 9 and 26.
+**HÌNH 56.** Phá sớm từ Tam giác Vuông, như Celanese tháng 3/1946,
+thường làm trader tạm thất vọng, nhưng cuối cùng ổn. Trước
+chia tách 1946, Celanese hay gặp shakeout kỳ lạ, như 9 và 26/3.
 
-##### The Right-Angle Triangles
 
-We mentioned _Ascending_ Triangles in the preceding paragraph. The Ascend-
-ing and Descending are the Bullish and Bearish manifestations, respectively,
-of our next class of patterns, the _Right-Angle Triangles_. In many respects, in
-most in fact, they perform like their Symmetrical cousins, but with this very
-gratifying difference: they give advance notice of their intentions. Hence,
-their names, for the supposition always is that prices will ascend out of the
-Ascending form and descend from the Descending form.
-The Symmetrical Triangles, as we have seen, are constructed of a series
-of successively narrower price fluctuations which can be approximately
-bounded across their Tops by a down-sloping line and across their Bottoms
-by an up-sloping line. Right-Angle Triangles are distinguished by the fact
-that one of their boundaries is practically horizontal, while the other slants
-toward it. If the top line is horizontal and the bottom line slopes up to meet
-it somewhere out to the right of the chart (at the apex), the Triangle is of the
-_Ascending_ persuasion. If the bottom line is horizontal and the top line slopes
-down, the Triangle is _Descending_.
 
+
+##### Tam Giác Góc Vuông
+
+Chúng tôi đã nhắc đến Tam Giác _Tăng Dần_ trong đoạn trước. Tam Giác
+Tăng và Giảm là các biểu hiện Tăng Giá và Giảm Giá, tương ứng, của lớp
+mô hình tiếp theo, các _Tam Giác Góc Vuông_. Trong nhiều khía cạnh,
+thực ra là hầu hết, chúng hoạt động giống như các họ hàng Đối Xứng,
+nhưng với sự khác biệt rất đáng hài lòng này: chúng cảnh báo trước
+ý định của mình. Do đó, tên gọi của chúng, vì giả định luôn là giá
+sẽ tăng ra khỏi hình Tăng Dần và giảm từ hình Giảm Dần.
+
+Tam Giác Đối Xứng, như chúng ta đã thấy, được tạo bởi chuỗi các dao
+động giá hẹp dần, có thể giới hạn xấp xỉ ở đỉnh bởi một đường
+nghiêng xuống và ở đáy bởi một đường nghiêng lên. Tam Giác Góc
+Vuông được phân biệt bởi một biên gần như nằm ngang, trong khi
+biên kia nghiêng về nó. Nếu đường trên nằm ngang và đường dưới
+nghiêng lên gặp nó ở đâu đó về phía phải của đồ thị (đỉnh), Tam Giác
+thuộc loại _Tăng Dần_. Nếu đường dưới nằm ngang và đường trên
+nghiêng xuống, Tam Giác thuộc loại _Giảm Dần_.
 
 ![fig-057](./img/fig-057.png)
-**FIGURE 57.** A steep recovery from a Panic Bottom (the “Pearl Harbor” selling)
-flattened out into a fine Ascending Triangle. Note horizontal supply line at 19, above
-a gradually rising demand line. The breakout at the end of September signaled
-initiation of an advance of some consequence. It turned out to be a Primary Bull
-Market which took Briggs up to 53.
+**HÌNH 57.** Một đợt hồi mạnh từ Đáy Hoảng Loạn (bán ra “Pearl
+Harbor”) bằng phẳng thành một Tam Giác Tăng Dần tuyệt vời. Lưu ý
+đường cung nằm ngang tại 19, trên một đường cầu tăng dần. Đột
+phá vào cuối tháng Chín báo hiệu sự khởi đầu của một đợt tăng
+đáng kể. Hóa ra đó là một Thị Trường Tăng Chính, đưa Briggs
+lên 53.
 
-These formations are perfectly logical and easy to explain. The Ascend-
-ing Triangle, for instance, pictures in the simplest and most normal form
-what happens when a growing demand for a certain stock meets a large
-block of shares for sale at a fixed price. If the demand continues, the supply
-being distributed at that price will eventually be entirely absorbed by new
-owners looking for still higher levels, and prices will then advance rapidly.
-A typical Ascending Pattern starts to develop in much the same way as the
-“ideal” Symmetrical Triangle previously described, with an advance in our
-certain stock from 20 to 40 where sufficient supply suddenly appears on the
-market to fill the orders of all buyers and produce a reaction. Sensing the
-temporary satiation of demand, some owners may dump their holdings on
-the decline, but offerings are soon exhausted as prices drop back to, say, 34,
-and renewed demand then stimulates a new rally. This runs into supply
-again at 40, and again, all buyers are accommodated at that level. The second
-recession, however, carries quotation down only to 36 before another
-up-move develops. But the pool or inside group that is distributing at 40
-still has some of its holdings left to sell, so it may take more time, another
-backing away and another attack at the 40 line, before the supply there is
-exhausted and the trend can push along up.
+Những mô hình này hoàn toàn hợp lý và dễ giải thích. Ví dụ,
+Tam Giác Tăng Dần minh họa theo cách đơn giản nhất những gì
+xảy ra khi nhu cầu ngày càng tăng cho một cổ phiếu gặp một
+khối lượng lớn cổ phiếu để bán ở mức giá cố định. Nếu nhu cầu
+tiếp tục, cung được phân phối tại mức giá đó cuối cùng sẽ
+bị hấp thụ hoàn toàn bởi các chủ sở hữu mới tìm mức cao hơn,
+và giá sẽ tăng nhanh.
 
-
+Một Mô Hình Tăng Dần điển hình phát triển tương tự như Tam Giác
+Đối Xứng “lý tưởng” đã mô tả trước đây, với cổ phiếu tăng từ 20
+lên 40, tại đó đủ cung xuất hiện trên thị trường để đáp ứng tất
+cả người mua và tạo ra phản ứng. Nhận thấy nhu cầu tạm thời
+được thỏa mãn, một số chủ sở hữu có thể bán ra trong đợt giảm,
+nhưng cung nhanh chóng hết khi giá giảm xuống, ví dụ, 34, và
+nhu cầu mới lại kích thích một đợt tăng mới. Giá lại gặp cung
+tại 40, và tất cả người mua lại được đáp ứng. Tuy nhiên, lần
+giảm thứ hai chỉ xuống 36 trước khi một đợt tăng khác phát
+triển. Nhưng nhóm phân phối tại 40 vẫn còn một phần cổ phiếu
+để bán, nên có thể cần thêm thời gian, một lần rút lui nữa và
+một cuộc tấn công khác vào đường 40, trước khi cung ở đó
+hết và xu hướng có thể tiếp tục tăng.
 
 ![fig-058](./img/fig-058.png)
-**FIGURE 58.** Sears’ 1936 Bull Market Top was a Symmetrical Triangle, out of which
-it declined 15 points. An Ascending Triangle then produced an Intermediate Recovery
-to the Supply Zone (see Chapter 13) at the lower side of the top Triangle. Compare
-this chart with the 1946 Top in Figure 45.
+**HÌNH 58.** Đỉnh Thị Trường Tăng Sears năm 1936 là Tam Giác
+Đối Xứng, từ đó giảm 15 điểm. Một Tam Giác Tăng sau đó tạo ra
+Đợt Hồi Trung Gian lên Vùng Cung (xem Chương 13) ở cạnh
+dưới của tam giác trên. So sánh biểu đồ này với Đỉnh năm 1946
+trong Hình 45.
 
-##### A Planned Distribution
+##### Một Phân Phối Được Lập Kế Hoạch
 
-This type of market action evidences a planned campaign by owners of a
-fairly large quantity of shares to liquidate at a predetermined price. It con-
-tains little of the element of doubt that we mentioned as characterizing the
-Symmetrical Pattern. So long as demand persists, the distributing pool
-knows it can ultimately cash in its entire line at 40 and need not sell for less.
-It is equally apparent, so long as demand keeps coming in at higher and
-higher levels, that, once the supply at 40 has all been absorbed, the market
-will advance rapidly and easily. As soon as prices break out above 40, those
-who took over the supply at that figure will feel their judgment has been
-vindicated and will not be disposed to sell until they, in turn, can register a
-good profit.
-The crux of the matter is, of course, contained in the two preceding
-sentences. Demand must continue to come in at higher and higher levels;
-otherwise, our formation will cease to be an Ascending Triangle. And the
-overhead supply must eventually be absorbed, permitting an upside break-
-out. If demand begins to falter any time before the Supply Line (horizontal
-Top boundary) has been broken through, the ensuing reaction may drop
-prices down “out of pattern,” and then the chart technician is faced with the
-necessity of revising his chart picture. One might think that such a develop-
-ment, blasting the earlier promise of the chart, would occur fairly often, but,
-as a matter of experience, it is surprisingly rare. We say “surprisingly”
-because it is obvious that in many cases of Ascending Triangle development,
-the group whose selling creates its Top boundary or Supply Line must
-believe that level to be just about as high as the stock has any right to go.
-As holders of a large enough block to influence the market for several weeks,
-and sometimes for months, their judgment is hardly to be scorned. Yet, once
-it becomes evident that the lower boundary or Demand Line is slanting _up_ ,
-the odds are certainly somewhere in the neighborhood of 9–1 that the new
-buyers will eventually have the best of it.
-On occasion, the third reaction or fourth reaction within an Ascending
-Triangle Formation will break down through the previously established
-up-slanting Demand Line (lower boundary), but will be halted at the same
-level as the previous reaction. The pattern from there on is apt to develop
-as a _Rectangle_ , a formation to be discussed in our next chapter, and should
-be treated as such. (The _tactics_ of trading on Ascending and Descending
-Triangles, including protection against the rare cases of collapse, will be taken
-up in the second section of this book.)
+Loại hành động thị trường này cho thấy một chiến dịch được
+lập kế hoạch bởi những người nắm giữ số lượng cổ phiếu khá lớn
+để thanh lý ở giá xác định trước. Nó chứa ít yếu tố nghi ngờ mà
+chúng tôi đã nhắc đến khi mô tả Mô Hình Đối Xứng. Chừng
+nào nhu cầu còn duy trì, nhóm phân phối biết rằng cuối cùng
+họ có thể thu hồi toàn bộ số cổ phiếu ở 40 và không cần bán
+giá thấp hơn. Cũng rõ ràng rằng, chừng nào nhu cầu tiếp tục
+tăng lên ở các mức cao hơn, một khi cung tại 40 được hấp thụ
+hết, thị trường sẽ tăng nhanh và dễ dàng. Khi giá vượt qua
+40, những người tiếp nhận cung ở mức đó sẽ thấy quyết định
+của mình được chứng minh và sẽ không bán cho đến khi
+họ có thể thu lợi nhuận tốt.
 
+Điều cốt lõi, tất nhiên, nằm trong hai câu trên. Nhu cầu phải
+tiếp tục xuất hiện ở mức cao hơn; nếu không, mô hình sẽ không
+còn là Tam Giác Tăng Dần. Và cung phía trên cuối cùng phải
+được hấp thụ, cho phép đột phá lên. Nếu nhu cầu yếu đi bất
+kỳ trước khi Đường Cung (biên trên nằm ngang) bị phá vỡ,
+phản ứng tiếp theo có thể hạ giá “ra ngoài mô hình,” và
+kỹ thuật viên phải điều chỉnh lại bức tranh đồ thị. Người ta
+có thể nghĩ rằng điều này xảy ra khá thường xuyên, nhưng theo
+kinh nghiệm, điều đó hiếm thấy. Chúng tôi nói “hiếm thấy”
+vì rõ ràng trong nhiều trường hợp phát triển Tam Giác Tăng,
+nhóm bán tạo ra đường biên trên hoặc Đường Cung phải tin
+rằng mức đó là gần mức cao nhất cổ phiếu có thể đạt được.
 
+Là những người nắm giữ khối lượng lớn đủ để ảnh hưởng thị
+trường trong vài tuần, đôi khi vài tháng, quyết định của họ
+không nên bị coi thường. Tuy nhiên, khi rõ ràng rằng biên dưới
+hoặc Đường Cầu nghiêng _lên_, xác suất chắc chắn khoảng 9–1
+rằng các người mua mới sẽ chiếm ưu thế cuối cùng.
+
+Đôi khi, phản ứng thứ ba hoặc thứ tư trong Tam Giác Tăng sẽ
+phá xuống Đường Cầu nghiêng lên đã thiết lập trước (biên dưới),
+nhưng sẽ dừng lại ở mức như phản ứng trước. Mô hình từ đó
+phát triển thành _Hình Chữ Nhật_, một mô hình sẽ thảo luận
+trong chương tiếp theo, và nên xem như vậy. (Chiến thuật
+giao dịch trên Tam Giác Tăng và Giảm, bao gồm bảo vệ
+trước các trường hợp sụp hiếm, sẽ được đề cập trong phần
+thứ hai của cuốn sách.)
+  
 ![fig-059](./img/fig-059.png)
-**FIGURE 59.** An Ascending Triangle at an Intermediate Bottom. This chart runs
-from April through August 1936. Extreme shrinkage in trading volume during this
-formation indicated a very strong situation technically.
-
+**HÌNH 59.** Tam Giác Tăng tại Đáy Trung Gian. Biểu đồ này từ
+tháng Tư đến tháng Tám 1936. Sự giảm mạnh khối lượng giao
+dịch trong mô hình này cho thấy tình hình kỹ thuật rất mạnh.
 
 ![fig-060](./img/fig-060.png)
-**FIGURE 60**. One of the early 1947 disappointments (to the Bulls) was the failure of “AM” to break out topside from thelong Ascending Triangle depicted above. Here is a case (see page 112) where supply at 15 finally overwhelmed demand. A pattern such as this indicates a potentially strong underlying situation for the long pull. Ordinarily, the consequence of anAscending Triangle’s “failure” of this sort is the development either of an extended Rectangular base within the generalrange of the Triangle (in this case, 10 to 15), or formation of a Double Bottom at or near the earlier low (in this case near10). However, “AM” dropped lower after several more attempts to overcome the Major Supply at the 15 level, which wasnot substantially penetrated until 1955.
+**HÌNH 60.** Một trong những thất vọng đầu năm 1947 (đối với
+những nhà đầu tư tăng) là “AM” không phá được đỉnh của Tam
+Giác Tăng dài mô tả trên. Đây là trường hợp (xem trang 112)
+khi cung tại 15 cuối cùng áp đảo nhu cầu. Mô hình như vậy chỉ
+ra một tình hình cơ bản tiềm năng mạnh cho đợt tăng dài.
+Thông thường, hậu quả của “thất bại” Tam Giác Tăng loại này
+là phát triển một đáy Hình Chữ Nhật mở rộng trong phạm vi
+Tổng thể của Tam Giác (trong trường hợp này, 10–15), hoặc
+tạo ra Đáy Kép gần mức thấp trước đó (trong trường hợp này
+gần 10). Tuy nhiên, “AM” tiếp tục giảm sau vài lần thử
+vượt qua Cung Chính ở mức 15, không bị phá đáng kể cho đến
+1955.
 
 
-##### Descending Triangles
 
-Descending Triangles have a horizontal lower boundary or Demand Line
-and a down-sloping upper boundary or Supply Line. It is evident that they
-are created by market conditions just the reverse of those responsible for the
-Ascending Pattern. Their implications are equally strong and their failures
-equally rare. Development of a Descending Formation hinges upon a cam-
-paign by a group or syndicate (often an investment trust) _(EN9: or Mutual
-Fund or a takeover group)_ to acquire a large block of shares in a certain
-company at a predetermined price below the market. Their orders are placed
-and allowed to stand until executed at that level. If the successive rallies
-therefrom, which their buying generates, are stifled by new supplies of stock
-for sale at lower and lower levels (thus creating the typical Descending
-picture on the chart), orders to buy are eventually all filled and quotations
-break through and on down. The mere breaking of the critical line, which
-many traders have seen function as a support under the market for a more
-or less extended period, often shakes the confidence of holders who had not
-previously considered selling. Their offerings now come on the market and
-accelerate the decline.
+##### Tam giác Giảm Dần
 
-##### Volume Characteristics Same as Symmetrical Type
+Tam giác Giảm Dần có đường biên dưới ngang hoặc Đường Cầu và đường
+biên trên dốc xuống hoặc Đường Cung. Rõ ràng chúng được tạo ra từ
+điều kiện thị trường ngược lại so với Tam giác Tăng. Ý nghĩa của chúng
+cũng mạnh mẽ và thất bại cũng hiếm. Sự hình thành Tam giác Giảm Dần
+phụ thuộc vào một chiến dịch của nhóm hay syndicate (thường là quỹ
+đầu tư) _(EN9: hoặc Mutual Fund hoặc nhóm thâu tóm)_ nhằm mua khối
+lượng lớn cổ phiếu một công ty ở giá định sẵn dưới thị trường. Lệnh
+của họ được đặt và giữ cho đến khi khớp ở mức đó. Nếu các đợt
+tăng liên tiếp từ việc mua này bị kìm hãm bởi nguồn cung cổ phiếu
+mới thấp dần (tạo hình Tam giác Giảm điển hình), lệnh mua cuối cùng
+được thực hiện hết và giá phá xuống. Việc phá đường hỗ trợ quan trọng,
+mà nhiều trader thấy hiệu quả trong thời gian tương đối dài, thường
+làm nản lòng những người chưa nghĩ đến bán. Lệnh bán của họ lúc này
+được đưa ra thị trường và đẩy nhanh đà giảm.
 
-The volume section of the Right-Angle Triangle’s chart requires little com-
-ment. It will ordinarily present a picture practically identical with that
-accompanying the development of a Symmetrical Triangle. Activity tends to
-lessen as prices move out toward the apex. In the Ascending Formation,
-there will usually be a pickup on each rally and an ebb in turnover on each
-decline within the pattern; in the Descending Formation, the opposite is true,
-but sometimes not quite so evident. These Minor fluctuations, however, do
-not affect the overall diminishing trend of volume until the breakout point
-is reached.
+##### Đặc điểm Khối lượng Giống Loại Đối xứng
 
+Mục khối lượng của biểu đồ Tam giác Vuông hầu như không cần bàn.
+Nó thường tương tự biểu đồ Tam giác Đối xứng. Hoạt động giảm dần
+khi giá tiến về phía đỉnh. Trong Tam giác Tăng, thường tăng trên
+mỗi đợt tăng và giảm trên mỗi đợt giảm; trong Tam giác Giảm, ngược lại,
+nhưng đôi khi không rõ rệt. Các dao động nhỏ này không ảnh hưởng
+xu hướng giảm chung của khối lượng cho đến khi đạt điểm phá.
 
 ![fig-061](./img/fig-061.png)
-**FIGURE 61.** The 1942 Bear Market Bottom in Socony–Vacuum was an unusual
-Head-and-Shoulders formation, the head consisting of an Ascending Triangle. Note
-increase in volume on the breakout from the Triangle in July and again on the break
-through the Head-and-Shoulders neckline in October.
+**HÌNH 61.** Đáy Thị trường Gấu 1942 của Socony–Vacuum là mô hình
+Vai-Đầu-Vai bất thường, đầu gồm Tam giác Tăng. Lưu ý khối lượng tăng
+khi phá Tam giác vào tháng 7 và phá đường cổ Vai-Đầu-Vai vào tháng 10.
 
-As to breakouts also, practically everything we have said about the Sym-
-metrical Triangle will apply as well to the Right-Angle type. Upside breakouts
-(from an Ascending Pattern, of course) are attended by a conspicuous increase
-in trading volume; if not, they should be treated as suspect. Downside break-
-outs (from Descending Patterns) may not evince much of a pickup in activity,
-but turnover usually speeds up the second or third day out of pattern. Throw-
-back reactions to the pattern’s boundary line after a breakout are fairly common;
-their occurrence seems to depend largely on general market conditions. Thus,
-if prices break down out of a Descending Triangle in an individual stock at a
-time when the rest of the market is firm, a Pullback Rally is fairly certain to
-intervene before any very extensive further decline takes place.
-Good, reliable breakouts from Right-Angle Triangles usually occur at
-about the same stage of pattern completion as they do in Symmetrical Tri-
-angles. The earlier the breakout, the less apt it is to be a false move (although
-false moves from Right-Angle Formations are considerably rarer, it should
-be noted, than from Symmetrical). In those infrequent cases when prices
+Về phá giá, gần như mọi điều đã nói về Tam giác Đối xứng cũng áp dụng
+cho loại Vuông. Phá lên (từ Tam giác Tăng) đi kèm tăng rõ rệt khối lượng;
+nếu không, nên nghi ngờ. Phá xuống (Tam giác Giảm) có thể không tăng
+hoạt động nhiều, nhưng khối lượng thường tăng ngày thứ hai hoặc ba
+sau phá. Phản ứng Pullback về đường biên sau phá khá phổ biến, phụ
+thuộc nhiều vào điều kiện chung thị trường. Ví dụ, nếu giá phá xuống
+Tam giác Giảm của một cổ phiếu khi thị trường chung vững, Pullback
+gần như chắc chắn xảy ra trước khi giảm sâu hơn.
+
+Phá giá đáng tin cậy từ Tam giác Vuông thường xảy ra cùng giai đoạn
+hoàn tất mô hình như Tam giác Đối xứng. Phá sớm càng ít khả năng
+là giả (mặc dù phá giả từ Tam giác Vuông hiếm hơn nhiều so với
+Đối xứng). Trong những trường hợp hiếm khi giá
 
 ![fig-062](./img/fig-062.png)
-**FIGURE 62.** Because a dividend of $1.00 went ex on March 14, the lower boundary
-of this Descending Triangle Top in “BIW” had to be dropped 1 point from 33 and
-redrawn at 32. Despite the added leeway thus afforded, however, the original pattern
-implications were quickly carried out. Prices pulled back three times to the new lower
-boundary line of this Triangle on April 4, April 16, and May 31 — unusual, but
-explained by the existence of a strong general market uptrend during this period.
-Whenever a stock goes ex-dividend during the formation of an Area Pattern of any
-type, the lines bounding that pattern should immediately be adjusted to the new
-value by lowering them a distance corresponding to the amount of the dividend.
+**HÌNH 62.** Vì cổ tức $1.00 trả vào 14/3, biên dưới Tam giác Giảm
+“BIW” phải hạ 1 điểm từ 33 và vẽ lại tại 32. Dù có khoảng trống
+thêm, mô hình vẫn được thực hiện. Giá ba lần pullback về biên mới
+vào 4/4, 16/4 và 31/5 — hiếm, nhưng giải thích được nhờ xu hướng
+tăng chung mạnh. Khi cổ phiếu trả cổ tức trong quá trình hình
+thành bất kỳ Tam giác nào, đường biên cần điều chỉnh ngay tương
+ứng số tiền cổ tức.
 
-##### Measuring Implications of Triangles
+##### Ý nghĩa Đo lường của Tam giác
 
-We have stated (in Chapter 6) a minimum measuring rule to apply to price
-movements developing from a Head-and-Shoulders Formation, and we can
-lay down a somewhat similar rule for Triangles — one that applies to both the
-Symmetrical and the Right Angle species. The method of deriving the Triangle
-formula is not easy to explain in words, but the reader can familiarize himself
-with it quickly by studying its application on several of the actual examples
-which illustrate this chapter. Assuming that we are dealing with an up-move-
-ment (upside breakout), draw from the Top of the first rally that initiated the
-pattern (in other words, from its upper left-hand corner) a line parallel to the
-Bottom boundary. This line will slope up away from the pattern to the right.
-Prices may be expected to climb until they reach this line. Also, as a rule, they
-will climb, following their breakout from the pattern, at about the same angle
-or rate as characterized their trend prior to their entering the pattern. This
-principle permits us to arrive at an approximate time and level for them to
-attain the measuring line. The same rules apply (but measuring down, of
-course, from the lower left corner) to a descending move.
-
+Chúng ta đã nêu (Ch.6) quy tắc đo tối thiểu cho chuyển động từ
+Vai-Đầu-Vai, và có thể đặt quy tắc tương tự cho Tam giác — áp dụng
+cả Đối xứng và Vuông. Phương pháp hình thành công thức Tam giác
+khó giải thích bằng lời, nhưng có thể hiểu nhanh qua ví dụ minh họa.
+Giả sử ta xét đợt tăng (phá lên), vẽ từ đỉnh đợt tăng đầu tiên
+khởi tạo mô hình (góc trên bên trái) một đường song song với biên dưới.
+Đường này dốc lên sang phải. Giá dự kiến leo đến đường này. Theo quy
+tắc, sau phá, giá sẽ leo theo cùng góc hoặc tốc độ như trước khi vào
+mô hình. Nguyên tắc này giúp ước lượng thời gian và mức giá. Quy tắc
+tương tự áp dụng cho đợt giảm (phá xuống từ góc trái dưới).
 
 ![fig-063](./img/fig-063.png)
-**FIGURE 63.** On the basis of “fundamentals,” Revere was an attractive holding in
-1946, which may account for its reluctance to “give up” when the market generally
-started downhill in earnest in June of that year. Its fluctuations from mid-May to late
-August constructed a fine, large Descending Triangle, in which, however, Bearish
-Volume Signals had already appeared in late June and on July 23. The breakout came
-(with a wide Breakaway Gap) on August 27. Prices clung to the edge of the pattern
-for 4 days, then collapsed. The small formations outlined in April and May are Flags,
-to be discussed in Chapter 11.
+**HÌNH 63.** Dựa trên “cơ bản,” Revere hấp dẫn năm 1946, giải thích
+giá khó “xuống” khi thị trường chung giảm mạnh tháng 6. Biến động
+từ giữa tháng 5 đến cuối tháng 8 tạo Tam giác Giảm lớn, trong đó
+tín hiệu khối lượng Bearish xuất hiện cuối tháng 6 và 23/7. Phá
+với Gap lớn 27/8. Giá bám cạnh mô hình 4 ngày, rồi sụp. Các
+mô hình nhỏ tháng 4 và 5 là Cờ, bàn sau Ch.11.
 
-Although application of the above formula does afford a fair estimate
-of the extent of move to be expected from a Triangle, it is neither as definite
-nor as reliable as the Head-and-Shoulders formula. Do not forget the impor-
-tant qualification that the Triangle has somehow lost a part of its potential
-strength if the breakout is delayed until prices are crowded into the apex.
-
+Áp dụng công thức trên cho phép ước lượng di chuyển từ Tam giác,
+nhưng không chính xác hay tin cậy bằng công thức Vai-Đầu-Vai.
+Lưu ý: Tam giác mất một phần sức mạnh nếu phá chậm đến khi giá
+dồn về đỉnh.
 
 ![fig-064](./img/fig-064.png)
-**FIGURE 64.** The 1937 Bull Market Top in Westinghouse was this Descending Trian-
-gle which started in January and broke on February 15. Prices hung at the lower
-edge of the Triangle for 4 days, fell away, and then pulled back to its lower line on
-March 4 at the time when the general market Averages were making their final Bull
-highs.
+**HÌNH 64.** Đỉnh Thị trường Bò 1937 của Westinghouse là Tam giác
+Giảm bắt đầu tháng 1 và phá 15/2. Giá bám biên dưới 4 ngày,
+rơi, rồi pullback về biên dưới 4/3 khi chỉ số chung lập đỉnh Bò.
 
-This chart, and a number that have preceded it, illustrate an important point for
-the market technician which may well be restated here: When a large number of
-individual issues, after an extensive advance, make well-defined Reversal Patterns
-of plainly Bearish import, break down out of them, and then succeed only in pulling
-back no farther than their lower boundaries or “Resistance Lines” at a time when
-the Averages are going on up to new highs, the whole market is in a dangerous
-condition, and a Major Downturn is imminent. Divergences of this particular sort
-between many important issues and the Averages seldom develop at Intermediate
-Turns. The warning is particularly pointed when stocks of the caliber of Westing-
-house, DuPont, General Motors, etc., fail to “confirm” new highs in the Averages.
-Refer back to Figures 12, 15, 18, and 58, for example, and compare the “timing” in
-those with the trend of the Averages for the same periods. The Saucer-like Reaction
-Pattern of October to January in the above chart analyzes into a Complex
-Head-and-Shoulders Consolidation, a formation which will be taken up in
-Chapter 11.
-
+Biểu đồ này và nhiều biểu đồ trước minh họa điều quan trọng cho
+kỹ thuật viên: Khi nhiều cổ phiếu cá nhân, sau đợt tăng mạnh,
+tạo mô hình Đảo chiều Bearish rõ, phá xuống, rồi chỉ pullback
+về biên dưới trong khi chỉ số chung tiếp tục lên đỉnh mới,
+thị trường chung nguy hiểm, sắp xảy ra Xu hướng Giảm lớn.
+Sự khác biệt kiểu này giữa nhiều cổ phiếu quan trọng và chỉ
+số hiếm khi xuất hiện ở các Turn Trung gian. Cảnh báo rõ rệt
+khi cổ phiếu lớn như Westinghouse, DuPont, GM… không “xác
+nhận” đỉnh mới của chỉ số. Tham khảo Hình 12, 15, 18, 58 để so
+sánh “thời điểm” với xu hướng chỉ số. Mô hình Saucers từ 10 đến 1
+phân tích thành Vai-Đầu-Vai Phức hợp Tích lũy, bàn Ch.11.
 
 ![fig-065](./img/fig-065.png)
-**FIGURE 65.** A series of Triangles, Symmetrical and Descending, which evolved
-during the 1929–32 Bear Market in Hudson Motors. Note that at no time during this
-decline did anything resembling a Major Bottom appear. Note also how each Trian-
-gle’s measuring implications were carried out before any temporary halt or conse-
-quential rally developed. Follow your daily charts for the proper timing of your
-trading operations, but keep an eye always on the longer-range pictures which evolve
-on weekly and monthly projections, so as to maintain your perspective on the Major
-Trend.
+**HÌNH 65.** Một loạt Tam giác, Đối xứng và Giảm, hình thành trong
+Thị trường Gấu 1929–32 tại Hudson Motors. Chú ý không lúc nào
+xuất hiện Đáy Lớn. Mỗi Tam giác thực hiện đúng ý nghĩa đo lường
+trước khi tạm dừng hay pullback xảy ra. Theo dõi biểu đồ ngày
+để định thời điểm giao dịch, nhưng luôn nhìn biểu đồ tuần và
+tháng để giữ quan sát Xu hướng Chính.
 
-
-
-
-Incidentally, “WX” continued on down to 130 in April 1937, made a Rectangle base
-there, and recovered to 158 (cf. above Descending Triangle) in August, and then fell
-to 88 in November. Compare this daily chart with the monthly chart of “WX” for
-1935 to 1938 in Chapter 15.
+Ngẫu nhiên, “WX” tiếp tục xuống 130 tháng 4/1937, tạo đáy Hình
+Chữ nhật, hồi lên 158 (so với Tam giác Giảm trên), rồi xuống 88
+tháng 11. So sánh biểu đồ ngày với biểu đồ tháng 1935–38 Ch.15.
 
 ![fig-066](./img/fig-066.png)
-**FIGURE 66.** The curious, and in its early stages confusing, Major Bottom Formation
-which American Rolling Mills constructed in 1941–43. The recovery from the “Pearl
-Harbor Panic” of 1941 ran into a large Symmetrical Triangle which broke out on the
-downside in April 1942. The subsequent decline satisfied the measuring requirements
-of that Triangle, but did not carry below the December low. The rally of June and
-reaction of August–September built the whole area out into another and larger
-Symmetrical Triangle, out of which prices broke on the upside in September. Then
-the reaction to the apex of the latter, in December 1942, and the following advance
-built up into a 15-month Ascending Triangle which constituted the final Major Bottom
-for a trend that carried prices up eventually to 42 in 1946. The low volume on the
-June and August–September reactions, the increase on the October markup and, even
-more, the January 1943 rise and breakout in February were unmistakably of Major
-Bullish implications. It takes time, remember, to build a foundation for a Bull Market.
+**HÌNH 66.** Đáy Chính kỳ lạ, ban đầu gây bối rối, mà American
+Rolling Mills xây 1941–43. Phục hồi sau “Pearl Harbor Panic” 1941
+đụng Tam giác Đối xứng lớn, phá xuống tháng 4/1942. Sự giảm tiếp
+thỏa mãn yêu cầu đo Tam giác, nhưng không xuống thấp hơn đáy
+tháng 12. Đợt tăng tháng 6 và phản ứng tháng 8–9 tạo Tam giác
+Đối xứng lớn hơn, phá lên tháng 9. Phản ứng về đỉnh tháng 12/1942
+và đợt tăng sau tạo Tam giác Tăng 15 tháng, trở thành Đáy Chính
+cuối cùng, đưa giá lên 42 năm 1946. Khối lượng thấp trong các phản
+ứng tháng 6 và 8–9, tăng tháng 10, và đặc biệt tăng tháng 1/1943
+và phá tháng 2, rõ ràng mang ý nghĩa Bull Market. Nhớ rằng, cần
+thời gian để xây nền cho Thị trường Bò.
 
-##### Triangles on Weekly and Monthly Charts
 
-We have seen in preceding studies how Head-and-Shoulders Formations
-may appear on the long-range (weekly or monthly) charts and will have
-importance commensurate with their size. Triangles also may develop. On
-weekly charts, their implications are usually clear and dependable, but the
-coarse Triangular Patterns which can be found on graphs of monthly price
-ranges, especially the great, loose convergences that take years to complete,
-had better be dismissed as without useful significance.
 
+##### Tam Giác trên Biểu Đồ Tuần và Tháng
+
+Chúng ta đã thấy trong các nghiên cứu trước đây rằng các Mô Hình
+Đầu và Vai có thể xuất hiện trên các biểu đồ dài hạn (tuần hoặc
+tháng) và sẽ có tầm quan trọng tương xứng với kích thước của chúng.
+Tam Giác cũng có thể phát triển. Trên biểu đồ tuần, ý nghĩa của
+chúng thường rõ ràng và đáng tin cậy, nhưng các Mô Hình Tam Giác
+thô ráp trên đồ thị giá tháng, đặc biệt là những hội tụ lỏng lẻo,
+lớn mà cần nhiều năm mới hoàn thành, tốt nhất nên bỏ qua vì
+không có ý nghĩa hữu ích.
 
 ![fig-067](./img/fig-067.png)
-**FIGURE 67.** A beautifully compact Ascending Triangle which turned out to be the
-Major Bear-to-Bull Reversal in Goodrich in 1942. The breakout from this pattern (in
-April) was not signaled by any extraordinary pickup in activity so far as this weekly
-record shows (but remember that significant volume detail is often hard to see in a
-weekly plotting). The Triangle’s measuring implications were carried out by the first
-upswing which reached 18¼ at the end of May. Supply had to be absorbed in the 18
-to 21 range (refer back to this chart when you study Support and Resistance in
-Chapter 13), but a Major Up Signal was given in September when prices erupted
-through that zone with a conspicuous increase in trading volume.
+**HÌNH 67.** Một Tam Giác Tăng Dần đẹp và gọn, hóa ra là Sự
+Đảo Chiều Lớn từ Giảm sang Tăng của Goodrich năm 1942. Đột phá
+từ mô hình này (vào tháng Tư) không được báo trước bằng bất
+kỳ sự gia tăng hoạt động nào, theo ghi chép tuần này (nhưng
+hãy nhớ rằng chi tiết khối lượng quan trọng thường khó thấy
+trên đồ thị tuần). Các ý nghĩa đo lường của Tam Giác được thực
+hiện bởi đợt tăng đầu tiên đạt 18¼ vào cuối tháng Năm. Cung
+phải được hấp thụ trong khoảng 18 đến 21 (tham khảo lại
+biểu đồ này khi học về Hỗ Trợ và Kháng Cự trong Chương 13),
+nhưng Tín Hiệu Tăng Lớn được đưa ra vào tháng Chín khi giá
+bùng nổ qua vùng đó với sự gia tăng đáng kể trong khối lượng
+giao dịch.
 
-##### Other Triangular Formations
+##### Các Mô Hình Tam Giác Khác
 
-There are other patterns of price consolidation or congestion that can be
-bounded by converging lines and might, therefore, be classified as Triangles.
+Còn có các mô hình hợp nhất hay tắc nghẽn giá khác có thể
+giới hạn bởi các đường hội tụ, do đó có thể được xếp vào
+nhóm Tam Giác.
 
-But they deviate from the true Triangles of this chapter so markedly in one
-or more important respect that they are best treated under other headings
-elsewhere. Such are the Flags, Pennants, and Wedges. Still another group of
-chart patterns develops between _diverging_ boundary lines, on which account
-they have sometimes been called Inverted Triangles. But their causes, char-
-acteristics, and forecasting implications are so radically different that we
-have chosen to rename them Broadening Formations and discuss them in a
-later chapter.
+Nhưng chúng lệch khỏi các Tam Giác thực sự trong chương
+này một cách đáng kể về một hoặc nhiều khía cạnh quan trọng,
+vì vậy tốt nhất nên xử lý chúng dưới các mục khác ở nơi khác.
+Đó là các Cờ, Cờ Hiệu, và Nêm. Một nhóm mô hình khác
+phát triển giữa các đường biên _tách ra_, vì lý do đó đôi khi
+được gọi là Tam Giác Ngược. Nhưng nguyên nhân, đặc điểm,
+và ý nghĩa dự báo của chúng khác biệt hoàn toàn, nên chúng
+được đổi tên thành Mô Hình Mở Rộng và sẽ được bàn
+trong chương sau.
 
 ![fig-067.1](./img/fig-067.1.png)
-**FIGURE 67.1.** A real time chart from prophet.net. The volume blow out in July
-2002 drew attention to Ebay and the sloping line was drawn at that time. Although
-the lines are sloppy and the pattern is ragged it looked at the time like a Descending
-Triangle with all its implications. But when it broke out of the pattern on emphatic
-volume in October 2003 the handwriting was on the wall. Ebay was for real. So,
-what’s for real? It could really make money, not just capture free eyeballs, like its
-Internet brothern and sistern. It actually performed a service of economic benefit to
-many people. Unlike the Internet fantasy follies. See Figure 104.4 for a longer per-
-spective on Ebay. Lessons for the attentive: power of trendlines; alarm-clock nature
-of unusual volume; not believing any forecast. Forecast in this case would have been
-for a downtrend if, as seemed, the pattern was a descending triangle.
+**HÌNH 67.1.** Biểu đồ thời gian thực từ prophet.net. Khối
+lượng bùng nổ vào tháng Bảy 2002 đã thu hút chú ý đến Ebay
+và đường nghiêng được vẽ vào thời điểm đó. Mặc dù các đường
+không chính xác và mô hình lộn xộn, lúc đó nó trông giống
+Tam Giác Giảm với tất cả ý nghĩa của nó. Nhưng khi nó phá vỡ
+mô hình với khối lượng mạnh vào tháng Mười 2003, mọi việc
+rõ ràng. Ebay thật sự. Vậy, điều gì là thật sự? Nó thực sự
+tạo ra lợi nhuận, chứ không chỉ thu hút lượt xem miễn phí,
+như các công ty Internet khác. Nó thực sự mang lại lợi ích
+kinh tế cho nhiều người. Không giống như những trò ảo tưởng
+Internet. Xem Hình 104.4 để có cái nhìn dài hạn về Ebay.
+Bài học cho người chú ý: sức mạnh của các đường xu hướng;
+tính cảnh báo của khối lượng bất thường; không tin tưởng
+vào bất kỳ dự báo nào. Trong trường hợp này, dự báo
+sẽ là xu hướng giảm nếu, như có vẻ, mô hình là Tam Giác
+Giảm.
 
-The reader may have become dismayed at this point by our frequent
-recourse to such qualifying adverbs as _usually_ , _ordinarily_ , and the like. It
-cannot be avoided if one wishes to present a true picture of what actually
-happens. No two chart patterns are ever precisely alike; no two market trends
-develop in quite the same way. History repeats itself in the stock market,
-but never exactly. Nevertheless, the investor who familiarizes himself with
-the historical pattern, with the normal market action, and refuses to be
-tempted into a commitment in the belief that “this time will be different,”
-will be far and away ahead of the fellow who looks for the exception rather
-than the rule.
-The beginner is proverbially lucky. He will find Triangles, Head-and-
-Shoulders, or other significant patterns, one after the other, on his charts,
-watch them develop, and see them carry through with profitable moves
-according to rule. And then the exception will come along — or he will
-overlook the larger picture while concentrating on some Minor Pattern
-development — and suddenly awake to the fact that he is caught in a very
-bad play. Hence our constant emphasis on the nonconforming movements.
-Our words of qualification are necessary because technical analysis of market
-action is not an exact science and never will be.
+Độc giả có thể cảm thấy chán nản tại thời điểm này vì
+chúng tôi thường xuyên dùng các trạng từ bổ nghĩa như
+_usually_, _ordinarily_ và tương tự. Điều này không thể
+tránh nếu muốn trình bày hình ảnh chính xác về những gì
+thực sự xảy ra. Không có hai mô hình biểu đồ nào hoàn
+toàn giống nhau; không có hai xu hướng thị trường nào
+phát triển theo cùng một cách. Lịch sử lặp lại trên thị
+trường chứng khoán, nhưng không bao giờ chính xác.
+Tuy nhiên, nhà đầu tư làm quen với mẫu hình lịch sử,
+với hành động thị trường bình thường, và từ chối bị cám
+dỗ tham gia dựa trên niềm tin “lần này sẽ khác,” sẽ
+vượt xa người tìm kiếm ngoại lệ hơn là quy luật.
 
-## Chapter 9. Important Reversal Patterns — Continued, The Rectangles, Double and Triple Tops
+Người mới thường may mắn. Họ sẽ tìm thấy Tam Giác,
+Đầu và Vai, hoặc các mô hình quan trọng khác, lần lượt trên
+biểu đồ, quan sát chúng phát triển, và thấy chúng thực hiện
+các đợt di chuyển sinh lợi theo quy luật. Rồi ngoại lệ
+sẽ xuất hiện — hoặc họ bỏ qua bức tranh lớn khi tập trung
+vào một số mô hình nhỏ — và bất ngờ nhận ra rằng họ
+bị mắc vào một trò chơi tệ hại. Do đó, chúng tôi luôn
+nhấn mạnh vào các chuyển động không tuân thủ.
+Các từ cảnh báo này là cần thiết vì phân tích kỹ thuật
+hành động thị trường sẽ không phải là khoa học chính xác.
 
-The Triangular Price Formations which we examined in the preceding chapter
-can be either _Reversal_ or _Consolidation_ Patterns. In the case of the Right-Angle
-Triangles, we know as soon as they have attained recognizable form in which
-direction the trend will (or should) proceed. With the Symmetrical Triangles,
-we have no way of knowing whether they point up or down until prices
-finally break away from them, although the odds are, as we have seen, that
-the previous trend will be continued rather than reversed. In this respect
-and in many others, our next class of technical formations, the _Rectangles_ ,
-resemble the Symmetrical Triangles. There are, in fact, so many points of
-similarity between them that we can forego any long and detailed discussion.
-A _Rectangle_ consists of a series of sideways price fluctuations, a “trading
-area,” as it is sometimes called, which can be bounded both top and bottom
-by _horizontal_ lines. A glance at any one of the examples which illustrate these
-pages will show how it got its name. On rare occasions, you may discover a
-chart pattern whose upper and lower boundary lines are parallel but either
-slightly down-sloping or up-sloping. So long as their departure from the hor-
-izontal is trivial, they may be treated as Rectangles. You will also find, on
-occasion, patterns whose boundaries, while nearly horizontal, tend somewhat
-to converge. These may be considered Rectangles or Symmetrical Triangles; it
-doesn’t matter which, since the “prognosis” will be the same in either case.
-If you will give a quick mental review also to the Head-and-Shoulders,
-the Complex and the Rounding types of formations, you will see how, if you
-disregard the volume part of their charts, any one of these patterns might
-merge or grade into a Rectangle. As a matter of fact, however, you will
-seldom be left in doubt as to proper classification because the circumstances
-of trading, the type of buying and selling, which produce Rectangles are
-different and that difference is usually apparent.
-We characterized the Symmetrical Triangle as a “picture of doubt.” The
-Rectangle might, with even greater propriety, be called a picture of conflict.
-Of course, any fairly compact price formation represents conflict in the
-supply–demand sense. A Head-and-Shoulders Top, for example, portrays a
-conflict between “strong” sellers and “weak” buyers, with the outcome
-already clearly to be seen before the combat has ended. But a Rectangle
-defines a contest between two groups of approximately equal strength —
-between owners of the stock who wish to dispose of their shares at a certain
-price and others who wish to accumulate the stock at a certain lower figure.
-They bat the ball back and forth (up and down, that is) between them until
-ultimately, and usually quite suddenly, one team is exhausted (or changes
-its mind) and the other then proceeds to knock the ball out of the lot. Nobody
-(often, not even the contestants themselves) can tell who is going to win
-until one line or the other is decisively broken.
 
+
+
+
+## Chương 9. Các Mô hình Đảo Chiều Quan Trọng — Tiếp theo, Tam giác chữ nhật, Đỉnh đôi và Ba
+
+Các Mô hình Giá Tam giác mà chúng ta xem ở chương trước có thể là
+_mô hình Đảo Chiều_ hoặc _mô hình Tích lũy_. Trong trường hợp
+Tam giác Vuông, ta biết ngay khi chúng đạt dạng nhận biết được hướng
+xu hướng sẽ (hoặc nên) tiến tới. Với Tam giác Đối xứng, ta không thể
+biết chúng hướng lên hay xuống cho đến khi giá thực sự phá ra, mặc
+dù xác suất là xu hướng trước sẽ tiếp tục thay vì đảo chiều. Về điểm
+này và nhiều điểm khác, lớp tiếp theo của các mô hình kỹ thuật,
+_các Tam giác chữ nhật_, giống Tam giác Đối xứng. Thực tế có nhiều
+điểm tương đồng đến mức chúng ta có thể bỏ qua thảo luận dài dòng.
+Một _Tam giác chữ nhật_ gồm chuỗi biến động giá ngang, một “khu vực
+giao dịch,” đôi khi được gọi, có thể được giới hạn cả trên và dưới
+bằng các đường _ngang_. Nhìn nhanh các ví dụ minh họa trang này sẽ
+thấy tên gọi. Thỉnh thoảng, bạn có thể thấy biểu đồ với đường biên
+trên và dưới song song nhưng hơi dốc xuống hoặc lên. Miễn độ lệch
+từ ngang nhỏ, có thể coi là Tam giác chữ nhật. Đôi khi còn thấy mô
+hình biên gần ngang nhưng hơi hội tụ; có thể coi là Tam giác chữ
+nhật hoặc Tam giác Đối xứng; không sao, kết quả dự báo giống nhau.
+Nếu bạn ôn lại đầu óc các mô hình Vai-Đầu-Vai, Phức hợp hay Rounding,
+bạn sẽ thấy, nếu bỏ qua khối lượng, bất kỳ mô hình nào cũng có thể
+trộn vào hoặc chuyển thành Tam giác chữ nhật. Thực tế, ít khi còn
+nghi ngờ về phân loại đúng vì điều kiện giao dịch, loại mua bán tạo
+Tam giác chữ nhật khác, và khác biệt này thường rõ ràng.
+
+Chúng ta gọi Tam giác Đối xứng là “bức tranh của sự nghi ngờ.” Tam giác
+chữ nhật còn có thể được gọi là “bức tranh của xung đột.” Tất nhiên,
+bất kỳ mô hình giá nào cũng thể hiện xung đột cung-cầu. Một Vai-Đầu-Vai
+Top, ví dụ, thể hiện xung đột giữa người bán mạnh và người mua yếu,
+với kết quả đã rõ trước khi cuộc chiến kết thúc. Nhưng Tam giác chữ nhật
+xác định cuộc chiến giữa hai nhóm có sức mạnh gần như bằng nhau —
+giữa người sở hữu muốn bán ở mức giá nhất định và người khác muốn
+tích lũy ở mức giá thấp hơn. Họ đẩy giá lên xuống qua lại cho tới
+khi một bên mệt hoặc đổi ý và bên kia phá vỡ giá. Không ai (thậm
+chí các bên) biết ai thắng cho tới khi một đường bị phá quyết định.
 
 ![fig-068](./img/fig-068.png)
-**FIGURE 68.** Although its Bottom boundary had a slight tendency to “lift,” the
-formation which put a Top on Nash–Kelvinator in 1946 was an unmistakable 4-month
-distribution Rectangle. Long and rather loose Rectangular Patterns of the type shown
-here may not evince constantly and noticeably diminishing volume, but note, nev-
-ertheless, the general, though irregular, downtrend in volume from mid-October to
-mid-February.
+**HÌNH 68.** Dù biên dưới hơi “nâng,” mô hình tạo đỉnh cho Nash–Kelvinator
+năm 1946 là Tam giác chữ nhật phân phối 4 tháng rõ rệt. Tam giác chữ
+nhật dài và lỏng như ví dụ này ít khi giảm khối lượng đều, nhưng lưu ý
+xu hướng giảm tổng thể, dù không đều, từ giữa tháng 10 đến giữa tháng 2.
 
-We speak of two groups operating in the development of a rectangular
-trading area because, under present-day conditions, that is what is usually
-the fact behind the scenes. This, it should be noted, does not imply “manip-
-ulation” in any invidious sense. An investment trust or an estate or, in some
-cases, an individual heavy stockholder has good and sufficient reasons for
-selling at the top price (the “Supply Line” of the Rectangle) with no intent
-to mislead the public. And another investment trust or a group of insiders
-interested in the company may have equally good and, from their point of
-view, wise reasons for buying at the bottom price (“Demand Line”). Such
-are the forces at work in the market at the start of most Rectangular Chart
-Patterns, but if the “spread” between top and bottom lines is wide enough
-(say 8–10% of the market value of the stock), the situation may quickly attract
-a following from quick-turn scalpers and the professional element. Thus, a
-syndicate holding a large block of U.S. Steel may decide to liquidate at 76,
-while another group decides to invest heavily in “Steel” at 69. The price of
-X will naturally fluctuate for a time between those two levels. Traders, seeing
-this, will try to “ride the play,” buying at 69 and selling at 76 (perhaps also
-selling short at 76 and covering at 69). Their operations will tend to accen-
-tuate or extend the Rectangle, although the number of shares involved in
-such “parasitic” trading is seldom great enough to affect the final outcome.
-As a matter of fact, this type of trading _inside_ a Rectangle can be quite
-profitable at times, especially if protected by judicious stops (see Part Two).
+Chúng ta nói hai nhóm vận hành trong khu vực giao dịch chữ nhật vì
+thường đúng trong thực tế. Điều này không ngụ ý “thao túng.” Một quỹ
+đầu tư, estate hay cổ đông cá nhân lớn có lý do chính đáng bán ở giá
+cao (Đường Cung) mà không lừa công chúng. Nhóm khác có lý do tốt
+và thông minh để mua ở giá thấp (Đường Cầu). Các lực này hoạt động
+tại khởi đầu phần lớn mô hình chữ nhật, nhưng nếu khoảng cách
+tương đối lớn (8–10% giá trị thị trường), sẽ thu hút scalper và
+chuyên nghiệp. Ví dụ, syndicate nắm cổ phần lớn U.S. Steel quyết định
+bán 76, nhóm khác mua 69. Giá X dao động giữa hai mức này. Trader
+thấy vậy sẽ mua 69, bán 76 (có thể bán khống 76 và mua lại 69). Giao
+dịch này làm Tam giác chữ nhật rõ hơn, dù số cổ phiếu ít nên không
+ảnh hưởng kết quả cuối. Thực tế, giao dịch _trong_ Tam giác chữ nhật
+đôi khi rất có lợi, nhất là dùng stops hợp lý (xem Phần Hai).
 
 ![fig-069](./img/fig-069.png)
-**FIGURE 69.** Consolidation Rectangles in uptrends have been less common in recent
-years than during the 1920s and early 1930s. The large price gap (G) in this example
-is of the “last in pattern” type which we shall come to in Chapter 12. When a gap
-within a pattern area is followed by breakout from that pattern, as in this case, the
-gap is seldom quickly closed.
+**HÌNH 69.** Tam giác chữ nhật tích lũy trong uptrend ít gặp hơn 1920–30.
+Khoảng giá lớn (G) là loại “cuối mô hình” sẽ bàn Ch.12. Khi gap
+trong khu vực mô hình được phá, như ví dụ, gap hiếm khi nhanh chóng
+được lấp lại.
 
+##### Hoạt động Pool
 
-##### Pool Operations
+Trước khi SEC cấm, Tam giác chữ nhật thường được tạo bởi một
+“pool” hoặc syndicate. Pool này tích lũy cổ phiếu lớn với mục
+tiêu mark-up khi tin tốt (mà họ biết trước) công bố. Để mua đủ
+cổ phiếu, họ phải shake out cổ phiếu của trader khác và nhà đầu
+tư chưa biết. Họ có thể bắt đầu bằng bán khống vài trăm cổ phiếu
+để giảm cầu hiện tại và bắt đầu phản ứng. Sau đó, trong phản ứng
+về mức tích lũy đã định, họ mua lại, phân bổ lệnh cẩn thận, tránh
+quảng cáo.
 
-In times past, before the SEC outlawed the practice, Rectangles were fre-
-quently created by the well-organized operations of a single “pool” or syn-
-dicate. Such a pool might undertake to accumulate a large block of stock in
-a certain company with a view to marking it up and taking profits when
-some piece of good news, of which they had inside knowledge, eventually
-became public. In order to acquire the desired “line,” they would find it
-necessary first to shake out shares held by other traders and uninformed
-investors. They might start their campaign by suddenly selling short a few
-hundred shares in order to quench any current demand and start a reaction.
-Then, on that reaction to the previously determined accumulation level, they
-would start to buy, scattering their orders carefully and avoiding any publicity.
+Việc mua này sớm hay muộn sẽ tạo rally, nhưng họ gieo tin xung
+quanh boardroom rằng insiders bán, sáp nhập bị hủy, hay cổ tức
+bị hoãn, và nếu cần, họ công khai bán một phần cổ phiếu mua gần
+đây để tin thêm thực tế. Quá trình lặp đi lặp lại nhiều lần, pool
+tăng tích lũy, cho tới khi hoàn tất mục tiêu hoặc không shake out
+được thêm. Trước 1920s, chartist tinh mắt đã nhận ra trước khi
+kết thúc, và rõ ràng khi giá phá lên Tam giác chữ nhật. Tactics này
+nay không được phép; “Wash sale” bị cấm. SEC giám sát liên tục và
+nghiên cứu ngay tin tức nghi ngờ, ngăn ngừa thao túng pool cũ. Do
+đó, Tam giác chữ nhật ít phổ biến hơn 1950s so với 1920s.
 
+Có thể làm rõ chi tiết hình thành Tam giác chữ nhật bằng so sánh với
+Tam giác Đối xứng:
 
-Their buying would, sooner or later, engender a rally, but then they would
-“plant” rumors around the boardrooms to the effect that such-and-such
-insiders were selling, or that a projected merger was being called off, or a
-dividend would have to be passed, and, if necessary, they would osten-
-tatiously let out a few of their own recently purchased shares to give color
-to the rumor. The process might be repeated several times, with the “pool”
-gradually securing more and more shares on balance, until finally, it had
-completed its intended line, or could shake out no more of the floating
-supply. Often, what was going on was fairly evident to the alert chartist back
-in the 1920s even before the operation was concluded, and perfectly evident,
-of course, as soon as prices broke out topside from their Rectangle.
-But such tactics are no longer permitted. “Wash sales” are strictly con-
-demned. The constant policing of all exchange transactions and prompt
-investigation by the SEC of any suspicious news or activity in a stock effec-
-tually deters the blatant “pool” manipulations of previous years. This prob-
-ably is the chief reason why Rectangles are nowhere near so common on the
-charts of the 1950s as they were in the 1920s.
-Perhaps we can clear up various details of the Rectangle formation most
-quickly and easily by comparison with that most nearly related chart pattern,
-the Symmetrical Triangle, as follows:
+1. **Khối lượng** — Giống Tam giác, giảm dần khi Tam giác dài ra.
+Mọi biến động ngược, trừ tin tức tạm thời, cần nghi ngờ.
 
-1. **Volume** — Follows the same rules as in the Triangles, gradually dimin-
-ishing as the Rectangle lengthens. Any contrary development, unless
-it be a momentary news flurry, is suspect.
+2. **Phá mô hình** — Áp dụng như Tam giác: xem yêu cầu khối lượng,
+biên độ vượt, v.v. Phá giả — ít xảy ra hơn Tam giác Đối xứng. Tam giác
+chữ nhật rõ ràng gần như tin cậy bằng Vai-Đầu-Vai, dù tác động ít hơn.
 
-2. **Breakouts** — Here also the same rules apply as with Triangles. Review
-volume requirements, margin of penetration, etc., thereunder.
-False Moves — Much less frequent from Rectangles than from Symmet-
-rical Triangles. A clearly defined Rectangle is, in fact, almost as reli-
-able as a Head-and-Shoulders, although not as powerful in its
-implications.
-3. **Premature Breakouts** — Slightly more frequent, perhaps, from Rectan-
-gles than from Triangles.
-( **Note** : both _false moves_ and _premature breakouts_ , in the sense in which we
-employ these terms, are indistinguishable at the time they occur from gen-
-uine breakouts. Following both false and premature breaks, prices return
-inside the pattern. But, in the case of a _false_ move, the trend ultimately
-proceeds out of pattern in the _opposite_ direction, while in the case of the
-_premature_ move, the trend finally breaks out again and proceeds in the _same_
-direction.)
-
+3. **Phá sớm** — Có thể xảy ra nhiều hơn Tam giác. (**Lưu ý**: phá giả
+và phá sớm khó phân biệt tại thời điểm, giá trở lại mô hình. Phá giả
+cuối cùng đi ngược, phá sớm cuối cùng đi cùng hướng.)
 
 ![fig-070](./img/fig-070.png)
-**FIGURE 70.** A perfect example of Consolidation Rectangle which formed in Loew’s
-near the end of the 1932–37 Bull Market. In this case, a large block of “inside” stock
-was distributed at 64 to 65 but taken over around 62 by other investors who had the
-satisfaction of seeing it go on up to 87 the following August. Note Throwback
-following breakout in January.
+**HÌNH 70.** Ví dụ Tam giác chữ nhật tích lũy hoàn hảo ở Loew’s cuối
+Bull Market 1932–37. Một khối lớn cổ phiếu “inside” phân phối 64–65,
+nhưng được mua lại 62, sau đó tăng lên 87 tháng 8. Lưu ý Throwback
+sau phá tháng 1.
 
+4. **Pullback** — Giá trở lại biên sau phá xảy ra thường xuyên hơn
+Tam giác Đối xứng. Ước lượng: Pullback/Throwback (rally sau phá xuống
+hoặc phản ứng sau phá lên) trong 3 ngày – 3 tuần chiếm ~40%.
 
-4. **Pullbacks** — Return of prices to the boundary of the pattern, subsequent
-to its initial penetration (breakout), takes place more frequently with
-Rectangles than with Symmetrical Triangles. Our estimate would be
-that a Pullback or Throwback (the first is the common term for a rally
-after a downside breakout, and the second for a reaction following
-an upside breakout) occurs within 3 days to 3 weeks in about 40%
-of all cases.
-5. **Directional Tendency** — The Rectangle is more often a Consolidation
-Formation than a Reversal Formation, the ratio being about the same
-as with Symmetrical Triangles. As Reversal Patterns, Rectangles ap-
-pear more frequently at Bottoms (either Major or Intermediate) than
-at Tops. Long, thin, dull Rectangles are not uncommon at Primary
-Bottoms, sometimes grading into the type of Flat-Bottomed Saucer
-or Dormancy described in Chapter 7.
-6. **Measuring Implications** — A safe minimum measuring formula for the
-Rectangle is given by its width. Prices should go at least as far in
-points beyond the pattern as the difference in points between the top
-and bottom lines of the pattern itself. They may, of course, go much
-farther. Generally speaking, the brief, wide-swinging forms, which
-appear nearly square in shape on the chart and in which turnover is
-active, are more dynamic than the longer and narrower manifesta-
-tions. Moves out of the latter almost always hesitate or react at the
-“minimum” point before carrying on.
+5. **Xu hướng hướng** — Tam giác chữ nhật thường là Tích lũy hơn
+Đảo chiều, tỷ lệ như Tam giác Đối xứng. Ở đáy (Major/Intermediate)
+thường gặp hơn ở đỉnh. Tam giác dài, hẹp, chậm không hiếm ở đáy
+Primary, đôi khi chuyển thành Flat-Bottomed Saucer hay Dormancy
+(Ch.7).
+
+6. **Ý nghĩa đo lường** — Công thức đo an toàn dựa vào chiều rộng:
+giá đi ít nhất bằng khoảng cách điểm giữa biên trên và dưới.
+Các mô hình rộng ngắn, turnover cao, năng động hơn mô hình dài hẹp,
+và thường ngừng hay phản ứng tại “điểm tối thiểu” trước khi tiếp tục.
 
 ![fig-071](./img/fig-071.png)
-**FIGURE 71.** Here is a Rectangle in Socony–Vacuum, a low-priced stock character-
-ized by fluctuations within a narrow range. After reaching a high of 18¾ in December
-1945, it fell back to 15¼ and then rallied in mid-1946 as shown above. In late August,
-prices broke down through an Intermediate Trendline (see Chapter 14) and 4 days
-later fell out of the Rectangle. This formation, in conjunction with the earlier and
-higher Top, implied lower levels for “SOV” for some time to come. See also comment
-under Figure 72.
+**HÌNH 71.** Tam giác chữ nhật ở Socony–Vacuum, cổ phiếu giá thấp,
+dao động trong biên hẹp. Sau đỉnh 18¾ tháng 12/1945, rơi về 15¼,
+rally giữa 1946. Cuối tháng 8, phá Trendline Trung gian (Ch.14) và
+4 ngày sau ra khỏi Tam giác. Kết hợp với đỉnh trước cao hơn,
+ngụ ý giá “SOV” thấp hơn một thời gian. Xem thêm chú thích Hình 72.
 
 
 
 
-##### Relation of Rectangle to Dow Line
 
-The resemblance of this individual stock chart formation, which we have
-discussed under the name of Rectangle, to the Average formation known to
-Dow theorists as a “Line” has doubtless occurred to you. Obviously, their
-rationale and forecasting implications are much the same. But true Rectan-
-gles with sharply delimited Top (Supply) and Bottom (Demand) boundaries
-are truly characteristic only of trading in individual issues. Line formations
-in the Averages are seldom rigorously defined, with successive Minor
-Heights forming quite precisely at a certain horizontal tangent, and succes-
-sive Bottoms at a similarly precise horizontal level. If you will examine the
-separate charts of the issues composing an Average at a time when the
-Average is “making a Line,” you are pretty sure to find that some of them
-are showing an irregular uptrend, others an irregular downtrend, still others
-may be forming Triangles, and a few may be constructing Rectangles, or
-what not, but it is the algebraic sum of all these more or less divergent
-pictures which makes up the Average “Line.”
-To be sure, there is some tendency on the part of active traders to sell
-(or buy) stocks when a certain Average reaches a certain figure, regardless
-of the status of individual issues involved. An investment counsel will occa-
-sionally advise his clients, for example, to “sell all speculative holdings when
-the Dow Industrials reach 500 ( _EN: or 5000 or 15000_ ).” But trading commit-
-ments based solely on general Average levels are so seldom followed con-
-sistently that they have little effect.
+##### Mối Liên Hệ giữa Hình Chữ Nhật và Đường Dow
+
+Sự tương đồng giữa mô hình biểu đồ cổ phiếu cá nhân, mà chúng ta
+đã bàn dưới tên gọi Hình Chữ Nhật, với mô hình Trung Bình được
+các nhà lý thuyết Dow gọi là “Đường” chắc hẳn đã xuất hiện
+trong đầu bạn. Rõ ràng, cơ sở lý luận và ý nghĩa dự báo của chúng
+rất giống nhau. Nhưng các Hình Chữ Nhật thực sự với biên trên
+(Cung) và biên dưới (Cầu) rõ ràng chỉ đặc trưng cho giao dịch
+của các cổ phiếu riêng lẻ. Các hình Đường trong Trung Bình hiếm
+khi được xác định chính xác, với các Đỉnh Nhỏ liên tiếp hình thành
+tương đối chính xác ở một đường tiếp tuyến ngang nhất định, và các
+Đáy liên tiếp ở mức ngang tương tự. Nếu bạn xem xét các biểu
+đồ riêng lẻ của các cổ phiếu cấu thành một Trung Bình khi Trung
+Bình đó đang “vẽ Đường,” bạn chắc chắn sẽ thấy một số cổ phiếu
+xuất hiện xu hướng tăng không đều, số khác giảm không đều,
+vẫn số khác hình thành Tam Giác, và một vài có thể tạo Hình
+Chữ Nhật, nhưng tổng đại số của tất cả các hình ảnh khá lệch
+lạc này tạo thành “Đường” Trung Bình.  
+
+Chắc chắn, có xu hướng từ các nhà giao dịch năng động là bán
+(hoặc mua) cổ phiếu khi một Trung Bình đạt một con số nhất
+định, bất kể tình trạng của các cổ phiếu riêng lẻ. Một cố vấn
+đầu tư đôi khi sẽ khuyên khách hàng “bán tất cả các cổ phiếu
+spekulative khi Dow Industrials đạt 500 (_EN: hoặc 5000 hoặc
+15000_).” Nhưng các quyết định giao dịch dựa chỉ trên mức
+Trung Bình nói chung hiếm khi được thực hiện nhất quán, nên
+tác dụng của chúng rất nhỏ.
 
 ![fig-072](./img/fig-072.png)
-**FIGURE 72.** Another long, loose Rectangle of Major Reversal implications, some-
-what similar to that pictured in Figure 68. Both an Intermediate and Major Up
-Trendline (to be discussed later) were decisively punctured by “YB” in August, just
-before its Rectangle broke down. Under Figure 64, we discussed one sort of warning
-of a Primary Downturn which may be derived from the comparison of individual
-stock charts with the Averages. Here is another hint: The better-grade steels and oils
-(see “SOV,” Figure 71) frequently hold up, or make stronger Secondary Recoveries,
-after the Averages have turned down at Major Tops. The Street sometimes speaks of
-“distribution under cover of strength in the steels.”
+**HÌNH 72.** Một Hình Chữ Nhật dài, lỏng lẻo khác với ý nghĩa
+Đảo Chiều Lớn, hơi giống hình trong Hình 68. Cả Đường Xu
+Trung Gian và Xu Hướng Tăng Chính (sẽ bàn sau) đều bị “YB”
+đâm thủng quyết liệt vào tháng Tám, ngay trước khi Hình Chữ Nhật
+của nó sụp xuống. Trong Hình 64, chúng ta đã thảo luận một loại
+cảnh báo về Suy Thoái Chính có thể rút ra từ việc so sánh biểu
+đồ cổ phiếu riêng lẻ với Trung Bình. Đây là một gợi ý khác: Thép
+và dầu chất lượng tốt (xem “SOV,” Hình 71) thường giữ vững
+hoặc phục hồi phụ mạnh hơn sau khi Trung Bình đã giảm tại các
+Đỉnh Chính. Phố Wall đôi khi gọi là “phân phối dưới lớp vỏ
+sức mạnh của thép.”
 
+##### Hình Chữ Nhật từ Tam Giác Vuông Góc
 
-##### Rectangles from Right-Angle Triangles
-
-In the preceding chapter, we referred to a type of partial “failure” in the
-development of a Right-Angle Triangle which necessitates reclassifying the
-Triangle as a Rectangle. Now that we have examined the latter pattern in
-detail, we need say little more about this phenomenon, except to note that
-the odds appear to be still somewhat in favor of ultimate breakout in the
-direction originally implied by the incipient Triangle. The fact that there is
-this slight presumption, however, certainly does not warrant disregard of
-an opposite breakout from the rectangular reconstruction.
+Trong chương trước, chúng tôi đã nhắc đến một loại “thất bại”
+một phần trong quá trình phát triển của Tam Giác Vuông Góc
+cần phải phân loại lại Tam Giác thành Hình Chữ Nhật. Bây
+giờ, khi chúng ta đã xem xét kỹ mô hình này, không cần bàn
+nhiều hơn về hiện tượng này, ngoại trừ việc lưu ý rằng xác
+suất vẫn hơi nghiêng về khả năng đột phá cuối cùng theo
+hướng ban đầu mà Tam Giác dự đoán. Tuy nhiên, xác suất
+nhỏ này không đủ để bỏ qua khả năng đột phá ngược lại
+từ Hình Chữ Nhật.
 
 ![fig-073](./img/fig-073.png)
-**FIGURE 73.** The Rectangle in early 1945 in “EAL” was actually the final stage of
-a nearly 2-year Consolidation in the rise which started around 17 in 1942 and ended
-above 125 in December 1945. G, G mark gaps (Chapter 12), the first a Breakaway and
-the second a Measuring Gap which marked the probable objective of the move as
+**HÌNH 73.** Hình Chữ Nhật đầu năm 1945 trong “EAL” thực sự
+là giai đoạn cuối của một quá trình Hợp Nhất gần 2 năm trong
+đợt tăng bắt đầu từ khoảng 17 năm 1942 và kết thúc trên 125
+vào tháng 12 năm 1945. G, G đánh dấu các khoảng trống (Chương
+12), khoảng trống đầu tiên là Breakaway và khoảng trống thứ hai
+là Measuring Gap, đánh dấu mục tiêu có khả năng của đợt di
+chuyển.
 
-##### Double and Triple Tops and Bottoms
+##### Đỉnh và Đáy Đôi, Ba
 
-To some of the old hands in the Street, our relegation of that good old
-byword, the _Double Top_ , to a Minor Position in our array of Reversal Forma-
-tions may seem almost sacrilegious. It is referred to by name perhaps more
-often than any other chart pattern by traders who possess a smattering of
-technical “lingo” but little organized knowledge of technical facts. True
-Double Tops and Double Bottoms are exceedingly rare; Triple Forms are
-even rarer. And the true patterns (as distinguished from chart pictures which
-might mistakenly be called such, but are really assignable to some one of
-our other Reversal Formations) can seldom be positively detected until prices
-have gone quite a long way away from them. They can never be foretold,
-or identified as soon as they occur, from chart data alone.
+Với một số người lão luyện trên Phố Wall, việc chúng tôi
+xếp câu tục ngữ cũ, _Double Top_, vào vị trí Nhỏ trong danh
+sách Mô Hình Đảo Chiều có thể có vẻ gần như báng bổ. Nó
+được nhắc tên có lẽ nhiều hơn bất kỳ mô hình biểu đồ nào
+khác bởi các nhà giao dịch nắm một ít thuật ngữ kỹ thuật nhưng
+ít kiến thức tổ chức. Đỉnh và Đáy Đôi thực sự rất hiếm;
+mô hình Ba càng hiếm hơn. Và các mô hình thực sự (khác với
+các biểu đồ có thể bị gọi nhầm là như vậy nhưng thực sự
+thuộc các Mô Hình Đảo Chiều khác) hầu như không thể xác
+định dứt khoát cho đến khi giá di chuyển khá xa. Chúng không
+bao giờ có thể dự báo hoặc xác định ngay khi xuất hiện
+chỉ dựa trên dữ liệu biểu đồ.
 
 ![fig-074](./img/fig-074.png)
-**FIGURE 74**. An extraordinary, fine, long Rectangle which developed after “ZA” had broken 
-down out of a Headand-Shoulders Top in February 1946. A perfect opportunity to sell this 
-stock short was given by its Pullback of July 17–18 after prices had broken out of the Rectangle
-on the 15th. The Multiple Head-and-Shoulders Bottom which it subsequently made from September 
-to November produced a recovery to 11, but prices later fell to 6 in early 1947.
-
+**HÌNH 74.** Một Hình Chữ Nhật dài, xuất sắc, phát triển sau khi
+“ZA” phá vỡ Đầu và Vai trên vào tháng 2 năm 1946. Cơ hội hoàn
+hảo để bán khống cổ phiếu được tạo ra bởi Pullback từ 17–18
+tháng 7, sau khi giá phá vỡ Hình Chữ Nhật vào ngày 15. Hình
+Đầu và Vai Đôi nhiều lần mà nó tạo ra từ tháng 9–11 đã tạo
+phục hồi lên 11, nhưng giá sau đó giảm xuống 6 đầu năm 1947.
 
 ![fig-075](./img/fig-075.png)
-**FIGURE 75.** In this weekly chart showing Sears Roebuck’s 1942 Bear Market Bot-
-tom, a Consolidation Rectangle (June to November) forms the right shoulder of a
-large “unbalanced” Double Head-and-Shoulders Pattern.
+**HÌNH 75.** Biểu đồ tuần của Sears Roebuck, đáy Thị Trường Gấu
+1942, Hình Chữ Nhật Hợp Nhất (tháng 6–11) tạo vai phải của
+một Mô Hình Đầu và Vai Đôi “mất cân đối” lớn.
 
-But we are getting ahead of our story. We should first define what we
-are talking about. A _Double Top_ is formed when a stock advances to a certain
-level with, usually, high volume at and approaching the Top figure, then
-retreats with diminishing activity, then comes up again to the same (or
-practically the same) top price as before with some pickup in turnover, but
-not as much as on the first peak, and then finally turns down a second time
-for a Major or Consequential Intermediate Decline. A _Double Bottom_ is, of
-course, the same picture upside down. The Triple types make three Tops (or
-Bottoms) instead of two.
-It isn’t difficult to skim through a book of several hundred monthly
-charts and pick out two or three examples of Major Double Tops, perhaps
-one or two Double Bottoms. One will find cases where stocks made two
-successive Bull Market Peaks, several years apart, at almost identical levels.
-Such phenomena stand out, in distant retrospect, like the proverbial sore
-thumb, which undoubtedly accounts for the undue awe with which the
-amateur chartist regards them. He neglects, for the moment, to consider the
-fact that a thousand other issues might have done the same thing, but
-didn’t — that some of these even acted, for a time, as though they were
-going to Double Top, but then went on through and higher.
+Nhưng chúng ta đang đi trước câu chuyện. Trước tiên cần
+xác định điều đang nói. _Double Top_ hình thành khi một
+cổ phiếu tăng đến mức nhất định với khối lượng thường
+cao ở và gần Đỉnh, rồi giảm với hoạt động giảm dần, sau
+đó lại tăng lên cùng mức giá đỉnh trước đó với chút tăng
+khối lượng, nhưng không bằng đỉnh đầu tiên, rồi cuối cùng
+giảm lần thứ hai để tạo một Suy Thoái Chính hoặc Trung Gian
+Quan Trọng. _Double Bottom_ tất nhiên là hình ảnh ngược
+lại. Mô hình Ba tạo ba Đỉnh (hoặc Đáy) thay vì hai.
 
+Không khó để lướt qua một cuốn sách vài trăm biểu đồ tháng
+và chọn ra hai hoặc ba ví dụ về Đỉnh Đôi Lớn, có thể một
+hoặc hai Đáy Đôi. Người ta sẽ thấy trường hợp cổ phiếu tạo
+hai Đỉnh Thị Trường Bò liên tiếp, cách nhau vài năm, ở
+gần như cùng mức. Hiện tượng này nổi bật, nhìn lại từ xa,
+giống như ngón tay cái nổi bật, giải thích phần nào sự
+kính nể quá mức của các nhà phân tích nghiệp dư. Họ tạm
+thời bỏ qua thực tế rằng hàng ngàn cổ phiếu khác có thể
+đã làm điều tương tự, nhưng không — một số thậm chí hành
+động như thể sẽ Đỉnh Đôi, nhưng rồi tiếp tục đi lên cao hơn.
 
 ![fig-076](./img/fig-076.png)
-**FIGURE 76.** After advancing to 16 in January 1945, “BLL” dropped back to 13 and
-then constructed a 15-week Rectangle. Note that the down gap (G) on April 30 was
-caused by a $1.00 dividend going off. The revised bottom line of the pattern, drawn
-$1.00 lower, was not violated.
+**HÌNH 76.** Sau khi tăng lên 16 vào tháng 1 năm 1945, “BLL”
+giảm xuống 13 và tạo Hình Chữ Nhật 15 tuần. Lưu ý khoảng
+trống giảm (G) ngày 30 tháng 4 do cổ tức $1.00. Đường đáy
+mới của mô hình, vẽ thấp hơn $1.00, không bị vi phạm.
+
+Khái niệm Đỉnh Đôi có thực sự hữu ích cho nhà giao dịch hay
+nhà đầu tư không? Có, nhưng sẽ dễ hình thành hơn nếu
+trước tiên chúng ta xem xét điều _không phải_ Đỉnh Đôi.
+Quay lại Tam Giác Tăng Dần và Hình Chữ Nhật đã học. Khi
+chúng bắt đầu phát triển, hầu như bước đầu tiên là xây dựng
+hai Đỉnh ở cùng mức với một đợt giảm xen giữa, và với
+khối lượng nhỏ hơn ở Đỉnh thứ hai so với Đỉnh đầu tiên. Trong
+quá trình thông thường, Đỉnh thứ ba sẽ xuất hiện ở đó, và
+cuối cùng giá sẽ phá vỡ và tiếp tục lên cao hơn. Vì vậy, chúng
+ta cần có một quy tắc hay tiêu chí để phân biệt Mô Hình Đảo
+Chiều Đỉnh Đôi thực sự với các Đỉnh Đôi không báo hiệu
+Đảo Chiều khi xuất hiện trong một Vùng Hợp Nhất của xu hướng
+tăng.
 
 
-Is there any practical utility for the trader or investor in the Double Top
-concept? Yes, there is, but it will be easier for us to formulate it if we first
-consider what is _not_ a Double Top. Refer back for a moment to the Ascending
-Triangles and the Rectangles previously studied. When these start to evolve,
-almost their first step is the construction of two Tops at an identical level
-with an intervening recession, and with less volume on the second Top than
-on the first. In the ordinary course of events, a third Top will develop there,
-and ultimately, prices will break through and move on up to still higher
-levels. Thus, we see we must have some rule or criterion to distinguish a
-true Double Top Reversal Pattern from the Double Tops which do not imply
-Reversal when they appear as a part of a Consolidation Area in an uptrend.
 
-##### Distinguishing Characteristics
-
+##### Đặc điểm Nhận dạng
 
 ![fig-077](./img/fig-077.png)
-**FIGURE 77.** A brief and very “high” Rectangle formed in September 1937 in the
-rapid Bear Market Decline of “KN,” followed by a Descending and then a Symmet-
-rical Triangle Consolidation.
+**HÌNH 77.** Một Tam giác chữ nhật ngắn và “cao” xuất hiện tháng 9/1937
+trong đợt giảm nhanh của Bear Market “KN,” sau đó là sự tích lũy bằng
+Tam giác Xuống và Tam giác Đối xứng.
 
-No absolute and unqualified rule can be laid down to fit all cases involving
-stocks of different values and market habits, but one relative distinction
-quickly suggests itself when we study these different kinds of chart forma-
-tions. It is: if two Tops appear at the same level but quite close together in
-time and with only a Minor Reaction between them, the chances are that
-they are part of a Consolidation Area; or, if a Reversal of Trend is to ensue,
-that there will first be more pattern development — more “work” done —
-around those top ranges. If, on the other hand, there is a long, dull, deep,
-and more or less rounding reaction after the initial peak has appeared, and
-then an evident lack of vitality when prices come up again to the previous
-high, we can at least be suspicious of a Double Top.
+Không có quy tắc tuyệt đối áp dụng cho tất cả các cổ phiếu với giá trị
+và thói quen thị trường khác nhau, nhưng một phân biệt tương đối dễ
+nhận ra khi nghiên cứu các loại mô hình này là: nếu hai đỉnh xuất hiện
+ở cùng mức nhưng gần nhau về thời gian với chỉ một phản ứng nhỏ
+giữa chúng, khả năng cao chúng thuộc vùng Tích lũy; hoặc nếu có
+Đảo Chiều Xu hướng, sẽ có thêm phát triển mô hình — nhiều “công việc”
+xung quanh các mức đỉnh đó. Nếu ngược lại, có phản ứng dài, chậm,
+sâu và khá tròn sau đỉnh đầu, rồi khi giá lên lại mức cũ thiếu sinh lực,
+chúng ta ít nhất nên nghi ngờ một Đỉnh Đôi.
 
-How deep is deep, and how long is long? Fair questions, to which,
-unfortunately, it is impossible to give simple, definite answers. But we can
-attempt approximations. Thus, if the two Tops are _more than_ a month apart,
-they are not likely to belong to the same Consolidation or Congestion For-
-mation. If, in addition, the reaction between the first and second high reduces
-prices by 20% of their top value, the odds swing toward a Double Top inter-
-pretation. But both of these criteria are arbitrary, and not without exception.
+Sâu là bao nhiêu, dài là bao lâu? Câu hỏi hợp lý, nhưng tiếc là không
+thể trả lời đơn giản. Ta có thể ước lượng: nếu hai đỉnh _cách nhau_
+hơn một tháng, khó có thể thuộc cùng vùng Tích lũy hay Tắc nghẽn.
+Nếu thêm phản ứng giữa hai đỉnh giảm giá ~20% giá đỉnh, nghiêng
+về giải thích Đỉnh Đôi. Cả hai tiêu chí này mang tính tương đối
+và không phải lúc nào cũng đúng.
 
 ![fig-078](./img/fig-078.png)
-**FIGURE 78.** This formation, constructed by United Aircraft in 1942, was not com-
-pleted and could not be called a Double Bottom until prices rose above 31 in February
-1943. (See following pages.)
+**HÌNH 78.** Mô hình này, do United Aircraft tạo ra năm 1942, chưa
+hoàn tất và không thể gọi là Đáy Đôi cho tới khi giá vượt 31 vào
+tháng 2/1943. (Xem các trang tiếp theo.)
 
-There are cases in which the two peaks have occurred only 2 or 3 weeks
-apart, and others in which the “valley” between them descended only about
-15%. Most true Double Tops, however, develop 2 or 3 months or more apart.
-Generally speaking, the time element is more critical than the depth of the
-reaction. The greater the time between the two highs, the less the need of
-any extensive decline of prices in the interim.
+Có trường hợp hai đỉnh cách nhau chỉ 2–3 tuần, hoặc “thung lũng”
+giữa chúng giảm chỉ ~15%. Tuy nhiên, hầu hết Đỉnh Đôi thật sự
+phát triển cách nhau 2–3 tháng hoặc hơn. Thời gian nói chung
+quan trọng hơn độ sâu phản ứng. Khoảng cách giữa hai đỉnh càng lớn,
+càng ít cần giảm giá nhiều giữa hai đỉnh.
 
-Given the conditions we have specified, viz., two Tops at approximately
-the same level but more than a month apart on the chart, with somewhat
-less activity on the second advance than on the first, and a rather dull or
-irregular and rounding type of recession between them, we can then be
-suspicious that a Double Top Reversal has actually evolved. Should a small
-Head-and-Shoulders or Descending Triangle start to develop at the second
-Top, as is frequently the case, we can be on guard, to the extent of protecting
-long commitments at once with a close stop or switching to something else
-with a more promising chart picture.
+Với điều kiện đã nêu: hai đỉnh gần cùng mức nhưng hơn một tháng
+cách nhau, đợt tăng thứ hai yếu hơn đợt đầu, và phản ứng giữa
+hai đỉnh chậm, không đều, vòng tròn, ta có thể nghi ngờ Đỉnh Đôi
+thực sự hình thành. Nếu xuất hiện Vai-Đầu-Vai nhỏ hoặc Tam giác
+Xuống tại đỉnh thứ hai, như thường thấy, cần cảnh giác: bảo vệ
+vị thế mua bằng stop hoặc chuyển sang cổ phiếu khác với chart
+tốt hơn.
 
-Yet, even all these signs together are not final and conclusive. The situ-
-ation can still be saved, and often is. Let us take a look at what is, presumably,
-going on behind the scenes to create our chart picture up to this point. The
-first Top on relatively high volume was a normal incident and tells us little
-except that here, for the moment, demand met with sufficient supply to stop
-the advance and produce a reaction. That supply may have represented only
-traders’ profit-taking, in which event the trend is likely to push on up after
-a brief setback. But, when the reaction drifts off lower and lower until it has
-given up 15% and more of the stock’s peak market value, and flattens out
-without any prompt and vigorous rebound, it becomes evidence that either
-the demand was pretty well played out on the last advance or that the selling
-there represented something more than short-term profit cashing. The ques-
-tion then is: did the first high give evidence of important distribution, and
-is there much more to meet at the same price range?
-
+Dù vậy, tất cả các dấu hiệu này chưa kết luận. Tình hình vẫn có thể
+được cứu, và thường là vậy. Hãy xem xét điều có thể diễn ra phía
+sau bức màn tạo biểu đồ này. Đỉnh đầu trên khối lượng tương đối cao
+là hiện tượng bình thường, chỉ ra rằng cung cầu tạm thời cân bằng,
+tạo phản ứng. Cung này có thể chỉ là chốt lời của trader, khi đó
+xu hướng có thể tiếp tục lên sau cú lùi ngắn. Nhưng khi phản ứng
+hạ dần xuống mất 15% giá đỉnh, và phẳng ra mà không hồi mạnh,
+đó là bằng chứng rằng cầu gần như hết hoặc việc bán vượt ngoài
+chốt lời ngắn hạn. Câu hỏi: đỉnh đầu có dấu hiệu phân phối quan
+trọng không, và còn bao nhiêu phải bán ở cùng mức?
 
 ![fig-079](./img/fig-079.png)
-**FIGURE 79.** INCO quickly recovered from the Reagan Crash of 1987 and by year’s
-end, it was nearly back to its 1987 high; the latter was decisively broken in April
-1988. The powerful rally continued to carry “N” higher. But the August reaction,
-followed by a poor rally in September, created a large Head-and-Shoulders Top. The
-early September decline broke the neckline to confirm the Reversal and the subse-
-quent Throwback, to Neckline Resistance, was an excellent selling point.
+**HÌNH 79.** INCO hồi nhanh từ Crash Reagan 1987 và gần về đỉnh
+cuối năm; đỉnh cũ bị phá tháng 4/1988. Rally mạnh tiếp tục đẩy
+“N” cao hơn. Nhưng phản ứng tháng 8, sau đó rally yếu tháng 9,
+tạo một Đỉnh Vai-Đầu-Vai lớn. Xuống sớm tháng 9 phá neckline
+xác nhận Đảo Chiều, và Throwback tới Neckline Resistance là điểm
+bán tốt.
 
-Nevertheless, as our chart picture shows, demand did finally come in
-and absorb enough of the floating supply to turn the trend around. When
-prices pushed up and began to run into selling again near the level of the
-first Top, that was to be expected on “psychological” grounds; many quick-
-turn operators naturally would take profits at the old high (perhaps with
-the intention of jumping right back in at a still higher price if the old high
-should be exceeded). Hence, a Minor Hesitation there was quite in order.
-But selling in sufficient quantity to produce another extensive reaction would
-be quite another matter. We have, by now, established a zone of Supply or
-Resistance at the peak levels and a zone of Support or Demand at the Bottom
-of the valley between. The final and decisive question now is: will the
-“valley” Support reappear and stop the second decline?
+Tuy nhiên, biểu đồ cho thấy cầu cuối cùng xuất hiện, hấp thụ
+đủ cung nổi để đảo chiều. Khi giá tăng lại gần đỉnh đầu, điều
+này dễ hiểu về tâm lý; nhiều trader lướt sóng chốt lời đỉnh cũ
+với ý định mua lại nếu vượt đỉnh. Do đó, một chút chần chừ là
+bình thường. Nhưng bán đủ nhiều tạo phản ứng mạnh khác. Ta đã
+thiết lập vùng Cung/Kháng cự tại đỉnh và vùng Cầu/Hỗ trợ tại
+đáy giữa. Câu hỏi quyết định: Hỗ trợ “thung lũng” có xuất hiện
+ngăn đợt giảm thứ hai không?
+
+**HÌNH 80.** Vì Đỉnh Đôi yêu cầu khoảng cách giữa hai đỉnh dài, các
+mô hình này hiếm khi thấy rõ trên biểu đồ ngày, nhưng ví dụ tốt
+năm 1946 ở Republic Steel. Lưu ý 5 tháng và giảm 20% giữa hai đỉnh.
+Biểu đồ còn nhiều mô hình kỹ thuật phụ thú vị. Các dao động
+“Rộng dần” (Ch.10) trong tháng 6–7, khi đỉnh thứ hai hình thành,
+và rally tròn tháng 8, rất Bearish về mặt ý nghĩa.
+
+Định nghĩa kết luận Đỉnh Đôi: nếu giá giảm qua đáy giữa hai đỉnh,
+báo hiệu Đảo Chiều từ lên xuống. Đây thường là tín hiệu quan trọng
+và hầu như là hiện tượng Đảo Chiều Chính (Primary). Khi chắc chắn
+có Đỉnh Đôi, đừng xem thường. Dù giá giảm 20%, khả năng còn giảm
+rất sâu trước khi chạm đáy.
+
+Về đo lường, Đỉnh Đôi không có công thức tương tự Vai-Đầu-Vai
+hay Tam giác, nhưng an toàn giả định: giảm ít nhất bằng khoảng cách
+từ đỉnh tới đáy. Có thể không liên tục; có thể cần thời gian thực
+hiện trong các sóng. Pullback về vùng đáy sau phá đầu tiên không
+hiếm. (Nhớ quy tắc chung: Mô hình Đảo Chiều không tạo nhiều hơn
+retracement xu hướng trước đó.)  
+
+Một điểm nữa: đỉnh không cần chính xác cùng mức. Dùng quy tắc
+3% đã nêu cho breakouts. Ví dụ đỉnh đầu 50, đỉnh hai 51½, vẫn
+trong giới hạn. Thật thú vị, đỉnh thứ hai thường vượt chút so
+với đỉnh đầu. Quan trọng: (1) cầu không đẩy giá lên rõ rệt,
+(2) hỗ trợ dưới bị phá sau đó.
 
 
-**FIGURE 80**. Because of the long-time-between-Tops requirement for true Double Top Reversals, these formations can seldom
-be seen to advantage on a daily chart, but here is a good 1946 example in Republic Steel. Note 5 months and 20% decline
-between Tops. This chart contains many interesting lesser technical formations also. The “Broadening” Swings (see Chapter 10)
-in June and July, as the second Top was made, and the rounding rally in August were extremely Bearish in their implications.
 
-The conclusive definition of a Double Top is given by a negative answer
-to that last question. If prices, on their recession from the second peak, drop
-through the Bottom level of the valley, a Reversal of Trend from up to down
-is signaled. And it is usually a signal of major importance. Fully confirmed
-Double Tops seldom appear at turns in the Intermediate Trend; they are
-characteristically a Primary Reversal phenomenon. Hence, when you are
-sure you have one, do not scorn it. Even though prices may have already
-receded 20%, the chances are they have very much farther to go before they
-reach bottom.
-As to measuring implications, the Double Top affords no formula com-
-parable with that we have attributed to Head-and-Shoulders and Triangle
-Formations, but it is safe to assume that the decline will continue _at least as
-far_ below the valley level as the distance from peak to valley. It may not be
-so, of course, in one interrupted slide; on the contrary, considerable time
-may be required to carry out the full descent in a series of waves. Pullbacks
-to the “valley” price range, following the first breakthrough, are not uncom-
-mon. (Bear in mind the general rule that a Reversal Formation can be expected
-to produce no more than a retracement of the trend which preceded it.)
-One more point: we have said that the Tops need not form at precisely
-the same level. Use here the 3% rule we have previously laid down as a
-measuring stick for breakouts. A first Top at 50, for example, and a second
-at 51½ would come within this limit. Curiously enough, the second peak
-often does exceed the first by a fraction. The important points are (1) that
-buying cannot push prices up into the clear _by a decisive margin_ , and (2) the
-Support below is subsequently broken.
+##### Đáy Đôi
 
-##### Double Bottoms
-
-In identifying a Double Bottom, we can apply all of the precepts we have
-formulated for the Double Top Pattern, but, of course, upside down. The
-differences between the two pictures are just what you might expect them
-to be, having in mind the characteristic differences between Head-and-Shoul-
-ders Tops and Bottoms, for example. Thus, the second Bottom is usually
-conspicuously dull (little trading volume) and is apt to be quite rounded,
-whereas the second Top in a Double Top is moderately active and nearly as
-sharp and “spiky” in contour as the first. The rally up from the second
-Bottom shows an increase in turnover, and volume should pick up to a
-marked degree as the valley level, or more properly, in this case, the _height_
-between the two Bottoms, is surpassed. Double Bottoms appear just about
-as frequently as do Double Tops at Primary Trend Reversals, and Double
-Bottoms also occur sometimes at the end of Intermediate Corrections in a
-Major Uptrend.
+Khi xác định một Đáy Đôi, chúng ta có thể áp dụng tất cả các nguyên tắc
+đã nêu cho Mô Hình Đỉnh Đôi, nhưng tất nhiên là lộn ngược. Sự khác
+biệt giữa hai hình ảnh chính xác là những gì bạn có thể mong đợi, dựa
+vào sự khác nhau đặc trưng giữa Đầu và Vai Đỉnh so với Đáy, ví dụ. 
+Do đó, đáy thứ hai thường khá tẻ nhạt (khối lượng giao dịch ít) và
+thường khá tròn, trong khi đỉnh thứ hai trong Đỉnh Đôi thì tương đối
+năng động và gần như sắc nhọn và “nhọn” như đỉnh đầu tiên. Đợt tăng
+từ đáy thứ hai thể hiện sự gia tăng khối lượng, và khối lượng sẽ tăng
+đáng kể khi mức đáy, hay chính xác hơn trong trường hợp này, là
+_độ cao_ giữa hai đáy, bị vượt qua. Đáy Đôi xuất hiện gần như tần suất
+bằng với Đỉnh Đôi tại các Đảo Chiều Xu Hướng Chính, và cũng xảy ra
+thỉnh thoảng ở cuối các Sửa Chữa Trung Gian trong Xu Hướng Tăng Lớn.
 
 ![fig-081](./img/fig-081.png)
-**FIGURE 81.** Shares of “AMR,” then selling for around 90, were split 5-for-1 in April
-1946, resulting in a quick rally to a new high. But the overall aspect of a Double Top
-with the high made the previous December was nevertheless apparent, and was
-confirmed when prices broke down through the “valley” level on August 28. Popular
-buying brought in by “splits” is usually short-lived and only temporarily distorts
-the broad picture.
+**HÌNH 81.** Cổ phiếu “AMR,” lúc đó giao dịch quanh 90, đã được chia
+5-for-1 vào tháng 4 năm 1946, dẫn tới một đợt tăng nhanh lên mức cao
+mới. Nhưng tổng thể của một Đỉnh Đôi với đỉnh được lập trước đó
+vào tháng 12 vẫn hiển hiện, và được xác nhận khi giá giảm xuống
+dưới mức “thung lũng” vào ngày 28 tháng 8. Mua vào phổ biến nhờ
+“chia tách” thường chỉ tồn tại ngắn hạn và chỉ làm méo mó tạm thời
+bức tranh tổng thể.
 
-If you are familiar with some of the jargon of the Street, it has probably
-occurred to you that the second low of a Double Bottom is an example of
-the market action so often referred to as a “test.” In a sense, that is just what
-it is — a test or corroboration of the Support (i.e., demand) which stemmed
-the first decline at the same level. The _success_ of that test is not _proved_ ,
-however — and this is a point to remember — until prices have demonstrated
-their ability to rise on increasing volume above the preceding high (the height
-of the rally between the two Bottoms). Until such time as that has happened,
-there is always the possibility that a second test (third bottom) may be
-necessary, or even a third, and that one of these will fail, with prices then
-breaking on down into further decline. This thought leads us to our next
-type of Reversal Formation.
+Nếu bạn quen thuộc với một số thuật ngữ trên Phố Wall, có lẽ
+bạn đã nhận ra rằng đáy thứ hai của Đáy Đôi là một ví dụ về hành
+động thị trường thường gọi là “thử nghiệm.” Theo nghĩa nào đó,
+đó chính xác là một thử nghiệm hoặc xác nhận của Hỗ Trợ (tức cầu)
+ngăn chặn đợt giảm đầu tiên ở cùng mức. Tuy nhiên, _sự thành công_
+của thử nghiệm đó _không được chứng minh_ — và đây là một điểm
+cần nhớ — cho đến khi giá thể hiện khả năng tăng trên khối lượng
+tăng lên vượt mức đỉnh trước đó (chiều cao của đợt tăng giữa hai
+đáy). Cho đến khi điều đó xảy ra, luôn có khả năng cần thử nghiệm
+thứ hai (đáy thứ ba), thậm chí thứ ba, và một trong số đó có thể
+thất bại, khiến giá giảm xuống thêm. Ý tưởng này dẫn tới loại Mô
+Hình Đảo Chiều tiếp theo.
 
 ![fig-082](./img/fig-082.png)
-**FIGURE 82.** The Major Reversal Formation in “CNR” at the start of a Primary
-Advance which reached 54. Note how an attempt at an Ascending Triangle turned
-into a Double Bottom.
+**HÌNH 82.** Mô Hình Đảo Chiều Chính trong “CNR” ở đầu một Đợt
+Tăng Chính, đạt 54. Lưu ý cách một thử nghiệm Tam Giác Tăng dần
+biến thành Đáy Đôi.
 
-##### Triple Tops and Bottoms
+##### Đỉnh và Đáy Ba
 
-Logically, if there are Double Tops, then we might expect that there will also
-be Triple Tops, which will develop in somewhat similar fashion. Fact is that
-Reversal Formations, which can only be classed as Triple Tops, do occur, but
-they are few and far between. Of course, there are many patterns evolved
-at an important turn from up to down in the trend which contain three Top
-points, but most of these fall more readily into the category of Rectangles.
-For that matter, any Head-and-Shoulders Formation, particularly if it be
-rather “flat,” with the head not extending much above the level of the two
-shoulders, might be called a sort of Triple Top.
-
-
+Hợp lý mà nói, nếu có Đỉnh Đôi, thì có thể có Đỉnh Ba, phát triển
+theo cách tương tự. Thực tế là các Mô Hình Đảo Chiều chỉ có thể
+xếp vào Đỉnh Ba, nhưng rất hiếm. Tất nhiên, nhiều mô hình xuất hiện
+tại một bước ngoặt quan trọng từ tăng sang giảm có ba đỉnh, nhưng
+đa số thuộc loại Hình Chữ Nhật. Hơn nữa, bất kỳ Mô Hình Đầu và Vai
+nào, đặc biệt nếu “bằng phẳng,” với đầu không vượt quá mức hai vai,
+cũng có thể gọi là một dạng Đỉnh Ba.
 
 ![fig-083](./img/fig-083.png)
-**FIGURE 83.** Although Trinity Industries did not have the well-formed pattern
-exhibited by our other recommendations, we found the high-volume plunge, with
-the low of the day the third test of the year’s low, a very beguiling technical situation.
-Basically, it was a Triple Bottom with a One-Day Reversal to get the uptrend started.
+**HÌNH 83.** Mặc dù Trinity Industries không có mô hình chuẩn như
+các ví dụ khác, chúng tôi nhận thấy đợt giảm khối lượng cao với đáy
+trong ngày là thử nghiệm thứ ba của mức thấp năm đó, là tình huống
+kỹ thuật rất hấp dẫn. Về cơ bản, đây là Đáy Ba với đảo chiều trong
+một ngày để bắt đầu xu hướng tăng.
 
-The true Triple Top (as distinct, that is, from other types of three-peak
-formations) carries a recognizable family resemblance to the Double Top. Its
-Tops are widely spaced and with quite deep and usually rounding reactions
-between them. Volume is characteristically less on the second advance than
-on the first, and still less on the third, which often peters out with no
-appreciable pickup in activity. The three highs need not be spaced quite so
-far apart as the two which constitute a Double Top, and they need not be
-equally spaced. Thus, the second Top may occur only about 3 weeks after
-the first, and the third 6 weeks or more after the second. Also, the intervening
-valleys need not bottom out at exactly the same level; the first may be
-shallower than the second and vice versa. And the three highs may not come
-at precisely the same price; our 3% tolerance rule is again useful here. Yet,
-despite all these permissible variations, there should be, and generally is,
-something suspiciously familiar about the overall picture, something which
-immediately suggests the possibility of a Triple Top to the experienced chartist.
-The _conclusive_ test, however, is a decline from the third Top which breaks
-prices down through the level of the valley floor (the lower one, if the two
-valleys form at different levels). Not until that has occurred can a Triple Top
-be regarded as confirmed and actually in effect, since so long as demand
-persists at the valley price range, the trend can be turned up again. Only in
-those cases where activity is conspicuously lacking on the third peak and
-then begins to show Bearish characteristics by accelerating on the ensuing
-decline is one justified in “jumping the gun.”
+Đỉnh Ba thực sự (khác với các loại ba đỉnh khác) có sự tương đồng
+rõ rệt với Đỉnh Đôi. Các đỉnh cách xa nhau với các phản ứng sâu và
+thường tròn giữa chúng. Khối lượng thường ít hơn ở đợt tăng thứ hai,
+và còn ít hơn ở đợt thứ ba, thường chấm dứt mà không có sự gia
+tăng đáng kể. Ba đỉnh không cần cách xa nhau bằng hai đỉnh của
+Đỉnh Đôi, và cũng không cần khoảng cách bằng nhau. Ví dụ, đỉnh
+thứ hai có thể xuất hiện khoảng 3 tuần sau đỉnh đầu tiên, và thứ
+ba 6 tuần hoặc hơn sau đỉnh thứ hai. Các thung lũng xen giữa cũng
+không cần đáy ở cùng mức; đỉnh đầu có thể nông hơn đỉnh thứ hai
+và ngược lại. Ba đỉnh cũng không cần cùng mức giá; quy tắc dung sai
+3% lại hữu dụng ở đây. Dù có những biến thể này, tổng thể hình ảnh
+vẫn phải có nét quen thuộc, khiến nhà phân tích giàu kinh nghiệm
+ngay lập tức nhận ra khả năng Đỉnh Ba.  
 
-
+Thử nghiệm _chắc chắn_ là sự giảm từ đỉnh thứ ba, phá mức thung
+lũng (thấp hơn, nếu hai thung lũng khác nhau về mức). Chỉ khi đó
+Đỉnh Ba mới được xác nhận, vì nếu cầu vẫn tồn tại ở mức thung lũng,
+xu hướng có thể quay lên. Chỉ khi khối lượng ở đỉnh thứ ba thấp
+rõ rệt và sau đó thể hiện đặc tính Gấu bằng tốc độ giảm, mới có
+thể “vội vàng hành động.”
 
 ![fig-084](./img/fig-084.png)
-**FIGURE 84.** Publicker made its Bull Market high only a few weeks after it was
-listed on the “big board.” Then it started to build a Descending Triangle, but pulled
-up out of it. Final outcome was a Triple Top, completed in August. (See Figures 60
-and 82.)
+**HÌNH 84.** Publicker lập đỉnh Thị Trường Bò chỉ vài tuần sau
+khi niêm yết trên “sàn lớn.” Sau đó, cổ phiếu bắt đầu tạo Tam Giác
+Giảm, nhưng lại bật lên. Kết quả cuối cùng là Đỉnh Ba, hoàn tất
+vào tháng 8. (Xem Hình 60 và 82.)
 
+Đáy Ba là Đỉnh Ba lộn ngược, với các lưu ý tương tự khi thảo luận
+Đáy Đôi. Đáy thứ ba luôn đi kèm khối lượng nhỏ, và đợt tăng
+từ đó phải thể hiện sự gia tăng khối lượng rõ rệt, đưa giá vượt
+hẳn các đỉnh của các đợt tăng hình thành giữa các đáy. Không
+bao giờ vội vàng hành động trên Đáy Ba giả định nếu hầu hết
+các biểu đồ khác chưa ở vị trí rõ ràng Tăng. Nguy cơ mua sớm
+được thể hiện qua câu nói trên Phòng Hội đồng: “Đáy Ba luôn
+bị phá.” Điều này không chính xác. Khi Đáy Ba đã được xác
+lập và xác nhận bằng đột phá lên, nó hiếm khi thất bại — hầu
+như luôn tạo ra một đợt tăng đáng kể. Nhưng hình ảnh “có thể”
+chưa hoàn tất của Đáy Ba phải được coi là nguy hiểm. Tuân thủ
+quy tắc đột phá sẽ an toàn.
 
-Triple Bottoms are simply Triple Tops turned upside down, with the
-same qualifications we noted when we were discussing Double Bottoms. The
-third low should always be attended by small volume, and the rise therefrom
-must show a decided increase in turnover and carry prices decisively above
-the Tops of the rallies that formed between the Bottoms. One is never justified
-in “jumping the gun” on a presumed Triple Bottom Formation unless nearly
-every other chart in the book is in an unmistakably Bullish position. The risk
-of premature buying is expressed in a saying one sometimes hears in the
-boardrooms to the effect that “a Triple Bottom is always broken.” This is not
-a true saying. Once a Triple Bottom has been established and confirmed by
-the necessary up-side breakout, it seldom fails — almost always produces
-an advance of distinctly worthwhile proportions. But an uncompleted “pos-
-sible” Triple Bottom chart picture must be regarded as treacherous. Stick to
-the breakout rule and you will be safe.
-Triple Tops are sometimes referred to as “W” Patterns because of their
-occasional resemblance to that capital letter on the chart. There is a sort of
-hybrid between the Double and Triple Top, in which the middle one of the
-three Tops does not attain the height of the first and third, and thus, even
-more strikingly resembles a “W.” For the same reason, Double Tops are
-sometimes called “M” Formations.
+Đỉnh Ba đôi khi được gọi là mô hình “W” vì đôi khi giống chữ W.
+Có loại lai giữa Đỉnh Đôi và Ba, trong đó đỉnh giữa không đạt
+mức của đỉnh đầu và thứ ba, càng giống chữ W. Vì lý do tương
+tự, Đỉnh Đôi đôi khi gọi là M.
 
-Because the elements in Double and Triple patterns are normally spaced
-well apart in time, they are often easier to detect and appreciate on a weekly
-chart than on a daily. Monthly graphs disclose numbers of widely spread
-Double and Triple Bottoms but, on the other hand, are too coarse to reveal
-many good Double and Triple Top Patterns.
-
+Các yếu tố trong Đỉnh và Đáy Đôi, Ba thường cách nhau xa theo
+thời gian, nên thường dễ phát hiện và đánh giá trên biểu đồ
+tuần hơn là ngày. Biểu đồ tháng tiết lộ nhiều Đáy và Đỉnh
+Đôi, Ba trải rộng, nhưng lại quá thô để hiển thị nhiều Đỉnh
+Đôi, Ba tốt.
 
 ![fig-085](./img/fig-085.png)
-**FIGURE 85.** In the ordinary course of events, at the time this Bottom Pattern
-developed in “NG,” consisting, as it did, of fluctuations for 10 long months within
-a range of only 1 full point, most traders would pay no attention to it. Certainly it
-suggested very little opportunity for short-term profits. On an arithmetically scaled
-chart, the pattern could hardly be seen. Logarithmic price scaling, however, as we
-have remarked in an earlier chapter, has the great advantage of bringing to light the
-percentage importance of significant market action at very low price levels.
-Note that this formation qualifies in every detail — spacing between Bottoms,
-extent in percent of intervening rallies, volume — as a Triple Bottom. Of course, its
-completion, in October 1942, did not necessarily forecast that “NG” would climb to
-33, as it ultimately did. But the fact that many other stocks were making sound Major
-Bottom Formations at higher price levels at the same time certainly warranted the
-conclusion that “NG” was on its way up, and that it was a bargain at 5.
+**HÌNH 85.** Trong quá trình thông thường, khi Đáy này hình
+thành ở “NG,” với các dao động suốt 10 tháng dài chỉ trong
+vùng 1 điểm, hầu hết nhà giao dịch sẽ không để ý. Chắc chắn
+có rất ít cơ hội kiếm lợi ngắn hạn. Trên biểu đồ tỷ lệ cộng,
+mô hình gần như không thấy được. Tuy nhiên, thang logarit
+giá, như chúng tôi đã nhắc ở chương trước, có lợi thế
+lớn là làm nổi bật tầm quan trọng phần trăm của hành
+động thị trường đáng kể ở mức giá rất thấp. Lưu ý mô hình
+này thỏa tất cả chi tiết — khoảng cách giữa các đáy,
+tỷ lệ phần trăm của các đợt tăng xen kẽ, khối lượng — là
+Đáy Ba. Dĩ nhiên, hoàn tất vào tháng 10 năm 1942 không
+nhất thiết dự báo “NG” sẽ lên 33, nhưng thực tế nhiều cổ
+phiếu khác đang tạo Đáy Chính vững chắc ở mức giá cao
+hơn cùng thời điểm, cho thấy “NG” đang đi lên và là
+một món hời ở mức 5.
+
+Trong phần thảo luận trước về Đỉnh Ba, chúng tôi nhắc đến
+một dạng trực giác từ kinh nghiệm, giúp nhà phân tích kỹ
+thuật nhận biết khả năng Đảo Chiều của một biểu đồ
+nào đó, đôi khi trước khi nó kết luận. Đây là một năng lực
+không hiếm, nhưng hiếm khi có được nếu không nhờ nghiên
+cứu kỹ lưỡng và trải nghiệm lâu dài (thường bao gồm một vài
+sai lầm đắt giá). Người đọc cuốn sách này không cần tuyệt
+vọng về việc phát triển “cảm giác biểu đồ,” nếu chú tâm học
+tập, quan sát, kiểm tra và đối chiếu mọi diễn biến mới trên
+biểu đồ, và tự “ghi điểm” với chính mình.
+
+Người ta nói phân tích biểu đồ không phải là _khoa học_, mà
+là _nghệ thuật_. Đúng, không phải khoa học chính xác, vì không
+có quy tắc nào không có ngoại lệ. Những điểm tinh tế khó có
+thể diễn đạt bằng quy tắc hay nguyên tắc. Nó đòi hỏi phán đoán
+khi đánh giá nhiều yếu tố, đôi khi xung đột nhau. Nhưng gọi là
+nghệ thuật, ám chỉ cần thiên tài hoặc tài năng bẩm sinh cao, là
+không đúng. Nói đúng hơn, nó đòi hỏi kỹ năng, và kỹ năng này
+có thể học được bởi bất kỳ ai có trí thông minh bình thường.
 
 
-In our foregoing discussion of the Triple Top, we referred to a sort of
-intuition which comes with experience and enables a technical analyst to
-recognize the potentialities for Reversal of a certain chart development,
-sometimes long before it has reached a conclusive stage. This is a not uncom-
-mon talent, but it is one that is seldom attained except through searching
-study and long experience (in which the latter usually involves a few expen-
-sive mistakes). The reader of this book need not despair of acquiring “chart
-sense” and without undue cost — if he will concentrate on his study, watch,
-check, and double-check every new development on his charts, and “keep
-score” on himself.
-It has been said that chart interpretation is not a _science_ , but an _art_. It is
-not an exact science, to be sure, because it has no rules to which there are
-not exceptions. Its finer points defy expression in rule or precept. It requires
-judgment in appraisal of many factors, some of which may seem, at times,
-to conflict radically with others. But to call it an art, which implies the need
-for genius, or at least for a high degree of native talent, is certainly improper.
-Say, rather, that it demands skill, but a skill that can be acquired by anyone
-of ordinary intelligence.
 
+## Chương 10. Các Hiện Tượng Đảo Chiều Khác
 
-## Chapter 10.
+Cho đến nay, chúng ta đã xem xét bảy loại mô hình xuất hiện ở các
+điểm Đảo Chiều quan trọng của xu hướng giá. Chúng là:
 
-# Other Reversal Phenomena
+1. Vai-Đầu-Vai
+2. Vai-Đầu-Vai Phức tạp hoặc Đa đầu
+3. Quanh Vòng Tròn (Rounding Turns)
+4. Tam giác Đối xứng
+5. Tam giác Góc Vuông
+6. Hình chữ nhật
+7. Đỉnh và Đáy Đôi hoặc Ba
+8. Đảo Chiều Một Ngày
 
-We have considered so far seven classes of chart patterns which appear at
-more or less important Reversals of direction in the trend of prices. They
-were:
+Trong số này, 1, 2, 3 và 7 xuất hiện nhiều nhất tại các Điểm Quay
+Lớn, trong khi 4, 5 và 6 xuất hiện thường xuyên hơn ở Giai đoạn
+Trung gian. Các số 1, 2, 3 và 5 cho tín hiệu _trước_ khi hoàn
+tất về hướng xu hướng giá sẽ tiếp tục. Số 4 và 6 không cho tín
+hiệu như vậy, và, như ta thấy, thường báo hiệu Tích lũy hoặc
+Tiếp diễn hơn là Đảo Chiều. Nhưng tất cả đều có thể, và đôi khi
+xuất hiện ở cả Đỉnh hoặc Đáy lớn. _Lưu ý: Số 8 thường xuất hiện
+sau các biến động mất kiểm soát, lên hoặc xuống._
 
-1. The Head-and-Shoulders
-2. Multiple or Complex Head-and-Shoulders
-3. Rounding Turns
-4. Symmetrical Triangles
-5. Right-Angle Triangles
-6. Rectangles
-7. Double and Triple Tops and Bottoms
-8. One-Day Reversal
+Chúng ta sẽ xem thêm vài mô hình kỹ thuật khác, vì ý nghĩa hạn
+chế, hiếm gặp, hoặc ít hữu ích cho nhà đầu tư dài hạn, nên được
+đưa cuối nghiên cứu Đảo Chiều.
 
-Of these, 1, 2, 3, and 7 develop most often at Major Turns, while 4, 5,
-and 6 occur more frequently at Intermediate Stages. Numbers 1, 2, 3, and 5
-give indication _before_ they are completed as to which way the price trend is
-likely to proceed from them. Numbers 4 and 6 give no such indication and,
-as we have seen, are rather more apt to signal Consolidation or Continuation
-than Reversal. But all of them can, and on occasion do, appear at both Major
-Tops or Bottoms. _EN: Number 8 appears typically after out of control moves, up
-and down._
-We have yet to take up a few other technical patterns which, because of
-their limited significance, or their rarity, or their doubtful utility to the long-
-term traders, have been relegated to the end of our Reversal studies.
+## Mô hình Rộng Dần (Broadening Formations)
 
-## The Broadening Formations
+Kết thúc chương Tam giác (Ch.8), chúng ta đã nhắc tới một số
+vùng tắc nghẽn hay “trading area” đôi khi gọi là “Tam giác
+Ngược” vì bắt đầu từ dao động hẹp, rồi rộng dần theo các
+đường biên phân kỳ thay vì hội tụ. Ở đây, chúng tôi phân loại
+chúng là _Mô hình Rộng Dần_ vì ngoài sự tương đồng bề ngoài,
+chúng khác về bản chất và ý nghĩa xu hướng.
 
-In concluding our discussion of Triangles in Chapter 8, we mentioned certain
-types of price congestion or trading areas which have sometimes been called
-“Inverted Triangles” because, starting with very narrow fluctuations, they
-widen out between diverging rather than converging boundary lines. Herein,
-we have chosen to classify them instead as _Broadening Patterns_ because,
-except for that inverted resemblance in superficial appearance, they are quite
-different in nature and trend implications.
+Nếu Tam giác Đối xứng thể hiện “nghi ngờ” đang chờ làm sáng
+tỏ, và Hình chữ nhật là “xung đột” được kiểm soát, thì Mô
+hình Rộng Dần ám chỉ thị trường thiếu định hướng thông minh
+và mất kiểm soát — thường khi công chúng tham gia hứng
+khởi và bị dao động bởi tin đồn. Chúng ta chỉ nói “gợi ý”
+thị trường như vậy. Đôi khi có thể thấy rõ đó là nguyên
+nhân tạo Mô hình Rộng Dần, đôi khi lý do mờ nhạt hoặc không
+phát hiện được. Dù sao, các biểu đồ kiểu này thường xuất hiện
+ở cuối hoặc giai đoạn cuối của Bull Market lâu dài, củng cố
+nhận định Bearish.  
 
-If the Symmetrical Triangle presents a picture of “doubt” awaiting clar-
-ification, and the Rectangle a picture of controlled “conflict,” the Broadening
-Formation may be said to suggest a market lacking intelligent sponsorship
-and out of control — a situation, usually, in which the “public” is excitedly
-committed and which is being whipped around by wild rumors. Note that
-we say only that it suggests such a market. There are times when it is obvious
-that those are precisely the conditions which create a Broadening Pattern in
-prices, and there are other times when the reasons for it are obscure or
-undiscoverable. Nevertheless, the very fact that chart pictures of this type
-make their appearance, as a rule, only at the end or in the final phases of a
-long Bull Market lends credence to our characterization of them.
-Hence, after studying the charts for some 20 years and watching what
-market action has followed the appearance of Broadening Price Patterns, we
-have come to the conclusion that they are definitely Bearish in purport —
-that, while further advance in price is not ruled out, the situation is, never-
-theless, approaching a dangerous stage. New commitments (purchases)
-should not be made in a stock which produces a chart of this type, and any
-previous commitments should be switched at once, or cashed in at the first
-good opportunity.
+Sau 20 năm quan sát biểu đồ, chúng tôi kết luận Mô hình
+Rộng Dần thường Bearish — dù giá có thể tăng tiếp, nhưng
+tình hình đã nguy hiểm. Không nên mua mới, và các vị thế
+trước nên chuyển đổi hoặc chốt lời ngay cơ hội tốt đầu tiên.
 
 ![fig-086](./img/fig-086.png)
-**FIGURE 86.** The Symmetrical type of Broadening Formation, which develops most
-frequently in the later and more “excited” stages of a Primary Bull Market, is perfectly
-exemplified in this Crane Company chart. Note that the Broadening Pattern here
-started to form in December 1945 after a 10% reaction; if it had formed on Top of a
-rally, it would have been suspected as a possible Broadening Top. Nevertheless, it
-carried the usual Bearish implications. “CR” topped out at 49½ in June.
+**HÌNH 86.** Mô hình Rộng Dần Đối xứng, xuất hiện nhiều nhất
+ở giai đoạn cuối Bull Market, minh họa bởi biểu đồ Crane Company.
+Chú ý Broadening bắt đầu hình thành tháng 12/1945 sau phản
+ứng 10%; nếu hình thành trên đỉnh rally, sẽ nghi ngờ là Broadening
+Top. Tuy nhiên, vẫn mang ý nghĩa Bearish. “CR” đạt đỉnh 49½
+tháng 6.
 
-The Broadening Formation may evolve in any one of three forms, com-
-parable, respectively, to inverted Symmetrical, Ascending, or Descending
-Triangles. The “Symmetrical” type, for example, consists of a series of price
-fluctuations across a horizontal axis, with each Minor Top higher and each
-Minor Bottom lower than its predecessor. The pattern may thus be roughly
-marked off by two diverging lines, the upper sloping up (from left to right)
-and the lower sloping down. But these Broadening Patterns are characteris-
-tically loose and irregular, whereas Symmetrical Triangles are normally reg-
-ular and compact. The converging boundary lines of a Symmetrical Triangle
-are clearly defined as a rule, and the Tops and Bottoms within the formation
-tend to fall with fair precision on those boundary lines. In a Broadening
-Formation, the rallies and declines usually do not all stop at clearly marked
-boundary lines.
+Mô hình Rộng Dần có thể phát triển theo ba dạng, tương ứng
+Tam giác Ngược, Tam giác Tăng, hoặc Tam giác Giảm. Dạng
+“Đối xứng” gồm các dao động quanh trục ngang, mỗi đỉnh nhỏ
+cao hơn, đáy nhỏ thấp hơn trước đó. Biểu đồ có thể vẽ bằng
+hai đường phân kỳ, trên đi lên (trái sang phải), dưới đi xuống.
+Nhưng Broadening thường lỏng lẻo, không đều, trong khi Tam
+giác Đối xứng đều và gọn. Đường hội tụ của Tam giác Đối xứng
+rõ ràng, đỉnh đáy rơi đúng đường biên. Trong Broadening,
+rallies và declines thường không dừng tại đường biên xác định.
 
-##### Volume During Broadening Formations
+##### Khối lượng trong Mô hình Rộng Dần
 
-Another distinction between Triangle and Broadening Formation is in the
-volume chart. The construction of a true Triangle is attended, as we have
-seen, by diminishing activity, starting with high volume on the first Minor
-Reversal which initiates the pattern, but growing less and less as prices
-fluctuate in ever smaller waves out toward the apex. Then activity picks up
-again after prices have broken out of the Triangle, immediately and sharply
-if the breakout is through the top side. With the Broadening Formation, on
-the other hand, trading activity usually remains high and irregular through-
-out its construction. If it develops after an advance, as is almost always the
-case, the first Minor Reversal which starts the pattern will occur on large
-turnover, but so will the second rally in the pattern, and the third, and high
-volume also frequently develops on one or more of its Minor Bottoms. The
-whole picture — both price and volume — is, thus, one of wild and appar-
-ently “unintelligent” swings.
-As can easily be seen, under such circumstances, a true breakout from
-the area may be difficult, if not impossible, to detect at the time it eventuates.
-The volume part of the chart obviously furnishes no clue, while the very
-looseness and lack of definition of the price pattern prevents the drawing of
-any line which surely says, “this far and no farther.” (We are referring now
-to the “Symmetrical” type only of Broadening Formation.) Of course, once
-prices have run well away, either up or down, from the pattern area, it
-becomes plain that a breakout has occurred, but by that time, it may be too
-late to risk a trade on the situation; the move may already have gone too
-far. What can we do about Broadening Formations then? Well, we have
-already noted that, nine times out of ten, they carry Bearish implications.
-They appear most often at or near an important topping out of the trend.
-Hence, it is reasonably safe to assume that prices, when they finally break
-away from the formation, will go down, or if they do go up, will very soon
-turn around and come back down again. Therein lies one answer to the
-problem of what to do about a Broadening Formation.
+Một khác biệt nữa giữa Tam giác và Broadening là khối lượng.
+Tam giác thật sự đi kèm hoạt động giảm dần: khối lượng cao
+ở Minor Reversal đầu, rồi giảm khi giá dao động nhỏ dần về
+đỉnh. Hoạt động tăng lại sau breakout, đặc biệt qua top.
+Trong Broadening, khối lượng thường cao và không đều suốt
+mô hình. Nếu xuất hiện sau tăng giá, Minor Reversal đầu
+có khối lượng lớn, và cả rally thứ hai, thứ ba, hoặc đáy
+cũng có khối lượng cao. Toàn cảnh — giá và khối lượng —
+cho thấy dao động “hoang dã” và dường như “ngu ngốc.”
 
+Dưới hoàn cảnh đó, breakout thật có thể khó nhận ra. Khối
+lượng không cung cấp dấu hiệu, và tính lỏng lẻo của giá không
+cho phép vẽ đường xác định: “đến đây thôi.” Chỉ khi giá
+di chuyển xa khỏi mô hình, mới rõ breakout, nhưng lúc đó
+có thể quá trễ để giao dịch; chuyển động đã đi xa.  
 
-_154 Technical Analysis of Stock Trends_
+Như đã nói, 9/10 lần Broadening Bearish. Xuất hiện gần đỉnh
+quan trọng. Khi breakout, giá sẽ giảm, hoặc nếu tăng, sẽ sớm
+đảo chiều trở lại. Đây là một phần câu trả lời cho việc xử lý
+Broadening.
 
-In addition, the price action within the formation, in many cases, fur-
-nishes an _advance_ indication of breakout direction. If the trend is going to
-break down from the Broadening Area, the last rally within the area may
-fail to rise as high as its predecessor, thus breaking the sequence of ever
-higher Tops within the pattern. And, alternatively, if the trend is going to
-emerge on the top side, the last reaction within the pattern may fail to depress
-prices as low as the preceding reaction. These “failures” within the pattern
-occur, as we have stated, in a majority of all Broadening Formations. But
-note that one cannot be sure of such a significant development (what we
-have referred to above as a failure, for lack of a better descriptive name)
-until prices go on and out the other side of the formation or, more precisely,
-have exceeded the last preceding move in that direction by a decisive margin
-(our 3% rule again).
+Hành động giá trong mô hình, nhiều khi báo hiệu hướng breakout.
+Nếu sẽ breakout xuống, rally cuối cùng có thể không cao bằng
+rally trước, phá chuỗi đỉnh cao dần. Nếu breakout lên, phản ứng
+cuối không hạ giá thấp bằng phản ứng trước. Các “thất bại” này
+xảy ra trong phần lớn Broadening. Tuy nhiên, không chắc chắn
+cho tới khi giá vượt đỉnh/trough trước đó theo biên quyết định
+(quy tắc 3%).
 
-##### A Typical Example
+##### Ví dụ điển hình
 
-No doubt the foregoing paragraph sounds rather complicated. It will be
-easier to visualize the development of a “failure” signal if we cite an example
-using actual price figures. Easier yet, perhaps, if the reader will sketch out
-our example on a scrap of chart paper. Suppose stock XYZ, after advancing
-some 30 points on gradually increasing turnover, runs into heavy selling at
-62 and reacts to 58. But there is still plenty of interest in the issue; it stops
-at 58 and then swings up to a new peak at 63. It “churns” there for a day or
-two and drops back again, this time to 56½ before it is halted by another
-burst of buying. Its third rally takes it up to 62, where it hesitates and falls
-back to 59, but is then picked up again and carried on to 65. (By this time,
-of course, a Broadening Formation has become evident on the chart.) At 65,
-there is a great show of trading, followed by another reaction which drops
-quotations quickly back to 60. Support appears there momentarily and prices
-fluctuate for 3 or 4 days between 60 and 62 and then fall away again, finally
-to close at 56, with volume running high all through this phase. A fourth
-rally starts, but now the traders who bought in at 60 on the preceding
-downswing are frightened and looking for a chance to “get out even,” and
-the advance is stifled at that level. Quotations start to slip and soon are down
-to 55, _below the previous pattern Bottom_. When this occurs, the “failure” of the
-preceding rally is confirmed — its failure, that is, to rise above 65 and, thus,
-carry on the Broadening Movement. The decline below 56, by virtue of that
-failure, may be regarded as a breakout.
-If you followed the foregoing example closely, you will have noted that
-there can be (and very often are) Minor Fluctuations inside the pattern that
-do not affect its outcome. Thus, the rise from 56½ to 65 really consisted of 3
-moves, first from 56½ to 62, then from 62 back to 59, and, finally, from 59 up
-to 65. The reaction from 62 had no significance so long as it stopped _above_
-56 ½ and was succeeded by a new rise carrying beyond the previous pattern
-high, which, in this case, had been 63.
+Ví dụ trên có thể phức tạp. Dễ hình dung hơn nếu vẽ biểu đồ.
+Giả sử cổ phiếu XYZ, sau khi tăng 30 điểm với khối lượng tăng,
+gặp bán mạnh tại 62, giảm về 58. Vẫn còn nhiều quan tâm; giá
+dừng tại 58 rồi lên 63, dao động 1–2 ngày rồi rơi 56½ nhờ
+mua đỡ. Rally thứ ba lên 62, chần chừ, giảm 59, rồi tăng 65.
+(Lúc này Broadening đã rõ.) Tại 65, giao dịch mạnh, phản ứng
+giảm giá về 60. Hỗ trợ xuất hiện, giá dao động 60–62 vài ngày,
+sau đó xuống 56 với khối lượng cao. Rally thứ tư bắt đầu, nhưng
+người mua 60 lo sợ, không tăng thêm; giá giảm xuống 55, _dưới
+đáy trước_. Khi đó, “thất bại” của rally trước được xác nhận —
+không vượt 65 và ngừng Broadening. Giảm dưới 56, do thất bại,
+xem như breakout.
 
+Nếu theo sát ví dụ, sẽ thấy dao động nhỏ trong mô hình không
+ảnh hưởng kết quả. Chẳng hạn, từ 56½ lên 65 gồm 3 bước:
+56½ → 62, 62 → 59, 59 → 65. Phản ứng từ 62 không quan trọng
+miễn là dừng _trên_ 56½ và được tiếp bởi đợt tăng mới vượt đỉnh
+trước đó (63).
 
-_Chapter ten: Other Reversal Phenomena 155_
-
-The example just detailed is one of the more common types in which
-the failure occurs on a rally and the breakout eventuates on the downside.
-But it could have been converted into the opposite form if the last decline
-had stopped at 60, and then, instead of fluctuating for a few days between
-60 and 62 and breaking down again, had pushed right back up and past 65.
-That action would have given us a failure on a decline and an upside
-breakout. (The odds would be, however, that the final Top was not far away.)
-
-##### The Orthodox Broadening Top
-
-There is one particular manifestation — a special case, as the mathematicians
-might say — of the Broadening Price Formation whose general nature we
-have discussed in the preceding paragraphs. This particular form appeared
-at the 1929 Tops of many of the active and popular stocks of that day, but
-with less frequency at Bull Market highs since 1929, and rarely at high-
-volume Tops preceding extensive Intermediate Declines, as in 1933 and 1934.
-It is known to market technicians under the specific name of _Broadening Top_ ,
-and although it conforms to our general descriptions for all Symmetrical
-Broadening Price Patterns, it has been so precisely defined, and so often cited
-in technical writings, that we may well take some time to examine it.
-The Orthodox Broadening Top has three peaks at successively higher
-levels and, between them, two Bottoms with the second Bottom lower than
-the first. The assumption has been that it is completed and in effect as an
-important Reversal indication just as soon as the reaction from its third peak
-carries below the level of its second Bottom.
+Ví dụ này là loại phổ biến, thất bại xảy ra trên rally, breakout
+xuống. Ngược lại, nếu đợt giảm dừng 60, rồi dao động 60–62 rồi
+tăng vượt 65, sẽ là thất bại trên giảm và breakout lên. (Khả năng
+đỉnh cuối gần kề.)
 
 
 
 
-Perhaps we can best see what this formation is like if we examine one
-of the classic patterns which developed in 1929. Our chart (Figure 87) shows
-the daily market action (price and volume) of Air Reduction from July 1 to
-December 31 of that year. We have numbered from 1 to 5 the significant
-turning points within the Broadening Top which ended that stock’s Bull
-Market in October. A Broadening Price Pattern was not detectable, of course,
-until prices had started to move up from the second Minor Low (point 4);
-by then 3 had formed _above_ 1, and 4 _below_ 2. New highs at 5 ( _a_ and _b_ ), followed
-by the definite downside breakout at B (nearly 6% under 4), completed the
-pattern and, according to the rules, signaled a Major Reversal Trend. In this
-case, there can be no doubt as to the importance of the Reversal indication,
-since, as our chart shows, the price of Air Reduction dropped from above
-220 on October 18 to below 80 on November 14, just 4 weeks later, and the
-final Bottom was not seen until nearly 3 years later in 1932!
+##### Đỉnh Mở Rộng Chính Thống
 
+Có một dạng đặc biệt — một trường hợp riêng, như các nhà toán học có thể nói — của Mô Hình Giá Mở Rộng mà chúng ta đã bàn trong các đoạn trước. Dạng đặc biệt này xuất hiện tại các đỉnh năm 1929 của nhiều cổ phiếu phổ biến và sôi động lúc bấy giờ, nhưng ít xảy ra hơn tại các đỉnh Thị Trường Bò sau 1929, và hiếm khi xuất hiện ở các Đỉnh có khối lượng cao trước các Đợt Sửa Chữa Trung Gian mở rộng, như năm 1933 và 1934. Nó được các kỹ thuật viên thị trường biết đến với tên gọi cụ thể là _Đỉnh Mở Rộng (Broadening Top)_, và mặc dù phù hợp với mô tả chung của tất cả các Mô Hình Giá Mở Rộng Đối Xứng, nó đã được định nghĩa rất chính xác và được trích dẫn nhiều lần trong các tài liệu kỹ thuật, nên chúng ta nên dành thời gian xem xét.  
+
+Đỉnh Mở Rộng Chính Thống có ba đỉnh tăng dần về mức giá, và giữa chúng có hai đáy, với đáy thứ hai thấp hơn đáy đầu tiên. Giả định là nó hoàn tất và có hiệu lực như một tín hiệu Đảo Chiều quan trọng ngay khi phản ứng từ đỉnh thứ ba hạ xuống dưới mức đáy thứ hai.
+
+Có lẽ ta sẽ thấy rõ hình dạng của mô hình này nếu xem một trong những ví dụ kinh điển xuất hiện năm 1929. Biểu đồ của chúng tôi (Hình 87) thể hiện diễn biến hàng ngày (giá và khối lượng) của Air Reduction từ ngày 1/7 đến 31/12 năm đó. Chúng tôi đã đánh số từ 1 đến 5 các điểm quay quan trọng trong Đỉnh Mở Rộng, kết thúc Thị Trường Bò của cổ phiếu này vào tháng 10. Một Mô Hình Giá Mở Rộng không thể nhận thấy trước đó cho đến khi giá bắt đầu tăng từ đáy Nhỏ thứ hai (điểm 4); lúc này điểm 3 đã hình thành _trên_ 1, và 4 _dưới_ 2. Mức cao mới tại 5 (_a_ và _b_), theo sau là đột phá giảm rõ rệt tại B (gần 6% dưới 4), hoàn tất mô hình và, theo quy tắc, báo hiệu một Xu Hướng Đảo Chiều Chính. Trong trường hợp này, không thể nghi ngờ tầm quan trọng của tín hiệu Đảo Chiều, bởi giá Air Reduction giảm từ trên 220 vào 18/10 xuống dưới 80 vào 14/11, chỉ sau 4 tuần, và đáy cuối cùng không xuất hiện cho đến gần 3 năm sau, vào 1932!
 
 ![fig-087](./img/fig-087.png)
-**FIGURE 87.** Although this particular Major Reversal Formation appeared on the
-charts over 35 years ago, it is so perfectly developed and on such a large scale that
-it may well stand as our elementary model for an Orthodox Broadening Top. This
-pattern in Air Reduction is discussed in detail on previous pages. Note also the
-Symmetrical Triangle Consolidation of July–August, and the examples of Runaway,
-Breakout, and Exhaustion Gaps (RG, BG, and EG), which will be taken up in
-Chapter 12.
+**HÌNH 87.** Mặc dù Mô Hình Đảo Chiều Chính này xuất hiện trên biểu đồ hơn 35 năm trước, nó được phát triển hoàn hảo và quy mô lớn, nên có thể xem là mô hình cơ bản cho Đỉnh Mở Rộng Chính Thống. Mô hình này trên Air Reduction đã được bàn chi tiết ở các trang trước. Lưu ý cả Sự Hội Tụ của Tam Giác Đối Xứng tháng 7–8, và các ví dụ về Gap Chạy Mạnh, Gap Đột Phá và Gap Kiệt Sức (RG, BG, EG), sẽ được đề cập trong Chương 12.
 
+Một số điểm tinh tế của ví dụ kinh điển này cần lưu ý. Trước hết, một đỉnh mới, tức đỉnh thứ ba cao hơn, hình thành tại 5 _a_, và phản ứng sau đó dừng ở 195, cao hơn 4, rồi tăng trở lại. Đây giống như một trong các tín hiệu cảnh báo (“thất bại”) mà chúng ta đã nhắc trước đó, báo hiệu khả năng bứt phá lên. Nhưng ví dụ này nhấn mạnh cảnh báo trước đó — tín hiệu như vậy không đáng tin cho đến khi giá vượt đỉnh trước đó một cách quyết liệt. Tại 5 _b_, Air Reduction giao dịch ngắn ở 223, cao hơn 5 _a_ chỉ 2 điểm (<3%), và đóng cửa _dưới_ 5 _a_. Đợt phá vào 24/10 (tới B) đưa giá xuống hơn 3% dưới mức 4. Lúc này xuất hiện hiện tượng điển hình của Đỉnh Mở Rộng — một Đợt Tăng Hồi (Pullback Rally) tới B, hồi khoảng nửa quãng đường đã mất giữa đỉnh mô hình cuối cùng (5 _b_) và cuối đợt phá ban đầu (B). Theo kinh nghiệm, hiện tượng hồi và thất bại như vậy xảy ra ít nhất 4/5 mô hình Đỉnh Mở Rộng, và thường không thất bại cho tới khi hồi khoảng hai phần ba mức giảm trước đó, dù thường kết thúc quanh hoặc dưới mức giữa.
 
-There are some fine points of this classic example which should be noted.
-First, a new high, i.e., a third and higher Top, was made at 5 _a_ and the
-subsequent reaction was halted at 195, well above 4, and succeeded by
-renewed advance. This looked like one of the advance notices (“failures”)
-to which we have referred on a preceding page, portending an upside break-
-out. But the example before us will serve to emphasize the warning which
-we attached thereto — that such an indication is not to be trusted until prices
-have decisively exceeded the previous Top. At 5 _b_ Air Reduction was traded
-briefly at 223, 2 points, but less than 3%, higher than 5 _a_ , and the day closed
-with quotations _below_ 5 _a._ The break on October 24 (to B) took prices more
-than 3% under the level of 4. Now occurred a development typical of Broad-
-ening Tops — a Pullback Rally (to B) retracing about half of the ground lost
-between the last pattern Top (5 _b_ ) and the end of the initial breakout move
-(B). Such a recovery (and failure) will be attempted, according to our expe-
-rience, in at least four out of five Broadening Top Patterns, and may not fail
-until it has regained two thirds of the preceding decline, although it usually
-peters out around or even below the halfway mark.
-
-This, as we have said, is a classic example; there were many others at
-that time. The very fact that so many did evolve at the 1929 peak, which
-was followed by history’s most disastrous losses, probably accounts for the
-extremely Bearish implications market technicians have ascribed to the
-Broadening Top Formation. We regard it now with somewhat less awe; its
-measuring implications are probably no greater than those of a large, high-
-volume Head-and-Shoulders, but it is a pattern characteristic of the last
-stages of a Primary Uptrend.
-
+Đây là ví dụ kinh điển; còn nhiều ví dụ khác thời đó. Việc nhiều mô hình xuất hiện tại đỉnh 1929, sau đó dẫn tới thua lỗ thảm khốc nhất trong lịch sử, có lẽ lý giải tại sao các kỹ thuật viên gán ý nghĩa cực kỳ Gấu cho Đỉnh Mở Rộng. Ngày nay, chúng ta đánh giá nó ít kinh hãi hơn; ý nghĩa đo lường của nó có lẽ không lớn hơn Đầu và Vai khối lượng cao lớn, nhưng nó là mô hình đặc trưng giai đoạn cuối của Xu Hướng Tăng Chính.
 
 ![fig-088](./img/fig-088.png)
-**FIGURE 88.** A small but perfect 1946 Broadening Top that formed at the end of a
-3-month chart pattern which also had overall Broadening (and, hence, Bearish) as-
-pects. The five critical points of Reversal are numbered on the chart. The “breakout”
-was registered on August 27. The Pullback Rally that followed immediately was
-strong, but still held within normal bounds. Another interesting Broadening Top of
-1946 appears in Figure 217.
+**HÌNH 88.** Một Đỉnh Mở Rộng nhỏ nhưng hoàn hảo năm 1946, hình thành kết thúc một mô hình biểu đồ 3 tháng cũng có tổng thể Mở Rộng (và do đó, Gấu). Năm điểm quan trọng báo Đảo Chiều được đánh số trên biểu đồ. Đợt “bứt phá” được ghi nhận ngày 27/8. Đợt Tăng Hồi ngay sau đó mạnh, nhưng vẫn trong giới hạn bình thường. Một Đỉnh Mở Rộng 1946 thú vị khác xuất hiện trong Hình 217.
 
-The insistence that the third Top (our number 5), when followed by a
-decline below the second Bottom (our number 4), _completes_ the Reversal
-Pattern may be regarded, in the light of experience, as setting too strict a
-limitation, since Broadening Formations do, on occasion, go on to make a
-fourth and higher Top. Yet this rule may be, and usually is, justified by the
-fact that the overall indications are undeniably Bearish and, hence, one
-should not wait too long to get out. On the other hand, the requirement that
-there be a third Top does seem to be justified on the score that Major Reversals
-are seldom completed until at least three attempts have been made to push
-prices on in the direction of the previous trend. This is the reason, of course,
-why pioneer technical students lumped together many formations under the
-classification “Five-Point Reversals.” The Broadening Top is a Five-Point
-Reversal (our numbers 1 to 5) and, so, obviously is a Head-and-Shoulders.
-A Broadening Top might, in fact, be called a Head-and-Shoulders with a
-high right shoulder and a down-sloping neckline.
+Việc khẳng định đỉnh thứ ba (số 5) và sự giảm xuống dưới đáy thứ hai (số 4) _hoàn tất_ Mô Hình Đảo Chiều có thể được coi là quá nghiêm ngặt, vì đôi khi các Đỉnh Mở Rộng tiếp tục tạo đỉnh thứ tư cao hơn. Tuy nhiên, quy tắc này thường được áp dụng vì tín hiệu tổng thể hiển nhiên là Gấu, nên không nên chần chừ rút lui. Ngược lại, yêu cầu có đỉnh thứ ba có cơ sở vì các Đảo Chiều Chính hiếm khi hoàn tất trước ít nhất ba lần thử đẩy giá theo xu hướng trước. Đây là lý do tại sao các nhà tiên phong xếp nhiều mô hình vào “Đảo Chiều Năm Điểm.” Đỉnh Mở Rộng là Đảo Chiều Năm Điểm (số 1 đến 5), và do đó, rõ ràng là một Đầu và Vai. Thực tế, Đỉnh Mở Rộng có thể gọi là Đầu và Vai với vai phải cao và đường cổ dốc xuống.
 
 ![fig-089](./img/fig-089.png)
-**FIGURE 89.** When they appear as plain and as compact as this example, Broadening
-Tops on weekly charts carry very powerful Reversal indications. The Top of the fifth
-turn in this formation was capped on the daily chart by a Head-and-Shoulders, which
-was pictured in Figure 16. The dashed lines on the above chart are trendlines — to
-be discussed in Chapter 14.
+**HÌNH 89.** Khi xuất hiện rõ ràng và gọn như ví dụ này, Đỉnh Mở Rộng trên biểu đồ tuần mang tín hiệu Đảo Chiều cực mạnh. Đỉnh lần thứ năm của mô hình này được giới hạn trên biểu đồ ngày bởi một Đầu và Vai, đã được minh họa trong Hình 16. Các đường nét đứt trên biểu đồ trên là các đường xu hướng — sẽ được thảo luận trong Chương 14.
 
 
-##### Why No Broadening Bottoms?
 
-All of the other types of Reversal Formations we have studied thus far can
-occur as either Tops or Bottoms. They can develop at the end of a decline to
-turn the trend up, or at the end of an advance to turn the trend down. But
-this does not seem to be true of the Broadening Formation. It has been
-assumed in the past that Broadening Bottoms must exist, but the writer has
-never found a good one in his examination of the charts of thousands of
-individual stocks over many years, and only one or two patterns which bore
-a resemblance to it in the charts of the Averages. Apparently, the circum-
-stances that create Broadening Formations do not exist after a prolonged
-decline in prices. This would seem to bear out our earlier characterization
-of this sort of pattern as suggesting active, excited trading with much public
-(and, hence, not too well informed or managed) participation. Such condi-
-tions are naturally associated with the final phases of a Bull Market.
+
+##### Tại sao không có Broadening Bottoms?
+
+Tất cả các loại Mô hình Đảo Chiều khác mà chúng ta đã nghiên cứu
+có thể xuất hiện ở cả Đỉnh và Đáy. Chúng có thể phát triển
+khi kết thúc một xu hướng giảm để đổi chiều lên, hoặc khi kết
+thúc xu hướng tăng để đảo xuống. Nhưng điều này dường như
+không đúng với Mô hình Rộng Dần. Trước đây, người ta cho rằng
+Broadening Bottoms phải tồn tại, nhưng tác giả chưa bao giờ
+tìm thấy một mô hình tốt trong hàng ngàn biểu đồ cổ phiếu
+cá nhân qua nhiều năm, và chỉ một hoặc hai trường hợp tương
+tự trong biểu đồ Averages. Có vẻ như các điều kiện tạo ra
+Broadening không tồn tại sau một đợt giảm kéo dài. Điều này
+củng cố nhận định trước đó rằng mô hình này gợi ý giao dịch
+tích cực, sôi động với sự tham gia của công chúng nhiều (và
+không quá hiểu biết hay kiểm soát). Những điều kiện này
+thường xuất hiện ở giai đoạn cuối của Bull Market.
 
 ![fig-090](./img/fig-090.png)
-**FIGURE 90.** Broadening tendencies that appear on monthly charts, or very wide
-spread (with Tops 5 or 6 months apart) like the above on weekly charts, should not
-be regarded as significant technical formations. Reversal points in a true Broadening
-Top should not be more than 2 months apart, as in Figure 89.
+**HÌNH 90.** Xu hướng Broadening xuất hiện trên biểu đồ tháng,
+hoặc phạm vi rộng (Đỉnh cách nhau 5–6 tháng) như trên biểu
+đồ tuần, không nên coi là mô hình kỹ thuật quan trọng.
+Điểm đảo chiều trong Broadening Top thực sự không quá 2 tháng,
+như trong Hình 89.
 
-##### Right-Angled Broadening Formations
+##### Mô hình Rộng Dần Góc Vuông (Right-Angled Broadening)
 
-Price patterns of the “Inverted Triangle” shape, having a horizontal Top or
-Bottom boundary, occur about as often as the symmetrical type, which is to
-say, not nearly as often as true Triangles, Rectangles, etc. In the mid-20th
-century, there were very few of them ( _EN9: Still scarce in the 2000s_ ). While
-the true Right-Angle Triangle with a horizontal top line and up-slanting
-bottom line is called an Ascending Triangle, just as its counterpart with a
-horizontal bottom boundary and a down-slanting top boundary is called a
-Descending Triangle, we cannot apply these terms to the Inverted or Broad-
-ening Forms. Generally speaking, Right-Angled Broadening Formations
-carry Bearish implications, regardless of which side is horizontal, in nearly
-the same degree as the symmetrical manifestations.
+Các mô hình giá hình “Tam giác Ngược” với biên trên hoặc
+dưới ngang xuất hiện gần như bằng tần suất dạng đối xứng,
+tức là không nhiều như Tam giác, Hình chữ nhật… Thế kỷ 20,
+rất ít xuất hiện (_EN9: Vẫn hiếm trong thập niên 2000_). Trong
+Tam giác Góc Vuông thật sự với đường trên ngang và đường
+dưới dốc lên gọi là Tam giác Tăng (Ascending), còn ngược lại
+với đáy ngang và đỉnh dốc xuống gọi là Tam giác Giảm
+(Descending), chúng ta không áp dụng những tên này cho
+Broadening. Nói chung, Broadening Góc Vuông mang ý nghĩa
+Bearish, bất kể biên ngang ở phía nào, gần giống dạng đối xứng.
 
-Obviously, however, they differ essentially from Symmetrical formations
-in one respect: a horizontal side indicates either accumulation or distribution
-at a fixed price, depending, of course, on which side is horizontal. And it
-follows, logically, that any decisive break through that horizontal side has
-immediate forceful significance. Thus, if a Broadening Price Pattern _with a
-flat top boundary_ develops after a good advance, and if prices finally burst
-up through that top line on high volume and close above it to a conclusive
-extent (roughly 3%), then it is safe to assume that the preceding uptrend will
-be resumed and carried on for a worthwhile move. This does happen,
-although it is rare. The odds favor the opposite, i.e., the eventual victory of
-the forces of distribution which created the horizontal Top and a breakaway
-into an extensive decline.
+Tuy nhiên, chúng khác Tam giác Đối xứng ở một điểm: biên
+ngang cho thấy tích lũy hoặc phân phối ở mức giá cố định,
+tùy biên ngang ở trên hay dưới. Do đó, bất kỳ breakout quyết
+định qua biên ngang đều có ý nghĩa mạnh. Nếu Broadening
+_đỉnh ngang_ xuất hiện sau một đợt tăng, và giá cuối cùng
+vượt lên biên này với khối lượng cao và đóng cửa vượt 3%,
+có thể giả định xu hướng tăng trước đó sẽ tiếp tục. Tuy nhiên,
+xác suất thường ngược lại: lực phân phối tạo đỉnh ngang thắng,
+giá giảm mạnh.
 
+Hơn nữa, nếu xu hướng tăng xuất hiện từ Broadening đỉnh
+ngang, khả năng rally thứ ba sẽ kèm khối lượng giảm đáng
+kể thay vì cao không đều như Broadening Bearish, và
+rally thứ ba hoặc thứ tư bị dừng và đảo chiều _trên_ đáy
+trước. Điều này biến mô hình thành _Consolidation Head-and-
+Shoulders_, mô hình Tiếp diễn xu hướng (xem Ch.11). Thông
+điệp cho nhà đầu tư có cổ phiếu đang hình thành Broadening
+đỉnh ngang: theo dõi phản ứng thứ ba. Nếu xuống dưới thứ hai
+và khối lượng không giảm nhiều, bán ra ở rally tiếp theo.
+(Bạn có thể mua lại sau nếu giá bất ngờ hồi phục và vượt đỉnh.)
 
-Moreover, if an advance is to ensue from a Flat-Topped Broadening
-Formation, the chances are that the third reaction in the formation will be
-attended by much diminished trading activity instead of the continued high
-or irregular volume which is characteristic of Bearish Broadening Move-
-ments, and that either it or the fourth reaction will be halted and reversed
-_above_ the low point of the preceding. This turns the formation into a _Consol-
-idation Head-and-Shoulders_ , a Continuation-of-Trend Pattern, which we shall
-take up in Chapter 11. The message here for the trader owning a stock whose
-chart begins to develop a Broadening Formation of this type is: watch the
-third reaction. If it carries below the second and volume does not fall off to
-a marked degree, sell out on the next rally. (You can always repurchase the
-same stock if you wish, without much “loss of position” should prices finally
-and, improbably, recover and push up through the Top.)
-Right-Angled Broadening Formations with horizontal lower boundaries
-(flat Bottoms) almost always break down. Once prices have fallen below the
-lower boundary line, there is frequently a Pullback Rally to that line, either
-in a few days or in 2 or 3 weeks, similar to the Pullbacks that so often follow
-the break down from a Head-and-Shoulders Top.
-(Note that the third or fourth rally in a pattern which starts out as a Flat-
-Bottomed Broadening Formation may fail to carry prices as high as its
-predecessor, in which case we have a Head-and-Shoulders to deal with. In
-other words, every Head-and-Shoulders begins as a Broadening Formation.
-And the statement of that relation takes us logically to our next type of
-Reversal picture.)
+Broadening Góc Vuông với đáy ngang gần như luôn giảm.
+Khi giá xuống dưới biên dưới, thường có Pullback Rally về
+biên này trong vài ngày hoặc 2–3 tuần, tương tự Pullback
+sau Head-and-Shoulders Top.  
+(Lưu ý: rally thứ ba hoặc thứ tư trong Flat-Bottomed Broadening
+có thể không lên cao như trước, khi đó sẽ hình thành Head-and-
+Shoulders. Mọi Head-and-Shoulders đều bắt đầu từ Broadening.)
 
-##### The Diamond
+##### Kim Cương (Diamond)
 
-The _Diamond_ Reversal Formation might be described either as a more or less
-Complex Head-and-Shoulders with a V-shaped neckline, or as a Broadening
-Formation which, after two or three “swings,” suddenly reverts into a regular
-Triangle which is nearly always of the Symmetrical form. So far as the
-accompanying volume pattern is concerned, the latter is possibly the better
-description. Its name derives obviously from its pictorial resemblance to the
-conventional diamond figure.
-
+Mô hình Đảo Chiều _Diamond_ có thể xem như Head-and-Shoulders
+phức tạp với neckline hình V, hoặc Broadening sau 2–3 “swing”
+đột ngột biến thành Tam giác gần như Đối xứng. Về khối lượng,
+cách sau có vẻ phù hợp hơn. Tên gọi xuất phát từ hình ảnh
+giống viên kim cương.
 
 ![fig-091](./img/fig-091.png)
-**FIGURE 91.** Three successive reactions in “DG” in February–March 1945 made
-successively lower Bottoms, but the intervening rallies came up to the same high
-(about 21¼), thus forming a Right-Angled Broadening Formation with a horizontal
-Top (Supply) Line. Penetration of this technically important top line on April 16 was
-a Bullish signal. The flat-topped type of pattern does not necessarily portray a Bearish
-situation.
+**HÌNH 91.** Ba phản ứng liên tiếp trong “DG” tháng 2–3/1945 tạo
+đáy thấp dần, nhưng rally xen ngang tới đỉnh giống nhau (~21¼),
+tạo Broadening Góc Vuông với đường Top ngang (Supply). Vượt
+đỉnh kỹ thuật 16/4 là tín hiệu Bullish. Mô hình đỉnh ngang không
+nhất thiết Bearish.
 
+Diamond khá nổi bật và dễ nhận biết, nhưng hiếm gặp.
+Do phát triển trong thị trường hoạt động, hiếm khi xuất hiện
+ở Đáy. “Môi trường tự nhiên” là Đỉnh lớn và Đỉnh khối lượng
+cao trước các Intermediate Reactions lớn. Nhiều Multiple
+Head-and-Shoulders là trường hợp biên Diamond, tức
+neckline hơi cong. Tuy nhiên, không nên cố tạo Diamond từ
+Head-and-Shoulders bình thường. Neckline V có thể hứa hẹn
+breakout sớm hơn, nhưng an toàn hơn là giữ nguyên Head-and-
+Shoulders trừ khi nửa sau mô hình gồm dao động nhỏ hội tụ
+rõ ràng, và khối lượng giảm dần như Tam giác.
 
-Although it is fairly conspicuous and easily detected when it appears
-on the charts, the Diamond is not a common pattern. Since its development
-requires fairly active markets, it rarely occurs at Bottom Reversals. Its “nat-
-ural habitat” is Major Tops and the High-Volume Tops which precede exten-
-sive Intermediate Reactions. Many Multiple Head-and-Shoulders Forma-
-tions are borderline Diamond cases; i.e., they permit the drawing of slightly
-bent necklines. The reader is cautioned, however, against trying too hard to
-make Diamonds out of price patterns of the Head-and-Shoulders type. There
-is a temptation to do so because a V-shaped neckline may promise to give
-an earlier (and, hence, more profitable) breakout signal than the straight
-neckline of the Head-and-Shoulders, but it is much safer to stick to the latter
-unless the second half of the formation consists of a series of clean-cut,
-converging Minor Fluctuations which plainly demands definition by con-
-verging boundary lines, and unless activity shows some tendency to dimin-
-ish during this period as it would in a Triangle.
-The Diamond requires little further comment. Our illustrations will suf-
-fice to acquaint you with its typical details. It carries a minimum measuring
-implication which, having studied the Head-and-Shoulders and Triangle
-formulas, you can probably deduce for yourself. Prices should move _at least
-as far_ from the breakout point as the greatest width in points of the pattern
-from its Top (head) to Bottom (V in neckline). This, it must be emphasized,
-is a minimum rule and subject only to the usual qualification that a Reversal
-Formation must have something to reverse. Generally, the new trend carries
-prices eventually well beyond the minimum measurement.
-
-
+Diamond ít cần giải thích thêm. Hình minh họa đủ để hiểu
+chi tiết điển hình. Nó có độ đo tối thiểu: giá ít nhất đi xa
+bằng biên độ lớn nhất (đỉnh → đáy V). Đây là quy tắc tối
+thiểu, với điều kiện Reversal phải có cái để đảo. Xu hướng
+mới thường vượt mức tối thiểu này.
 
 ![fig-092](./img/fig-092.png)
-**FIGURE 92.** The 1946 Top in Paramount Pictures, from which it fell to 46 a year
-later, was a Right-Angled Broadening Formation with a horizontal bottom line which
-was “cracked” the first week of June, but not decisively broken until June 20. (This
-stock was later split 2-for-1.)
+**HÌNH 92.** Đỉnh Paramount Pictures 1946, giá giảm về 46 sau
+một năm, là Broadening Góc Vuông với đáy ngang bị “crack”
+tuần đầu tháng 6, nhưng không bị phá quyết định cho tới 20/6.
+(Cổ phiếu sau này chia 2-for-1.)
 
 
-##### Wedge Formations
 
-All of the chart formations we have discussed up to this point can and do
-develop at changes in the Major Trend of prices. A few of them seldom occur
-at any other than a Major Reversal. We have now to consider three patterns
-which are ordinarily Minor, or, at most, only Intermediate in their trend
-implications. They are useful, nevertheless, in trading operations. One of
-them, the _Wedge_ , we have already alluded to (in Chapter 8) as having some
-resemblance to the Triangles.
+
+
+##### Mô hình Wedge (Nêm)
+
+Tất cả các mô hình biểu đồ chúng ta đã thảo luận tới nay đều có thể
+xuất hiện ở các Thay đổi Xu hướng Chính (Major Trend) của giá. Một số
+ít khi xuất hiện ở nơi khác ngoài Đỉnh/Đáy Quan trọng. Giờ đây,
+chúng ta xem xét ba mô hình thường là Nhỏ (Minor) hoặc Tối đa
+ở mức Trung gian (Intermediate) về ý nghĩa xu hướng. Chúng vẫn
+hữu ích trong giao dịch. Một trong số đó, _Wedge_ (Nêm), chúng
+ta đã đề cập (Ch.8) do có phần giống Tam giác.
 
 ![fig-093](./img/fig-093.png)
-**FIGURE 93.** Another example of the Flat-Topped type of Broadening Price Pattern
-that appeared near the end of 1945. “LS” went on up to 63 in 1946. Prices broke out
-of this formation with a Breakout Gap (G) and another Breakout Gap appeared on
-December 3. G-G marks an “Island.” See Chapter 12 for Gaps.
+**HÌNH 93.** Ví dụ khác của Broadening đỉnh ngang cuối 1945. “LS”
+tăng lên 63 năm 1946. Giá phá mô hình với Breakout Gap (G); G tiếp
+theo xuất hiện 3/12. G-G đánh dấu “Island”. Xem Ch.12 về Gap.
 
-The Wedge is a chart formation in which the price fluctuations are
-confined within converging straight (or practically straight) lines, but differ-
-ing from a Triangle in that both boundary lines either slope up or slope
-down. In a Symmetrical Triangle, the Top border slants down, while the
-Bottom border slants up. In Right Angle Triangles, one boundary slopes
-either up or down, but the other is horizontal. In a Rising Wedge, both
-boundary lines slant up from left to right, but since the two lines converge,
-the lower must, of course, project at a steeper angle than the upper. In a
-Falling Wedge, the opposite is true.
+Nêm là mô hình trong đó dao động giá nằm trong các đường
+thẳng hội tụ, nhưng khác Tam giác ở chỗ cả hai biên đều dốc lên
+hoặc dốc xuống. Trong Tam giác Đối xứng, biên trên dốc xuống,
+biên dưới dốc lên. Trong Tam giác Góc Vuông, một biên dốc,
+biên kia ngang. Trong Rising Wedge, cả hai biên dốc lên, nhưng
+do hội tụ, biên dưới dốc mạnh hơn biên trên. Ngược lại với Falling
+Wedge.
 
-Superficially, one might think that since an Ascending Triangle, with one
-horizontal and one up-line, is a Bullish picture, the Rising Wedge, with both
-of its pattern lines up, should be even more Bullish. But such is not the case.
-Remember that the flat top of an Ascending Triangle signifies a supply of
-shares being distributed at a fixed price; when that supply has been absorbed
-(and the rising lower boundary line indicates that it will be absorbed), the
-pressure is off and prices will leap forward. In a Rising Wedge, on the other
-hand, there is no evident barrier of supply to be vaulted, but rather, a gradual
-petering out of investment interest. Prices advance, but each new up wave
-is feebler than the last. Finally, demand fails entirely and the trend reverses.
-Thus, a Rising Wedge typifies a situation which is growing progressively
-_weaker_ in the technical sense.
+Nhìn sơ qua, có thể tưởng Rising Wedge dốc lên giống Tam giác
+Tăng, nên Bullish hơn. Nhưng không phải. Tam giác Tăng: đỉnh
+ngang cho thấy cổ phiếu phân phối cố định; khi đã hấp thụ,
+giá bật mạnh. Rising Wedge: không có rào cản supply, mà quan
+tâm đầu tư giảm dần. Giá tăng, nhưng mỗi nhịp tăng yếu hơn
+trước, cuối cùng cầu cạn, xu hướng đảo chiều. Rising Wedge
+thể hiện thị trường yếu dần về mặt kỹ thuật.
 
-Of course, it might be said that any advance in prices, no matter what
-shape it may take on the chart, weakens the technical status of the market.
-Prospective buyers are — or, at least, should be — more reluctant to pay
-high prices than low, and owners are more willing to sell at high prices than
-at low; in other words, any sort of rise tends to increase supply and diminish
-demand. (While theoretically true, the preceding statement must be qualified
-by the fact that rising prices actually attract rather than discourage public
-buying.) The difference between a Rising Wedge and what might be called
-a normal Uptrend Channel (of which we shall have more to say later) is that
-the Wedge sets a sort of limit on the advance. Its converging boundary lines
-focus on a point near where the advance will halt and reaction set in.
-
+Tất nhiên, bất kỳ tăng giá nào cũng làm thị trường yếu đi
+theo nghĩa kỹ thuật: người mua lưỡng lự trả giá cao, người
+bán sẵn sàng ở giá cao. Tuy lý thuyết đúng, thực tế giá tăng
+thu hút người mua. Khác với Uptrend Channel bình thường,
+Nêm đặt giới hạn tăng. Các biên hội tụ báo điểm kết thúc
+tăng và bắt đầu phản ứng.
 
 ![fig-094](./img/fig-094.png)
-**FIGURE 94.** The 1946 Bull Market Top in U.S. Steel was a 3-month Diamond which
-might also be construed as a Head-and-Shoulders.
+**HÌNH 94.** Đỉnh Bull 1946 U.S. Steel là Diamond 3 tháng, cũng
+có thể xem như Head-and-Shoulders.
 
 ![fig-095](./img/fig-095.png)
-**FIGURE 95.** A Diamond (November) which broke out topside and thus functioned
-as Consolidation rather than Reversal.
-
+**HÌNH 95.** Diamond (tháng 11) breakout lên trên, nên là
+Consolidation chứ không Reversal.
 
 ![fig-096](./img/fig-096.png)
-**FIGURE 96.** Diamond Reversal Formations are often easier to detect on weekly
-than on daily charts. Trace out the price swings and volume in this May–June 1946
-Diamond in Shell. Note also the remarkable Descending Triangle which developed
-from September 1946 to February 1947, and the March Pullback to its apex, another
-ideal place to sell short.
+**HÌNH 96.** Diamond dễ nhận thấy trên tuần hơn ngày. Quan sát
+swing và volume Diamond May–June 1946 Shell. Lưu ý Descending
+Triangle Sep 1946–Feb 1947, Pullback Mar, nơi lý tưởng để short.
 
-We can state most of the essential facts about the Up-Pointed Wedge
-Formation in a few short sentences. It can develop either as a sort of Topping-
-Out Pattern on a previously existing uptrend, or start to form right at the
-Bottom of a preceding downtrend. It (the Wedge) normally takes more than
-3 weeks to complete; a shorter pattern of this shape is nearly always better
-classified as a Pennant, which we will discuss in the next chapter. Prices
-almost always fluctuate within the Wedge’s confines for at least two thirds
-of the distance from the base (beginning of convergence) to the apex; in many
-cases, they rise clear to the apex, and in some, they actually go a short
-distance beyond, pushing on out at the Top in a last-gasp rally before col-
-lapsing. Once prices break out of the Wedge downside, they usually waste
-little time before declining in earnest. The ensuing drop ordinarily retraces
-all of the ground gained within the Wedge itself, and sometimes more.
-Trading volume in a Wedge tends to follow the regular Triangle Pattern,
-diminishing gradually as prices move up toward the apex of the Wedge.
-
+Up-Pointed Wedge có thể hình thành ở Đỉnh xu hướng tăng trước
+hoặc đáy xu hướng giảm trước. Mô hình thường >3 tuần; ngắn
+hơn là Pennant (Ch. tiếp theo). Giá dao động trong Wedge ít
+nhất 2/3 khoảng từ đáy (bắt đầu hội tụ) tới đỉnh; nhiều trường hợp
+vượt apex trong nhịp cuối. Khi phá đáy Wedge, giá thường
+giảm mạnh, retrace toàn bộ dao động trong Wedge, thỉnh thoảng hơn.
+Volume giảm dần như Tam giác.
 
 ![fig-096.1](./img/fig-096.1.png)
-**FIGURE 96.1.** Technicians in the future will look back with amazement at the top
-which put the exclamation point on the Bull ’90s. The most amazing thing being that
-what was going on at the time was recognizable and subject to analysis with a ruler
-(Cf. Resources). The analysis furthermore indicated that the party was over (or at
-least the fat lady was in the process of singing). As Edwards noted the Broadening
-Top _which had (and has) implications of its own_ morphed into a Diamond, which threw
-off a false signal, breaking out on the upside, which developed into another trian-
-gular-like pattern (could be looked at as ragged triangular or ascending — only
-bottom line shown here), which after a head fake broke down made a modified V-
-Bottom and returned to the top of what could be looked at as a monster rectangle.
-The top horizontal line, drawn in August 2000 stops the 2001 rally cold and from
-there it is a slippery slide to the tragedy of September 11, 2001. It was obvious that
-the investor had no business being long, and that trading strategy was in order. Was
-there any prescience in recognizing the mulish sideways trend of the market? None
-whatsoever. Is all this hindsight? The reader may see for himself by examining the
-record of how this market was analyzed _at the time_ by the John Magee Investment
-Newsletter in Resources.
+**HÌNH 96.1.** Kỹ thuật viên tương lai sẽ ngạc nhiên trước đỉnh
+Bull ’90s. Broadening Top (vốn có ý nghĩa riêng) biến thành Diamond,
+breakout lên giả, thành mô hình tam giác không đều, sau head fake
+phá xuống thành modified V-Bottom, rồi trở lại đỉnh rectangle.
+Đường ngang vẽ tháng 8/2000 chặn rally 2001, từ đó trượt tới
+thảm họa 11/9/2001. Chiến lược trading rõ ràng: không nắm dài.
+Không có tiên tri gì, chỉ là phân tích thực thời.
 
-##### The Falling Wedge
+##### Falling Wedge
 
-Except for the fact that it is pointed down, the _Falling Wedge_ appears in all
-respects like the rising form we have just described. But the price trend that
-follows its completion differs in character. When prices break out of a Rising
-Wedge, they usually fall away rapidly, but when they move out of a Falling
-Wedge, they are more apt to drift sideways or in a dull “Saucering-around”
-movement before they begin to rise. The Rising Wedge may, therefore, call
-for quick action to secure profits, while with a Falling Wedge, the trader
-ordinarily can take his time about making his commitment for the ensuing
-rise.
-
+Ngoại trừ hướng chỉ xuống, _Falling Wedge_ giống Rising Wedge.
+Nhưng xu hướng sau khi hoàn thành khác. Rising Wedge: phá
+xuống nhanh; Falling Wedge: đi ngang hoặc lờ đờ trước khi tăng.
+Rising Wedge cần hành động nhanh; Falling Wedge cho trader
+thời gian chuẩn bị trước nhịp tăng.
 
 ![fig-097](./img/fig-097.png)
-**FIGURE 97.** Hudson is another stock that ended its Bull Market in 1946 with a
-Major Diamond which could also be taken as a Complex Head-and-Shoulders. This
-formation was plain on the weekly chart but hard to see on the daily. Note how the
-Diamond gave a sell signal about 2 points higher than the Head-and-Shoulders. The
-14 ½ to 17½ area at the end of the year, when construed as a weak Rectangle, was
-barely fulfilled in February 1947.
+**HÌNH 97.** Hudson kết thúc Bull 1946 với Diamond lớn, cũng
+là Complex Head-and-Shoulders. Trên tuần rõ, ngày khó thấy.
+Diamond cho tín hiệu bán ~2 điểm cao hơn Head-and-Shoulders.
+Vùng 14½–17½ cuối năm, nếu xem như Rectangle yếu, gần như
+không hoàn thành tới Feb 1947.
 
-Both types should be well defined on the chart. Unless a trend pattern
-is quite compact with frequent fluctuations, and nicely bounded by lines
-which clearly converge to a point, and unless their up (or down) slant is
-marked, the Wedge construction must be considered doubtful. You will find
-borderline cases where one of the pattern lines so nearly approaches the
-horizontal in direction that it resembles a Right-Angle Triangle, and the latter
-would, of course, carry quite different implications for future trend devel-
-opment. It is difficult to lay down any hard and fast rules for distinguishing
-the two. If one boundary line is _nearly_ horizontal, or if the daily _closing_ prices
-tend to fall at about the same level, then the formation is more safely con-
-strued as a Triangle. The reader need not let this problem worry him unduly,
-as he will rarely be left in doubt for long after he has acquired a little experience
-with charts. One soon gets to recognize the characteristic “symptoms” of the
-different formations and make correct diagnoses almost instinctively.
-
+Cả hai loại Wedge cần rõ ràng trên biểu đồ. Nếu mô hình
+không compact, dao động ít, không hội tụ rõ, hoặc dốc không
+đáng kể, mô hình Wedge đáng nghi. Biên gần ngang hay đóng
+cửa hằng ngày gần nhau → Triangle an toàn hơn. Không nên
+lo quá, kinh nghiệm sẽ giúp nhận dạng triệu chứng và chẩn đoán
+gần như bản năng.
 
 ![fig-098](./img/fig-098.png)
-**FIGURE 98.** As U.S. Steel approached the Top of its Secondary Recovery in August
-1937, its price fluctuations tended to grow narrower, between upward sloping but
-converging boundaries, while volume diminished. This pattern — a Wedge — carried
-a definitely Bearish message. The entire swing from July to the end of August was
-essentially a Rounding Top. The three Gs mark Breakaway Gaps (Chapter 12), the
-last (September 7) made as prices broke down through a Support Level (Chapter 13).
+**HÌNH 98.** U.S. Steel Top Secondary Recovery Aug 1937, dao động
+hẹp dần, biên hội tụ dốc lên, volume giảm. Đây là Wedge Bearish.
+Toàn bộ swing Jul–End Aug là Rounding Top. 3 G đánh dấu
+Breakaway Gap (Ch.12); G cuối (7/9) phá Support (Ch.13).
 
-##### Wedges on Weekly and Monthly Charts
+##### Wedges trên biểu đồ tuần và tháng
 
-Most true Wedges are too short-lived (seldom longer than 3 months) to take
-on a recognizable definition on a monthly chart, but they may be spotted
-occasionally on the weeklies. Long continued, gradual downtrends, when
-plotted on arithmetic scale, sometimes assume the Wedge form. Thus, an
-entire Major Bear Decline on any arithmetic monthly chart may appear like
-a giant Falling Wedge. This is due to the fact that the up and down fluctu-
-ations which compose the Major Swing, while maintaining about the same
-extent in _percentage_ , tend to shorten in terms of points (dollars) as prices
-move from higher to lower levels. Such Major chart patterns are not, of
-course, the true Wedges we have discussed herein. When plotted on semi-
-logarithmic scale, these same moves would normally show a Parallel or even
-slightly widening, instead of Converging, Channel.
+Hầu hết Wedge thực quá ngắn (<3 tháng) để nhận dạng trên
+biểu đồ tháng, nhưng có thể thấy trên tuần. Xu hướng giảm
+dài, vẽ theo thang số học, đôi khi thành Wedge. Một
+Major Bear Decline trên monthly arithmetic có thể giống
+Falling Wedge khổng lồ. Trên semi-log, sẽ thành Channel
+song song hoặc hơi rộng, không hội tụ.
 
-##### Rising Wedges Common in Bear Market Rallies
+##### Rising Wedges phổ biến trong Bear Market Rallies
 
-As a final note, we might add that the Rising Wedge is a quite characteristic
-pattern for Bear Market Rallies. It is so typical, in fact, that frequent appearance
+Rising Wedge đặc trưng cho Bear Market Rally. Xuất hiện
+nhiều khi sau đợt giảm lớn, câu hỏi Bull Trend mới bắt đầu
+hay không → Primary Trend vẫn giảm. Khi Major Bear Swing
+kết thúc Head-and-Shoulders Bottom, Rising Wedge cuối
+xuất hiện khi giá rally từ vai trái tới neckline, ngay trước
+phá xuống head. Rising Wedge trên weekly arithmetic gần
+như luôn là hiện tượng Bear Market, biểu hiện sức bật giảm
+của phản ứng chống lại Primary Trend.
 
-![fig-099](./img/fig-099.png)
-**FIGURE 99.** An “ideal” Falling Wedge that developed in Loew’s in 1936. Note
-volume trend therein, irregular but generally diminishing. July produced a small
-Flag (Chapter 11), and at the end of the year, “LW” went into a Rectangle out of
-which prices “skyrocketed” to 75.
+##### Đảo chiều Một Ngày (One-Day Reversal)
 
-of Wedges at a time when, after an extensive decline, there is some question
-as to whether a new Bull Trend is in the making may be taken as evidence
-that the Primary Trend is still down. When a Major Bear Swing ends in a
-Head-and-Shoulders Bottom, the last Rising Wedge will often appear as
-prices rally from the left shoulder to the neckline, and just before they break
-down to the head (final low). A Rising Wedge on an arithmetically scaled
-weekly chart is almost invariably a Bear Market phenomenon, expressing,
-as it does, the diminishing vigor which is the normal property of any reaction
-against a prevailing Primary Trend.
-
-##### The One-Day Reversal
-
-We referred in Chapter 6 to a price pattern known as the One-Day Reversal.
-This particular technical Reversal indication, when taken alone, can be
-accorded only temporary or strong Minor Trend significance. True, it may
-appear at the very peak of a long advance, forming perhaps on the high day
-of the head in a Head-and-Shoulders Pattern which will be followed by a
-long decline, but it can hardly be credited with forecasting that entire decline;
-all it really signaled was the turn in the “head” itself. A One-Day Reversal 
-may just as well occur, for example, at the beginning (the first peak) of a
-Symmetrical Triangle which only Consolidates instead of Reversing the pre-
-vious uptrend. Even so, it serves, as you can see, to warn us of at least
-temporary exhaustion of Bullish forces.
-
+Chúng ta đã nhắc trong Ch.6, One-Day Reversal. Khi đứng
+một mình, chỉ báo này có ý nghĩa tạm thời hoặc Minor Trend.
+Có thể xuất hiện ở đỉnh dài, ví dụ đỉnh đầu Head-and-Shoulders
+trước khi giảm dài, nhưng không dự báo toàn bộ đợt giảm,
+chỉ báo turn ở “đầu”. One-Day Reversal cũng có thể xuất hiện
+ở đầu (đỉnh đầu) Tam giác Đối xứng, chỉ Consolidate, không Reversal.
+Dù sao, cảnh báo tạm thời sức Bullish cạn kiệt.
 
 ![fig-100](./img/fig-100.png)
-**FIGURE 100.** Wedges seldom appear at Major Trend Reversals, but Schenley’s Bull
-high in 1946 was made at the end of an 8-month Rising Wedge, plain to see on its
-weekly chart. The dashed line at 60 marks a Support Level (see Chapter 13) which
-served to stem the subsequent decline for 9 weeks. 
+**HÌNH 100.** Wedges hiếm ở Major Reversal, nhưng Schenley Bull
+1946 là kết thúc Rising Wedge 8 tháng, rõ trên weekly chart.
+Đường đứt 60 là Support (Ch.13) giữ giảm 9 tuần.
+
+**HÌNH 101.** Biểu đồ daily 12 tháng “TWA” có nhiều điểm kỹ thuật
+quan trọng. One-Day Reversal 3/12 đánh dấu Major Top. 4 tuần sau
+có Descending Triangle yếu, nhưng Reversal Day là tín hiệu bán
+rõ rệt. Khi học Pennants, xem chart này cho Pennant tháng 11.
+Down Trendline trung gian bị phá tạm tháng 8/1946, không khối
+lượng xác nhận (Ch.14). Trong toàn bộ giảm giá, không có Buy Pattern.
 
 
-**FIGURE 101**. There are many interesting and technically significant features in this 12-month daily chart record of
-“TWA.” Note the extraordinary One-Day Reversal, December 3, which marked its Major Top. Although the next 4 weeks
-produced a sort of poorly formed Descending Triangle, the Reversal Day was the only clear-cut and unmistakable signal
-to sell. When you study pennants, turn back to this chart for its November Pennant. Its long Intermediate Down Trendline
-was tentatively broken in August 1946 but without confirming volume (see Chapter 14). Note that at no time during the
-decline did a “Buy” Pattern appear.
+Ở chiều giảm, một **Đảo Chiều Một Ngày (One-Day Reversal)** thường xuất hiện rõ 
+ràng và nổi bật vào cuối một đợt **Panic Sell-Off** (bán tháo hoảng loạn), và khi 
+đó nó thường được gọi là **Ngày Đỉnh Bán (Climax Day)** hoặc **Đỉnh Bán Hoảng 
+Loạn (Selling Climax)**. Hình thức xuất hiện này mang ý nghĩa đặc biệt, sẽ được 
+bàn chi tiết sau. Trước hết, **Đảo Chiều Một Ngày là gì?**
 
+Trước tiên, đây là một ngày có **khối lượng giao dịch cực kỳ cao**, vượt đáng kể 
+so với mọi phiên giao dịch trong vài tháng gần đây. Nó xuất hiện sau một đợt 
+tăng hoặc giảm khá dài và ổn định, với hoạt động giao dịch tăng dần. Giá mở 
+cửa ngay từ đầu phiên như thể không gì có thể cản trở. Thường thì giá mở cửa 
+cũng vượt xa mức đóng cửa ngày trước, tạo ra một khoảng trống (gap) trên biểu đồ. 
+Băng ghi (ticker tape) chạy chậm, và trước khi đợt tăng hoặc giảm dừng lại, giá 
+đã di chuyển xa trong một hoặc hai giờ như thể cần ba hoặc bốn ngày bình thường. 
+Cuối cùng, đợt tăng hoặc giảm dừng lại, có thể sau giờ đầu hoặc muộn hơn trong 
+ngày. Lúc này, giá **dao động mạnh**, thay đổi nhỏ qua lại, băng vẫn chạy nhanh 
+và thường muộn từng đoạn. Bất ngờ, xu hướng đảo chiều và giá di chuyển nhanh theo 
+hướng ngược lại. Phiên kết thúc với một đợt hoạt động mạnh cuối ngày đưa giá 
+đóng cửa gần với mức mở cửa ban đầu. Mặc dù khối lượng giao dịch rất lớn, mức 
+thay đổi ròng so với ngày trước rất nhỏ.
 
-On the downside, a One-Day Reversal often appears in magnified and
-conspicuous form at the end of a Panic Sell-Off, in which case, it usually is
-referred to as a _Climax Day_ or Selling Climax. This manifestation of it has
-special significance which we shall take up later. First, however, just what
-is a One-Day Reversal?
-It is, to begin with, a day of unusually high volume, exceeding, as a rule,
-by a notable margin any trading turnover registered in any one market
-session for several months past. It comes after a fairly long and steady
-advance (or a similar decline), on which activity has been increasing grad-
-ually. Prices push right ahead from the opening gong as if nothing could
-stop them. Frequently, even the opening sales are so far beyond the previous
-day’s closing level as to leave a large gap on the chart. (We shall discuss
-gaps later.) The tape runs late, and before the advance (or decline) halts,
-prices have been carried as far in an hour or two as three or four days would
-ordinarily take them. But the halt does come finally, maybe at the end of the
-first hour or perhaps not until late in the day. Then quotations “churn,”
-registering only fractional changes to and fro, with the tape still “fast” and
-often running late by spurts. Suddenly the trend reverses and prices move
-just as rapidly in the opposite direction. The session ends with a final burst
-of activity that puts the price at the close right back where it started the day.
-There has been an enormous amount of activity, and quotations may have
-traversed intraday a percentage range of 2 or 3%, but the net change from
-the previous day at the end of trading is very small.
-One-Day Reversals at Tops appear quite often in the charts of individual
-stocks which are thin (relatively small floating supply of shares), which have
-had an active advance and have attracted a large public following. They
-develop rarely in the Averages. Selling Climaxes (One-Day Reversals at
-Bottoms), on the other hand, are found conspicuously in the Averages at the
-end of many abnormal or Panic Declines.
-One-Day Reversals, as we have already stated, do not carry Major Trend
-implications. The nimble in-and-out trader can capitalize on them — maybe
-pick up several points if he has funds available and jumps in at the right
-moment. But, as a rule, the new trend (i.e., the trend at the close of the day)
-does not carry very far right away; prices usually “work” around in the
-nearby ranges for some time and build some sort of area pattern before they
-move away in a swing of Intermediate proportions. However, the One-Day
-Reversal, as a phenomenon that occurs frequently within or at the start of
-more pregnant technical formations, gives an important clue to probable
-trend developments. In any event, it is an urgent warning to watch closely
-the chart in which it has appeared to see what pattern of price action may
-follow and be prepared for the worthwhile move when it comes.
+**Đảo Chiều Một Ngày** xuất hiện thường xuyên ở các cổ phiếu cá nhân có **cung 
+cổ phiếu nổi (floating supply) ít**, đã tăng mạnh và thu hút đông đảo công chúng. 
+Ngược lại, chúng hiếm khi xuất hiện trong các chỉ số trung bình (Averages). Trong 
+khi đó, các **Đỉnh Bán Hoảng Loạn (Selling Climaxes)** lại thường thấy rõ trong 
+các chỉ số trung bình vào cuối các đợt giảm bất thường hoặc bán tháo hoảng loạn.
 
-It is worth noting that the type of false move or shakeout that we
-described in Chapter 8 as occurring at the apex end of a Symmetrical Triangle
-often takes the form of a One-Day Reversal.
+Như đã nói, **Đảo Chiều Một Ngày** không mang ý nghĩa của **Xu Hướng Chính (Major 
+Trend)**. Nhà giao dịch linh hoạt có thể tận dụng để kiếm lời — có thể vài điểm 
+nếu nhảy vào đúng lúc. Nhưng thông thường, xu hướng mới (tại đóng cửa) không 
+di chuyển xa ngay lập tức; giá thường dao động quanh vùng gần đó, hình thành 
+một mô hình khu vực trước khi diễn ra một đợt dao động cỡ trung gian. Tuy nhiên, 
+hiện tượng **Đảo Chiều Một Ngày**, thường xuất hiện trong hoặc ở đầu các mô hình 
+kỹ thuật quan trọng hơn, cung cấp manh mối quan trọng về khả năng phát triển xu 
+hướng tiếp theo. Trong mọi trường hợp, đó là cảnh báo cần **theo dõi biểu đồ** nơi 
+hiện tượng xuất hiện để sẵn sàng cho cơ hội di chuyển đáng kể.
 
+Cần lưu ý rằng loại **di chuyển giả hoặc shakeout** mô tả trong Chương 8, xảy ra 
+tại đỉnh của **Tam Giác Cân (Symmetrical Triangle)**, thường xuất hiện dưới dạng 
+**Đảo Chiều Một Ngày**.
 
-![fig-102](./img/fig-102.png)
-**FIGURE 102.** The strong One-Day Reversal which marked Greyhound’s 1946 Bull
-Market high. Note climax volume. A less conspicuous Reversal Day appeared on
-August 26. It is suggested that the reader go back over all charts in preceding
-chapters; he will find many Reversal Days of greater or lesser consequence. Many
-gaps (G) were of measuring type — see Chapter 12.
+![fig-102](./img/fig-102.png)  
+**Hình 102.** Đảo Chiều Một Ngày mạnh, đánh dấu đỉnh Bull Market của Greyhound 
+năm 1946. Chú ý đến khối lượng cao đỉnh. Một Đảo Chiều ít rõ ràng hơn xuất hiện 
+ngày 26/8. Người đọc nên xem lại các biểu đồ ở các chương trước, sẽ thấy nhiều 
+Ngày Đảo Chiều với mức quan trọng khác nhau. Nhiều gap (G) là loại đo lường — 
+xem Chương 12.
 
-##### The Selling Climax
+### Đỉnh Bán Hoảng Loạn (Selling Climax)
 
-In the “bad old days” when stocks could be bought by putting up as little
-as 10% of their cost in cash, and there were no restrictions on short selling,
-professional operators could (and tradition says they often did) organize
-Bear Raids to shake out weakly margined holdings. By selling short in
-quantity at a favorable moment when the “public” had gotten itself pretty
-well extended on the long side, they could break prices down. Brokers then
-would send out calls for more margin from their “long” accounts, many of
-whom could not or would not put it up, with the result that their stocks
-were dumped on the market. That, in turn, produced further declines. The
-professionals could then step in, cover their shorts with a profit, and secure
-a line of long stock for the next advance. Bear Raids of this sort were
-effectively checked by the imposition of the SEC regulations, but margin
-calls and forced selling will, of course, always exist as a market factor so
-long as stocks can be bought on margin, and will come into play whenever
-prices drop extensively following a spree of public buying.
+Ngày xưa, khi cổ phiếu có thể mua với chỉ 10% giá trị tiền mặt và không giới hạn 
+bán khống, các nhà giao dịch chuyên nghiệp có thể tổ chức **Bear Raids** để làm 
+yếu các tài khoản ký quỹ. Bằng cách bán khống số lượng lớn khi công chúng đã mua 
+quá nhiều, họ có thể hạ giá. Sau đó, môi giới yêu cầu thêm ký quỹ từ các nhà đầu 
+tư, nhiều người không thể hoặc không muốn đáp ứng, dẫn đến bán tháo. Điều này tạo 
+ra đợt giảm tiếp theo, và các chuyên gia có thể mua lại cổ phiếu với lợi nhuận và 
+tích lũy cho đợt tăng tiếp theo. Các Bear Raid kiểu này bị kiểm soát nhờ quy định 
+SEC, nhưng các lệnh ký quỹ và bán ép vẫn tồn tại khi mua ký quỹ, và xuất hiện khi 
+giá giảm mạnh sau mua của công chúng.
 
-![fig-102.1](./img/fig-102.1.png)
-**FIGURE 102.1.** Apple. 1987 Reagan Crash. Does this plunge appear to be out of
-the blue? Not really. Numerous signs are given: break of major trendline; short-term
-momentum down before crash in an environment of extreme top psychology; then
-the crash itself, the panic selling exhibiting the typical pattern of short covering, then
-further decline.
+![fig-102.1](./img/fig-102.1.png)  
+**Hình 102.1.** Apple, Khủng hoảng Reagan 1987. Đợt giảm không hoàn toàn bất ngờ: 
+phá trendline chính, momentum giảm ngắn hạn, bán hoảng loạn, bán khống, và giảm 
+tiếp theo.
 
-Most true Selling Climaxes, if not all, have been produced by distress
-selling of the type referred to in the preceding paragraph. They have come
-at the end of rapid and comprehensive declines which exhausted the margin
-reserves of many speculators and necessitated the dumping of their shares
-at whatever the market would bring. This process is progressive — feeding
-upon itself, so to speak — with each wave of forced sales jeopardizing
-another lot of margined accounts, until, at last, millions of shares are tossed
-overboard, willy-nilly, in a final clean-up. Such is a Selling Climax in which
-the total turnover may exceed any single day’s volume during the previous
-swing up. It is a harvest time for traders who, having avoided the Bullish
-infection at the top of the market, have funds in reserve to pick up stocks
-available at panic prices.
+Hầu hết **Đỉnh Bán Hoảng Loạn**, nếu không phải tất cả, được tạo ra bởi **bán khẩn 
+cấp** kiểu này. Chúng xuất hiện sau các đợt giảm nhanh và toàn diện, cạn kiệt 
+dự trữ ký quỹ của nhiều nhà đầu tư, dẫn đến bán tháo. Quá trình này tự tăng tiến — 
+mỗi đợt bán ép đe dọa các tài khoản khác — cho đến khi hàng triệu cổ phiếu bị bán ồ 
+ạt. Đây là **Selling Climax**, khi tổng khối lượng vượt mọi ngày giao dịch trong 
+đợt tăng trước đó. Đây là cơ hội cho người tránh mua ở đỉnh, có vốn để mua cổ 
+phiếu giá hoảng loạn.
 
-Obviously, a clean-out day or Selling Climax radically reverses the tech-
-nical condition of the market, for in its process, shares have passed from
-weak hands into strong hands at very much lower prices. The ominous
-weight of potential selling that has been overhanging the market has been
-removed. And usually the Panic has carried quotations (although only temporarily, 
-as a rule) well below even conservative values based on current business conditions.
+Một **Ngày Bán Hoảng Loạn** làm thay đổi tình hình kỹ thuật thị trường: cổ phiếu 
+từ tay yếu sang tay mạnh với giá thấp, áp lực bán tiềm ẩn được loại bỏ, giá 
+thường xuống dưới giá trị hợp lý tạm thời.
 
+![fig-103](./img/fig-103.png)  
+**Hình 103.** Bán hoảng loạn 19/10/1937 tạo **Ngày Đỉnh Bán** trên hầu hết cổ phiếu 
+dẫn đầu và các chỉ số trung bình. Biểu đồ New York Central cho thấy, ngoài **SC**, 
+còn có Top hồi phục Head-and-Shoulders và Rectangle kết thúc thành Tam giác đầu 
+tháng 10. CN lập đáy Bear Market cuối cùng tháng 3 với 10½. Trendline logarithmic 
+từ tháng 8 không bị phá cho tới tháng 6/1938.
 
-![fig-103](./img/fig-103.png)
-**FIGURE 103.** The “Panic” selling of October 19, 1937, produced a conspicuous
-Climax Reversal Day in nearly all leading stocks, as well as in the Averages. This
-New York Central chart shows, beside the Selling Climax (SC), its Head-and-Shoul-
-ders Recovery Top of July–August and a Consolidation Rectangle which ended as a
-Triangle in early October. “CN” made a final Bear Market low the following March
-at 10½. On a logarithmic price scale, its down trendline from August was not broken
-until June 1938.
+Một **Selling Climax** không cần kết thúc trong một ngày duy nhất. Một số trải 
+ra hai ngày: giảm cạn kiệt ngày đầu, gần cuối phiên; ngày hôm sau bật tăng ngay 
+từ mở cửa, cho thấy không còn cổ phiếu bán khẩn cấp.
 
+Kỷ lục **Selling Climax** theo tỷ lệ phần trăm thuộc 29/10/1929: mở cửa gần đỉnh 252,38, 
+thấp hơn 8 điểm so với đóng cửa trước đó. Bán hoảng loạn làm Dow-Jones giảm 40,05 
+điểm, hồi 18 điểm trong 2 giờ cuối, tăng thêm 28 điểm ngày hôm sau. Khối lượng kỷ 
+lục: 16.410.000 cổ phiếu, gấp đôi bất kỳ ngày nào trong Bull Market.
 
-A Selling Climax need not be completed, and the Reversal of Trend
-actually become evident, within a single day. We have classified it as a variety
-of One-Day Reversal, but some of them have actually spread out over 2 days,
-with the decline exhausted and coming to a halt late on the first day, too
-near the end of the session to permit much recovery. The next day sees an
-extensive rally right from the opening gong, as it is immediately apparent
-then, if not late the preceding day, that there are no more distress offerings.
+![fig-103.1](./img/fig-103.1.png)  
+**Hình 103.1.** Dow Industrials, Khủng hoảng Reagan 1987. Tin đồn, hoảng loạn, 
+bán hoảng loạn, giảm tiếp. Trader thông minh mua đáy 20/10, cứu vãn tình hình.
 
-The all-time percentage record for Selling Climaxes is held by October 29,
-1929. Prices in terms of the Dow–Jones Industrial Average opened that day
-practically at their high, 252.38, which was more than 8 points below the
-previous day’s closing level. Panic selling flooded the Exchange from the
-start, and before it was over, the Industrial Average had lost 40.05 points!
-From that low, 212.33, it rallied in the final 2 hours to 230.07 for a gain of
-nearly 18 points, and went on up another 28 points the following day. This
-1929 climax set the all-time record also for daily turnover: 16,410,000 shares
-were traded in those 5 hours, more than twice as many as in any one day
-during the entire preceding Bull Market. But the low level of October 29 was
-broken a week later, and the bottom of that particular early phase of the
-1929–32 Bear Market was not reached until November 13. _EN: See comments
-on the following page on the Reagan Crash of 1987._
+Panic 1937 kết thúc với **Selling Climax** ngày 19/10. Dow đóng 125,73 đêm trước, 
+mở cửa với áp lực bán, phiên kết thúc 126,85, hồi phục hoàn toàn. Khối lượng 7.290.000 
+cổ phiếu, gấp đôi ngày cao trước đó.
 
-
-![fig-103.1](./img/fig-103.1.png)
-**FIGURE 103.1.** Dow Industrials, 1987 Reagan Crash. Rumors proliferated — iron-
-ically, one that Reagan had Alzheimer’s. Proximate cause: professional panic exac-
-erbated by an ill-considered portfolio insurance scheme propagated by academics.
-Note that the authoritative (lower) trendline here (75 days) is broken by more than
-2% (Magee’s suggestion) in early September. The broken upper trendline (25 days)
-would have pulled the ripcord for the more agile trader. Savvy investors were
-hedging and liquidating through September, and fund managers panicked in Octo-
-ber. According to the Brady Report, Hull Trading Co. bought the bottom October 20,
-thus saving American capitalism.
-
-The Panic of 1937 ended with a classic Selling Climax on October 19,
-another “Black Tuesday” in stock market annals. The Dow Industrials had
-closed at 125.73 the night before. Prices had already fallen without a rally
-of consequence from a high of 190 in mid-August, and margin accounts were
-nearly all in a precarious situation. The telephones had been worked over-
-time the preceding day by brokers demanding additional margin, most of
-which was not forthcoming. When the Exchange opened on the 19th, quo-
-tations hit the toboggan under a flood of offerings. By 11:30 a.m., with the
-Industrial Average around 115, the selling was over and offerings disap-
-peared. An hour later, prices were jumping a point between sales and the
-day closed at 126.85, recovering its entire loss. Volume on that climax was
-7,290,000 shares, double that of any day at the top of the preceding Bull
-Market. An intraday high of 141.22 was reached 10 days later, but the Panic
-Low was subsequently broken on November 20, 1937, and that Bear Market
-finally ended at 98.95 (Dow–Jones Industrials’ closing level) on March 31,
-1938.
-
-_EN: Compare 1987. No wonder investors have instinctual angst on October_
-_19. In 1987 the Bear returned to create another great Panic — on the very same
-date. From a high of 2746.65 on August 25 the Dow bungeed to a low of 1616.21
-on October 20. The actual full-blown panic took place from October 14 (high
-2485.15) to October 20 (low 1616.21) with October 19 and 20 traversing a range
-of 547.95 points or 25% of the market at that point. Top to bottom 1130 points were
-lost comprising a percentage retracement of 41%. The more things change the more
-they stay the same, as André Malraux is said to have remarked. Actually he said it
-in French, which is more elegant, and expresses the same idea:_ Plus ça change,
-c’est plus la meme chose. _Readers should not assume that similar crashes will
-not occur in the future._
-
-
-    The foregoing were _general market_ climaxes, a phenomenon which, of
-course, produces (or rather is produced by) simultaneous selling in practi-
-cally every actively traded individual issue. A Climax Bottom, as a matter
-of fact, appears in an individual stock chart, as a rule, only as a concomitant
-of a general market clean-out, although there are cases where some particular
-and completely unexpected piece of bad news affects one certain company
-and causes panicky liquidation of its shares alone, terminating with a One-
-Day Reversal. The _Top_ Reversal Day, on the other hand, is normally a man-
-ifestation of an individual stock rather than of the general market average.
-    
-    The two outstanding examples of Selling Climaxes that we have cited
-above, and numbers of others which have appeared at the conclusion of
-various Panic Sell-offs, obviously offered extraordinary opportunities for a
-quick turn to the trader who was smart (or lucky) enough to get in at the
-bottom. He could cash in a few days later with exceptional profits. Profes-
-sional operators capitalize on such opportunities. The problem is to recog-
-nize the climactic nature of the selling in time to seize the chance — and that
-isn’t as easy as it may have sounded in our discussion. Just to emphasize
-the possibilities of error, there was a 30-point drop, followed by a 30-point
-recovery, on a turnover of nearly 13 million shares, on October 24, 1929, but
-the trader who didn’t grab his profits within 48 hours never had another
-chance to get out even (in terms of the Averages, that is).
-    
-    But it isn’t impossible to recognize a Selling Climax, if you have friends
-in the Street to keep you informed on the condition of margin accounts and
-the amount of necessitous selling to be expected. _EN: This information is now
-not difficult to come by. It is easily obtainable in the general financial press._ The
-climax comes _after_ a decline approaching Panic proportions. The day usually
-opens with a substantial Downside Gap (opening prices considerably below
-the previous night’s closing); offerings appear too great to be absorbed; prices
-collapse; the ticker runs late; the market is exceptionally “broad” with nearly
-every listed stock crowding into the record. Then, some time after 11 a.m.,
-perhaps not until afternoon, the selling appears to dry up; a few issues
-continue to decline while others begin to climb. Suddenly prices are jumping.
-That is the time to act. Buy a stock that has been thoroughly depressed but
-one which normally has at all times a good following (for example, U.S.
-Steel). Don’t hang on too long; take a reasonable profit as soon as it is
-available and sell, in any event, whenever the recovery shows signs of
-bogging down.
-
-![fig-104](./img/fig-104.png)
-**FIGURE 104.** The Selling Climax discussed on the preceding pages is typically a
-1-day phenomenon, and on only one occasion (April 1939) in history has a general
-market One-Day Reversal signaled the final low of a Primary Bear Trend (although
-many individual stocks evinced a Selling Climax on their charts in March 1938).
-Occasionally, a weekly chart will produce a formation which might be called a
-“One-Week Reversal,” in some such conspicuous fashion as is shown above in “NC.”
-In this instance, the subsequent rise proves that a Major change in its technical balance
-occurred in December 1941. Curiously enough, no other obvious Reversal Pattern
-appeared on the weekly chart at this turn in the Primary Trend of “NC.” (Its daily
-chart showed an Ascending Triangle.) But this example of a One-Week Reversal is
-not shown to give the idea that such phenomena carry important technical indica-
-tions. On the contrary, most “Reversal weeks” are followed by very disappointing
-moves.
+Nhớ rằng, **Đảo Chiều Một Ngày** không phải chỉ báo xu hướng chính đáng tin. 
+Các **Selling Climax** hiếm khi xảy ra ở đáy cuối Bear Market — các cổ phiếu yếu 
+đã bị bán lâu trước đó. Chỉ còn lại một hình đảo chiều, **Island Pattern**, liên quan 
+đến Gap, sẽ bàn trong Chương 12.
 
 
 
-Remember, a One-Day Reversal is not a dependable Major Trend indi-
-cator. Selling Climaxes do not normally occur at the final Bottoms of Bear
-Markets — weak holdings usually have been shaken out long before that
-stage is reached. Only one Primary Downtrend in all the record has, in fact,
-ended with the first Panic Phase, that being the 5-month Bear Market of
-1938–39 which was followed by an equally short Bull Market.
-One remaining Reversal Formation, the _Island Pattern_ , involves the whole
-subject of _Gaps_ which we have not yet had an appropriate occasion to discuss.
-Gaps will be taken up in detail in Chapter 12, and we will defer the Island
-Reversal until then.
 
-## chapter 10.1. Short-Term Phenomena of Potential Importance
+## chương 10.1. Hiện tượng Ngắn Hạn Có Ý Nghĩa Tiềm Ẩn
 
-Very short-term phenomena — of a one-day or a few days’ duration — can
-sometimes be indicative of not only short-term direction, but also give hints
-as to longer-term price behavior. Gaps (Chapter 12), and One-Day Reversals
-(Chapter 10), which have been discussed, belong to this group. Other short-
-term patterns of interest include _Spikes_ , _Key Reversal Days (_ sometimes called
-merely _Reversal Days)_ , and _Runaway Days_ (sometimes called _Wide-Ranging
-Days_ ).
+Các hiện tượng cực ngắn hạn — kéo dài một ngày hoặc vài ngày — đôi khi
+không chỉ chỉ ra hướng ngắn hạn mà còn gợi ý về hành vi giá dài hạn.
+Gaps (Ch.12) và One-Day Reversals (Ch.10) đã thảo luận thuộc nhóm này.
+Các mẫu ngắn hạn khác gồm _Spikes_, _Key Reversal Days_ (đôi khi chỉ gọi
+_là Reversal Days_), và _Runaway Days_ (đôi khi gọi _Wide-Ranging Days_).
 
 ## Spikes
 
-On the day it occurs, a Spike is not immediately identifiable, for by definition
-it protrudes head and shoulders above days before and after if it is at or
-near a Top, and plunges much below the surrounding days if it occurs at a
-Bottom. So after a day that exhibits an unusually wide range, the subsequent
-days must be observed to discriminate the day from a Runaway Day. Both
-are the marks of a far-ranging battle between bulls and bears, with the close
-giving a clue as to whom the eventual winner will be. The importance of
-the spike is highlighted by
+Vào ngày xuất hiện, Spike chưa thể nhận diện ngay, vì định nghĩa là nó
+nhô cao hơn hẳn các ngày trước và sau nếu ở hoặc gần Đỉnh, và rơi thấp
+hơn hẳn các ngày xung quanh nếu ở Đáy. Sau một ngày dao động rộng
+bất thường, các ngày tiếp theo cần quan sát để phân biệt Spike với
+Runaway Day. Cả hai đều là dấu hiệu trận chiến rộng giữa bulls và bears,
+với đóng cửa cung cấp manh mối người chiến thắng. Tầm quan trọng của
+Spike phụ thuộc vào:
 
+1. Sức mạnh và độ dài hành động trước đó
+2. Đóng cửa ngày hôm đó, tăng ở Đáy hay giảm ở Đỉnh
+3. Độ nổi bật so với các ngày trước và sau
 
-1. The strength and length of the action which preceded it
-2. The close of the day, whether up on a Bottom or down on a Top
-3. Its prominence when compared to the days before and after it
+Một ngày dao động cực rộng cuối đợt bull dài, đóng cửa giảm sau khi
+tạo đỉnh mới bất thường, có thể được coi là tín hiệu một ngày.
+Việc giao dịch dựa trên nó phụ thuộc phong cách, sở thích và loại
+giao dịch — dài hạn, scalping, v.v. Spike cũng có thể là One-Day
+Reversal — mở gap, mua mạnh, sau đó sụp và đóng dưới mở hoặc
+đáy ngày. Hành động này như quân đội truy đuổi kẻ thua giả rồi bị
+phản công.
 
-An extremely wide-range day at the end of a long bull move which
-closes down after making unusual new highs might even be construed as a
-one-day signal. Whether one trades on it or not would depend on his par-
-ticular style and taste and the nature of his trading — long range, scalping,
-etc. In fact, the Spike might also be a One-Day Reversal — that pattern where
-often an opening gap is followed by avid buying which collapses and closes
-below the opening or at the low of the day. Such action might be compared
-to an army pursuing a seemingly defeated enemy only to discover the retreat
-was a ruse, then turning and fleeing the other way in a rout.
-
-Turn this description on its head and you have a Spike Bottom. It is not
-infrequent that a Spike will be followed by significant price movement in
-the opposite direction. Figure 104.1 illustrates a modern Spike. Figures 1 and
-35 show some spikes on Edwards’ and Magee’s charts.
-
+Đảo ngược mô tả trên thành Spike Bottom. Không hiếm khi Spike
+theo sau là chuyển động giá ngược chiều. Hình 104.1 minh họa Spike
+hiện đại. Hình 1 và 35 cho thấy một số Spike trên biểu đồ Edwards
+và Magee.
 
 ![fig-104.1](./img/fig-104.1.png)
-**FIGURE 104.1.** A church spire top in Qualcomm. The December gap might be
-mistaken for a buy signal, as might be the runaway days, but they are actually hand-
-engraved invitations to leave the party with near progressive stops ⅛ off the day’s
-low. Also valid—exit on the Key Reversal on day 2 after the gap. How does the trader
-know this is a blow-off and not a signal to pyramid? By the age, length, state, and
-slope of the market. When trendlines go vertical, blow-off management must be used.
-The return to the base of the first runaway day is notification that it is a bull trap.
-The first bull trap. The second bull trap is the breakout of the triangle in March. A
-wonderful chart filled with fin de siècle and fin de millennium lessons.
+**HÌNH 104.1.** Đỉnh church spire Qualcomm. Gap tháng 12 có thể
+nhầm là tín hiệu mua, như Runaway Days, nhưng thực chất là dấu
+hiệu thoát với stops gần 1/8 dưới đáy ngày. Cũng hợp lý — thoát
+Key Reversal ngày 2 sau gap. Trader nhận biết blow-off hay không
+qua tuổi, độ dài, trạng thái, dốc thị trường. Khi trendline đứng
+thẳng, cần quản lý blow-off. Trở lại đáy Runaway Day là bull trap.
+Bull trap đầu tiên. Bull trap thứ hai: breakout tam giác tháng 3.
+Biểu đồ tuyệt vời, đầy bài học fin de siècle và fin de millennium.
 
 ##### Runaway Days
 
-A Runaway Day is a day that stands out on the chart as having an unusually
-long range, often opening at the low and closing at the high, or vice versa
-for bear runaways. Here the enemy has retreated precipitously, or treacher-
-ously to draw the bulls into a trap. The holders and sellers cannot or will
-not satisfy the eager demand of the buyers and so the price transverses
-perhaps two to three times the daily range. While the agile speculator may
-jump on this charging train and realize a nice scalp, it is the following days
-that reveal the true significance. Nice consolidation and continued volume
-will confirm the day as significant while a tapering of volume and rounding
-or volatile pullback will call into question its validity. While these days may
-be taken as hair-trigger buy signals (or sell signals, depending) the return
-of prices to the low of the Runaway Day will probably indicate that the day
-was a false signal, and that a trade in the opposite direction is shaping up.
-See Figure 39 for runaways complete with gaps.
-Figure 104.2 showing Microsoft in 2000 was one such example where a
-bull trap precipitated by a Runaway Day with a subsequent collapse foretold
-the 50% decline in Microsoft stock.
-
+Runaway Day là ngày nổi bật trên biểu đồ với dao động dài bất thường,
+thường mở tại đáy và đóng tại đỉnh, hoặc ngược lại với bear runaways.
+Đây là khi phe bán rút lui nhanh hoặc đánh lừa, kéo bulls vào bẫy.
+Người giữ và bán không thể hoặc không muốn thỏa cầu mua. Giá đi
+khoảng 2–3 lần biên ngày. Nhà đầu cơ nhanh có thể scalp, nhưng các
+ngày sau mới xác định ý nghĩa thật. Consolidation tốt và volume tiếp
+tục xác nhận, còn volume giảm hoặc pullback biến động nghi vấn tín hiệu.
+Nếu giá trở lại đáy Runaway Day, có thể là tín hiệu giả, và trade
+ngược chiều đang hình thành. Hình 39 minh họa Runaway với gaps.
+Hình 104.2 Microsoft 2000 là ví dụ: bull trap do Runaway Day, collapse
+dự báo giảm 50% cổ phiếu.
 
 ![fig-104.2](./img/fig-104.2.png)
-**FIGURE 104.2.** Microsoft. A Key Reversal Day in March. Department of Justice
-breakaway gaps: runaway gaps, exhaustion gaps. Selling climax. As usual, further
-lows are achieved. A cornucopia of chartist’s delights.
+**HÌNH 104.2.** Microsoft. Key Reversal Day tháng 3. DOJ breakaway gaps:
+runaway gaps, exhaustion gaps. Selling climax. Thường tiếp tục tạo đáy
+mới. Biểu đồ tuyệt vời cho chartist.
 
 ##### Key Reversal Days
 
-The Key Reversal Day pattern occurs when one sees a new high in an
-upmove and then a close below the close of the previous day. As a short-
-term trading signal it has much to recommend it, but like every other tech-
-nical pattern, judgment and timing are required to profit from it. In a Bull
-Market there will be some if not many such interim highs marked by Key
-Reversal Days. On the Key Reversal Day at a major or important Top the
-trader shorts the stock on the close with a stop at the high of the reversal
-day, or slightly above. He may then exit on the profit side on the occurrence
-of a Key Reversal Day in the opposite direction, or on a profit target, or a chart
-pattern. Or he may, if adventurous, use the trade as the first of accumulating
-a position for an anticipated Bear Market, adding other positions as more
-significant patterns occur and as support levels are broken.
-This pattern also is useful in trading range markets, as shown in some
-Internet stocks from 2000, where trading with Key Reversal Days would
-have allowed the trader to escape _unscathed_ in the minicrash of the NASDAQ
-in early 2000. (Cf. Figures 104.3 and 104.4 on the following pages for Ebay
-and Lucent.)
-Of all the Very Short-Term Patterns, Gaps, One-Day Reversals, Key
-Reversal Days, Spikes, and Runaway Days, it should be noted that return
-of prices to the origination of the formation marks the formation as a false
-signal and reason to reverse the trade direction and look for perhaps signif-
-icant profits.
-Clearly these are the tactics of scalpers and speculators, but it does not
-hurt the long-term investor to know and understand them.
+Key Reversal Day xảy ra khi giá tạo đỉnh mới trong upmove nhưng
+đóng cửa dưới ngày trước. Là tín hiệu giao dịch ngắn hạn đáng giá,
+nhưng cần phán đoán và timing để sinh lời. Trong Bull Market sẽ có
+một số đỉnh tạm thời với Key Reversal Days. Ở Top quan trọng, trader
+short cổ phiếu lúc đóng cửa với stop trên đỉnh ngày reversal, hoặc cao
+hơn chút. Có thể thoát khi Key Reversal Day ngược chiều, hoặc đạt
+target, hoặc theo mô hình. Nếu mạo hiểm, dùng trade làm bước đầu
+tích lũy cho Bear Market, thêm vị thế khi mô hình quan trọng xuất hiện
+và mức hỗ trợ phá. Mẫu này cũng hữu ích trong trading range, như cổ
+phiếu Internet 2000, giúp thoát an toàn minicrash NASDAQ đầu 2000.
+(Hình 104.3–104.4 Ebay, Lucent.)
+
+Trong các Mẫu Ngắn Hạn, Gaps, One-Day Reversals, Key Reversal Days,
+Spikes, Runaway Days, nếu giá trở về xuất phát, là tín hiệu giả và lý
+do đảo chiều trade, có thể thu lợi đáng kể. Đây là chiến thuật của
+scalpers và speculators, nhưng nhà đầu tư dài hạn cũng nên biết.
 
 ![fig-104.3](./img/fig-104.3.png)
-**FIGURE 104.3.** Ebay. As Ebay broke its trendline and drifted sideways, it became
-a good subject for Key Reversal Day trading. Note several instances.
-
+**HÌNH 104.3.** Ebay. Khi Ebay phá trendline và đi ngang, là đối tượng
+tốt cho Key Reversal Day. Lưu ý vài trường hợp.
 
 ![fig-104.3.1](./img/fig-104.3.1.png)
-**FIGURE 104.3.1.** If you can’t deliver groceries electronically what good is the In-
-ternet? Meg Whitman (a competent, well, more than competent, CEO) and Ebay
-found a use for it: The biggest flea market ever invented (and growing every day).
-Every military commander knows the axiom, Exploit Success! and Ebay exploits and
-exploits and exploits. Is there a fundamental lesson here for the technician? Abso-
-lutely. Although the technician should be able to take a nameless chart and trade it
-competently (CEO of his own ship) no _real_ information or data should be ignored.
-In this case the real information – that Ebay was an 800 pound gorilla (or flea) – fit
-the chart perfectly. So Ebay separated itself from a bunch of nags to run long and
-hard. Handicappers know to always keep an eye on winning jockeys: Whitman.
-Ellison at Oracle. Moore at Intel. Gates at Microsoft. Jobs at Apple (and Pixar and
-NEXT and etc., etc., etc...). In 2005 what’s to be done with Ebay? Draw a trendline,
-raise your stops and sell it if it reverses.
-
+**HÌNH 104.3.1.** Nếu không giao hàng điện tử, Internet để làm gì?
+Meg Whitman (CEO tài năng) và Ebay tìm ra: chợ trời lớn nhất (và
+tăng hằng ngày). Quân đội biết châm ngôn: Exploit Success! Ebay khai
+thác triệt để. Bài học cơ bản cho kỹ thuật viên? Chắc chắn. Kỹ thuật
+viên nên giao dịch trên biểu đồ vô danh, không bỏ thông tin thực tế.
+Ebay là “gorilla 800 pound”, phù hợp biểu đồ, vượt các đối thủ chạy
+dài. Nhà handicap theo dõi jockey thắng: Whitman, Ellison (Oracle),
+Moore (Intel), Gates (Microsoft), Jobs (Apple, Pixar, NEXT…). 2005,
+Ebay: vẽ trendline, nâng stops, bán nếu đảo chiều.
 
 ![fig-104.4.](./img/fig-104.4.png)
-**FIGURE 104.4.** Lucent. Late 20th and early 21st century schizophrenia. Runaway Days, Breakaway Gaps. Maalox is to be prescribed for the investor. Ecstasy for the trader. Reversal Days and short-term tactics win the day when the subject is insane. An excellent example of fitting the trader to the stock. Why would a rational investor own such a stock?
-
+**HÌNH 104.4.** Lucent. Cuối 20th, đầu 21st century: Runaway Days,
+Breakaway Gaps. Nhà đầu tư cần Maalox, trader phấn khích. Reversal
+Days và tactics ngắn hạn thắng thế khi thị trường “điên”. Ví dụ xuất sắc
+cho việc phù hợp trader với cổ phiếu. Nhà đầu tư hợp lý sao sở hữu?
 
 ![fig-104.4.1](./img/fig-104.4.1.png)
-**FIGURE 104.4.1.** In the caption to Figure 104.4, the editor asked, apparently rhe-
-torically why a rational investor would own Lucent. The picture here shows what
-happens when apparently rational investors do not set a stop to protect themselves
-from irrational volatility. The market knows things investors do not know. But it will
-reveal these things to the most basic of investors if he reads the chart. This chart is
-added for the 9th Edition to pick up the picture where the 8th left it.
+**HÌNH 104.4.1.** Trong chú thích Hình 104.4, biên tập hỏi vì sao nhà
+đầu tư hợp lý sở hữu Lucent. Hình cho thấy hậu quả khi nhà đầu tư
+hợp lý không đặt stop để bảo vệ khỏi biến động phi lý. Thị trường biết
+những gì nhà đầu tư không biết, nhưng sẽ tiết lộ cho nhà đầu tư cơ
+bản nếu đọc biểu đồ. Hình này thêm cho ấn bản 9, nối tiếp ấn bản 8.
+
