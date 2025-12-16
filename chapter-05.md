@@ -1,4 +1,4 @@
-# chương 5.  Những Khiếm Khuyết của Lý thuyết Dow
+# Chương 5.  Những Khiếm Khuyết của Lý thuyết Dow
 
 Chúng tôi nghi ngờ rằng các độc giả của mình đã thở phào nhẹ nhõm khi
 khép lại chương trước về một chủ đề khó khăn, tẻ nhạt và đôi khi gây

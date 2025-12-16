@@ -1,4 +1,4 @@
-## chương 7. Các Mô Hình Đảo Chiều Quan Trọng — Tiếp Theo
+## Chương 7. Các Mô Hình Đảo Chiều Quan Trọng — Tiếp Theo
 
 ### Đáy Đầu-và-Vai (EN: hoặc Kilroy)
 
