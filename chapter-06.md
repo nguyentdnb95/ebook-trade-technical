@@ -426,7 +426,6 @@ mang tính chất của một Mô Hình Đảo Chiều bắt đầu xuất hiệ
 
 ![fig-011](./img/fig-011.png)
 
-
 **HÌNH 11.** Đồ thị ngày của cổ phiếu phổ thông Chicago, Milwaukee,
 St. Paul & Pacific từ ngày 1 tháng Giêng đến ngày 29 tháng Sáu, 1946.
 Mô hình Đầu-và-Vai đã tạo đỉnh cho Xu Hướng Tăng Chính của mã

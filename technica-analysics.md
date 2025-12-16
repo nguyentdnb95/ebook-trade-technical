@@ -1197,7 +1197,6 @@ hướng Lớn đó.
 
 ![fig-005](./img/fig-005.png)
 
-
 **HÌNH 5.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp
 và Đường sắt Dow–Jones từ ngày 2 tháng 11 năm 1942 đến ngày 30
 tháng 6 năm 1943, và tổng khối lượng thị trường hàng ngày. Biểu đồ
@@ -1304,7 +1303,6 @@ Bảy, và giá sau đó lại giảm xuống các mức đáy mới, thì quả
 một Thị trường Gấu sẽ có hiệu lực.
 
 ![fig-006](./img/fig-006.png)
-
 
 **HÌNH 6.** Giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và Đường
 sắt Dow–Jones, và tổng khối lượng thị trường, từ ngày 1 tháng 7
@@ -1486,6 +1484,8 @@ các vị thế giao dịch của mình, nhưng “nhà đầu tư nhỏ lẻ”
 giờ đây tạm thời đã cạn vốn; tài khoản môi giới của anh
 ta nhanh chóng bị “đóng băng.”
 
+![fig-8](./img/fig-008.png)
+
 **HÌNH 8.** Mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 1 tháng 12 năm 1945 đến ngày 31
 tháng 5 năm 1946, và tổng khối lượng giao dịch hàng ngày của thị
@@ -1497,7 +1497,7 @@ và một lần nữa vào cuối tháng Năm. Ở thời điểm sau, các mứ
 đáy tháng Hai vẫn là các mức “tín hiệu” phía dưới mang tính
 then chốt theo Lý thuyết Dow.
 
-![fig-8](./img/fig-008.png)
+
 
 
 Xét trong hoàn cảnh đó, khi nhìn lại, thật đáng kinh ngạc là
