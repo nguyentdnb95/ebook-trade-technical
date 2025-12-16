@@ -4,6 +4,9 @@ Welcome to the **Technical Analysis Ebook**. This guide covers key concepts, str
 
 ---
 
+- [English Version](technical-analysics-en.md)
+- [VNI Version](technica-analysics.md)
+
 ## Table of Contents
   - [Chương 1. Cách Tiếp Cận Kỹ Thuật Trong Giao Dịch và Đầu Tư](chapter-01.md)
   - [Chương 2. Đồ Thị ](chapter-02.md)
