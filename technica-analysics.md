@@ -8951,7 +8951,6 @@ chỉ là các số một và số không. Việc bổ sung phân tích biểu �
 dụng một cách thận trọng vào các hệ thống này sẽ cải thiện đáng kể hiệu
 suất và đặc tính rủi ro của chúng.
 
-
 ## Chương 17.  Tổng kết và Một số Nhận xét Kết luận
 
 Chúng ta bắt đầu nghiên cứu phân tích kỹ thuật biểu đồ cổ phiếu ở Chương 1
@@ -9021,8 +9020,7 @@ chia đại khái thành bốn nhóm.
     của chúng sẽ đẩy giá đi xa đến đâu. Những dạng biểu đồ này, cùng
     với khối lượng, cung cấp cho nhà phân tích kỹ thuật phần lớn các
     tín hiệu “vào lệnh” và nhiều tín hiệu “thoát lệnh”.
-
-       Khối lượng, vốn không được thảo luận trong cuốn sách này như
+    Khối lượng, vốn không được thảo luận trong cuốn sách này như
     một yếu tố tách rời khỏi hành động giá, và thực tế cũng không thể
     được sử dụng như một chỉ báo kỹ thuật độc lập, xứng đáng được
     bình luận thêm. Hãy nhớ rằng khối lượng là _tương đối_, rằng nó có
@@ -9036,13 +9034,13 @@ chia đại khái thành bốn nhóm.
     tồn tại một khuynh hướng nhẹ là hoạt động giao dịch gia tăng trong
     các nhịp tăng. (“Giá có thể tự giảm bởi trọng lượng của chính nó,
     nhưng để tăng thì cần có lực mua.”)
-
-       Một sự gia tăng đáng kể về hoạt động giao dịch, so với những ngày
+    Một sự gia tăng đáng kể về hoạt động giao dịch, so với những ngày
     hoặc tuần trước đó, có thể biểu thị hoặc sự khởi đầu (phá vỡ) hoặc
     sự kết thúc (cao trào) của một chuyển động, tạm thời hoặc cuối
     cùng. (Hiếm hơn, nó có thể biểu thị một pha “rũ bỏ”.) Ý nghĩa của
     nó, trong từng trường hợp cụ thể, có thể được xác định thông qua
     mối quan hệ với mô hình giá.
+
 2. Các nghiên cứu về Xu hướng và Đường xu hướng bổ trợ cho các Mô
     hình Vùng trong việc xác định hướng chung mà giá đang di chuyển
     và trong việc phát hiện sự thay đổi hướng đi. Mặc dù trong nhiều
@@ -9075,13 +9073,14 @@ khác nhau
     kỹ thuật quan trọng hơn của chúng là cho thấy nơi một chuyển
     động nhiều khả năng sẽ chậm lại hoặc kết thúc, và tại mức nào
     nó sẽ gặp phải sự gia tăng đột ngột và đáng kể của cung hoặc cầu.
-
-       Trước khi tham gia một giao dịch, hãy xem xét cả mô hình khởi
+    Trước khi tham gia một giao dịch, hãy xem xét cả mô hình khởi
     nguồn để đánh giá sức mạnh đứng sau chuyển động, lẫn lịch sử
     Hỗ trợ–Kháng cự để xác định liệu nó có thể tiến triển thuận lợi đủ
     xa để sinh lợi hay không. Các nghiên cứu Hỗ trợ–Kháng cự đặc
     biệt hữu ích trong việc cung cấp các tín hiệu “chốt lời” hoặc
     “chuyển đổi”.
+
+    
 4. Bối cảnh thị trường chung, bao gồm cả Lý thuyết Dow, không nên
     bị xem nhẹ. Công cụ đã được kiểm nghiệm qua thời gian này chỉ
     ra Xu hướng Chính (Major Trend) được giả định là đang chi phối
@@ -9689,7 +9688,7 @@ giá trong tương lai, chưa kể chi phí. Thu nhập thực tế chỉ là s�
 một dạng giải thưởng an ủi — một cách cắt giảm lợi nhuận trong khi tăng
 chi phí của bạn.
 
-###### Phân tích Định lượng
+###### Phân tích Định lượng (Quantitative Analysis)
 
 Nhà đầu tư nên nhận thức được một lĩnh vực khác của công nghệ máy tính
 và đầu tư đã mang lại những kết quả kịch tính và sinh lợi hơn nhiều, nhưng
@@ -9723,6 +9722,7 @@ quyền chọn, phần lớn là chuyên nghiệp, lấy đi hầu hết tiền 
 (những người mua). Đó là cách của thế giới.
 
 ###### Các Mô hình Định giá Quyền chọn và Tầm quan trọng của Chúng
+###### (Options Pricing Models and Their Importance)
 
 Sau khi mô hình Black–Scholes được giới thiệu, nhiều mô hình khác đã
 theo sau, trong đó có Cox–Ross–Rubinstein, Black Futures, v.v. Đối với
@@ -9754,6 +9754,7 @@ Chicago Board Options Exchange, CBOE, tại [http://www.cboe.com,](http://www.cb
 nơi có phần mềm hướng dẫn.
 
 ###### Hợp đồng Tương lai trên Chỉ số
+###### (Futures on Indexes)
 
 Hợp đồng tương lai, giống như quyền chọn, cung cấp cho nhà đầu cơ đòn
 bẩy mạnh — khả năng kiểm soát một vị thế tương đối lớn với ít vốn hơn
@@ -9788,6 +9789,7 @@ sẽ an toàn khỏi thuế, đồng thời cũng an toàn khỏi chi phí, trư
 khăn của việc tái lập vị thế cổ phiếu.
 
 ###### Quyền chọn trên Hợp đồng Tương lai và Chỉ số
+###### (Options on Futures and Indexes)
 
 Việc sử dụng bảo thủ cũng như đầu cơ có thể được áp dụng cho quyền chọn.
 Ví dụ, nhà đầu tư có thể, sau một cú tăng mạnh, cảm thấy rằng S&P 500,
@@ -9825,6 +9827,7 @@ nhà giao dịch chuyên nghiệp thành công là cực kỳ lệch. Thực t�
 rằng tất cả các nhà giao dịch quyền chọn thành công đều là chuyên nghiệp.
 
 ###### Lý thuyết Danh mục Hiện đại (MPT)
+###### (Modern Portfolio Theory (MPT))
 
 MPT là một quy trình và phương pháp theo đó một nhà quản lý danh mục
 có thể phân loại và phân tích các thành phần của danh mục theo cách mà,
@@ -9852,6 +9855,7 @@ bị bỏ qua bao gồm các cơn bão thị trường “10 sigma” vốn bị
 thất bại danh mục như thể đó là lỗi của dữ liệu thay vì lỗi của quy trình.
 
 ###### Những Điều Kỳ Diệu và Niềm Vui của Công nghệ Đầu tư
+###### (The Wonders and Joys of Investment Technology)
 
 Có còn đổi mới nào khác trong tài chính và lý thuyết đầu tư mà nhà đầu
 tư phổ thông nên biết không? (Xem Chương 42 để thảo luận về VAR.)
@@ -9872,6 +9876,7 @@ thống thời gian thực mà trong nghiên cứu đã thành công 100% trong 
 đánh bại thị trường. Trục trặc thực tế duy nhất là các hệ thống đó cần quá
 nhiều sức mạnh tính toán nên không thể chạy đủ nhanh trong thời gian
 thực để thực sự giao dịch trên thị trường. Hòn đá giả kim _redux._
+
 
 
 
