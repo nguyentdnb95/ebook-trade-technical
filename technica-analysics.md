@@ -70,6 +70,7 @@ quan trọng nhất.
 
 ![fig-001](./img/fig-001.png)
 
+
 **HÌNH 1.** Biến động giá U.S. Steel từ Jan 1929–Dec 1946. So sánh với
 giá trị sổ sách từng năm.
 
@@ -979,6 +980,7 @@ còn lần lượt là 117,66 và 26,54 vào ngày 14 tháng 2.
 
 ![fig-002](./img/fig-002.png)
 
+
 **HÌNH 2.** Biểu đồ “Dao động” _(EN: HOẶC Sóng)_ cho thấy tất cả các
 Xu hướng Trung gian và một số Xu hướng Nhỏ mở rộng hơn của các Chỉ
 số Công nghiệp và Đường sắt Dow–Jones, từ tháng 1 năm 1941 đến
@@ -1014,6 +1016,7 @@ của một Thị trường Gấu, đợt tăng lên tháng Mười Một là Nh
 Nhịp Thứ cấp đầu tiên của nó.
 
 ![fig-003](./img/fig-003.png)
+
 
 **HÌNH 3.** Các mức giá đóng cửa của các Chỉ số Công nghiệp và Đường sắt
 Dow–Jones, từ ngày 1 tháng 2 đến ngày 31 tháng 8 năm 1941, và tổng
@@ -1111,6 +1114,7 @@ trong Thị trường Gấu vốn vẫn được giả định là đang tồn t
 
 ![fig-004](./img/fig-004.png)
 
+
 **HÌNH 4.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 2 tháng 3 đến ngày 31 tháng 10 năm 1942,
 và tổng khối lượng thị trường hàng ngày. Giai đoạn này đã chứng kiến
@@ -1192,6 +1196,7 @@ tháng 12 giờ được công nhận là Nhịp Thứ cấp đầu tiên trong 
 hướng Lớn đó.
 
 ![fig-005](./img/fig-005.png)
+
 
 **HÌNH 5.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp
 và Đường sắt Dow–Jones từ ngày 2 tháng 11 năm 1942 đến ngày 30
@@ -1300,6 +1305,7 @@ một Thị trường Gấu sẽ có hiệu lực.
 
 ![fig-006](./img/fig-006.png)
 
+
 **HÌNH 6.** Giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và Đường
 sắt Dow–Jones, và tổng khối lượng thị trường, từ ngày 1 tháng 7
 năm 1943 đến ngày 31 tháng 1 năm 1944.
@@ -1388,6 +1394,7 @@ minh họa sáng tỏ cho giả định cơ bản (Nguyên lý số 1) của Lý
 thuyết Dow!
 
 ![fig-007](./img/fig-007.png)
+
 
 **HÌNH 7.** Mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 1 tháng 5 đến ngày 30 tháng 11 năm
@@ -1491,6 +1498,7 @@ và một lần nữa vào cuối tháng Năm. Ở thời điểm sau, các mứ
 then chốt theo Lý thuyết Dow.
 
 ![fig-8](./img/fig-008.png)
+
 
 Xét trong hoàn cảnh đó, khi nhìn lại, thật đáng kinh ngạc là
 một cơn Hoảng loạn lan rộng hơn đã không xảy ra.
@@ -2318,6 +2326,7 @@ hãy đặt một dấu cảnh báo đỏ thứ hai trên đồ thị của bạ
 
 ![fig-010](./img/fig-010.png)
 
+
 **FIGURE 10**. Starting in March, “HUM” formed a broad Head-and-Shoulders Top
 pattern on the daily chart. August’s decline penetrated the neckline by 3%, confirm-
 ing the Reversal Pattern. The minimum objective for the Head-and-Shoulders Top
@@ -2367,6 +2376,7 @@ mang tính chất của một Mô Hình Đảo Chiều bắt đầu xuất hiệ
 
 
 ![fig-011](./img/fig-011.png)
+
 
 **HÌNH 11.** Đồ thị ngày của cổ phiếu phổ thông Chicago, Milwaukee,
 St. Paul & Pacific từ ngày 1 tháng Giêng đến ngày 29 tháng Sáu, 1946.
@@ -2420,6 +2430,7 @@ trong những giới hạn đó, hãy chờ đợi vô số các biến thể nh
 
 
 ![fig-012](./img/fig-012.png)
+
 **HÌNH 12.** Đỉnh Thị Trường Giá Lên của Westinghouse Electric năm
 1946 là kiểu Đầu-và-Vai mạnh mẽ, “dao động rộng” (S-H-S). Đợt giảm
 đã phá vỡ đường viền cổ (NL) vào ngày 13 tháng Hai tạo ra một Khoảng
@@ -2434,6 +2445,7 @@ tháng Mười Một tiếp theo, “WX” đã phá vỡ xuống mức 21½. H�
 cứu chi tiết sự thay đổi của mô hình khối lượng sau cuối tháng Giêng.
 
 ![fig-013](./img/fig-013.png)
+
 **HÌNH 13.** Một Mô Hình Đỉnh Đầu-và-Vai lớn đã phát triển ở “TDY”
 trong 5 tháng, với cú lao xuống có khối lượng cao vào tháng Mười Hai
 xuyên qua đường viền cổ xác nhận sự Đảo Chiều Xu Hướng. Vì đây là
@@ -2479,6 +2491,7 @@ giảm giá.
 
 
 ![fig-014](./img/fig-014.png)
+
 **HÌNH 14.** “ICX” đã trong một xu hướng tăng mạnh trong hơn một
 thập kỷ và lợi nhuận rất ấn tượng. Nhưng động lực tăng bắt đầu suy
 yếu và các dấu hiệu Topping xuất hiện rõ rệt. Đỉnh tháng Tám đã
@@ -2518,6 +2531,7 @@ luận sau.
 
 
 ![fig-015](./img/fig-015.png)
+
 **HÌNH 15.** Các Mô Hình Đảo Chiều, phát triển ở các cổ phiếu quan
 trọng trong khi thị trường chung vẫn đang trong xu hướng mạnh, thường
 khó tin, chứ chưa nói đến việc hành động theo. Nhưng chúng có thể
@@ -2529,6 +2543,7 @@ tháng Ba là điển hình và thú vị trong tình hình thị trường chun
 vậy. So sánh với Hình 12.
 
 ![fig-016](./img/fig-016.png)
+
 **HÌNH 16.** Một Đỉnh Thị Trường Giá Lên năm 1937 khác của mô hình
 Đầu-và-Vai, với chỉ một Pullback nhanh (ngày 10 tháng Hai). Trong
 trường hợp này, khối lượng tăng mạnh vào ngày 5 tháng Hai với cú
@@ -2560,6 +2575,7 @@ tôi thích gọi là “Đáy Kilroy.” Xem Hình 23.1)_ cũng như Đỉnh, v
 quan trọng không kém. Các Mô hình Đáy sẽ được trình bày trong chương tiếp theo.
 
 ![fig-017](./img/fig-017.png)
+
 **HÌNH 17.** Mô hình Vai-Đầu-Vai Đỉnh kéo dài 6 tháng của Republic Aviation
 năm 1946. Một mô hình như vậy trở thành khả năng cần theo dõi khi giá giảm
 xuống dưới mức cao của tháng Hai (S đầu tiên) vào tháng Năm. Tham khảo yêu
@@ -2569,6 +2585,7 @@ cho các mô hình với đường cổ hướng lên. Yêu cầu giảm tối t
 hội bán cuối cùng tốt.
 
 ![fig-018](./img/fig-018.png)
+
 **HÌNH 18.** Sau phản ứng mạnh từ mức cao năm 1983, kéo dài một năm và
 đẩy “DIS” trở lại Hỗ trợ dài hạn, phe Bò tiếp quản và đưa Walt cùng bạn bè
 lên “mặt trăng”. Nhưng bắt đầu từ tháng Tư, tên lửa bắt đầu mất lực, và
@@ -2577,6 +2594,7 @@ mùa xuân, cổ phiếu này hình thành một mô hình Vai-Đầu-Vai Đỉn
 xâm nhập đường cổ với khối lượng cao hơn 3% xác nhận sự Đảo chiều.
 
 ![fig-019](./img/fig-019.png)
+
 **HÌNH 19.** New York Central tạo mô hình Vai-Đầu-Vai Đỉnh vào tháng Sáu
 1945. Đường xu hướng trung gian tăng (IUT) bị phá bởi sự giảm từ đỉnh ngày
 5 tháng 7. Ý nghĩa đo lường tối thiểu thực hiện được ở mức 24 ngày 18 tháng
@@ -2589,6 +2607,7 @@ trong cổ phiếu này. Những người bán ở 26–27 vào tháng 7/1945 c�
 mừng vào tháng 5/1947 khi “CN” chạm 12.
 
 ![fig-020](./img/fig-020.png)
+
 **HÌNH 20.** Đỉnh Thị trường Bò vĩ đại năm 1929 được đặc trưng bởi nhiều Mô
 hình Vai-Đầu-Vai ấn tượng, trong đó đây là một ví dụ thú vị. Lưu ý Mô hình
 Vai-Đầu-Vai nhỏ của tháng 9, trở thành đỉnh của một mô hình lớn hơn cùng
@@ -2604,6 +2623,7 @@ danh mục năm 1929, chúng không hề hiếm vào giữa thế kỷ 20. Một
 hiện đại xuất hiện trong các trang sau.
 
 ![fig-020.1](./img/fig-020.1.png)
+
 **HÌNH 20.1.** Một Vai-Đầu-Vai khổng lồ trong S&P? Có thể thấy rõ ràng
 tại đây, ngay cả khi Richard Russell không chỉ ra. Nó được đánh dấu trên biểu
 đồ với đầu phức tạp. Nếu chỉ lấy đầu phức tạp, mô hình có thể được cho là
@@ -2661,6 +2681,7 @@ tương đương 3% giá thị trường cổ phiếu, với một đợt bùng 
 
 
 ![fig-021](./img/fig-021.png)
+
 **HÌNH 21.** Sau khi “uốn cong” vào tháng Mười 1943 trong giai đoạn
 cuối của một đợt giảm dài từ 41 năm 1940, Lockheed đã tạo một Đáy
 Đầu-và-Vai rõ rệt trong 2 tháng. Lưu ý đặc biệt, trên đồ thị trên,
@@ -2706,6 +2727,7 @@ khác biệt nào trong số này ảnh hưởng đến các tiêu chí cơ bả
 Đầu-và-Vai.
 
 ![fig-022](./img/fig-022.png)
+
 **HÌNH 22.** Đồ thị tuần đặc biệt hữu ích để phát hiện các Đảo Chiều
 Đáy Quan Trọng, vì mô hình Đáy thường mất nhiều thời gian để hình
 thành hơn Đỉnh. Dome Mines đã tạo một Đáy Đầu-và-Vai điển hình, kéo
@@ -2724,6 +2746,7 @@ như các Pullback Rally theo sau đột phá từ mô hình Đỉnh.
 
 
 ![fig-023](./img/fig-023.png)
+
 **HÌNH 23.** Với xu hướng rõ ràng hướng đến lãi suất thấp hơn kể
 từ tháng Sáu, thời điểm đáy của “FNM” không gây ngạc nhiên. Cũng không
 ngạc nhiên về độ rộng lớn (từ tháng Ba đến tháng Mười) của mô hình
@@ -2747,6 +2770,7 @@ có thể được mô tả đầy đủ như các Mô hình Đảo chiều Vai-
 vài sóng riêng biệt.
 
 ![fig-023.1](./img/fig-023.1.png)
+
 **HÌNH 23.1.** _EN: Dù có nguy cơ bị coi là hài hước (thực ra, là châm
 biếm), tôi gợi ý rằng, mặc dù hình ảnh hài hước, mô hình mô tả chính xác
 “Đáy Vai-Đầu-Vai” hơn là thuật ngữ hiện tại. Tay trái = vai trái. Tay
@@ -2806,6 +2830,7 @@ nhưng ngay cả khi đó thường có sự hồi phục mạnh (hoặc phản 
 trường hợp Đáy) từ mức “quy tắc tối thiểu”.
 
 ![fig-023.2](./img/fig-023.png)
+
 **HÌNH 23.2.** Một Đáy Kilroy lởm chởm (hoặc nếu từ trường phái cũ là
 một Vai-Đầu-Vai) kết thúc thị trường gấu (hoặc giai đoạn đầu của nó)
 2001-2002. Khoảng 7½ tháng hình thành, nó ném vài quả bóng cong và
@@ -2854,6 +2879,7 @@ thường khi một Mô Hình Phức Tạp xảy ra sai, nó vẫn đứng đó,
 
 
 ![fig-025](./img/fig-025.png)
+
 **HÌNH 25.** Một Đỉnh Multiple “lý tưởng” do Budd tạo ra năm 1946,
 với hai đầu. Quan sát khối lượng đi kèm. Giá thường phá vỡ từ các
 Mô Hình Phức Tạp chậm hơn so với loại Đầu-và-Vai đơn giản. Đợt
@@ -2872,6 +2898,7 @@ lớp Đảo Chiều tiếp theo, được gọi là Đỉnh/Đáy Bo Tròn.
 
 
 ![fig-026](./img/fig-026.png)
+
 **HÌNH 26.** Đỉnh Multiple dài của American Locomotive năm 1946
 hiển thị rõ ràng kiểu mô hình khối lượng — bất thường, nhưng mang
 bản chất giảm trong nửa sau — vốn bình thường cho mô hình này.
@@ -2926,6 +2953,7 @@ kéo dài. Tính chất và ký hiệu của chúng sẽ được thảo luận 
 chúng ta tới phần _Consolidation_.)
 
 ![fig-027](./img/fig-027.png)
+
 **HÌNH 27.** Từ một Đỉnh Đầu-và-Vai vào tháng Hai, Digital giảm mạnh
 xuống giữa tháng Sáu, thu hồi khoảng hai phần ba đợt tăng 1983–85.
 Mức thấp mùa hè là đầu của một Đáy Đầu-và-Vai Phức Tạp _(EN: Hoặc Kilroy)_. 
@@ -2945,6 +2973,7 @@ kết thúc bằng việc công chúng mua hăng hái, ít chú ý đến yếu 
 tư dài hạn.
 
 ![fig-028](./img/fig-028.png)
+
 **HÌNH 28.** Sau khi kiểm tra mức cao 1980 giữa năm 1983, “ADM” giảm 
 mạnh, hồi khoảng 40% đợt tăng 1982–83 đến giữa năm 1984. Tuy nhiên, mức 
 thấp mùa hè có vẻ là một Đáy. Thực ra, nếu quan sát khối lượng từ tháng 
@@ -2953,12 +2982,14 @@ một Đáy Đầu-và-Vai Phức Tạp. Một đường viền cổ qua giá đ
 hiệu mua khi xuyên thủng 20⅝.
 
 ![fig-029](./img/fig-029.png)
+
 **HÌNH 29.** Một Đáy Trung Cấp loại Phức Tạp, bất thường vì thiếu đối
 xứng nhưng dễ nhận ra. Khối lượng thấp trong các phản ứng sau khi đầu 
 hoàn tất mang lại Xác Nhận Tăng điển hình (và cần thiết). Khởi đầu chậm
 của xu hướng mới là đặc trưng chung của Đảo Chiều Đầu-và-Vai Phức Tạp.
 
 ![fig-030](./img/fig-030.png)
+
 **HÌNH 30.** Sự trượt của Amdahl chiếm thời gian của phe Gấu từ tháng 
 Ba–Tháng Sáu trước khi một đợt hồi mạnh báo hiệu phe Bò vẫn còn sống. 
 Sau đó, một phạm vi giao dịch ngang lộn xộn hình thành với Hỗ Trợ gần mức 
@@ -2968,6 +2999,7 @@ tháng Chín thực sự là một Đáy Đầu-và-Vai Phức Rộng. Vào lệ
 phá 3% đường viền cổ với mục tiêu tối thiểu 19¾.
 
 ![fig-031](./img/fig-031.png)
+
 **HÌNH 31.** Một biến thể khác của Đầu-và-Vai trong một Mô Hình Đảo 
 Chiều Quan Trọng. Mô hình Đầu-và-Vai nhỏ hơn dễ bị bỏ qua trên đồ thị 
 ngày. Hơn nữa, mặc dù kéo dài 6 tháng, mô hình này tự nó không nhất 
@@ -3010,6 +3042,7 @@ thường chậm và bị gián đoạn nhiều lần, làm mệt nhà giao dị
 nhẫn, nhưng cuối cùng vẫn mang lại lợi nhuận đáng kể.
 
 ![fig-032](./img/fig-032.png)
+
 **HÌNH 32.** Một dạng khác mà Mô hình Đảo chiều Phức tạp có thể mang
 lại. Nó có thể được mô tả như Mô hình Vai-Đầu-Vai với hai đầu tách biệt
 rộng. Nghiên cứu mô hình khối lượng, lưu ý breakout ngày 20 tháng 6 và
@@ -3017,12 +3050,14 @@ Pullback tiếp theo. So sánh với Đáy Đảo chiều Bethlehem Steel trong 
 12, Hình 123.
 
 ![fig-033](./img/fig-033.png)
+
 **HÌNH 33.** Các Mô hình Đảo chiều Đỉnh lớn trong các cổ phiếu đầu tư giá
 cao thường kéo dài và “bằng phẳng.” Đỉnh 1946 của Phillips Petroleum có
 thể được phân loại là Vai-Đầu-Vai Nhiều Lần hoặc Đỉnh Tròn bất thường.
 Một đường xu hướng quan trọng (Chương 14) bị phá xuống vào tháng 7.
 
 ![fig-034](./img/fig-034.png)
+
 **HÌNH 34.** Phản ứng sau chiến tranh năm 1945 ở American & Foreign Power
 2d Preferred, cũng như nhiều cổ phiếu khác, có dạng Đáy Tròn. So sánh
 xu hướng giá và khối lượng. Đến ngày 4 tháng 10, các hàm ý đã rõ ràng.
@@ -3038,17 +3073,20 @@ cần vẫn phải kiên nhẫn. Một ví dụ kinh điển về breakout sớm
 trong hình minh họa kèm theo, Hình 38.
 
 ![fig-035](./img/fig-035.png)
+
 **HÌNH 35.** Biểu đồ tháng, theo thang số học. Đáy Chính 1932 của American
 Safety Razor là Vai-Đầu-Vai, cũng như Đỉnh Bò 1936. Thị trường Bò 1942–
 1946 bắt đầu từ Đáy Tròn kéo dài gần hai năm rưỡi! Nghiên cứu biểu đồ tháng
 rất hữu ích.
 
 ![fig-036](./img/fig-036.png)
+
 **HÌNH 36.** Biểu đồ tháng của Budd Company. Lưu ý rằng năm 1942 là năm
 đầu tiên xuất hiện Mô hình hình Chén tròn, một Đáy Tròn quan trọng. “BF”
 tăng từ dưới 3 năm 1942 lên trên 26 năm 1946.
 
 ![fig-037](./img/fig-037.png)
+
 **HÌNH 37.** Mô hình tương tự ở CertainTeed Products, tăng từ dưới 2 năm
 1942 lên trên 25 năm 1946. Nghiên cứu khối lượng từ 1940–1945. Dạng
 xu hướng Bò lớn cong lên trên trên các biểu đồ này sẽ được bàn trong
@@ -3087,11 +3125,13 @@ cho đến khi cây “trắng sạch.” Sau đó họ có thể nâng giá th�
 thuật chờ đợi.
 
 ![fig-038](./img/fig-038.png)
+
 **HÌNH 38.** Ví dụ kinh điển về Đáy Tròn tại Đảo chiều Xu hướng Chính
 1932. Việc nhảy ra khỏi đường ngày 10 tháng 6 và trở lại Mô hình Chén
 là diễn biến phổ biến trong Đáy Tròn.
 
 ![fig-039](./img/fig-039.png)
+
 **HÌNH 39.** Trường hợp cực đoan của “Đáy Ngủ.” Có nhiều ngày trong
 4 tháng đầu không giao dịch cổ phiếu nào. Tín hiệu “mua” xuất hiện ngày
 26 tháng 4. Lưu ý khối lượng.
@@ -3134,11 +3174,13 @@ rằng “một Đảo Chiều phải có cái để đảo”).
 
 
 ![fig-040](./img/fig-040.png)
+
 **HÌNH 40.** Phản ứng tháng Ba 1935 tạo ra nhiều Đáy Bo Tròn. Trường
 hợp này gần với loại tiềm ẩn. Khoảng trống (G), một đột phá qua Mức
 Kháng Cự, không được lấp đầy cho đến cuối 1937. (Xem Chương 12.)
 
 ![fig-041](./img/fig-041.png)
+
 **HÌNH 41.** Trong phạm vi giao dịch rộng (11–17½) năm 1988, “APM”
 giảm từ Kháng Cự vào mùa hè. Tuy nhiên, phản ứng diễn ra chậm,
 tạo thành mô hình giống “Chảo” từ tháng Bảy đến tháng Mười Một
@@ -3148,6 +3190,7 @@ bắt đầu xuất hiện. Đợt hồi Khối Lượng Cao qua đường Xu H�
 Ngắn Hạn báo hiệu bắt đầu nhịp tăng tiếp theo.
 
 ![fig-042](./img/fig-042.png)
+
 **HÌNH 42.** Cray Research, cổ phiếu mạnh mẽ trong hơn một thập kỷ.
 Giao dịch dưới một đô la năm 1976, đạt 135¾ trước khoảng trống cuối
 tháng Tư, qua đáy của Kim Cương 7 tuần, bắt đầu giảm. Tuy nhiên,
@@ -3157,6 +3200,7 @@ khối lượng cao đến Hỗ Trợ theo sau sự phá vỡ Kim Cương, đặ
 quan trọng trong việc làm sáng tỏ Mô Hình Đỉnh này.
 
 ![fig-043](./img/fig-043.png)
+
 **HÌNH 43.** 1984. Chúng tôi yêu thích xu hướng Bo Tròn của Northern
 Indiana Public Service. Mặc dù rõ ràng đây không phải là mô hình báo
 trước đợt tăng như tên lửa, bức tranh kỹ thuật trở nên sáng sủa
@@ -3257,6 +3301,7 @@ căng rồi bật ra, giá phá Tam giác kèm tăng khối lượng, và bật 
 trong đợt tăng mạnh tương đương khoảng di chuyển trước đó.
 
 ![fig-044](./img/fig-044.png)
+
 **HÌNH 44.** Mô hình Đảo chiều Tam giác Đối xứng đẹp trên biểu đồ tuần.
 Đường biên trên nghiêng xuống từ đỉnh phục hồi tháng 2/1942 ở 21, đường
 biên dưới nghiêng lên từ Đáy “Pearl Harbor” ở 16⅜ hội tụ tại đỉnh khoảng
@@ -3274,6 +3319,7 @@ dường như thể hiện sự do dự, chần chừ, trì hoãn cho đến khi
 định cuối cùng.
 
 ![fig-045](./img/fig-045.png)
+
 **HÌNH 45.** Sear’s Roebuck tạo Tam giác Đối xứng Đảo chiều tại Đỉnh Thị
 trường Bò 1946, sau đó tiếp tục vào một Tam giác dài khác, hóa ra là
 Hợp nhất hơn là Đảo chiều. (Thang khối lượng logarit giảm thiểu biến
@@ -3356,6 +3402,7 @@ Không mô hình kỹ thuật nào đáng tin 100%, và Tam giác Đối xứng
 là trường hợp tệ nhất.
 
 ![fig-046](./img/fig-046.png)
+
 **HÌNH 46.** Đảo chiều Xu hướng Chính của Johns-Manville năm 1942 từ
 Tam giác Đối xứng, cũng có vài nét của mô hình Vai-Đầu-Vai với
 vai phải dài. Mặc dù đây là biểu đồ tuần, khối lượng đáng chú
@@ -3371,6 +3418,7 @@ Chúng ta sẽ bàn thêm về tín hiệu giả trong chương này và
 sau về kinh nghiệm giúp trader tự bảo vệ.
 
 ![fig-047](./img/fig-047.png)
+
 **HÌNH 47.** Thang giá logarit trên biểu đồ tuần nhấn mạnh phát triển
 kỹ thuật quan trọng ở mức giá thấp. Tam giác Đáy Đối xứng của
 “DH” bắt đầu Thị trường Bò, đạt 57 năm 1945. Lưu ý Throwback
@@ -3384,6 +3432,7 @@ về đỉnh Tam giác, phát triển không hiếm. Đỉnh là Hỗ trợ mạ
 
 
 ![fig-048](./img/fig-048.png)
+
 **HÌNH 48.** Tam giác thường hình thành như một phần của mô hình lớn
 hơn và quan trọng hơn thuộc loại khác. Ở đây, một hình đối xứng
 tạo thành nửa sau của một Đỉnh Bo Tròn. Lưu ý đột phá sớm ngày
@@ -3430,6 +3479,7 @@ lần đầu. Khối lượng giảm còn 400 cổ phiếu và giá dừng ở 3
 bắt đầu tăng khi chạm 36.
 
 ![fig-049](./img/fig-049.png)
+
 **HÌNH 49.** Giá trong Tam Giác Đối Xứng nén lại vào đỉnh
 trước khi bùng phát. Đột phá ở giai đoạn này không đáng tin;
 phía trên là ví dụ điển hình về các chuyển động giả xuất hiện
@@ -3459,6 +3509,7 @@ rằng cân bằng có thể hơi nghiêng về phía cầu, nhưng
 mong đợi; Tam Giác cần có một ít dung sai.
 
 ![fig-050](./img/fig-050.png)
+
 **HÌNH 50.** Các đợt hồi từ Đáy “Hoảng Loạn” thường bị Tam
 Giác chặn lại, vì đó là giai đoạn nghi ngờ và phân vân.
 Tuy nhiên, trong các trường hợp như vậy, nghi ngờ thường
@@ -3488,6 +3539,7 @@ hướng lại tăng. Lưu ý không cần giá vượt đỉnh trước
 về Tam Giác Đối Xứng.
 
 ![fig-051](./img/fig-051.png)
+
 **HÌNH 51.** Một Tam Giác Đối Xứng Lớn, trong đó giá nén vào
 đỉnh và sau đó tạo một chuyển động giả lên (xem Hình 49).
 “VEC,” thực ra là một trường hợp kỹ thuật xấu, nhưng đột
@@ -3498,6 +3550,7 @@ phá này vẫn đáng nghi ngờ.
 ##### Đảo chiều hay Tích lũy
 
 ![fig-052](./img/fig-052.png)
+
 **HÌNH 52.** Mặt khác của câu chuyện — một Tam giác Đối xứng đồ sộ
 thất bại nặng, dù với nhà kỹ thuật cảnh giác và có kinh nghiệm,
 đã có cảnh báo điều bất thường vào tháng 3 và 4. Eastern Airlines
@@ -3539,6 +3592,7 @@ biên dưới, rồi giảm tiếp với khối lượng tăng. Tuy nhiên, ph�
 ứng hậu phá ít gặp ở Tam giác hơn so với Vai-Đầu-Vai.
 
 ![fig-053](./img/fig-053.png)
+
 **HÌNH 53.** Biểu đồ tuần. Khu vực Tích lũy 7 tháng năm 1944 —
 “NG,” ban đầu không xác định, sau cùng trở thành Tam giác Đối
 xứng điển hình. Hai tháng sau phá khối lượng cao tháng 1
@@ -3546,6 +3600,7 @@ xứng điển hình. Hai tháng sau phá khối lượng cao tháng 1
 tối thiểu của Tam giác đạt 16.
 
 ![fig-054](./img/fig-054.png)
+
 **HÌNH 54.** Một Tam giác Đối xứng nhỏ nghiêng về kiểu “Tăng”.
 Lưu ý khối lượng cao xuất hiện trong mô hình đầu tháng 1
 trên một đợt tăng. Hành động này khá điển hình với cổ phiếu
@@ -3568,6 +3623,7 @@ lên 40, họ chào đón phản ứng, và khi giá về 33, đủ người s�
 sàng mua để cân bằng lại sang phía cầu.
 
 ![fig-055](./img/fig-055.png)
+
 **HÌNH 55.** Tam giác Tăng 10 tháng, bắt đầu Xu hướng Bò lớn,
 đưa “ABN” lên 45. Giá từ chối phản ứng tại biên dưới, như
 tháng 8/1942, thường thấy trong mô hình mạnh, báo hiệu sắp
@@ -3593,6 +3649,7 @@ Tam giác Đối xứng phá lên. Đôi khi tín hiệu sớm đủ mạnh
 để mở vị thế.
 
 ![fig-056](./img/fig-056.png)
+
 **HÌNH 56.** Phá sớm từ Tam giác Vuông, như Celanese tháng 3/1946,
 thường làm trader tạm thất vọng, nhưng cuối cùng ổn. Trước
 chia tách 1946, Celanese hay gặp shakeout kỳ lạ, như 9 và 26/3.
@@ -3620,6 +3677,7 @@ thuộc loại _Tăng Dần_. Nếu đường dưới nằm ngang và đường 
 nghiêng xuống, Tam Giác thuộc loại _Giảm Dần_.
 
 ![fig-057](./img/fig-057.png)
+
 **HÌNH 57.** Một đợt hồi mạnh từ Đáy Hoảng Loạn (bán ra “Pearl
 Harbor”) bằng phẳng thành một Tam Giác Tăng Dần tuyệt vời. Lưu ý
 đường cung nằm ngang tại 19, trên một đường cầu tăng dần. Đột
@@ -3650,6 +3708,7 @@ một cuộc tấn công khác vào đường 40, trước khi cung ở đó
 hết và xu hướng có thể tiếp tục tăng.
 
 ![fig-058](./img/fig-058.png)
+
 **HÌNH 58.** Đỉnh Thị Trường Tăng Sears năm 1936 là Tam Giác
 Đối Xứng, từ đó giảm 15 điểm. Một Tam Giác Tăng sau đó tạo ra
 Đợt Hồi Trung Gian lên Vùng Cung (xem Chương 13) ở cạnh
@@ -3700,11 +3759,13 @@ trước các trường hợp sụp hiếm, sẽ được đề cập trong ph�
 thứ hai của cuốn sách.)
   
 ![fig-059](./img/fig-059.png)
+
 **HÌNH 59.** Tam Giác Tăng tại Đáy Trung Gian. Biểu đồ này từ
 tháng Tư đến tháng Tám 1936. Sự giảm mạnh khối lượng giao
 dịch trong mô hình này cho thấy tình hình kỹ thuật rất mạnh.
 
 ![fig-060](./img/fig-060.png)
+
 **HÌNH 60.** Một trong những thất vọng đầu năm 1947 (đối với
 những nhà đầu tư tăng) là “AM” không phá được đỉnh của Tam
 Giác Tăng dài mô tả trên. Đây là trường hợp (xem trang 112)
@@ -3747,6 +3808,7 @@ nhưng đôi khi không rõ rệt. Các dao động nhỏ này không ảnh hư�
 xu hướng giảm chung của khối lượng cho đến khi đạt điểm phá.
 
 ![fig-061](./img/fig-061.png)
+
 **HÌNH 61.** Đáy Thị trường Gấu 1942 của Socony–Vacuum là mô hình
 Vai-Đầu-Vai bất thường, đầu gồm Tam giác Tăng. Lưu ý khối lượng tăng
 khi phá Tam giác vào tháng 7 và phá đường cổ Vai-Đầu-Vai vào tháng 10.
@@ -3766,6 +3828,7 @@ là giả (mặc dù phá giả từ Tam giác Vuông hiếm hơn nhiều so v�
 Đối xứng). Trong những trường hợp hiếm khi giá
 
 ![fig-062](./img/fig-062.png)
+
 **HÌNH 62.** Vì cổ tức $1.00 trả vào 14/3, biên dưới Tam giác Giảm
 “BIW” phải hạ 1 điểm từ 33 và vẽ lại tại 32. Dù có khoảng trống
 thêm, mô hình vẫn được thực hiện. Giá ba lần pullback về biên mới
@@ -3788,6 +3851,7 @@ mô hình. Nguyên tắc này giúp ước lượng thời gian và mức giá. 
 tương tự áp dụng cho đợt giảm (phá xuống từ góc trái dưới).
 
 ![fig-063](./img/fig-063.png)
+
 **HÌNH 63.** Dựa trên “cơ bản,” Revere hấp dẫn năm 1946, giải thích
 giá khó “xuống” khi thị trường chung giảm mạnh tháng 6. Biến động
 từ giữa tháng 5 đến cuối tháng 8 tạo Tam giác Giảm lớn, trong đó
@@ -3801,6 +3865,7 @@ Lưu ý: Tam giác mất một phần sức mạnh nếu phá chậm đến khi 
 dồn về đỉnh.
 
 ![fig-064](./img/fig-064.png)
+
 **HÌNH 64.** Đỉnh Thị trường Bò 1937 của Westinghouse là Tam giác
 Giảm bắt đầu tháng 1 và phá 15/2. Giá bám biên dưới 4 ngày,
 rơi, rồi pullback về biên dưới 4/3 khi chỉ số chung lập đỉnh Bò.
@@ -3818,6 +3883,7 @@ sánh “thời điểm” với xu hướng chỉ số. Mô hình Saucers từ 
 phân tích thành Vai-Đầu-Vai Phức hợp Tích lũy, bàn Ch.11.
 
 ![fig-065](./img/fig-065.png)
+
 **HÌNH 65.** Một loạt Tam giác, Đối xứng và Giảm, hình thành trong
 Thị trường Gấu 1929–32 tại Hudson Motors. Chú ý không lúc nào
 xuất hiện Đáy Lớn. Mỗi Tam giác thực hiện đúng ý nghĩa đo lường
@@ -3830,6 +3896,7 @@ Chữ nhật, hồi lên 158 (so với Tam giác Giảm trên), rồi xuống 88
 tháng 11. So sánh biểu đồ ngày với biểu đồ tháng 1935–38 Ch.15.
 
 ![fig-066](./img/fig-066.png)
+
 **HÌNH 66.** Đáy Chính kỳ lạ, ban đầu gây bối rối, mà American
 Rolling Mills xây 1941–43. Phục hồi sau “Pearl Harbor Panic” 1941
 đụng Tam giác Đối xứng lớn, phá xuống tháng 4/1942. Sự giảm tiếp
@@ -3856,6 +3923,7 @@ lớn mà cần nhiều năm mới hoàn thành, tốt nhất nên bỏ qua vì
 không có ý nghĩa hữu ích.
 
 ![fig-067](./img/fig-067.png)
+
 **HÌNH 67.** Một Tam Giác Tăng Dần đẹp và gọn, hóa ra là Sự
 Đảo Chiều Lớn từ Giảm sang Tăng của Goodrich năm 1942. Đột phá
 từ mô hình này (vào tháng Tư) không được báo trước bằng bất
@@ -3886,6 +3954,7 @@ và ý nghĩa dự báo của chúng khác biệt hoàn toàn, nên chúng
 trong chương sau.
 
 ![fig-067.1](./img/fig-067.1.png)
+
 **HÌNH 67.1.** Biểu đồ thời gian thực từ prophet.net. Khối
 lượng bùng nổ vào tháng Bảy 2002 đã thu hút chú ý đến Ebay
 và đường nghiêng được vẽ vào thời điểm đó. Mặc dù các đường
@@ -3968,6 +4037,7 @@ khi một bên mệt hoặc đổi ý và bên kia phá vỡ giá. Không ai (th
 chí các bên) biết ai thắng cho tới khi một đường bị phá quyết định.
 
 ![fig-068](./img/fig-068.png)
+
 **HÌNH 68.** Dù biên dưới hơi “nâng,” mô hình tạo đỉnh cho Nash–Kelvinator
 năm 1946 là Tam giác chữ nhật phân phối 4 tháng rõ rệt. Tam giác chữ
 nhật dài và lỏng như ví dụ này ít khi giảm khối lượng đều, nhưng lưu ý
@@ -3988,6 +4058,7 @@ dịch này làm Tam giác chữ nhật rõ hơn, dù số cổ phiếu ít nên
 đôi khi rất có lợi, nhất là dùng stops hợp lý (xem Phần Hai).
 
 ![fig-069](./img/fig-069.png)
+
 **HÌNH 69.** Tam giác chữ nhật tích lũy trong uptrend ít gặp hơn 1920–30.
 Khoảng giá lớn (G) là loại “cuối mô hình” sẽ bàn Ch.12. Khi gap
 trong khu vực mô hình được phá, như ví dụ, gap hiếm khi nhanh chóng
@@ -4030,6 +4101,7 @@ và phá sớm khó phân biệt tại thời điểm, giá trở lại mô hìn
 cuối cùng đi ngược, phá sớm cuối cùng đi cùng hướng.)
 
 ![fig-070](./img/fig-070.png)
+
 **HÌNH 70.** Ví dụ Tam giác chữ nhật tích lũy hoàn hảo ở Loew’s cuối
 Bull Market 1932–37. Một khối lớn cổ phiếu “inside” phân phối 64–65,
 nhưng được mua lại 62, sau đó tăng lên 87 tháng 8. Lưu ý Throwback
@@ -4051,6 +4123,7 @@ Các mô hình rộng ngắn, turnover cao, năng động hơn mô hình dài h�
 và thường ngừng hay phản ứng tại “điểm tối thiểu” trước khi tiếp tục.
 
 ![fig-071](./img/fig-071.png)
+
 **HÌNH 71.** Tam giác chữ nhật ở Socony–Vacuum, cổ phiếu giá thấp,
 dao động trong biên hẹp. Sau đỉnh 18¾ tháng 12/1945, rơi về 15¼,
 rally giữa 1946. Cuối tháng 8, phá Trendline Trung gian (Ch.14) và
@@ -4090,6 +4163,7 @@ Trung Bình nói chung hiếm khi được thực hiện nhất quán, nên
 tác dụng của chúng rất nhỏ.
 
 ![fig-072](./img/fig-072.png)
+
 **HÌNH 72.** Một Hình Chữ Nhật dài, lỏng lẻo khác với ý nghĩa
 Đảo Chiều Lớn, hơi giống hình trong Hình 68. Cả Đường Xu
 Trung Gian và Xu Hướng Tăng Chính (sẽ bàn sau) đều bị “YB”
@@ -4115,6 +4189,7 @@ nhỏ này không đủ để bỏ qua khả năng đột phá ngược lại
 từ Hình Chữ Nhật.
 
 ![fig-073](./img/fig-073.png)
+
 **HÌNH 73.** Hình Chữ Nhật đầu năm 1945 trong “EAL” thực sự
 là giai đoạn cuối của một quá trình Hợp Nhất gần 2 năm trong
 đợt tăng bắt đầu từ khoảng 17 năm 1942 và kết thúc trên 125
@@ -4139,6 +4214,7 @@ bao giờ có thể dự báo hoặc xác định ngay khi xuất hiện
 chỉ dựa trên dữ liệu biểu đồ.
 
 ![fig-074](./img/fig-074.png)
+
 **HÌNH 74.** Một Hình Chữ Nhật dài, xuất sắc, phát triển sau khi
 “ZA” phá vỡ Đầu và Vai trên vào tháng 2 năm 1946. Cơ hội hoàn
 hảo để bán khống cổ phiếu được tạo ra bởi Pullback từ 17–18
@@ -4147,6 +4223,7 @@ tháng 7, sau khi giá phá vỡ Hình Chữ Nhật vào ngày 15. Hình
 phục hồi lên 11, nhưng giá sau đó giảm xuống 6 đầu năm 1947.
 
 ![fig-075](./img/fig-075.png)
+
 **HÌNH 75.** Biểu đồ tuần của Sears Roebuck, đáy Thị Trường Gấu
 1942, Hình Chữ Nhật Hợp Nhất (tháng 6–11) tạo vai phải của
 một Mô Hình Đầu và Vai Đôi “mất cân đối” lớn.
@@ -4173,6 +4250,7 @@ thời bỏ qua thực tế rằng hàng ngàn cổ phiếu khác có thể
 động như thể sẽ Đỉnh Đôi, nhưng rồi tiếp tục đi lên cao hơn.
 
 ![fig-076](./img/fig-076.png)
+
 **HÌNH 76.** Sau khi tăng lên 16 vào tháng 1 năm 1945, “BLL”
 giảm xuống 13 và tạo Hình Chữ Nhật 15 tuần. Lưu ý khoảng
 trống giảm (G) ngày 30 tháng 4 do cổ tức $1.00. Đường đáy
@@ -4197,6 +4275,7 @@ tăng.
 ##### Đặc điểm Nhận dạng
 
 ![fig-077](./img/fig-077.png)
+
 **HÌNH 77.** Một Tam giác chữ nhật ngắn và “cao” xuất hiện tháng 9/1937
 trong đợt giảm nhanh của Bear Market “KN,” sau đó là sự tích lũy bằng
 Tam giác Xuống và Tam giác Đối xứng.
@@ -4219,6 +4298,7 @@ về giải thích Đỉnh Đôi. Cả hai tiêu chí này mang tính tương đ
 và không phải lúc nào cũng đúng.
 
 ![fig-078](./img/fig-078.png)
+
 **HÌNH 78.** Mô hình này, do United Aircraft tạo ra năm 1942, chưa
 hoàn tất và không thể gọi là Đáy Đôi cho tới khi giá vượt 31 vào
 tháng 2/1943. (Xem các trang tiếp theo.)
@@ -4249,6 +4329,7 @@ chốt lời ngắn hạn. Câu hỏi: đỉnh đầu có dấu hiệu phân ph�
 trọng không, và còn bao nhiêu phải bán ở cùng mức?
 
 ![fig-079](./img/fig-079.png)
+
 **HÌNH 79.** INCO hồi nhanh từ Crash Reagan 1987 và gần về đỉnh
 cuối năm; đỉnh cũ bị phá tháng 4/1988. Rally mạnh tiếp tục đẩy
 “N” cao hơn. Nhưng phản ứng tháng 8, sau đó rally yếu tháng 9,
@@ -4309,6 +4390,7 @@ bằng với Đỉnh Đôi tại các Đảo Chiều Xu Hướng Chính, và cũ
 thỉnh thoảng ở cuối các Sửa Chữa Trung Gian trong Xu Hướng Tăng Lớn.
 
 ![fig-081](./img/fig-081.png)
+
 **HÌNH 81.** Cổ phiếu “AMR,” lúc đó giao dịch quanh 90, đã được chia
 5-for-1 vào tháng 4 năm 1946, dẫn tới một đợt tăng nhanh lên mức cao
 mới. Nhưng tổng thể của một Đỉnh Đôi với đỉnh được lập trước đó
@@ -4331,6 +4413,7 @@ thất bại, khiến giá giảm xuống thêm. Ý tưởng này dẫn tới lo
 Hình Đảo Chiều tiếp theo.
 
 ![fig-082](./img/fig-082.png)
+
 **HÌNH 82.** Mô Hình Đảo Chiều Chính trong “CNR” ở đầu một Đợt
 Tăng Chính, đạt 54. Lưu ý cách một thử nghiệm Tam Giác Tăng dần
 biến thành Đáy Đôi.
@@ -4346,6 +4429,7 @@ nào, đặc biệt nếu “bằng phẳng,” với đầu không vượt quá
 cũng có thể gọi là một dạng Đỉnh Ba.
 
 ![fig-083](./img/fig-083.png)
+
 **HÌNH 83.** Mặc dù Trinity Industries không có mô hình chuẩn như
 các ví dụ khác, chúng tôi nhận thấy đợt giảm khối lượng cao với đáy
 trong ngày là thử nghiệm thứ ba của mức thấp năm đó, là tình huống
@@ -4374,6 +4458,7 @@ rõ rệt và sau đó thể hiện đặc tính Gấu bằng tốc độ giảm
 thể “vội vàng hành động.”
 
 ![fig-084](./img/fig-084.png)
+
 **HÌNH 84.** Publicker lập đỉnh Thị Trường Bò chỉ vài tuần sau
 khi niêm yết trên “sàn lớn.” Sau đó, cổ phiếu bắt đầu tạo Tam Giác
 Giảm, nhưng lại bật lên. Kết quả cuối cùng là Đỉnh Ba, hoàn tất
@@ -4404,6 +4489,7 @@ tuần hơn là ngày. Biểu đồ tháng tiết lộ nhiều Đáy và Đỉnh
 Đôi, Ba tốt.
 
 ![fig-085](./img/fig-085.png)
+
 **HÌNH 85.** Trong quá trình thông thường, khi Đáy này hình
 thành ở “NG,” với các dao động suốt 10 tháng dài chỉ trong
 vùng 1 điểm, hầu hết nhà giao dịch sẽ không để ý. Chắc chắn
@@ -4495,6 +4581,7 @@ tình hình đã nguy hiểm. Không nên mua mới, và các vị thế
 trước nên chuyển đổi hoặc chốt lời ngay cơ hội tốt đầu tiên.
 
 ![fig-086](./img/fig-086.png)
+
 **HÌNH 86.** Mô hình Rộng Dần Đối xứng, xuất hiện nhiều nhất
 ở giai đoạn cuối Bull Market, minh họa bởi biểu đồ Crane Company.
 Chú ý Broadening bắt đầu hình thành tháng 12/1945 sau phản
@@ -4581,6 +4668,7 @@ Có một dạng đặc biệt — một trường hợp riêng, như các nhà 
 Có lẽ ta sẽ thấy rõ hình dạng của mô hình này nếu xem một trong những ví dụ kinh điển xuất hiện năm 1929. Biểu đồ của chúng tôi (Hình 87) thể hiện diễn biến hàng ngày (giá và khối lượng) của Air Reduction từ ngày 1/7 đến 31/12 năm đó. Chúng tôi đã đánh số từ 1 đến 5 các điểm quay quan trọng trong Đỉnh Mở Rộng, kết thúc Thị Trường Bò của cổ phiếu này vào tháng 10. Một Mô Hình Giá Mở Rộng không thể nhận thấy trước đó cho đến khi giá bắt đầu tăng từ đáy Nhỏ thứ hai (điểm 4); lúc này điểm 3 đã hình thành _trên_ 1, và 4 _dưới_ 2. Mức cao mới tại 5 (_a_ và _b_), theo sau là đột phá giảm rõ rệt tại B (gần 6% dưới 4), hoàn tất mô hình và, theo quy tắc, báo hiệu một Xu Hướng Đảo Chiều Chính. Trong trường hợp này, không thể nghi ngờ tầm quan trọng của tín hiệu Đảo Chiều, bởi giá Air Reduction giảm từ trên 220 vào 18/10 xuống dưới 80 vào 14/11, chỉ sau 4 tuần, và đáy cuối cùng không xuất hiện cho đến gần 3 năm sau, vào 1932!
 
 ![fig-087](./img/fig-087.png)
+
 **HÌNH 87.** Mặc dù Mô Hình Đảo Chiều Chính này xuất hiện trên biểu đồ hơn 35 năm trước, nó được phát triển hoàn hảo và quy mô lớn, nên có thể xem là mô hình cơ bản cho Đỉnh Mở Rộng Chính Thống. Mô hình này trên Air Reduction đã được bàn chi tiết ở các trang trước. Lưu ý cả Sự Hội Tụ của Tam Giác Đối Xứng tháng 7–8, và các ví dụ về Gap Chạy Mạnh, Gap Đột Phá và Gap Kiệt Sức (RG, BG, EG), sẽ được đề cập trong Chương 12.
 
 Một số điểm tinh tế của ví dụ kinh điển này cần lưu ý. Trước hết, một đỉnh mới, tức đỉnh thứ ba cao hơn, hình thành tại 5 _a_, và phản ứng sau đó dừng ở 195, cao hơn 4, rồi tăng trở lại. Đây giống như một trong các tín hiệu cảnh báo (“thất bại”) mà chúng ta đã nhắc trước đó, báo hiệu khả năng bứt phá lên. Nhưng ví dụ này nhấn mạnh cảnh báo trước đó — tín hiệu như vậy không đáng tin cho đến khi giá vượt đỉnh trước đó một cách quyết liệt. Tại 5 _b_, Air Reduction giao dịch ngắn ở 223, cao hơn 5 _a_ chỉ 2 điểm (<3%), và đóng cửa _dưới_ 5 _a_. Đợt phá vào 24/10 (tới B) đưa giá xuống hơn 3% dưới mức 4. Lúc này xuất hiện hiện tượng điển hình của Đỉnh Mở Rộng — một Đợt Tăng Hồi (Pullback Rally) tới B, hồi khoảng nửa quãng đường đã mất giữa đỉnh mô hình cuối cùng (5 _b_) và cuối đợt phá ban đầu (B). Theo kinh nghiệm, hiện tượng hồi và thất bại như vậy xảy ra ít nhất 4/5 mô hình Đỉnh Mở Rộng, và thường không thất bại cho tới khi hồi khoảng hai phần ba mức giảm trước đó, dù thường kết thúc quanh hoặc dưới mức giữa.
@@ -4588,11 +4676,13 @@ Một số điểm tinh tế của ví dụ kinh điển này cần lưu ý. Tr�
 Đây là ví dụ kinh điển; còn nhiều ví dụ khác thời đó. Việc nhiều mô hình xuất hiện tại đỉnh 1929, sau đó dẫn tới thua lỗ thảm khốc nhất trong lịch sử, có lẽ lý giải tại sao các kỹ thuật viên gán ý nghĩa cực kỳ Gấu cho Đỉnh Mở Rộng. Ngày nay, chúng ta đánh giá nó ít kinh hãi hơn; ý nghĩa đo lường của nó có lẽ không lớn hơn Đầu và Vai khối lượng cao lớn, nhưng nó là mô hình đặc trưng giai đoạn cuối của Xu Hướng Tăng Chính.
 
 ![fig-088](./img/fig-088.png)
+
 **HÌNH 88.** Một Đỉnh Mở Rộng nhỏ nhưng hoàn hảo năm 1946, hình thành kết thúc một mô hình biểu đồ 3 tháng cũng có tổng thể Mở Rộng (và do đó, Gấu). Năm điểm quan trọng báo Đảo Chiều được đánh số trên biểu đồ. Đợt “bứt phá” được ghi nhận ngày 27/8. Đợt Tăng Hồi ngay sau đó mạnh, nhưng vẫn trong giới hạn bình thường. Một Đỉnh Mở Rộng 1946 thú vị khác xuất hiện trong Hình 217.
 
 Việc khẳng định đỉnh thứ ba (số 5) và sự giảm xuống dưới đáy thứ hai (số 4) _hoàn tất_ Mô Hình Đảo Chiều có thể được coi là quá nghiêm ngặt, vì đôi khi các Đỉnh Mở Rộng tiếp tục tạo đỉnh thứ tư cao hơn. Tuy nhiên, quy tắc này thường được áp dụng vì tín hiệu tổng thể hiển nhiên là Gấu, nên không nên chần chừ rút lui. Ngược lại, yêu cầu có đỉnh thứ ba có cơ sở vì các Đảo Chiều Chính hiếm khi hoàn tất trước ít nhất ba lần thử đẩy giá theo xu hướng trước. Đây là lý do tại sao các nhà tiên phong xếp nhiều mô hình vào “Đảo Chiều Năm Điểm.” Đỉnh Mở Rộng là Đảo Chiều Năm Điểm (số 1 đến 5), và do đó, rõ ràng là một Đầu và Vai. Thực tế, Đỉnh Mở Rộng có thể gọi là Đầu và Vai với vai phải cao và đường cổ dốc xuống.
 
 ![fig-089](./img/fig-089.png)
+
 **HÌNH 89.** Khi xuất hiện rõ ràng và gọn như ví dụ này, Đỉnh Mở Rộng trên biểu đồ tuần mang tín hiệu Đảo Chiều cực mạnh. Đỉnh lần thứ năm của mô hình này được giới hạn trên biểu đồ ngày bởi một Đầu và Vai, đã được minh họa trong Hình 16. Các đường nét đứt trên biểu đồ trên là các đường xu hướng — sẽ được thảo luận trong Chương 14.
 
 
@@ -4616,6 +4706,7 @@ không quá hiểu biết hay kiểm soát). Những điều kiện này
 thường xuất hiện ở giai đoạn cuối của Bull Market.
 
 ![fig-090](./img/fig-090.png)
+
 **HÌNH 90.** Xu hướng Broadening xuất hiện trên biểu đồ tháng,
 hoặc phạm vi rộng (Đỉnh cách nhau 5–6 tháng) như trên biểu
 đồ tuần, không nên coi là mô hình kỹ thuật quan trọng.
@@ -4673,6 +4764,7 @@ cách sau có vẻ phù hợp hơn. Tên gọi xuất phát từ hình ảnh
 giống viên kim cương.
 
 ![fig-091](./img/fig-091.png)
+
 **HÌNH 91.** Ba phản ứng liên tiếp trong “DG” tháng 2–3/1945 tạo
 đáy thấp dần, nhưng rally xen ngang tới đỉnh giống nhau (~21¼),
 tạo Broadening Góc Vuông với đường Top ngang (Supply). Vượt
@@ -4697,6 +4789,7 @@ thiểu, với điều kiện Reversal phải có cái để đảo. Xu hướng
 mới thường vượt mức tối thiểu này.
 
 ![fig-092](./img/fig-092.png)
+
 **HÌNH 92.** Đỉnh Paramount Pictures 1946, giá giảm về 46 sau
 một năm, là Broadening Góc Vuông với đáy ngang bị “crack”
 tuần đầu tháng 6, nhưng không bị phá quyết định cho tới 20/6.
@@ -4717,6 +4810,7 @@ hữu ích trong giao dịch. Một trong số đó, _Wedge_ (Nêm), chúng
 ta đã đề cập (Ch.8) do có phần giống Tam giác.
 
 ![fig-093](./img/fig-093.png)
+
 **HÌNH 93.** Ví dụ khác của Broadening đỉnh ngang cuối 1945. “LS”
 tăng lên 63 năm 1946. Giá phá mô hình với Breakout Gap (G); G tiếp
 theo xuất hiện 3/12. G-G đánh dấu “Island”. Xem Ch.12 về Gap.
@@ -4745,14 +4839,17 @@ Nêm đặt giới hạn tăng. Các biên hội tụ báo điểm kết thúc
 tăng và bắt đầu phản ứng.
 
 ![fig-094](./img/fig-094.png)
+
 **HÌNH 94.** Đỉnh Bull 1946 U.S. Steel là Diamond 3 tháng, cũng
 có thể xem như Head-and-Shoulders.
 
 ![fig-095](./img/fig-095.png)
+
 **HÌNH 95.** Diamond (tháng 11) breakout lên trên, nên là
 Consolidation chứ không Reversal.
 
 ![fig-096](./img/fig-096.png)
+
 **HÌNH 96.** Diamond dễ nhận thấy trên tuần hơn ngày. Quan sát
 swing và volume Diamond May–June 1946 Shell. Lưu ý Descending
 Triangle Sep 1946–Feb 1947, Pullback Mar, nơi lý tưởng để short.
@@ -4766,6 +4863,7 @@ giảm mạnh, retrace toàn bộ dao động trong Wedge, thỉnh thoảng hơn
 Volume giảm dần như Tam giác.
 
 ![fig-096.1](./img/fig-096.1.png)
+
 **HÌNH 96.1.** Kỹ thuật viên tương lai sẽ ngạc nhiên trước đỉnh
 Bull ’90s. Broadening Top (vốn có ý nghĩa riêng) biến thành Diamond,
 breakout lên giả, thành mô hình tam giác không đều, sau head fake
@@ -4783,6 +4881,7 @@ Rising Wedge cần hành động nhanh; Falling Wedge cho trader
 thời gian chuẩn bị trước nhịp tăng.
 
 ![fig-097](./img/fig-097.png)
+
 **HÌNH 97.** Hudson kết thúc Bull 1946 với Diamond lớn, cũng
 là Complex Head-and-Shoulders. Trên tuần rõ, ngày khó thấy.
 Diamond cho tín hiệu bán ~2 điểm cao hơn Head-and-Shoulders.
@@ -4797,6 +4896,7 @@ lo quá, kinh nghiệm sẽ giúp nhận dạng triệu chứng và chẩn đoá
 gần như bản năng.
 
 ![fig-098](./img/fig-098.png)
+
 **HÌNH 98.** U.S. Steel Top Secondary Recovery Aug 1937, dao động
 hẹp dần, biên hội tụ dốc lên, volume giảm. Đây là Wedge Bearish.
 Toàn bộ swing Jul–End Aug là Rounding Top. 3 G đánh dấu
@@ -4833,6 +4933,7 @@ chỉ báo turn ở “đầu”. One-Day Reversal cũng có thể xuất hiện
 Dù sao, cảnh báo tạm thời sức Bullish cạn kiệt.
 
 ![fig-100](./img/fig-100.png)
+
 **HÌNH 100.** Wedges hiếm ở Major Reversal, nhưng Schenley Bull
 1946 là kết thúc Rising Wedge 8 tháng, rõ trên weekly chart.
 Đường đứt 60 là Support (Ch.13) giữ giảm 9 tuần.
@@ -4886,6 +4987,7 @@ tại đỉnh của **Tam Giác Cân (Symmetrical Triangle)**, thường xuất 
 **Đảo Chiều Một Ngày**.
 
 ![fig-102](./img/fig-102.png)  
+
 **Hình 102.** Đảo Chiều Một Ngày mạnh, đánh dấu đỉnh Bull Market của Greyhound 
 năm 1946. Chú ý đến khối lượng cao đỉnh. Một Đảo Chiều ít rõ ràng hơn xuất hiện 
 ngày 26/8. Người đọc nên xem lại các biểu đồ ở các chương trước, sẽ thấy nhiều 
@@ -4905,6 +5007,7 @@ SEC, nhưng các lệnh ký quỹ và bán ép vẫn tồn tại khi mua ký qu�
 giá giảm mạnh sau mua của công chúng.
 
 ![fig-102.1](./img/fig-102.1.png)  
+
 **Hình 102.1.** Apple, Khủng hoảng Reagan 1987. Đợt giảm không hoàn toàn bất ngờ: 
 phá trendline chính, momentum giảm ngắn hạn, bán hoảng loạn, bán khống, và giảm 
 tiếp theo.
@@ -4922,6 +5025,7 @@ từ tay yếu sang tay mạnh với giá thấp, áp lực bán tiềm ẩn đ�
 thường xuống dưới giá trị hợp lý tạm thời.
 
 ![fig-103](./img/fig-103.png)  
+
 **Hình 103.** Bán hoảng loạn 19/10/1937 tạo **Ngày Đỉnh Bán** trên hầu hết cổ phiếu 
 dẫn đầu và các chỉ số trung bình. Biểu đồ New York Central cho thấy, ngoài **SC**, 
 còn có Top hồi phục Head-and-Shoulders và Rectangle kết thúc thành Tam giác đầu 
@@ -4938,6 +5042,7 @@ thấp hơn 8 điểm so với đóng cửa trước đó. Bán hoảng loạn l
 lục: 16.410.000 cổ phiếu, gấp đôi bất kỳ ngày nào trong Bull Market.
 
 ![fig-103.1](./img/fig-103.1.png)  
+
 **Hình 103.1.** Dow Industrials, Khủng hoảng Reagan 1987. Tin đồn, hoảng loạn, 
 bán hoảng loạn, giảm tiếp. Trader thông minh mua đáy 20/10, cứu vãn tình hình.
 
@@ -4989,6 +5094,7 @@ hiện đại. Hình 1 và 35 cho thấy một số Spike trên biểu đồ Edw
 và Magee.
 
 ![fig-104.1](./img/fig-104.1.png)
+
 **HÌNH 104.1.** Đỉnh church spire Qualcomm. Gap tháng 12 có thể
 nhầm là tín hiệu mua, như Runaway Days, nhưng thực chất là dấu
 hiệu thoát với stops gần 1/8 dưới đáy ngày. Cũng hợp lý — thoát
@@ -5013,6 +5119,7 @@ Hình 104.2 Microsoft 2000 là ví dụ: bull trap do Runaway Day, collapse
 dự báo giảm 50% cổ phiếu.
 
 ![fig-104.2](./img/fig-104.2.png)
+
 **HÌNH 104.2.** Microsoft. Key Reversal Day tháng 3. DOJ breakaway gaps:
 runaway gaps, exhaustion gaps. Selling climax. Thường tiếp tục tạo đáy
 mới. Biểu đồ tuyệt vời cho chartist.
@@ -5037,10 +5144,12 @@ do đảo chiều trade, có thể thu lợi đáng kể. Đây là chiến thu�
 scalpers và speculators, nhưng nhà đầu tư dài hạn cũng nên biết.
 
 ![fig-104.3](./img/fig-104.3.png)
+
 **HÌNH 104.3.** Ebay. Khi Ebay phá trendline và đi ngang, là đối tượng
 tốt cho Key Reversal Day. Lưu ý vài trường hợp.
 
 ![fig-104.3.1](./img/fig-104.3.1.png)
+
 **HÌNH 104.3.1.** Nếu không giao hàng điện tử, Internet để làm gì?
 Meg Whitman (CEO tài năng) và Ebay tìm ra: chợ trời lớn nhất (và
 tăng hằng ngày). Quân đội biết châm ngôn: Exploit Success! Ebay khai
@@ -5052,12 +5161,14 @@ Moore (Intel), Gates (Microsoft), Jobs (Apple, Pixar, NEXT…). 2005,
 Ebay: vẽ trendline, nâng stops, bán nếu đảo chiều.
 
 ![fig-104.4.](./img/fig-104.4.png)
+
 **HÌNH 104.4.** Lucent. Cuối 20th, đầu 21st century: Runaway Days,
 Breakaway Gaps. Nhà đầu tư cần Maalox, trader phấn khích. Reversal
 Days và tactics ngắn hạn thắng thế khi thị trường “điên”. Ví dụ xuất sắc
 cho việc phù hợp trader với cổ phiếu. Nhà đầu tư hợp lý sao sở hữu?
 
 ![fig-104.4.1](./img/fig-104.4.1.png)
+
 **HÌNH 104.4.1.** Trong chú thích Hình 104.4, biên tập hỏi vì sao nhà
 đầu tư hợp lý sở hữu Lucent. Hình cho thấy hậu quả khi nhà đầu tư
 hợp lý không đặt stop để bảo vệ khỏi biến động phi lý. Thị trường biết

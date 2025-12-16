@@ -70,6 +70,7 @@ quan trọng nhất.
 
 ![fig-001](./img/fig-001.png)
 
+
 **HÌNH 1.** Biến động giá U.S. Steel từ Jan 1929–Dec 1946. So sánh với
 giá trị sổ sách từng năm.
 

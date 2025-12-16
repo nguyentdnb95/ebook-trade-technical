@@ -375,6 +375,7 @@ hãy đặt một dấu cảnh báo đỏ thứ hai trên đồ thị của bạ
 
 ![fig-010](./img/fig-010.png)
 
+
 **FIGURE 10**. Starting in March, “HUM” formed a broad Head-and-Shoulders Top
 pattern on the daily chart. August’s decline penetrated the neckline by 3%, confirm-
 ing the Reversal Pattern. The minimum objective for the Head-and-Shoulders Top
@@ -424,6 +425,7 @@ mang tính chất của một Mô Hình Đảo Chiều bắt đầu xuất hiệ
 
 
 ![fig-011](./img/fig-011.png)
+
 
 **HÌNH 11.** Đồ thị ngày của cổ phiếu phổ thông Chicago, Milwaukee,
 St. Paul & Pacific từ ngày 1 tháng Giêng đến ngày 29 tháng Sáu, 1946.
@@ -477,6 +479,7 @@ trong những giới hạn đó, hãy chờ đợi vô số các biến thể nh
 
 
 ![fig-012](./img/fig-012.png)
+
 **HÌNH 12.** Đỉnh Thị Trường Giá Lên của Westinghouse Electric năm
 1946 là kiểu Đầu-và-Vai mạnh mẽ, “dao động rộng” (S-H-S). Đợt giảm
 đã phá vỡ đường viền cổ (NL) vào ngày 13 tháng Hai tạo ra một Khoảng
@@ -491,6 +494,7 @@ tháng Mười Một tiếp theo, “WX” đã phá vỡ xuống mức 21½. H�
 cứu chi tiết sự thay đổi của mô hình khối lượng sau cuối tháng Giêng.
 
 ![fig-013](./img/fig-013.png)
+
 **HÌNH 13.** Một Mô Hình Đỉnh Đầu-và-Vai lớn đã phát triển ở “TDY”
 trong 5 tháng, với cú lao xuống có khối lượng cao vào tháng Mười Hai
 xuyên qua đường viền cổ xác nhận sự Đảo Chiều Xu Hướng. Vì đây là
@@ -536,6 +540,7 @@ giảm giá.
 
 
 ![fig-014](./img/fig-014.png)
+
 **HÌNH 14.** “ICX” đã trong một xu hướng tăng mạnh trong hơn một
 thập kỷ và lợi nhuận rất ấn tượng. Nhưng động lực tăng bắt đầu suy
 yếu và các dấu hiệu Topping xuất hiện rõ rệt. Đỉnh tháng Tám đã
@@ -575,6 +580,7 @@ luận sau.
 
 
 ![fig-015](./img/fig-015.png)
+
 **HÌNH 15.** Các Mô Hình Đảo Chiều, phát triển ở các cổ phiếu quan
 trọng trong khi thị trường chung vẫn đang trong xu hướng mạnh, thường
 khó tin, chứ chưa nói đến việc hành động theo. Nhưng chúng có thể
@@ -586,6 +592,7 @@ tháng Ba là điển hình và thú vị trong tình hình thị trường chun
 vậy. So sánh với Hình 12.
 
 ![fig-016](./img/fig-016.png)
+
 **HÌNH 16.** Một Đỉnh Thị Trường Giá Lên năm 1937 khác của mô hình
 Đầu-và-Vai, với chỉ một Pullback nhanh (ngày 10 tháng Hai). Trong
 trường hợp này, khối lượng tăng mạnh vào ngày 5 tháng Hai với cú
@@ -617,6 +624,7 @@ tôi thích gọi là “Đáy Kilroy.” Xem Hình 23.1)_ cũng như Đỉnh, v
 quan trọng không kém. Các Mô hình Đáy sẽ được trình bày trong chương tiếp theo.
 
 ![fig-017](./img/fig-017.png)
+
 **HÌNH 17.** Mô hình Vai-Đầu-Vai Đỉnh kéo dài 6 tháng của Republic Aviation
 năm 1946. Một mô hình như vậy trở thành khả năng cần theo dõi khi giá giảm
 xuống dưới mức cao của tháng Hai (S đầu tiên) vào tháng Năm. Tham khảo yêu
@@ -626,6 +634,7 @@ cho các mô hình với đường cổ hướng lên. Yêu cầu giảm tối t
 hội bán cuối cùng tốt.
 
 ![fig-018](./img/fig-018.png)
+
 **HÌNH 18.** Sau phản ứng mạnh từ mức cao năm 1983, kéo dài một năm và
 đẩy “DIS” trở lại Hỗ trợ dài hạn, phe Bò tiếp quản và đưa Walt cùng bạn bè
 lên “mặt trăng”. Nhưng bắt đầu từ tháng Tư, tên lửa bắt đầu mất lực, và
@@ -634,6 +643,7 @@ mùa xuân, cổ phiếu này hình thành một mô hình Vai-Đầu-Vai Đỉn
 xâm nhập đường cổ với khối lượng cao hơn 3% xác nhận sự Đảo chiều.
 
 ![fig-019](./img/fig-019.png)
+
 **HÌNH 19.** New York Central tạo mô hình Vai-Đầu-Vai Đỉnh vào tháng Sáu
 1945. Đường xu hướng trung gian tăng (IUT) bị phá bởi sự giảm từ đỉnh ngày
 5 tháng 7. Ý nghĩa đo lường tối thiểu thực hiện được ở mức 24 ngày 18 tháng
@@ -646,6 +656,7 @@ trong cổ phiếu này. Những người bán ở 26–27 vào tháng 7/1945 c�
 mừng vào tháng 5/1947 khi “CN” chạm 12.
 
 ![fig-020](./img/fig-020.png)
+
 **HÌNH 20.** Đỉnh Thị trường Bò vĩ đại năm 1929 được đặc trưng bởi nhiều Mô
 hình Vai-Đầu-Vai ấn tượng, trong đó đây là một ví dụ thú vị. Lưu ý Mô hình
 Vai-Đầu-Vai nhỏ của tháng 9, trở thành đỉnh của một mô hình lớn hơn cùng
@@ -661,6 +672,7 @@ danh mục năm 1929, chúng không hề hiếm vào giữa thế kỷ 20. Một
 hiện đại xuất hiện trong các trang sau.
 
 ![fig-020.1](./img/fig-020.1.png)
+
 **HÌNH 20.1.** Một Vai-Đầu-Vai khổng lồ trong S&P? Có thể thấy rõ ràng
 tại đây, ngay cả khi Richard Russell không chỉ ra. Nó được đánh dấu trên biểu
 đồ với đầu phức tạp. Nếu chỉ lấy đầu phức tạp, mô hình có thể được cho là

@@ -71,6 +71,7 @@ còn lần lượt là 117,66 và 26,54 vào ngày 14 tháng 2.
 
 ![fig-002](./img/fig-002.png)
 
+
 **HÌNH 2.** Biểu đồ “Dao động” _(EN: HOẶC Sóng)_ cho thấy tất cả các
 Xu hướng Trung gian và một số Xu hướng Nhỏ mở rộng hơn của các Chỉ
 số Công nghiệp và Đường sắt Dow–Jones, từ tháng 1 năm 1941 đến
@@ -106,6 +107,7 @@ của một Thị trường Gấu, đợt tăng lên tháng Mười Một là Nh
 Nhịp Thứ cấp đầu tiên của nó.
 
 ![fig-003](./img/fig-003.png)
+
 
 **HÌNH 3.** Các mức giá đóng cửa của các Chỉ số Công nghiệp và Đường sắt
 Dow–Jones, từ ngày 1 tháng 2 đến ngày 31 tháng 8 năm 1941, và tổng
@@ -203,6 +205,7 @@ trong Thị trường Gấu vốn vẫn được giả định là đang tồn t
 
 ![fig-004](./img/fig-004.png)
 
+
 **HÌNH 4.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 2 tháng 3 đến ngày 31 tháng 10 năm 1942,
 và tổng khối lượng thị trường hàng ngày. Giai đoạn này đã chứng kiến
@@ -284,6 +287,7 @@ tháng 12 giờ được công nhận là Nhịp Thứ cấp đầu tiên trong 
 hướng Lớn đó.
 
 ![fig-005](./img/fig-005.png)
+
 
 **HÌNH 5.** Các mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp
 và Đường sắt Dow–Jones từ ngày 2 tháng 11 năm 1942 đến ngày 30
@@ -392,6 +396,7 @@ một Thị trường Gấu sẽ có hiệu lực.
 
 ![fig-006](./img/fig-006.png)
 
+
 **HÌNH 6.** Giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và Đường
 sắt Dow–Jones, và tổng khối lượng thị trường, từ ngày 1 tháng 7
 năm 1943 đến ngày 31 tháng 1 năm 1944.
@@ -480,6 +485,7 @@ minh họa sáng tỏ cho giả định cơ bản (Nguyên lý số 1) của Lý
 thuyết Dow!
 
 ![fig-007](./img/fig-007.png)
+
 
 **HÌNH 7.** Mức giá đóng cửa hàng ngày của các Chỉ số Công nghiệp và
 Đường sắt Dow–Jones từ ngày 1 tháng 5 đến ngày 30 tháng 11 năm
@@ -583,6 +589,7 @@ và một lần nữa vào cuối tháng Năm. Ở thời điểm sau, các mứ
 then chốt theo Lý thuyết Dow.
 
 ![fig-8](./img/fig-008.png)
+
 
 Xét trong hoàn cảnh đó, khi nhìn lại, thật đáng kinh ngạc là
 một cơn Hoảng loạn lan rộng hơn đã không xảy ra.
