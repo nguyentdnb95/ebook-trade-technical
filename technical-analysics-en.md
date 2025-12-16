@@ -1,4 +1,6 @@
-# Chapter one The Technical Approach to Trading and Investing
+# PART 1. Technical Theory
+
+## Chapter 1. The Technical Approach to Trading and Investing
 Few human activities have been so exhaustively studied during the past
 century, from so many angles and by so many different sorts of people, as
 has the buying and selling of corporate securities. The rewards which the
@@ -354,9 +356,7 @@ intervals shrink. This distortion must be countered by breaking the time frame i
 smaller increments. So instead of 5 years of a chart which spans a range of 10 to
 200 we look at five charts of a year each as well as the 5-year chart.
 
-## chapter three
-
-# The Dow Theory
+## Chapter 3. The Dow Theory
 
 The Dow Theory is the granddaddy of all technical market studies. Although
 it is frequently criticized for being “too late,” and occasionally derided (par-
@@ -2719,7 +2719,7 @@ its behavior (DIA). As it is possible to trade in surrogates for the Dow Average
 present markets, see Chapter 15.1._
 
 
-## chapter 5.1. The Dow Theory in the 20th and 21st Centuries
+## Chapter 5.1. The Dow Theory in the 20th and 21st Centuries
 
 As may be seen in the following table, replacing the table from Chapter 5,
 the Dow Theory continued to provide its user an advantage over the
@@ -3398,7 +3398,7 @@ old highs are taken out, and new situations develop.
 
 
 
-## chapter 7. Important Reversal Patterns — Continued
+## Chapter 7. Important Reversal Patterns — Continued
 
 ### Head-and-Shoulders (EN: or Kilroy) Bottoms
 
@@ -6268,7 +6268,7 @@ subject of _Gaps_ which we have not yet had an appropriate occasion to discuss.
 Gaps will be taken up in detail in Chapter 12, and we will defer the Island
 Reversal until then.
 
-## chapter 10.1. Short-Term Phenomena of Potential Importance
+## Chapter 10.1. Short-Term Phenomena of Potential Importance
 
 Very short-term phenomena — of a one-day or a few days’ duration — can
 sometimes be indicative of not only short-term direction, but also give hints
@@ -6412,6 +6412,9 @@ happens when apparently rational investors do not set a stop to protect themselv
 from irrational volatility. The market knows things investors do not know. But it will
 reveal these things to the most basic of investors if he reads the chart. This chart is
 added for the 9th Edition to pick up the picture where the 8th left it.
+
+
+
 
 ## Chapter 11. Consolidation Formations
 
@@ -7033,9 +7036,7 @@ horizontal lines seem to be more “zones” than hard and fast lines and more j
 might be necessary in interpretation. But everything which Edwards says here might
 have been written in 2005 instead of in the mid-20th century._
 
-## chapter twelve
-
-# Gaps
+## Chapter 12. Gaps
 
 A _gap_ , in the language of the chart technician, represents a price range at
 which (at the time it occurred) no shares changed hands. This is a useful
@@ -7652,7 +7653,7 @@ _EN9: The truth is there is nothing more that need be said about gaps, and the
 truth also is that no modern examples need be added. But gaps are fun, so see Figure
 114.1 and Chapter 16.1 for modern examples._
 
-## chapter thirteen
+## Chapter thirteen
 
 # Support and Resistance
 
@@ -7922,8 +7923,6 @@ to get out at that price, given an opportunity, but the new owners at 12 will
 also be pleased to take 20 (66⅔% profit) and quick to do so if they detect
 any signs of trouble there. New buyers at 18, needless to say, would not be
 quite so ready to sell at 20.
-
-
 
 
 A third criterion for appraising the Resistance potential at an old Bottom
@@ -9252,6 +9251,17 @@ gles, etc. — in which the net price reaction is of minor consequence, but time
 is consumed in backing and filling before the Primary Trend can be resumed.
 In such cases, of course, there is no basis for drawing an Intermediate
 Trendline, nor is one needed for any practical purpose.
+
+![fig-161](./img/fig-161.png)
+
+**FIGURE 161.** A valid application of the Three-Fan Principle. Note that prices, after
+they pushed up through F1 in March, fell back to it but did not repenetrate it. When
+F2 was broken in late March, prices came back to it at the end of April but did not
+go below it. F3 was surmounted in May. This was a Bull Market Reaction; “AS” made
+its final Top above 64 in August. The March–May pattern might be called a weak
+Double Bottom.
+
+
 At the other extreme, so to speak, we find Corrective Swings which
 develop as a more or less orderly straight-line return of moderate slope to
 the nearest good Intermediate Support or Resistance Level, retracing perhaps
@@ -9259,6 +9269,8 @@ a third to a half of the preceding Primary Swing. These reactions produce
 good trendlines, as a rule, and the eventual penetration of their trendlines
 is a good technical signal of Reversal. Intermediate Corrections clearly of
 this type, it may be added, are relatively rare.
+
+
 A third form taken by Intermediate Corrections is nearly as common as
 the first named above (Consolidation Pattern) and much more common on
 the charts than the second. In a Bull Market, it starts with a sharp reaction
@@ -9272,68 +9284,22 @@ duller and flatter sell-off ensues. A third trendline can now be drawn from
 the original high across the Top of the second upthrust. The whole move,
 by this time, has taken roughly and irregularly a “Saucering-out” form. The
 three trendlines drawn from the original Reversal points from which the
-
-![fig-161](./img/fig-161.png)
-
-**FIGURE 161.** A valid application of the Three-Fan Principle. Note that prices, after
-they pushed up through F1 in March, fell back to it but did not repenetrate it. When
-F2 was broken in late March, prices came back to it at the end of April but did not
-go below it. F3 was surmounted in May. This was a Bull Market Reaction; “AS” made
-its final Top above 64 in August. The March–May pattern might be called a weak
-Double Bottom.
-
-```
-BARBER ASPHALT AS
-```
-```
-1946
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE
-```
-```
-XD .25C
-```
-```
-XD .25C
-F 1 F 2
-```
-```
-F 3
-```
-```
-56
-```
-```
-52
-```
-```
-48
-```
-```
-44
-```
-```
-40
-38
-36
-Sales
-100’s
-50
-40
-30
-20
-10
-```
-```
-5 12 19 26 2 9 16 23 2 9 1623 30 6 13 20 27 4 11 18 25 1 8 15 22 29
-```
-
-_Chapter fourteen: Trendlines and Channels 277_
-
 Corrective Decline started, each at a flatter angle than its predecessor, are
 known as _Fan Lines_. And the rule is that when the _third_ Fan Line is broken
 upside, the low of the Intermediate Correction has been seen.
+
+
+![fig-162](./img/fig-162.png)
+
+**FIGURE 162.** Try the Three-Fan Principle on this chart of the late 1944 Bull Market
+Reaction out of a Symmetrical Triangle in “DH.” F1 should be drawn from the
+August 30 high down across the September 12 closing. F2 is already marked on the
+chart but not labeled. F3 would extend from August 30 across the Rally Top of
+November 9. It was surmounted on increased volume November 21. The mid-Sep-
+tember to November price pattern looked at first like a Descending Triangle but
+volume began to rise in October.
+
+
 There are exceptions to this rule — as there are to every so-called rule
 of technical chart analysis. Rarely, a correction of this type will go on to make
 another dip to a new low for the whole corrective move before prices really
@@ -9352,46 +9318,6 @@ Note, however, that the Fan Principle is normally applied only to cor-
 rective moves, i.e., to determine the end of Intermediate Reactions in a Bull
 Market and of Intermediate Recoveries in a Bear Market.
 
-![fig-162](./img/fig-162.png)
-
-**FIGURE 162.** Try the Three-Fan Principle on this chart of the late 1944 Bull Market
-Reaction out of a Symmetrical Triangle in “DH.” F1 should be drawn from the
-August 30 high down across the September 12 closing. F2 is already marked on the
-chart but not labeled. F3 would extend from August 30 across the Rally Top of
-November 9. It was surmounted on increased volume November 21. The mid-Sep-
-tember to November price pattern looked at first like a Descending Triangle but
-volume began to rise in October.
-
-```
-DELAWARE & HUDSON DH
-```
-```
-1944
-```
-```
-JULY AUGUST SEPTEMBER OCTOBER NOVEMBER DECEMBER
-```
-```
-38
-36
-34
-32
-```
-```
-30
-Sales
-100’s
-125
-100
-75
-50
-25
-```
-```
-8 15 22 29 5 12 19 26 2 9 16 23 30 7 14 2128 4 11 18 25 2 9 16 23 30
-```
-
-_278 Technical Analysis of Stock Trends_
 
 ![fig-163](./img/fig-163.png)
 
@@ -9404,93 +9330,6 @@ setting the stage for a rally through Fan Line 2. This occurred in mid-November 
 good volume. Following a 5-week correction, “BY” charged through Fan Line 3 on
 the best volume of the 3 breakouts.
 
-```
-BUCYRUS ERIE CO.
-```
-```
-BY
-```
-```
-1984
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-SEPTEMBER
-```
-```
-OCTOBER
-```
-```
-NOVEMBER
-```
-```
-DECEMBER
-F^1
-```
-```
-F^2
-```
-```
-F^3
-```
-```
-30 28 26 24 22 2019181716 15 14 13 12 11
-Sales100’s^1000
-800600400200
-```
-```
-10479
-```
-```
-7621
-```
-```
-17 24 31 7 14 21 28 5
-```
-```
-12 19 26 2
-```
-```
-9 16 23 30 7
-```
-```
-14 21 28 4 11 18 25 1
-```
-```
-8
-```
-```
-15 22 29 6 13 20 27 3 10 17
-```
-```
-24 1 8 15 22 29
-```
-```
-XD. 11
-```
-```
-XD. 11
-```
-
-_Chapter fourteen: Trendlines and Channels 279_
-
 We shall take up Major Trendlines in the following chapter, but, before
 we leave this study of Intermediate Trends, it will be well to state again that
 the practical application of trendlines in actual trading requires experience,
@@ -9498,6 +9337,8 @@ and the good judgment to be attained only therefrom. Some technical ana-
 lysts depend largely on trendline studies; a few attempt to use trendlines
 almost exclusively; but the majority have found that they are best employed
 as an adjunct to other technical data.
+
+
 Technical analysis of a stock chart is something like putting together a
 jigsaw puzzle. There are many items to be considered, among them volume,
 pattern, and the measurements derived therefrom, Support and Resistance
@@ -9505,13 +9346,7 @@ Levels, trendlines, general market prospects — and all fitted into place to
 get the complete picture.
 
 
-
-```
-281
-```
-## chapter fifteen
-
-# Major Trendlines
+## Chapter 15. Major Trendlines
 
 In the preceding chapter on Intermediate Trendlines, mention was made of
 the distinctive effects produced by arithmetic and semilogarithmic plotting,
@@ -9599,7 +9434,6 @@ Head-and-Shoulders Pattern for example: the true Intermediate Trendline usu-
 ally starts from the right shoulder rather than from the head.
 
 
-_Chapter fifteen: Major Trendlines 283_
 
 ![fig-164](./img/fig-164.png)
 
@@ -9611,49 +9445,6 @@ metic monthly chart. 1941 low, 28⅝; 1946 high, 80⅜.
 **FIGURE 165.** The up-curving trend of a speculative motors stock, Hudson Motors.
 Compare this with “GM.” 1941 low, 2⅝; 1946 high, 34½.
 
-```
-GENERAL MOTORS GM
-80
-```
-```
-60
-```
-```
-40
-```
-```
-20
-Sales
-100’s
-4000
-2000
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-HUDSON MOTORS HT
-```
-```
-40
-```
-```
-30
-```
-```
-20
-```
-```
-10
-```
-```
-Sales
-100’s
-1000
-500
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_284 Technical Analysis of Stock Trends_
-
 ![fig-166](./img/fig-166.png)
 
 **FIGURE 166.** Typical decurving Major Bull Trend of a high-grade preferred stock.
@@ -9664,27 +9455,6 @@ This is Curtis Publishing $7 Preferred. 1942 low, 12; 1945 high, 154.
 **FIGURE 167.** The accelerating uptrend of the common stock of the same publishing
 company. 1942 low, ⅜; 1946 high, 26.
 
-(^160) CURTIS PUBLISHING $ 7 PFD. CPC Pr
-120
-80
-40
-Sales
-100’s
-100
-50
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-CURTIS PUBLISHING COM. CPC
-30
-20
-10
-Sales
-100’s
-1200
-1000
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-
-
-_Chapter fifteen: Major Trendlines 285_
 
 ![fig-168](./img/fig-168.png)
 
@@ -9697,44 +9467,6 @@ Leverage is an important factor in trends.
 **FIGURE 169.** The up-curving trend of a low-priced “junior” utility, International
 Hydro-Electric. 1942 low, ¼; 1946 high, 15½.
 
-```
-COMMONWEALTH EDISON CWE
-```
-```
-40
-```
-```
-30
-```
-```
-20
-```
-```
-Sales
-100’s
-800
-400
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-INTERNATIONAL HYDRO-ELECTRIC IH
-15
-```
-```
-10
-```
-```
-5
-```
-```
-Sales
-100’s
-400
-200
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_286 Technical Analysis of Stock Trends_
 
 ![fig-170](./img/fig-170.png)
 
@@ -9746,42 +9478,7 @@ Compare this picture with “SOH” in Figure 171.
 **FIGURE 171.** Straight-line uptrends in an investment oil, Standard Oil of Ohio.
 1942 low, 10⅛; 1946 high, 30. Note: trendline unbroken until 1948.
 
-```
-HOUSTON OIL HO
-30
-```
-```
-20
-```
-```
-10
-```
-```
-Sales
-100’s
-1000
-500
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-STANDARD OIL OF OHIO SOH
-30
-```
-```
-20
-```
-```
-10
-```
-```
-Sales
-100’s
-200
-100
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
 
-_Chapter fifteen: Major Trendlines 287_
 
 ![fig-172](./img/fig-172.png)
 
@@ -9793,48 +9490,6 @@ Uptrend. Republic Steel. 1942 low, 13⅜; 1946 high, 40⅞.
 **FIGURE 173.** The normal Major Bull Trend of heavy industrial issues is up-curving.
 American Car & Foundry. 1942 low, 20; 1946 high, 72⅜.
 
-```
-REPUBLIC STEEL RS
-```
-```
-40
-```
-```
-30
-```
-```
-20
-```
-```
-10
-```
-```
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-AMERICAN CAR & FOUNDRY AF
-```
-```
-80
-```
-```
-60
-```
-```
-40
-```
-```
-20
-```
-```
-Sales
-100’s
-400
-200
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_288 Technical Analysis of Stock Trends_
 
 ![fig-174](./img/fig-174.png)
 
@@ -9846,58 +9501,7 @@ high, 38⅛.
 **FIGURE 175.** A highly speculative, low-priced issue, traded on the Curb Exchange,
 Claude Neon Lights. 1942 low, ⅛; 1946 high, 9.
 
-```
-CELOTEX CORP. CLO
-```
-```
-2 for 1
-```
-```
-40
-```
-```
-30
-```
-```
-20
-```
-```
-10
-```
-```
-Sales
-100’s
-400
-200
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-CLAUDE NEON LIGHTS CEO
-```
-```
-10
-```
-```
-8
-```
-```
-6
-```
-```
-4
-```
-```
-2
-```
-```
-Sales
-100’s
-1000
-500
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
 
-_Chapter fifteen: Major Trendlines 289_
 
 ![fig-176](./img/fig-176.png)
 
@@ -9909,46 +9513,6 @@ Liggett & Myers. Note Double Trendline. 1942 low, 50½; 1946 high, 103½.
 **FIGURE 177.** High-grade food issues (Corn Products Refining) resemble the tobac-
 cos. 1940 low, 40¼; 1946 high, 75¾.
 
-```
-LIGGETT & MYERS LM–B
-135
-```
-```
-105
-```
-```
-75
-```
-```
-45
-```
-```
-Sales
-100’s
-200
-100
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-```
-CORN PRODUCTS REFINING CFG
-70
-```
-```
-60
-```
-```
-50
-```
-```
-40
-Sales
-100’s
-400
-200
-1938 1939 1940 1941 1942 1943 1944 1945 1946
-```
-
-_290 Technical Analysis of Stock Trends_
 
 ##### Major Downtrends
 
@@ -9995,10 +9559,6 @@ tendency for prices to fluctuate in ever wider swings (both Intermediate and
 Minor) as they work upward in a Primary Bull Market, their channel grows
 progressively broader. The Return Line does not run parallel to the Basic
 Trendline (assuming that we have a good Basic Trendline to begin with) but
-
-
-_Chapter fifteen: Major Trendlines 291_
-
 diverges from it. Occasionally, a stock produces a clear-cut Major Channel
 Pattern, but the majority do not.
 Semilogarithmic scaling will, in many cases, correct for the Widening
@@ -10044,10 +9604,6 @@ of their indexes by the exchanges. The constant addition of new trading instrume
 requires that current lists be kept in Resources_ , _and the reader may also consult_ The
 Wall Street Journal, Barron’s, _and_ The Investor’s Business Daily _where prices
 of indexes and averages are reported. Online brokerages and financial news sites_
-
-
-_292 Technical Analysis of Stock Trends_
-
 _also offer up-to-the-minute lists and quotes on virtually all trading instruments. A
 list and links to these sites may also be found in Resources (Appendix D) and at
 edwards-magee.com_.
@@ -10062,7 +9618,8 @@ ered a true Double Top Reversal of Primary import because the recession between
 the two highs was only about 10% of the Top’s value (around 122). Figure 64 on page
 119 shows on a daily chart the final Top Reversal Formation which “WX” made in
 1937.
-A large Rectangle base was made on this weekly chart in April, May, and June
+
+    A large Rectangle base was made on this weekly chart in April, May, and June
 1937, but observe the poor volume which accompanied the breakout and rise from
 that formation — an extremely Bearish indication for the Major Trend. The “mea-
 surement” of the Rectangle was carried out by August, but that was all.
@@ -10071,13 +9628,6 @@ had any forecasting value on this chart. The beautiful straight trendlines which
 appeared in the 1929–32 Primary Bear Market led many chart students to expect
 similar developments in every Bear Market, but the fact is that 1929–32 was unique
 in that respect.
-
-
-_Chapter fifteen: Major Trendlines 293_
-
-_As of the turn of the century, the most important of these indexes, joining the
-Dow, are probably the S&P 500, the S&P 100, and the NASDAQ. In fact these are
-probably sufficient for economic analysis and forecasting purposes, and certainly_
 
 ![fig-179](./img/fig-179.png)
 
@@ -10088,88 +9638,20 @@ rally in the great Bear Move stopped at or near a previous Bottom level. Each de
 stopped near the level of a Congestion in the 1924–29 Bull Market. See also level of
 1937 Top. Chart courtesy of Market Research, Inc. (Internet: barchart.com).
 
-```
-DOW – JONES
-INDUSTRIAL AVERAGE
-```
-```
-A
-```
-```
-B
-```
-```
-C
-```
-```
-D
-```
-```
-E
-```
-```
-F
-```
-```
-G
-```
-```
-H
-```
-```
-400
-```
-```
-360
-```
-```
-320
-```
-```
-280
-```
-```
-240
-```
-```
-200
-```
-```
-160
-```
-```
-120
-```
-```
-80
-```
-```
-40
-```
-```
-1924 1925 1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937
-```
-
-_294 Technical Analysis of Stock Trends_
-
-_good trading vehicles by means of surrogate instruments, options, and futures. Some
+    _As of the turn of the century, the most important of these indexes, joining the
+Dow, are probably the S&P 500, the S&P 100, and the NASDAQ. In fact these are
+probably sufficient for economic analysis and forecasting purposes, and certainly_
+good trading vehicles by means of surrogate instruments, options, and futures. Some
 would include the Russell 2000 in this list. These indexes and averages have been
 created to fill needs not filled adequately by the Dow–Jones Averages.
 With this proliferation of measures of the market and various parts of it a
 different question arises. That is, the value of the Dow alone in indicating the Broad
 Market Trend is now questionable. Limited research has been done on this question.
 It is, however, my opinion that the Broad Market Trend must now be determined
-by examining the Dow Industrials, the S&P 500, and the NASDAQ Composite._
+by examining the Dow Industrials, the S&P 500, and the NASDAQ Composite.
 
 
-```
-295
-```
-## chapter 15.1
-
-# Trading the Averages
-
-# in the 21st Century
+## Chapter 15.1. Trading the Averages in the 21st Century
 
 As I have pointed out in other new chapters and notes in the eighth edition,
 the ability to trade the Averages instead of individual stocks is a powerful
@@ -10199,84 +9681,26 @@ instead of a change of trend to the reverse, may indicate a change of trend to t
 sideways – into a reversal or continuation pattern._
 
 
-_296 Technical Analysis of Stock Trends_
 
-```
-FIGURE 179.1.
-```
-```
-S&P Reagan Crash. As can be clearly seen this crash sent numerous signals, starting with
-```
-```
-the breaking of a major trendline by more than 2% in late August. Once this occurs extreme caution andwatchfulness must be exercised. The darker and darker complexion of things is brought out by the “smartselling,” which shows many “downthrust days” toward the end (October 10–20). The April trendline breaks(by more than 2%) would have ejected the trend trader also to be put back long in June. Observance of the2–3% trendline-break rule and/or use of Basing Points and progressive stops (Chapters 27 and 28) wouldhave avoided much needless grief.
-```
-```
-NOTE: Figures 180–197 have been moved to Appendix C.
-```
-SPX LAST-DailyCreated with TradeStation [http://www.TradeStation.com](http://www.TradeStation.com)
+![fig-179.1](./img/fig-179.1.png)
 
-```
-339.99329.99319.99309.99299.99289.99279.99269.99259.99249.99 239.99 229.99 219.99
-```
-```
-3/1986 4/1986 5/1986 6/1986 7/1986 8/1986 9/1986 10/1986 11/1986
-```
-```
-7/1987 8/1987 9/1987 10/1987 11/1987 12/1987
-```
-```
-12/1986
-```
-```
-2/1987
-87
-```
-```
-3/1987 4/1987 5/1987 6/1987
-```
+**FIGURE 179.1**. S&P Reagan Crash. As can be clearly seen this crash sent numerous signals, starting with
+the breaking of a major trendline by more than 2% in late August. Once this occurs extreme caution and
+watchfulness must be exercised. The darker and darker complexion of things is brought out by the “smart
+selling,” which shows many “downthrust days” toward the end (October 10–20). The April trendline breaks
+(by more than 2%) would have ejected the trend trader also to be put back long in June. Observance of the
+2–3% trendline-break rule and/or use of Basing Points and progressive stops (Chapters 27 and 28) would
+have avoided much needless grief. NOTE: Figures 180–197 have been moved to Appendix C.
 
-_Chapter 15.1: Trading the Averages in the 21st Century 297_
+![fig-179.2](./img/fig-179.2.png)
 
-```
-FIGURE 179.2.
-```
-```
-S&P Long-Term Perspective. Viewed from afar it seems an exercise in futility to attempt to
-```
-```
-“time the market.” One must keep in perspective the crashes in market prices which are timed to coincidewith personal and business needs for short-term liquidity, or, in a word, cash. One must also remember themarket behavior from 1965–82, as well as the chart of Dow Theory Performance in Chapter 5.1.
-```
-```
-SPX LAST-Monthly 02/29/2000 C = 1366.42 O = 1357.56 H = 1369.63 L = 1356.05 V =1181488000Created with TradeStation http://www.TradeStation. com
-```
-```
-1400.001200.001000.00800.00600.00 400.00 200.00
-```
-```
-1965
-```
-```
-1970
-```
-```
-1975
-```
-```
-1980
-```
-```
-1985
-```
-```
-1990
-```
-```
-1995
-```
+**FIGURE 179.2**. S&P Long-Term Perspective. Viewed from afar it seems an exercise in futility to attempt to
+“time the market.” One must keep in perspective the crashes in market prices which are timed to coincide
+with personal and business needs for short-term liquidity, or, in a word, cash. One must also remember the
+market behavior from 1965–82, as well as the chart of Dow Theory Performance in Chapter 5.1.
 
-_298 Technical Analysis of Stock Trends_
 
-![fig-179](./img/fig-179.png)
+![fig-179.3](./img/fig-179.3.png)
 
 **FIGURE 179.3.** Three Bull Market Tops, 1929, 1987, 1998. Notice here that in each
 case the crash occurred after the nearest important trendline had been decisively
@@ -10286,210 +9710,28 @@ attempts to resume the trend after a break of this kind. Belief dies hard. Nonet
 hedging or exiting on these trend breaks proves to be the best strategy over and over
 again.
 
-```
-2700
-2600
-2500
-2400
-2300
-2200
-2100
-2000
-1900
-1800
-```
-```
-1700
-```
-```
-5/19876/1987 7/1987 8/19879/1987
-```
-```
-$INDUA LAST-Daily 10/26/1987
-380
-360
-340
-320
-```
-```
-300
-```
-```
-280
-```
-```
-260
-```
-```
-240
-```
-```
-220 Created with TradeStation
-4/19295/19296/19297/19298/1929 9/192910/1929
-```
-```
-$INDUA LAST-Daily 10/31/1929
-```
-```
-9400
-9200
-9000
-8800
-8600
-8400
-8200
-8000
-```
-```
-7800
-```
-```
-7600
-```
-```
-7400
-12/1997 98 2/19983/1998 4/19985/19986/19987/19988/1998
-```
-```
-http://www.TradeStation
-```
-```
-$INDUA LAST-Daily 09/01/1998
-```
 
-```
-Chapter 15.1: Trading the Averages in the 21st Century 299
-```
-```
-FIGURE 179.3.1.
-```
-```
-The bull ’90s top in the S&P gave much clearer readings than the Dow top, the broken trendlines being paramount. But
-```
-```
-while the Dow
-```
-```
-fl
-irted with the emotions of bulls who
-```
-```
-wanted to believe
-```
-```
-in Dow 36,000 the S&P broke its trendlines and went south for the
-```
-```
-winter. Potentially a very long winter. This might have started off as a rounding top and then became a complex-complex top, and youcan even see traces of Head-and-Shoulders top in it. It is the editor’s opinion that we may never see such unruly tops again in thisgeneration. The pent up greed and lust and naiveté as even the bootblacks (they still have those don’t they?) rushed to get the latest tulipbulbs. Tulips are like century plants. They only bloom once each hundred years. A little old lady with a ruler could have saved her portfoliohere. All it takes is not believing the hype (Dow 36,000 indeed!) and making an unemotional analysis and honoring the stops.
-```
-$INX - Weekly US L = 1297.28 –0.20 –0.02% B = 0.00 A = 0.00 O = 1297.71 Hi = 1298.69 Lo = 1294 .97 C = 1297.28 V = 01174.35 952.30
 
-```
-1 ,496.001,372.001,295.681,259.001,154.00 1,059.00 971.00 890.00 817.00 749.00
-```
-```
-1998
-```
-```
-1999
-```
-```
-2000
-```
-```
-2001
-```
-```
-2002
-```
-```
-2003
-```
-```
-2004
-```
-```
-2005
-```
-```
-2006
-```
-```
-Created with TradeStation
-```
+![fig-179.3.1](./img/fig-179.3.1.png)
 
-_300 Technical Analysis of Stock Trends_
+**FIGURE 179.3.1**. The bull ’90s top in the S&P gave much clearer readings than the Dow top, the broken trendlines being paramount. But
+while the Dow flirted with the emotions of bulls who wanted to believe in Dow 36,000 the S&P broke its trendlines and went south for the
+winter. Potentially a very long winter. This might have started off as a rounding top and then became a complex-complex top, and you
+can even see traces of Head-and-Shoulders top in it. It is the editor’s opinion that we may never see such unruly tops again in this
+generation. The pent up greed and lust and naiveté as even the bootblacks (they still have those don’t they?) rushed to get the latest tulip
+bulbs. Tulips are like century plants. They only bloom once each hundred years. A little old lady with a ruler could have saved her portfolio
+here. All it takes is not believing the hype (Dow 36,000 indeed!) and making an unemotional analysis and honoring the stops.
 
-```
-FIGURE 179.3.2.
-```
-```
-Dow Jones Industrials 1999-2000. Illustrating that patterns can be found within patterns, the Dow made a broadening top
-```
-```
-which resolved into a diamond, then a couple of triangles. (Not drawn here.) All of which could be looked at as a gnarly messy rectangle. It isnot so important to identify triangles in this situation as to recognize the general nature of the market — sideways to down. In general one ofthe more unruly situations in market history, as be
-```
-```
-fi
-tted the incredible (truly incredible, as in unbelievable) bull market it ended.
-```
-```
-INDU LAST-Daily 10/04/2001
-```
-```
-A
-```
-```
-B
-```
-```
-C
-```
-```
-99
-```
-```
-4/1999
-```
-```
-7/1999
-```
-```
-10/1999
-```
-```
-00
-```
-```
-4/2000
-```
-```
-7/2000
-```
-```
-10/2000
-```
-```
-01
-```
-```
-4/2001
-```
-```
-7/2001
-```
-```
-Created with TradeStation 2000i by Omega Research
-```
 
-```
-301
-```
-## chapter sixteen
+![fig-179.3.2](./img/fig-179.3.2.png)
+**FIGURE 179.3.2.** Dow Jones Industrials 1999-2000. Illustrating that patterns can be found within patterns, the Dow made a broadening top
+which resolved into a diamond, then a couple of triangles. (Not drawn here.) All of which could be looked at as a gnarly messy rectangle. It is
+not so important to identify triangles in this situation as to recognize the general nature of the market — sideways to down. In general one of
+the more unruly situations in market history, as befitted the incredible (truly incredible, as in unbelievable) bull market it ended.
 
-# Technical Analysis
 
-# of Commodity Charts
+## Chapter 16.1 Technical Analysis of Commodity Charts
+
 
 _(EN9: Following the practice of allowing the reader to discriminate between the
 work of Edwards and Magee and that of the Editor, a chapter on commodity trading,
@@ -10525,13 +9767,11 @@ machinery of the market. At that time, radical reversals of trend could and
 did happen overnight without any warning so far as the action of the market
 could show. The ordinary and orderly fluctuations in supply–demand bal-
 ance, which create significant definite patterns for the technician to read, did
-
-
-_302 Technical Analysis of Stock Trends_
-
 not exist. And while fortunes were made (and lost) in wheat, corn, and cotton
 futures during the World War II period, it is safe to say they were not made
 from the charts.
+
+
 However, during the past 5 or 6 years the application of technical meth-
 ods to commodity trading has been reexamined. Under 1956 conditions, it
 appears that charts can be a most valuable tool for the commodity trader.
@@ -10562,6 +9802,8 @@ erable degree subject to seasonal factors, there are definite seasonal influ-
 ences on the commodity price trends which the commodity speculator must
 keep in mind, even if only to weigh the meaning of their apparent absence
 at any given period.
+
+
 A third difference is in the matter of volume. The interpretation of
 volume with respect to trading in stocks is relatively simple. But it is greatly
 complicated in commodities by the fact that there is, in theory, no limit to
@@ -10575,14 +9817,12 @@ transfer of one or more of those existing shares. In the case of commodity
 future contracts, however — say, September wheat — trading begins long
 before anyone knows how many bushels of wheat will exist to be delivered
 that coming September, and the open interest at some time during the life
-
-
-_Chapter sixteen: Technical Analysis of Commodity Charts 303_
-
 of the contract may exceed the potential supply many times over — and all
 quite legitimately. _EN9: Appendix C contains some material on the interpretation
 of futures volume data. As always volume data is a supplementary indicator to price.
 No one makes a profit on it._
+
+
 One more important difference may be mentioned. Certain kinds of
 news — news about weather, drought, floods, etc., that affect the growing
 crop, if we are dealing with an agricultural commodity — can change the
@@ -10590,6 +9830,8 @@ trend of the futures market immediately and drastically and are not foresee-
 able given the present stage of our weather knowledge. Analogous devel-
 opments in the stock market are extremely rare. _EN: Except for acts of God
 and Alan Greenspan_.
+
+
 Under what might be called normal market conditions, those chart pat-
 terns which reflect trend changes in most simple and logical fashion work
 just as well with commodities as with stocks. Among these we would list
@@ -10603,6 +9845,8 @@ extent of the ensuing move. Support and Resistance Levels, as we have
 already noted, are less potent in commodities than in stocks; sometimes they
 seem to work to perfection, but just as often they don’t. For similar reasons,
 gaps have relatively less technical significance.
+
+
 It is not the purpose of this book to explain the operation of commodity
 futures markets, nor to offer instruction to those who wish to trade therein.
 This brief chapter is included only as a starter for readers who may want to
@@ -10612,6 +9856,8 @@ constant daily and hourly attention. The ordinary individual can hope to
 attain a fair degree of success in investing in securities by devoting only his
 spare moments to his charts, but he might better shun commodity specula-
 tion entirely unless he is prepared to make a career of it.
+
+
 _EN: The Editor has been, during his checkered career, a registered Commodity
 Trading Advisor. At the beginning of that career, I discussed these subjects with
 Magee and received essentially the above comments which are here reproduced from
@@ -10627,9 +9873,7 @@ extensive study and paper trading._
 are now found in Appendix C.**
 
 
-_304 Technical Analysis of Stock Trends_
-
-![fig-179](./img/fig-179.png)
+![fig-179.4](./img/fig-179.4.png)
 
 **FIGURE 179.4.** (Fig. 180, 5th edition). Oats. Oats, for obvious reasons, traced more
 “normal” patterns than Wheat during the 1940s. This chart contains an H & S bottom,
@@ -10637,52 +9881,7 @@ a Symmetrical Triangle which merged into the Ascending form, a gap through a
 former top level, and an interesting trendline. The Island shake-out through the
 trendline was an extremely deceptive development.
 
-```
-SEPTEMBER OATS Chicago
-```
-```
-1947
-```
-```
-G
-```
-```
-GG
-```
-```
-JANUARY FEBRUARY MARCH APRIL MAY JUNE JULY
-```
-```
-H
-```
-```
-S S
-```
-```
-104
-96
-88
-```
-```
-80
-76
-72
-68
-64
-60
-Sales
-100’s
-125
-100
-75
-50
-25
-4 11 18 25 1 8 15 22 1 8 1522 29 5 12 19 26 3 10 17 24 31 7 14 2128 5 12 19 26 2 9
-```
-
-_Chapter sixteen: Technical Analysis of Commodity Charts 305_
-
-![fig-179](./img/fig-179.png)
+![fig-179.5](./img/fig-179.5.png)
 
 **FIGURE 179.5.** (Fig. 181, 5th edition). Cotton. In contrast with the grains, the tech-
 nical action of the Cotton futures markets has been fairly consistent with normal
@@ -10693,65 +9892,7 @@ trendlines, a Head-and-Shoulders top that was never completed (no breakout), and
 Support–Resistance phenomena much the same as appear in stock charts. Double
 trendlines are not at all unusual in Cotton charts.
 
-```
-OCTOBER COTTON 1947
-```
-```
-FEBRUARY MARCH APRIL MAY JUNE JULY AUGUST SEPTEMBER
-```
-```
-S7
-```
-```
-S7
-```
-```
-H7
-```
-```
-35.00
-```
-```
-34.00
-```
-```
-33.00
-```
-```
-32.00
-```
-```
-31.00
-```
-```
-30.00
-```
-```
-29.00
-```
-```
-28.00
-```
-```
-27.00
-```
-```
-8 15 22 1 8 15 22 29 5 12 19 26 3 10 1724 31 7 14 21 28 5 12 19 26 2 9 16 23 30 6 13 20
-```
-```
-??
-??
-```
-
-
-```
-307
-```
-## chapter 16.1
-
-# Technical Analysis of
-
-# Commodity Charts, Part 2
+## Chapter 16.1  Technical Analysis of Commodity Charts, Part 2
 
 # A 21st Century Perspective
 
@@ -10866,10 +10007,11 @@ trade until they are out of money. The experienced chart analyst can sit back
 and say, this market has not yet made a bottom and the time to begin trading
 it long has not yet come. Or, he can recognize the essential differences between
 a trading and a trending market and adjust his tactics accordingly.
+
+
 As Magee noted in Chapter 16:
 
-```
-Under what might be called normal market conditions, those
+_Under what might be called normal market conditions, those
 chart patterns which reflect trend changes in most simple and
 logical fashion work just as well with commodities as with stocks.
 Among these we would list Head-and-Shoulders formations,
@@ -10883,14 +10025,11 @@ as to either direction or extent of the ensuing move. Support and
 Resistance Levels, as we have already noted, are less potent in
 commodities than in stocks; sometimes they seem to work to
 perfection, but just as often they don’t. For similar reasons, gaps
-have relatively less technical significance.
-```
+have relatively less technical significance._
+
+
 These words remain true today, as do virtually all the principles enun-
 ciated in this book by Edwards and Magee and myself. In fact most futures
-
-
-_310 Technical Analysis of Stock Trends_
-
 charts if given to an analyst without issue identification and dates would
 not be identifiable as commodity charts. Of course when limit moves appear
 the difference slaps one in the face. And on this point I might differ from
@@ -10916,7 +10055,8 @@ sense to adjust position size to control risk as I described in Chapter 26. And
 the use of money management stops has been very successful for many
 traders. _If some logical and disciplined method of setting and observing stops is
 not installed the trader is assured of failure._
-A money management stop is, simply enough, a stop calculated by
+
+    A money management stop is, simply enough, a stop calculated by
 deciding to risk 2% (or 3 or 4 or x%) of capital on a trade. For example,
 William O’Neil says that when a stock trader enters a position he should set
 a stop 8% under his entry price. This is a little crude, and not strictly speaking
@@ -10939,7 +10079,6 @@ computers existed. In fact long before in the case of Japanese rice traders,
 enlightening their efforts with candlesticks in the 18th century.
 
 
-_Chapter 16.1: A 21st Century Perspective 311_
 
 In the 1970s I saw point and figure chartists enjoy great success at Dean
 Witter and Merrill Lynch and other major firms in futures. I have seen least
@@ -10976,6 +10115,7 @@ studying futures. A sobering fact which I often recount to my graduate
 students is that Richard Wyckoff worked in the securities business for 8 years
 before making his first investment. He studied the markets an additional 6
 years before _trading._
+
 The Magee methodology will serve as a valuable cornerstone of your
 futures operations, and you must never cease studying. Mechanical systems
 have their attractions, especially when seasoned with experienced chart
@@ -10989,14 +10129,13 @@ and Magee is the ability to see the character of the market, trading or
 trending, and then _to adjust his tactics accordingly._
 
 
-_312 Technical Analysis of Stock Trends_
-
 ###### The Return of the Great Markets of the ’70s
 
 In the next great bull market in commodities, which may be about to occur
 as this book goes to press in 2006 (cf. following charts this chapter), these
 methods and systems derived from them will once again reap windfall
 profits.
+
 I have attempted in this ninth edition of this classic book to show the
 book’s usefulness to the intelligent futures trader. Simple classical chart
 analysis alone can be successful in the futures markets in the hands of an
@@ -11006,6 +10145,9 @@ tweaking (such as imposing a chart analysis super-structure). Wave analysis
 methods such as the Basing Points procedure of Chapter 28 can be used.
 Even number driven systems, such as moving averages, can be successful
 especially if combined with chart analysis.
+
+
+![fig-179.5.1](./img/fig-179.5.1.png)
 
 **FIGURE 179.5.1.** A Rounding Bottom in Gold 1997-2004. “These patterns, when
 they occur _after an extensive decline_ , are of outstanding importance, for they nearly
@@ -11019,40 +10161,8 @@ here this Rounding Bottom consists of a downtrend, a false signal off the Double
 Bottom (upon which a pretty penny might have been made by the agile trader), and
 a handsome uptrend. And it all looks like a huge Rounding Bottom.
 
-```
-@GC.C(D) - Weekly COMEX L = 419.30 –0.70 –0.17% O = 419.80 C = 419.30
-419.30
-```
-```
-397.00
-```
-```
-377.00
-359.00
-```
-```
-341.00
-```
-```
-325.00
-309.00
-```
-```
-394.00
-```
-```
-279.00
-266.00
-```
-```
-1997 1998 1999 2000 2001 2002 2003 2004
-Created with TradeStation
-```
-```
-380.30
-```
 
-_Chapter 16.1: A 21st Century Perspective 313_
+![fig-179.5.2](./img/fig-179.5.2.png)
 
 **FIGURE 179.5.2.** A Rounding Bottom in Silver 1998-2005. The apparent Rounding
 Bottom in silver, combined with the same pattern in gold, would seem to cast a pall
@@ -11071,30 +10181,8 @@ Bunker Hunt are doing at present. A very cautious investor (like Warren Buffet w
 is reported to be long $1B (billion) silver bullion) may defeat futures silver volatility
 by buying the bullion.
 
-```
-@SI.P(D) - Weekly COMEX L = 7.035 +0.077 +1.11% B = 0.000 A = 0.000 O = 6.985 Hi = 7.085 Lo = 6.980 C = 7.045 V = 145
-```
-```
-8.000
-```
-```
-7.045
-```
-```
-6.000
-```
-```
-5.000
-```
-```
-1998 1999 2000 2001 2002 2003 2004 2005
-Created with TradeStation
-```
-```
-6.00
-```
 
-_314 Technical Analysis of Stock Trends_
+![fig-179.5.3](./img/fig-179.5.3.png)
 
 **FIGURE 179.5.3.** Silver May 2005. While the long-term silver outlook may be bull-
 ish, the short term will be very volatile, especially for the thinly capitalized trader.
@@ -11111,41 +10199,7 @@ a few days later by the long range day down. The run day at 4 is a short signal 
 the stop being at the day’s high. Is it necessary to say that short-term futures trading
 can be quite rapid? Or, there is always bullion. Or associated stock plays.
 
-```
-SIK05(D) -Daily COMEX L = 6.900 –0.003 –0.04% B = 6.920 A = 6.935 O = 6.900 Hi = 6.905 Lo = 6.900 C = 6.900 V = 6
-```
-```
-8.000
-```
-```
-7.500
-```
-```
-7.000
-6.903
-```
-```
-6.500
-```
-```
-6.000
-```
-```
-A M J J A S O N D 05 F M A M
-Created with TradeStation
-```
-```
-2
-```
-```
-3
-4
-```
-```
-1
-```
-
-_Chapter 16.1: A 21st Century Perspective 315_
+![fig-179.5.4](./img/fig-179.5.4.png)
 
 **FIGURE 179.5.4.** Treasury Bonds. The double pump triple nod head fake is a
 specialty of futures markets. The fear and greed factor is multiplied by 10, like the
@@ -11162,48 +10216,8 @@ long again. Obviously we are using very tight, very short trendlines and long ra
 days (or run days) as signals. The use of the run day as a signal, combined with
 other indicators, is common in my experience among traders.
 
-```
-USU04(D) -Daily CBOT L = 110 24/32 +1 24/32 +1.61% 0 = 109 1/32 C = 110 24/32
-114 16/32
-```
-```
-115
-```
-```
-108
-107
-106
-105
-```
-```
-102
-```
-```
-113 16/32
-112 16/32
-111 16/32
-```
-```
-109 16/32
-108 16/32
-```
-```
-104 16/32
-103 16/32
-102 16/32
-```
-```
-110 16/32
-110 24/32
-```
-```
-Apr May Jun Jul Aug
-Created with TradeStation
-```
+![fig-179.5.5](./img/fig-179.5.5.png)
 
-```
-316 Technical Analysis of Stock Trends
-```
 **FIGURE 179.5.5.** Commodity Research Bureau Index. April 2005 Futures. Just as
 triangles often work in securities they often work in futures. Breakaway gap. Second
 breakaway gap. Runaway gap. Second runaway gap. The formation before the second
@@ -11214,52 +10228,9 @@ the principles of chart analysis used in this entire book are validated here. Th
 difference is in the setting of stops, and in fact, the same stop methods may be used
 if the trader is sufficiently well financed.
 
-```
-CR0504-CRB Index (Apr 2005) 306.00 2.25 0.74%
-```
-```
-306
-```
-```
-303
-```
-```
-300
-```
-```
-297
-```
-```
-294
-```
-```
-291
-```
-```
-288
-```
-```
-285
-```
-```
-282
-```
-```
-279
-```
-```
-276
-```
-```
-273
-```
-```
-270
-Sep Oct Nov Dec 05 Feb Mar
-1998–2004 Prophet Financial Systems, Inc. Terms of use apply.
-```
 
-_Chapter 16.1: A 21st Century Perspective 317_
+
+![fig-179.5.6](./img/fig-179.5.6.png)
 
 **FIGURE 179.5.6.** Commodity Research Bureau. Long-term view. It does not take
 much analysis of this 10 year CRB chart to see a huge double bottom, and to consider
@@ -11272,49 +10243,7 @@ Furthermore it is suggested in that chapter that a good natural hedge is to go l
 the uptrend of an index and short the components of it which are in downtrends.
 The CRB is somewhat thin but might lend itself to this strategy.
 
-```
-$CRY0(D) -Weekly NYBOT L = 294.09 +1.03 +0.35% B = 0.00 A = 0.00 O = 293.08 Hi = 294.12 Lo = 292.96 C = 294.09 V = 0
-```
-```
-307.00
-294.09
-288.00
-```
-```
-270.00
-```
-```
-253.00
-```
-```
-237.00
-```
-```
-222.00
-```
-```
-208.00
-```
-```
-195.00
-```
-```
-1998 1999 2000 2001 2002 2003 2004 2005
-Created with TradeStation
-```
-```
-234.65
-```
-
-
-```
-319
-```
-## chapter seventeen
-
-# A Summary and Some
-
-# Concluding Comments
+## Chapter 17. A Summary and Some Concluding Comments
 
 We began our study of technical stock chart analysis in Chapter 1 with a
 discussion of the _philosophy_ underlying the technical approach to the prob-
@@ -11349,10 +10278,6 @@ positively, in terms that anyone can read and translate at once into certain
 profit.
 We have examined and tested exhaustively many technical theories,
 systems, indexes, and devices which have not been discussed in this book,
-
-
-_320 Technical Analysis of Stock Trends_
-
 chiefly because they tend to short-circuit judgment, to see the impossible by
 a purely mechanical approach to what is far from a purely mechanical
 problem. The methods of chart analysis that have been presented are those
@@ -11401,168 +10326,17 @@ Let us review these methods briefly. They fall roughly into four categories.
     long-term positions.
 
 
-_Chapter seventeen: A Summary and Some Concluding Comments 321_
 
-```
-FIGURE 198.
-```
-```
-Spiegel’s Bear Market started in April 1946 from a Symmetrical Triangle which changed into a
-```
-```
+![fig-198](./img/fig-198.png)
+
+**FIGURE 198**. Spiegel’s Bear Market started in April 1946 from a Symmetrical Triangle which changed into a
 Descending Triangle. Note the Pullback in June, and two Flags. This history is carried on in Figure 199.
-```
-```
-SPIEGEL , INCORPORATED
-```
-```
-SM
-```
-```
-1946–1947
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST
-```
-```
-SEPTEMBER
-```
-```
-OCTOBER
-```
-```
-NOVEMBER
-```
-```
-DECEMBER
-```
-```
-JANUARY
-```
-```
-FEBRUARY
-```
-```
-MARCH
-```
-```
-38363432 30 28 26 24 22 2019181716 15 14
-Sales100’s^125100
-```
-```
-755025
-```
-```
-6 13 20 27 4 11 18
-```
-```
-25 1 8 15 22 29 6 13 20 27 3
-```
-```
-10 17 24 31 7 14 21 28 5
-```
-```
-12 19 26 2 9 16 23 30 7 14
-```
-```
-21 28 4 11 18 25 1
-```
-```
-8
-```
-```
-15 22 1
-```
-```
-8 15 22 29
-```
-```
-G
-```
 
-_322 Technical Analysis of Stock Trends_
+![fig-199](./img/fig-199.png)
 
-```
-FIGURE 199.
-```
-```
-Overlapping Figure 198, this chart shows the move which ensued from the wide Descending Triangle
-```
-```
-of early 1947, culminating in a Reversal Day on May 19. Note various Minor and Intermediate Resistance Levels.
-```
-```
-SPIEGEL, INC. SM
-```
-```
-1946–1947
-```
-```
-G
-```
-```
-G
-```
-```
-OCTOBER
-```
-```
-NOVEMBER
-```
-```
-DECEMBER JANUARY
-```
-```
-FEBRUARY
-```
-```
-MARCH
-```
-```
-APRIL
-```
-```
-MAY
-```
-```
-JUNE
-```
-```
-JULY
-```
-```
-AUGUST SEPTEMBE
-```
-```
-R
-```
-(^201918171615141312111098) Sales100’s 125100755025
-5 12 19 26 2
-9 16 23
-30 7 14 21 28 4 11 18 25 1
-8 15 22 1
-8 15 22 29 5
-12 19 26 3 10 17 24
-7 14
-21 28 5 12 19 26 2
-9 16 23
-30 6 13 20
-31
+**FIGURE 199**. Overlapping Figure 198, this chart shows the move which ensued from the wide Descending Triangle
+of early 1947, culminating in a Reversal Day on May 19. Note various Minor and Intermediate Resistance Levels
 
-
-_Chapter seventeen: A Summary and Some Concluding Comments 323_
 
 3. Support and Resistance Levels are created by the previous trading
     and investment commitments of others. They may serve to indicate
@@ -11610,10 +10384,6 @@ has completed its accumulation, and that he sells after the trend has unmis-
 takably turned down. Partly true, as you have no doubt already discovered
 for yourself. But the secret of success lies not in buying at the very lowest
 possible price and selling at the absolute top. It is in the _avoidance of large_
-
-
-_324 Technical Analysis of Stock Trends_
-
 _losses_. (Small losses you will have to take, and as quickly as possible as
 warranted by the situation.)
 One of the most successful “operators” Wall Street has ever seen, a
@@ -11635,20 +10405,7 @@ take its own good time. Patience is as much a virtue in stock trading as in
 any other human activity.
 
 
-```
-325
-```
-## chapter 17.1
-
-# Technical Analysis and Technology
-
-# in the 21st Century:
-
-# The Computer and the Internet,
-
-# Tools of the Investment/
-
-# Information Revolution
+## Chapter 17.1. Technical Analysis and Technology in the 21st Century: The Computer and the Internet, Tools of the Investment/Information Revolution
 
 The purpose of this chapter is to put computer and information technology
 into proper context and perspective for chart-oriented technical analysts.
@@ -11673,15 +10430,12 @@ quite productive. But no fail-safe algorithm has, in spite of all this effort,
 been found for investment success, and certainly not for stock trading. The
 research _has_ demonstrated that even the algorithm of “buy low sell high”
 has fatal flaws in it.
+
 In order to fully understand the importance of the computer, the reader
 should appreciate some basic differences in participants’ approach to the
 markets. Or, we might say, schools of analysts/investors. We will not bother
 with fundamental analysts here, as they are of a different religious persua-
 sion. Chart analysts, or we could say, Magee-type technical analysts, pretty
-
-
-_326 Technical Analysis of Stock Trends_
-
 much confine their analysis of the market to the interpretation of bar charts.
 (This does not mean that their minds must be closed to other inputs. On the
 contrary — anything which works.) Another chart analyst school uses point
@@ -11696,6 +10450,7 @@ form of what is called technical analysis — that is they all take, as input to
 their analysis, hard data, data which people cannot lie about, misrepresent,
 and manipulate, unlike the data which are input to fundamental analysis
 (earnings, cash flow, sales, etc.).
+
 Using number-driven or, if you will, statistical technical analysis, these
 latter schools attempt, just as chart analysts do, to predict market trends and
 trading opportunities. This can be more than a little difficult since the stock
@@ -11728,10 +10483,6 @@ everyone, for instance, a large important Support or Resistance Level or a
 glaringly obvious chart formation. These days everyone looks at charts to
 trade even if they don’t believe in their use. In these obvious cases some
 market participants will attempt to push prices through these levels in order
-
-
-_Chapter 17.1: Technical Analysis and Technology in the 21st Century 327_
-
 to profit from volatility and confusion. Indeed, human nature has not
 changed much since Jay Gould and Big Jim Fisk.
 When these manipulations of price occur, they create false signals —
@@ -11778,14 +10529,11 @@ there is a certain whiff of alchemy to some of them, and some have some
 usefulness sometimes. And, all systems work beautifully at least twice in
 their lives: in research, and in huge monumental Bull Markets. These number
 driven indicators are also the times when trading genius is most likely to be
-
-
-_328 Technical Analysis of Stock Trends_
-
 discovered. These are briefly explored by a former editor in Appendix C.
 _EN9: It is also true, as I have said, that you can drive a nail with a screwdriver.
 And the inventor of a tool may be fabulously successful with it while its adopters
 lose their assets._
+
 It is also possible that the excess of technical information created by these
 indicators may be like the excess of fundamental information — another
 shell to hide the pea under, another magician’s trick to keep the investor
@@ -11819,18 +10567,13 @@ like to add to his repertoire. And, most of all, he depends on his own
 observations and experience to evaluate his own and others trading tech-
 niques.
 
-##### Other Technological Developments of Importance
-
-##### to the Technical Magee Analyst and All Investors
+##### Other Technological Developments of Importance to the Technical Magee Analyst and All Investors
 
 The computer is not the only technological development of interest to the
 technical investor. A number of information revolution technologies need to
 be put in perspective. These are, in broad categories, the Internet and all its
 facilities, developments in electronic markets, and advances in finance and
 investment theory and practice. This last is treated in Chapter 17.2.
-
-
-_Chapter 17.1: Technical Analysis and Technology in the 21st Century 329_
 
 Due to the enormous body of material on these subjects, no attempt will
 be made to explore these subjects exhaustively, but the general investor will
@@ -11843,12 +10586,8 @@ which have made trading a guaranteed success? No. The only sure thing is
 that some huckster will claim to have a sure thing. Those who believe such
 claims are the victims of their own naivete.
 
-##### The Internet — the Eighth Wonder of the Modern World
-
-##### (EN9: Resources Appendix for the 9th Edition has been
-
+##### The Internet — the Eighth Wonder of the Modern World (EN9: Resources Appendix for the 9th Edition has been
 ##### enormously expanded and is of paramount importance to
-
 ##### modern investors.)
 
 The Internet has been called the most complex project ever built by man.
@@ -11877,12 +10616,9 @@ sions? What good are satellite alerts and virtual reality glasses to a long-term
 investor? It is easy for the investor with no philosophy or method to be
 drawn into the maelstrom of electronic wonders and stagger out of it little
 wiser and much poorer.
+
 Observe then the goods and services of all this which are of importance
 to the level-headed investor with his feet on the ground and his head out of
-
-
-_330 Technical Analysis of Stock Trends_
-
 the clouds. This hopefully not abstract investor, object of our attention here,
 needs what? He needs _data_ , _charts_ , and _a connection to a trading place_. Data
 are available at the click of a mouse. A chart occupies the screen in another
@@ -11928,10 +10664,6 @@ message of Zen in the art of archery, that of direct attachment to reality and
 the importance of the present moment. In his seminal book _The General
 Semantics of Wall Street_ (now _Winning the Mental Game on Wall Street_ ) John
 Magee inveighed at some length against the very human tendency to keep
-
-
-_Chapter 17.1: Technical Analysis and Technology in the 21st Century 331_
-
 two sets of books in the head — one recording profits, open and closed, and
 another recording losses, but only closed losses. Open losses were not losses
 until booked. Having an electronic portfolio accountant which refuses to
@@ -11978,9 +10710,6 @@ phisticated trader to go broke in real time.
 Many of these sites offer every kind of analysis from respectable tech-
 nical analysis (usually too complicated) to extraterrestrial channeling.
 
-
-_332 Technical Analysis of Stock Trends_
-
 Internet chat rooms will provide real-time touting and numerous rumors
 to send the lemmings and impressionable scurrying hither and yon. But, one
 expects, not the readers of this book.
@@ -11999,16 +10728,9 @@ Of more importance, the info-revolution and the computer will:
     where there are no pit traders or locals to fiddle with prices.
 
 
-```
-333
-```
-## chapter 17.2
+## Chapter 17.2 Advancements in Investment Technology
 
-# Advancements in
-
-# Investment Technology
-
-## Part 1. Developments in Finance Theory and Practice
+### Part 1. Developments in Finance Theory and Practice
 
 Numerous pernicious and useless inventions, services, and products litter
 the Internet and the financial industry marketplace; but modern finance
@@ -12044,8 +10766,6 @@ the scope of this book, which hopes only to offer some perspective on the
 subject and guides to the further study necessary for most traders and many
 investors.
 
-
-_334 Technical Analysis of Stock Trends_
 
 Something in the neighborhood of 30% or more of options expire worth-
 less. This is probably the most important fact to know about options. (There
@@ -12092,10 +10812,6 @@ necessary for the general investor to make a profit on $.625.
 This does not mean the general investor should never touch options. It
 just means he should be thoroughly prepared before he goes down to play
 that game. In options trading traders speak of bull spreads, bear spreads,
-
-
-_Chapter 17.2: Advancements in Investment Technology 335_
-
 and alligator spreads. The alligator spread is an options strategy which eats
 the customer’s capital _in toto_.
 Among these strategies is covered call writing. This is a strategy which
@@ -12143,8 +10859,6 @@ fessionals, take most of the public’s (who are buyers) money. This is the way
 of the world.
 
 
-_336 Technical Analysis of Stock Trends_
-
 ###### Options Pricing Models and Their Importance
 
 After the introduction of the Black–Scholes Model numerous other models
@@ -12191,10 +10905,6 @@ of the better books on the subject.
 But let us say that instead of using futures to speculate that we want
 to use them as a hedge for our portfolio of Dow–Jones DIAMONDS or
 portfolio of Dow–Jones stocks. Now we are purchasing insurance, rather
-
-
-_Chapter 17.2: Advancements in Investment Technology 337_
-
 than speculating. As an oversimplified example, the investor might see the
 failure of the DJIA to break through a top as the beginning of a congestion
 zone (a consolidation or reversal pattern). He could then hedge his position
@@ -12240,9 +10950,6 @@ the portfolio and trade only options. Before taking such a step the trader
 should pass a postgraduate course. The proportion of successful amateur
 option traders to successful professional traders is extremely skewed. In fact
 one might say that all successful options traders are professionals.
-
-
-_338 Technical Analysis of Stock Trends_
 
 ###### Modern Portfolio Theory (MPT)
 
@@ -12291,22 +10998,13 @@ the systems required so much computer power they could not be run quickly
 enough in real time to actually trade in the markets. Philosopher’s stone _redux._
 
 
-_Chapter 17.2: Advancements in Investment Technology 339_
-
-##### Part 2. Futures and Options on Futures on the Dow–Jones
-
-##### Industrial Index at the Chicago Board of Trade
+##### Part 2. Futures and Options on Futures on the Dow–Jones Industrial Index at the Chicago Board of Trade
 
 ##### (EN9: The general investor MUST be aware that the
-
 ##### methods and techniques described in this chapter are
-
 ##### for advanced practitioners. Careless use of the described
-
 ##### instruments can be extremely damaging to a portfolio.)
-
 ###### Investment and Hedging Strategies Using the Chicago Board
-
 ###### of Trade DJIASM Futures Contract
 
 A futures contract is the obligation to buy or sell a specific commodity on
@@ -12342,7 +11040,6 @@ is 10000 at expiration, a long who bought the contract at 9000 receives $10,000
 ($10 ⋅ 1000) from the short.
 
 
-_340 Technical Analysis of Stock Trends_
 
 ###### Marking to Market
 
@@ -12392,8 +11089,6 @@ which may be held indefinitely.
 The main two differences between the cash and the futures transactions are
 
 
-_Chapter 17.2: Advancements in Investment Technology 341_
-
 1. In cash, the value of the portfolio must be paid up front, or financed
     in a stock margin account.
 2. The owner of the cash portfolio receives cash dividends.
@@ -12440,10 +11135,6 @@ hedge on the losing side. At worst, of course, the investor has surrendered
 portfolio appreciation. Not considering cash flow implications, of course.
 It is worth emphasizing, in fact _strongly_ emphasizing, that these tech-
 niques require knowledge, expertise, and study. Careless use of techniques
-
-
-_342 Technical Analysis of Stock Trends_
-
 of this nature can bloody the amateur investor. So it is probably best to have
 a professional guide for the first several of these expeditions, and to execute
 a number of paper transactions first.
@@ -12462,11 +11153,6 @@ allocations in futures. The ability to almost instantaneously move in and out
 of the market without disturbing the underlying portfolio is a powerful
 feature of these “proxy markets.”
 
-###### Investment Uses of Dow Index Futures
-
-In the following examples, I describe the basic mechanics of using Dow
-Futures contracts. These can be used to adjust equity exposure in anticipation
-of volatile market cycles and to rebalance portfolios among different asset
 
 ![fig-199](./img/fig-199.png)
 
@@ -12477,80 +11163,13 @@ convenient drill would have preserved liquidity, postponed capital gains taxes a
 avoided loss of equity. Notice the return to the trendline after the break. More of the
 foolish virgin syndrome?
 
-```
-118
-116
-114
-112
-110
-108
-106
-104
-102
-100
-12000
-11600
-11200
-10800
-10400
-9/1999 10/1999 11/1999 12/1999^00 2/2000
-```
-```
-10400
-```
-```
-10800
-```
-```
-11200
-```
-```
-11600
-```
-```
-12000
-```
-```
-100
-```
-```
-102
-```
-```
-104
-```
-```
-106
-```
-```
-108
-```
-```
-110
-```
-```
-112
-```
-```
-114
-```
-```
-116
-```
-```
-118
-```
-```
-/DI200006 LAST-Daily 02/24/2000
-```
-```
-Created with TradeStation http://www.TradeStation.com
-```
-```
-DIA LAST-Daily 02/24/2000
-```
 
-_Chapter 17.2: Advancements in Investment Technology 343_
+###### Investment Uses of Dow Index Futures
+
+In the following examples, I describe the basic mechanics of using Dow
+Futures contracts. These can be used to adjust equity exposure in anticipation
+of volatile market cycles and to rebalance portfolios among different asset
+
 
 classes. The futures may also be used for other purposes not illustrated here.
 The following examples are not intended to be absolutely precise, but only
@@ -12560,6 +11179,7 @@ market payments and cost of carry have been eliminated from the examples.
 ```
 Situation 1: Portfolio Protection
 ```
+
 You are a long-term Magee-type investor and you have old and profitable
 positions with which you are satisfied. But you have seen the broadening
 top of the Dow Jones ( _circa anno_ 2000) and it is almost October and you
@@ -12661,8 +11281,6 @@ Money market $0
 Total $550,000
 ```
 
-_Chapter 17.2: Advancements in Investment Technology 345_
-
 In buying Dow Index futures, you are able to “equitize” $100,000 of your
 money market investment, effectively increasing your return from the money
 market rate of 0.5% to 10%. If you had not bought futures, the total value
@@ -12708,6 +11326,14 @@ Results: at the September futures expiration, the value of the Dow Future
 is 11000, a rate of return of 10%, and the market value of the bonds is 101-
 08, a rate of return of –1%.
 
+![fig-199](./img/fig-199.png)
+
+**FIGURE 199.2.** Dow Jones Futures and Options. A put purchased at the arrow on
+the break would have protected patiently won gains over the previous 11 months.
+Increase in value of put can be seen as futures track declining Dow cash. A theoretical
+drill, but theoretical drills precede actual tactics in the market.
+
+
 Portfolio value with no market action taken:
 
 ```
@@ -12716,11 +11342,25 @@ Money market $200,000 × 0.99 $198,000
 Total $418,000
 ```
 
-_346 Technical Analysis of Stock Trends_
-
 Value of futures positions:
 
+```
+Long Dow futures $10 × 1 × (11000 – 10000) $10,000
+Short bond futures +$1000 × 1 × (102-20 – 101-08) $1375
+Total $11,375
+Grand total $429,375
+```
+
+
+
 Value of portfolio had transaction been done in cash market:
+
+```
+Stocks $300,000 × 1.10 $330,000
+Bonds + $100,000 × 0.99 $99,000
+Total $429,000
+```
+
 
 By this simple maneuver you have quickly and easily changed your
 market posture to add an additional $100,000 exposure to stocks and subtract
@@ -12731,49 +11371,6 @@ stocks, but not without tax consequences and the attendant transaction head-
 aches. The use of futures to accomplish your goals allowed you to implement
 your trading plan without disturbing your existing portfolio.
 
-![fig-199](./img/fig-199.png)
-
-**FIGURE 199.2.** Dow Jones Futures and Options. A put purchased at the arrow on
-the break would have protected patiently won gains over the previous 11 months.
-Increase in value of put can be seen as futures track declining Dow cash. A theoretical
-drill, but theoretical drills precede actual tactics in the market.
-
-```
-Long Dow futures $10 × 1 × (11000 – 10000) $10,000
-Short bond futures +$1000 × 1 × (102-20 – 101-08) $1375
-Total $11,375
-Grand total $429,375
-```
-```
-Stocks $300,000 × 1.10 $330,000
-Bonds + $100,000 × 0.99 $99,000
-Total $429,000
-```
-```
-12000
-11800
-11600
-11400
-11200
-11000
-10800
-10600
-10400
-10200
-1600
-1200
-800
-400
-11/1999 12/1999 00 2/2000
-```
-```
-/DI200006 LAST-Daily 02/24/2000
-```
-```
-Created with TradeStation http://www.TradeStation.com
-```
-
-_Chapter 17.2: Advancements in Investment Technology 347_
 
 ###### Perspective
 
@@ -12822,12 +11419,9 @@ premium is quoted in points, each point being worth $100. The premium
 for a Dow Index option is paid by the buyer at initiation of the transaction.
 The underlying instrument for one CBOT futures option is one CBOT
 DJIASM futures contract; so the option contract and the futures contract are
-
-
-_348 Technical Analysis of Stock Trends_
-
 essentially different expressions of the same instrument, and both are based
 on the Dow–Jones Index.
+
 Options premiums consist of two elements: intrinsic value and time
 value. The difference between the futures price and strike price is the intrinsic
 value of the option. If the futures price is greater than the strike price of a
@@ -12874,8 +11468,6 @@ a decided edge in this area. Their edge can be removed by serious study.
 At expiration, the rules of optimal exercise are clear. The call owner should
 exercise the option if the strike price is less than the underlying futures price.
 
-
-_Chapter 17.2: Advancements in Investment Technology 349_
 
 The value of the exercised call is the difference between the futures price
 and the strike price. Conversely, the put owner should exercise the option
@@ -12927,14 +11519,13 @@ is a reasonable alternative at a quoted premium of 10.10. You pay $1,010 for
 the call ($100 ⋅ 10.10).
 
 
-_350 Technical Analysis of Stock Trends_
 
-```
+
+
 The payoff: at the September expiration, the value of the Dow Future is
-```
 10610. Now, your call is in-the-money, and you exercise it and garner the
-exercise value less the premium, or $90 = $10 ⋅ (10610 – 10500) – $100 ⋅ (10.10)
-= $1,100 – $1,010. If the Dow Future stays at or below 10500, you let the call
+exercise value less the premium, or `$90 = $10 ⋅ (10610 – 10500) – $100 ⋅ (10.10)
+= $1,100 – $1,010`. If the Dow Future stays at or below 10500, you let the call
 expire worthless and simply lose the premium. This is the maximum possible
 loss on the call. If the Dow Future increases by 101 points above the strike
 price, you break even.
@@ -12979,10 +11570,6 @@ futures against a possible market downturn. He buys a 7600 put at a pre-
 mium of 6.60, cost $100 ⋅ 6.60 = $660.
 Buying the put places a floor on the value of the portfolio at the strike
 price. Buying a put with a strike price of 7600 effectively locks in the value
-
-
-_Chapter 17.2: Advancements in Investment Technology 351_
-
 of the portfolio at $76,000. Above its strike price, a put is not exercised and
 the portfolio value is unconstrained. If the trader is wrong, and the market
 goes up, he loses the premium paid for the put. Depending on which strike
@@ -13030,10 +11617,6 @@ Long and short stock positions reflect definite market opinions or analyses.
 The market will go up or the market will go down and the moderately
 competent technician should be right about this more often than the
 unwashed general public. In markets of coiling volatility (i.e., lower than
-
-
-_352 Technical Analysis of Stock Trends_
-
 average volatility and declining), it is sometimes possible to exploit uncer-
 tainty by putting on a long straddle. The long straddle combines a long put
 and a long call at the same strike price. This spread generates a return over
@@ -13050,6 +11633,7 @@ put and a short call at the same strike price.
 ```
 Situation 3
 ```
+
 In August, a technical analysis predicts that volatility will increase, and the
 market is in a coiling process. The direction of prices is uncertain but poten-
 tially explosive. The trader buys a straddle of a long put at 7800 and a long
@@ -13066,12 +11650,12 @@ the investor will do if he thinks the sky is falling).
 ```
 Situation 4
 ```
+
 In August, the investor calculates that options are overvalued and that vol-
 atility will be lower than implied volatility. He expects a dormant market to
 continue through the end of the summer. He decides to sell the September
 put and call at 7800, collecting $3280. The return on this short straddle will
 turn negative if the Dow Future in September goes below 7472 or above
-
 8128. The maximum loss on the downside is $10 ⋅ (7800 – 328), or $74,720,
 and the loss on the upside is unlimited. The investor, however, perceives the
 risk as limited, because he believes that the Dow Future will neither increase
@@ -13081,14 +11665,10 @@ as, for example, the Editor’s client who was short puts in the crash of 1987
 and lost $57MM.
 
 
-_Chapter 17.2: Advancements in Investment Technology 353_
 
 ###### Perspective (EN9: Once again, do not practice the methods and
-
 ###### techniques described in this chapter without complete confidence
-
 ###### in their use. A course in futures and options is recommended, or
-
 ###### professional consultation.)
 
 I like to tell these stories so that prospective options traders and general
@@ -13126,12 +11706,7 @@ Fax: 312-341-3168; http://www.cbot.com
 ```
 
 
-```
-355
-```
-## part two
-
-# Trading Tactics
+# PART 2. Trading Tactics
 
 ## Midword
 
@@ -13253,7 +11828,7 @@ John Magee
 ```
 359
 ```
-## chapter eighteen
+## Chapter eighteen
 
 # The Tactical Problem
 
@@ -13624,7 +12199,7 @@ Created with TradeStation 2000i by Omega Research 1999
 ```
 367
 ```
-## chapter 18.1
+## Chapter 18.1
 
 # Strategy and Tactics
 
@@ -13886,7 +12461,7 @@ is noted: [http://www.gamblersanonymous.org.](http://www.gamblersanonymous.org.)
 ```
 375
 ```
-## chapter nineteen
+## Chapter nineteen
 
 # The All-Important Details
 
@@ -14056,7 +12631,7 @@ following:
 ```
 379
 ```
-## chapter twenty
+## Chapter twenty
 
 # The Kind of Stocks We Want —
 
@@ -14199,7 +12774,7 @@ GOOD YEAR TIRE
 ```
 383
 ```
-## chapter 20.1
+## Chapter 20.1
 
 # The Kind of Stocks We Want —
 
@@ -14575,7 +13150,7 @@ Created with TradeStation
 ```
 391
 ```
-## chapter twenty-one
+## Chapter twenty-one
 
 # Selection of Stocks to Chart
 
@@ -14705,7 +13280,7 @@ think in 44 day time frames. The others because everyone thinks they are importa
 ```
 395
 ```
-## chapter twenty-two
+## Chapter twenty-two
 
 # Selection of Stocks to
 
@@ -15007,7 +13582,7 @@ investor’s life indeed._
 ```
 401
 ```
-## chapter twenty-three
+## Chapter twenty-three
 
 # Choosing and Managing
 
@@ -15833,7 +14408,7 @@ Created with TradeStation
 ```
 419
 ```
-## chapter twenty-four
+## Chapter twenty-four
 
 # The Probable Moves
 
@@ -16220,7 +14795,7 @@ n
 ```
 425
 ```
-## chapter twenty-five
+## Chapter twenty-five
 
 # Two Touchy Questions
 
@@ -16540,7 +15115,7 @@ futures exchanges._
 ```
 433
 ```
-## chapter twenty-six
+## Chapter twenty-six
 
 # Round Lots or Odd Lots?
 
@@ -16590,7 +15165,7 @@ vidual trade level._
 ```
 435
 ```
-## chapter twenty-seven
+## Chapter twenty-seven
 
 # Stop Orders
 
@@ -16898,7 +15473,7 @@ it has declined to 29 — or to 5!
 ```
 441
 ```
-## chapter twenty-eight
+## Chapter twenty-eight
 
 # What Is a Bottom — What
 
@@ -17150,7 +15725,7 @@ Chapter 28.1 I have added to it material which has been of great importance to m
 trading and to the trading of my students._
 
 
-## chapter 28.1
+## Chapter 28.1
 
 # Basing Points – A Case Analyzed
 
@@ -17336,7 +15911,7 @@ Stops” on the John Magee Technical Analysis website: [http://www.edwards-magee
 ```
 451
 ```
-## chapter twenty-nine
+## Chapter twenty-nine
 
 # Trendlines in Action
 
@@ -17764,7 +16339,7 @@ Analysis website at [http://www.edwards-magee.com.](http://www.edwards-magee.com
 ```
 461
 ```
-## chapter thirty
+## Chapter thirty
 
 # Use of Support and
 
@@ -18048,7 +16623,7 @@ question. The chart analyst may supplement his analysis with a routine like this
 ```
 467
 ```
-## chapter thirty-one
+## Chapter thirty-one
 
 # Not All in One Basket
 
@@ -18144,7 +16719,7 @@ funds obsolete if the investor uses the simple procedures outlined in this book.
 ```
 469
 ```
-## chapter thirty-two
+## Chapter thirty-two
 
 # Measuring Implications
 
@@ -18257,7 +16832,7 @@ always be made in the here and now, not in the I measured it then._
 ```
 473
 ```
-## chapter thirty-three
+## Chapter thirty-three
 
 # Tactical Review
 
@@ -20042,7 +18617,7 @@ helpful in showing the gradual turning of a Major Trend.
 ```
 501
 ```
-## chapter thirty-four
+## Chapter thirty-four
 
 # A Quick Summation
 
@@ -20161,7 +18736,7 @@ favorable direction, never in the adverse direction.
 ```
 505
 ```
-## chapter thirty-five
+## Chapter thirty-five
 
 # Effect of Technical Trading
 
@@ -20246,7 +18821,7 @@ analysis._
 ```
 507
 ```
-## chapter thirty-six
+## Chapter thirty-six
 
 # Automated Trendline:
 
@@ -20457,7 +19032,7 @@ $INDUA LAST-Monthly
 ```
 513
 ```
-## chapter thirty-seven
+## Chapter thirty-seven
 
 # “The Same Old Patterns”
 
@@ -24629,7 +23204,7 @@ a new high 3% above the previous wave high. This chart shows stops so generated 
 ```
 577
 ```
-## chapter thirty-eight
+## Chapter thirty-eight
 
 # Balanced and Diversified
 
@@ -25078,7 +23653,7 @@ will also define a Major DJIA low.
 ```
 585
 ```
-## chapter thirty-nine
+## Chapter thirty-nine
 
 # Trial and Error
 
@@ -25140,7 +23715,7 @@ can immeasurably improve investment performance._
 ```
 587
 ```
-## chapter forty
+## Chapter forty
 
 # How Much Capital
 
@@ -25246,7 +23821,7 @@ a boardroom rumor.
 ```
 591
 ```
-## chapter forty-one
+## Chapter forty-one
 
 # Application of Capital
 
@@ -25473,7 +24048,7 @@ fine points offered a plan for the ongoing allocation of capital to trading._
 ```
 597
 ```
-## chapter forty-two
+## Chapter forty-two
 
 # Portfolio Risk Management*
 
@@ -26063,7 +24638,7 @@ Eternal vigilance is the cost of freedom. It is also the cost of investing succe
 ```
 609
 ```
-## chapter forty-three
+## Chapter forty-three
 
 # Stick to Your Guns
 
