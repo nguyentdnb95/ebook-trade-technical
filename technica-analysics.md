@@ -5175,3 +5175,4710 @@ hợp lý không đặt stop để bảo vệ khỏi biến động phi lý. Th�
 những gì nhà đầu tư không biết, nhưng sẽ tiết lộ cho nhà đầu tư cơ
 bản nếu đọc biểu đồ. Hình này thêm cho ấn bản 9, nối tiếp ấn bản 8.
 
+
+
+
+## Chương 11. Các Mô Hình Tích Lũy
+
+Một đội quân nếu tiến lên quá nhanh, xâm nhập sâu vào lãnh thổ đối phương,
+chịu tổn thất và vượt quá khả năng tiếp tế, thì sớm muộn cũng phải dừng lại,
+có thể lùi về một vị trí dễ phòng thủ hơn, đào hào cố thủ, bổ sung lực lượng
+và xây dựng một căn cứ vững chắc để từ đó phát động đợt tấn công mới sau này.
+Trong thuật ngữ quân sự mà chúng ta đã quen thuộc ít nhiều trong những năm
+gần đây, quá trình đó được gọi là _củng cố_ những thành quả đã đạt được.
+Dù không nên lạm dụng phép so sánh này, nhưng có rất nhiều điểm trong hành
+động của thị trường chứng khoán có thể ví với một chiến dịch quân sự.
+
+Khi một cổ phiếu tăng (hoặc giảm) quá nhanh, nó sẽ đến lúc mà các lực đẩy
+tạo nên chuyển động đó bị cạn kiệt. Khi ấy, cổ phiếu hoặc đảo chiều xu hướng
+(theo nghĩa Chính hay Trung gian), hoặc phản ứng tại một mức Hỗ trợ tốt,
+hoặc _Tích lũy_ vị thế của mình trong một mô hình “đi ngang” nào đó, được
+cấu thành bởi các Dao động Nhỏ, cho đến khi nó “theo kịp chính nó”, và sẵn
+sàng tiếp tục hành trình.
+
+Chúng ta đã nhiều lần nhắc đến các Mô hình Tích lũy khi nghiên cứu Tam giác
+Cân và Hình chữ nhật. Ta thấy rằng hai dạng mô hình này có thể hoặc đảo
+chiều xu hướng trước đó, hoặc tích lũy để chuẩn bị cho xu hướng tiếp diễn.
+Chúng ta cũng lưu ý rằng khoảng ba trên bốn Tam giác Cân thực chất là mô
+hình Tích lũy chứ không phải Đảo chiều — và Hình chữ nhật cũng có tỷ lệ
+tương tự. Ngay cả một mô hình Mở rộng Đỉnh phẳng, hình thành tại đỉnh của
+một xu hướng tăng Trung gian, dù thường mang hàm ý Giảm giá, vẫn có thể
+được chuyển hóa thành mô hình Tích lũy hoặc Tiếp diễn nếu cạnh đỉnh phẳng
+của nó bị phá vỡ dứt khoát theo hướng đi lên.
+
+Một Đường Dow trong đồ thị của một chỉ số Trung bình có thể là mô hình
+Tích lũy hoặc Đảo chiều, và xác suất cao hơn là trường hợp thứ nhất. Đường
+Dow, về bản chất, là một dạng Hình chữ nhật lỏng lẻo. Thực tế là hầu như
+bất kỳ mô hình giá đi ngang nào — thường được gọi là vùng “Ùn tắc” hay
+khu vực giao dịch — miễn là khối lượng giao dịch có xu hướng giảm dần
+trong quá trình hình thành (và không thể hiện xu hướng mở rộng rõ rệt),
+thì thường đóng vai trò là một mô hình Tích lũy. Tuy nhiên, đa số các vùng
+tích lũy xu hướng đều khá rõ ràng và mang hình dạng dễ nhận biết.
+
+
+
+![fig-105](./img/fig-105.png)
+
+**HÌNH 105.** Đây là một mô hình Cờ điển hình và gần như hoàn hảo, hình thành
+từ ngày 12 tháng 5 đến ngày 2 tháng 6 năm 1945, ở cổ phiếu Martin–Parry.
+Khối lượng giao dịch hàng ngày giảm xuống mức rất thấp khi giá đi vào trạng
+thái ổn định trong đúng 3 tuần sau cú tăng nhanh từ 11 lên 16½, nhưng vẫn
+giữ được khoảng cách so với đường biên dưới trong tuần thứ ba, rồi bùng
+nổ lên phía trên với khối lượng lớn trong một cú tăng thẳng từ 15 lên 21.
+Hãy nghiên cứu lại đồ thị này khi bạn đọc đến công thức đo mục tiêu của
+mô hình Cờ ở trang 192. Các nét gạch tại mức 12 cho thấy biên trên của một
+Vùng Kháng cự cũ (Chương 13).
+
+##### Cờ (Flags) và Cờ đuôi nheo (Pennants)
+
+Chúng ta không cần dành thêm thời gian cho Tam giác và Hình chữ nhật;
+chúng đã được phân tích đầy đủ, cả trong vai trò Đảo chiều lẫn Tích lũy,
+ở các chương trước. Hai mô hình đầu tiên mang tính chất _chỉ_ Tích lũy
+là Cờ và Cờ đuôi nheo, và chúng có mối liên hệ khá thú vị, như ta sẽ thấy,
+với Tam giác, Hình chữ nhật và Nêm (Wedges).
+
+
+
+![fig-106](./img/fig-106.png)
+
+**HÌNH 106.** Một mô hình Cờ điển hình khác, kéo dài 3 tuần, từ 30 tháng 8
+đến 18 tháng 9. Đồ thị National Gypsum này chồng lấp với Hình 49, cho thấy
+cú phá vỡ giả tại đỉnh của Tam giác Cân tháng 5–6. Tín hiệu mua xuất hiện
+khi giá vượt lên trên mức đỉnh cũ vào ngày 23 tháng 8 với khối lượng tăng.
+Điều đáng chú ý nhất là Tam giác Cân thứ hai hình thành trong giai đoạn
+tháng 10–11, gần như là bản sao chính xác của tam giác đầu tiên, nhưng
+lại có cú phá vỡ giả theo hướng giảm tại đỉnh của nó. Sự gia tăng mạnh
+về khối lượng vào ngày 27 tháng 11 đã xóa tan mọi nghi ngờ rằng đây là
+một mô hình Tích lũy chứ không phải Đảo chiều. “NG” tiếp tục tăng lên 33.
+
+Một mô hình _Cờ_ trông giống như một lá cờ trên đồ thị — điều này đúng
+nếu nó xuất hiện trong một xu hướng tăng; trong xu hướng giảm, hình ảnh
+đơn giản là bị lật ngược. Nó có thể được mô tả như một hình bình hành nhỏ,
+gọn của các dao động giá, hoặc một Hình chữ nhật nghiêng, dốc nhẹ ngược
+chiều với xu hướng chính. Trước tiên, hãy xét mô hình Cờ trong xu hướng
+tăng. Nó thường hình thành sau một cú tăng nhanh và khá mạnh, tạo nên
+một quỹ đạo giá gần như thẳng đứng, hoặc ít nhất là rất dốc, trên đồ thị.
+
+Trong những đợt tăng như vậy, khối lượng giao dịch thường tăng dần cho
+đến khi đạt mức rất cao. Khối lượng này (vì mỗi giao dịch vừa là mua,
+vừa là bán) chính là một lời cảnh báo rằng nhiều người nắm giữ cổ phiếu
+đang chốt lời. Cuối cùng, áp lực chốt lời sẽ chặn đứng đà tăng. Giá bắt
+đầu “xoay vòng” mà không còn tăng thêm, rồi điều chỉnh giảm hai hoặc
+ba điểm với khối lượng thấp hơn. Một nhịp hồi mới xuất hiện, nhưng không
+vượt được đỉnh trước đó, cũng không đạt mức khối lượng đỉnh cũ.
+
+Một đợt điều chỉnh khác kéo giá xuống thấp hơn đôi chút so với đáy trước,
+kèm theo sự suy giảm thêm của hoạt động giao dịch. Sau đó là một chuỗi
+các Dao động Nhỏ tương tự, trong đó mỗi đỉnh và đáy đều thấp hơn một chút
+so với đỉnh, đáy liền trước, và khối lượng tiếp tục co lại rõ rệt và đều
+đặn khi mô hình phát triển. Trên đồ thị, cú tăng dốc ban đầu, tiếp theo là
+vùng giá đi ngang, gọn và hơi dốc xuống, có thể được bao quanh bởi hai
+đường song song phía trên và dưới, trông giống như một cột cờ (hoặc dây
+treo) với lá cờ tung bay ở đỉnh — và đó chính là nguồn gốc tên gọi của
+mô hình này.
+
+![fig-107](./img/fig-107.png)
+
+**HÌNH 107.** Các mô hình Cờ dạng “Nửa cột cờ” thường xuất hiện nhiều nhất
+trong giai đoạn muộn và sôi động nhất của một xu hướng tăng Chính. Ví dụ
+trên (tháng 1) là mô hình Tích lũy cuối cùng trước đỉnh Thị trường Bò
+năm 1937 của “NK”. Lưu ý mô hình Hình chữ nhật Đảo chiều trong tháng 3
+và chuỗi các mô hình giảm bậc hình thành sau đó.
+
+Đôi khi, mỗi nhịp tăng và giảm trong mô hình Cờ kéo dài 3 hoặc 4 ngày,
+hiếm khi lâu hơn. Trong những trường hợp khác, giá dao động qua lại giữa
+biên trên và biên dưới của Cờ chỉ trong một hoặc hai ngày, khiến mô hình
+trên đồ thị trông như một khối đặc các vạch biên độ giá. Mô hình càng
+rộng (tính từ đỉnh xuống đáy) thì tự nhiên mỗi dao động bên trong càng
+cần nhiều thời gian để hoàn tất. Quá trình các Dao động Nhỏ này có thể
+chỉ kéo dài 5 ngày đến một tuần nếu Cờ hẹp, hoặc lên đến 3 tuần.
+
+Đến lúc đó, khối lượng giao dịch hàng ngày thường đã giảm xuống mức
+tương đối thấp. Rồi đột nhiên, giá bùng nổ với một đợt gia tăng hoạt động
+mới từ cuối mô hình Cờ và tiếp tục tăng thẳng trong một nhịp tăng khác,
+gần như sao chép chính xác “cột cờ” ban đầu mà trên đó mô hình Cờ đã
+được hình thành.
+
+Chúng ta đã nói rằng mô hình Cờ thường dốc xuống vừa phải, nhưng những
+mô hình rất ngắn và “đặc” thường phát triển theo phương ngang và trông
+giống như những hình vuông nhỏ. (Trong những trường hợp hiếm hoi, một
+mô hình Cờ trong xu hướng tăng thậm chí còn dốc lên nhẹ.)
+
+Các mô hình Cờ cũng hình thành trong những đợt giảm mạnh theo cách
+tương tự và mang hàm ý hoàn toàn giống như trong xu hướng tăng. Cờ
+trong xu hướng giảm, dĩ nhiên, có xu hướng dốc lên — tức là chỉ đơn
+thuần đảo ngược hình ảnh của Cờ tăng. Khối lượng giao dịch giảm dần
+trong quá trình hình thành, rồi tăng trở lại khi giá phá vỡ đi xuống
+khỏi mô hình.
+
+
+
+![fig-108](./img/fig-108.png)
+
+**HÌNH 108.** Đôi khi một cổ phiếu sẽ hình thành một chuỗi dài các mô hình
+Tích lũy nhỏ trong xu hướng tăng của nó, mô hình này nối tiếp ngay sau
+mô hình kia, khi các nhóm nhà giao dịch mới tham gia mua vào trong lúc
+những người khác chốt lời từ các vị thế trước đó. Trong chuỗi các bước
+tăng này của Vanadium, mô hình Cờ hình thành vào tháng 1 năm 1937 kéo
+dài thêm vài ngày, nhưng cú phá vỡ kèm khối lượng vào ngày 4 tháng 2 đã
+không để lại nghi ngờ nào rằng xu hướng vẫn là tăng. Một đỉnh cuối cùng
+được tạo tại mức 39½ vào tháng 3. Lưu ý tín hiệu mua mạnh xuất hiện
+vào ngày 14 tháng 12. Hãy tham chiếu lại đồ thị này khi nghiên cứu về
+Hỗ trợ và Kháng cự trong Chương 13.
+
+##### Pennant — Lá Cờ Nhọn
+
+Khác biệt quan trọng duy nhất giữa _Pennant_ và _Flag_ là Pennant được giới
+hạn bởi hai đường biên hội tụ thay vì song song. Nói cách khác, Pennant thông
+thường là một Tam Giác nhỏ, gọn, có độ nghiêng. Nó nghiêng xuống khi xuất
+hiện trong xu hướng tăng, và nghiêng lên khi xuất hiện trong xu hướng giảm.
+Theo quy luật, nó hình thành sau một pha tăng (hoặc giảm) nhanh, và khối
+lượng giao dịch co hẹp rõ rệt trong quá trình tạo mẫu. Thực tế, hoạt động
+giao dịch trong Pennant còn giảm nhanh hơn cả Flag (điều này dễ hiểu vì các
+dao động ngày càng ngắn), và đôi khi gần như cạn kiệt trước khi Pennant
+hoàn tất và giá phá vỡ để bước vào một nhịp chuyển động mới, nhanh.
+
+![fig-109](./img/fig-109.png)
+
+**HÌNH 109.** Một Bull Flag vào tháng 2 và một Bear Flag vào tháng 4 năm 1936
+ở Briggs. Đỉnh ở giữa là một Tam Giác Cân. Ngày 30/4 là một Reversal Day.
+Giá hồi phục lên 64½ vào tháng 11/1936, tạo thành một Đỉnh Đôi dài hạn
+với đỉnh tháng 3. Vùng Hỗ trợ–Kháng cự 51–53 (đường gạch) vẫn còn hiệu
+lực đến năm 1946! (Xem Chương 13.)
+
+Pennant cũng có thể được xem là một Wedge ngắn, gọn, đặc trưng bởi sự
+suy giảm mạnh của hoạt động giao dịch. Khi — như thường thấy — nó
+nghiêng ngược lại với xu hướng trước đó, hàm ý dự báo của nó tương tự
+Wedge: giá sẽ phá vỡ theo hướng ngược với độ nghiêng của mẫu hình.
+Tuy nhiên, cũng tồn tại những biến thể hiếm gặp, mang tính nhỏ (Minor),
+tương tự như một số Flag, trong đó vùng giá rất ngắn, “đặc”, gần như nằm
+ngang (giống Tam Giác Cân), hoặc thậm chí hơi nghiêng cùng hướng với
+xu hướng trước đó. Với dạng cuối này, khi giá thoát ra, thường không phải
+là cú phá vỡ thẳng, dứt khoát, mà là một đường cong tăng tốc, khối lượng
+tăng dần thay vì bùng nổ ngay tại điểm breakout. Toàn bộ mẫu hình khi đó
+trông giống như một chiếc sừng cong kéo dài đến một mũi nhọn mảnh.
+Đừng để các biến thể này làm bạn bối rối; hình dạng của chúng không hề
+đánh lừa, và mối liên hệ với dạng Pennant thông thường là khá rõ ràng.
+
+![fig-110](./img/fig-110.png)
+
+**HÌNH 110.** Mẫu hình giá hội tụ, nghiêng xuống từ 4/11 đến 9/12 có thể được
+gọi là một Wedge ngắn hoặc một Pennant. Lưu ý Flag nhỏ trong tháng 10;
+các Runaway Gap ngày 4/11 và 19/2; và Breakout Gap ngày 10/12.
+
+##### Công Thức Đo Mục Tiêu
+
+![fig-111](./img/fig-111.png)
+
+**HÌNH 111.** Ví dụ (tháng 6/1944) về dạng “nghẽn giá” rất ngắn và gọn, có thể
+xếp vào loại Flag. Đà tăng bắt đầu từ mức 5, xuất phát từ một Tam Giác Cân
+kéo dài 13 tháng (chỉ 2 tháng cuối được hiển thị). Mục tiêu đo lường (xem
+bên dưới) của Flag nhỏ này chỉ được hoàn thành sau khi giá trải qua một
+giai đoạn tích lũy dạng Tam Giác trong tháng 7.
+
+Cùng một công thức đo mục tiêu xấp xỉ được áp dụng cho cả Pennant lẫn
+Flag. Cả hai đều là các mẫu hình “Half-Mast”, thường hình thành sau một
+chuyển động giá khá đều và nhanh (dốc). Khi áp dụng quy tắc đo, hãy quay
+lại điểm bắt đầu của nhịp chuyển động ngay trước đó — nơi giá thoát ra
+khỏi một vùng tích lũy hoặc đảo chiều trước (hoặc phá vỡ một đường xu
+hướng hay mức kháng cự quan trọng). Điểm này thường nhận ra bởi sự
+gia tăng đột ngột của khối lượng. Đo khoảng cách từ đó đến mức đảo chiều
+nhỏ, nơi Flag hoặc Pennant bắt đầu hình thành. Sau đó, đo cùng một
+khoảng cách từ điểm giá phá vỡ khỏi Flag hoặc Pennant, theo cùng hướng.
+Mức giá thu được là kỳ vọng tối thiểu của dạng tích lũy này. Trên thực tế,
+các nhịp tăng từ Flag hoặc Pennant trong xu hướng tăng thường đi xa hơn
+nhịp trước đó (tính theo điểm hay đô la), trong khi các nhịp giảm có thể
+không đi xa bằng. Do đó, công thức này áp dụng tốt nhất trên biểu đồ bán
+logarit, bằng cách đo khoảng cách trực tiếp trên biểu đồ thay vì đếm điểm.
+Bạn có thể kiểm chứng điều này qua các ví dụ minh họa.
+
+![fig-112](./img/fig-112.png)
+
+**HÌNH 112.** Một ví dụ khác về chuỗi các tích lũy dạng Flag có thể xuất hiện
+trong pha thứ ba, tăng tốc của Bull Market. Mullins tăng từ 15 lên trên 39
+chỉ trong 6 tháng năm 1936, giảm về 31, rồi tăng lại vào 1/3/1937 lên đỉnh
+cũ, tạo thành Đỉnh Đôi lớn. (MNS chia tách 2:1 năm 1937.) Flag tháng 7–8
+kéo dài 5 tuần — quá dài để tin cậy nếu không có thêm bằng chứng kỹ
+thuật (xem điểm 3 trang 194). Nguy hiểm của các mẫu kéo dài là breakout
+có thể không theo đà, hoặc giá tiếp tục trôi xuống. Tại thời điểm 25/8,
+Flag này có vẻ đã “nguội”, nhưng khi giá vượt đỉnh cũ ngày 27/8 với
+khối lượng tăng rõ, việc mua vào là an toàn.
+
+##### Độ Tin Cậy Của Flag và Pennant
+
+Những mẫu tích lũy nhỏ gọn, đẹp mắt này xứng đáng được xem là một
+trong những dạng biểu đồ đáng tin cậy nhất, cả về hướng đi lẫn mục tiêu
+giá. Chúng đôi khi vẫn thất bại, nhưng hầu như không bao giờ mà không
+phát ra cảnh báo trước khi mẫu hình hoàn tất. Để phòng ngừa, chỉ cần
+nghiêm ngặt áp dụng các tiêu chí xác thực đã nêu trong mô tả, bao gồm:
+
+1. Vùng tích lũy (Flag hoặc Pennant) phải xuất hiện sau một nhịp đi
+    gần như “đường thẳng”.
+2. Khối lượng giao dịch phải giảm rõ rệt và liên tục trong suốt quá trình
+    hình thành, và tiếp tục giảm cho đến khi giá phá vỡ.
+3. Giá phải phá vỡ (theo hướng kỳ vọng) trong không quá 4 tuần. Mẫu
+    kéo dài hơn 3 tuần cần được theo dõi với sự nghi ngờ.
+
+Việc giao dịch thực tế với các mẫu hình này sẽ được trình bày ở phần hai
+của sách, nói về chiến thuật. Tuy nhiên, tiêu chí thứ hai cần nhấn mạnh:
+nếu một mẫu hình về giá trông giống Flag hoặc Pennant nhưng khối lượng
+giao dịch vẫn cao hoặc biến động thất thường thay vì giảm, thì kết cục
+nhiều khả năng là một nhịp điều chỉnh ngược xu hướng trước, chứ không
+phải là tiếp diễn. Nói cách khác, các mẫu có hoạt động cao hoặc thất thường
+thường là vùng đảo chiều nhỏ (Minor Reversal), không phải tích lũy thật.
+Luôn theo dõi phần khối lượng trên biểu đồ.
+
+##### Chúng Thường Xuất Hiện Ở Đâu
+
+![fig-113](./img/fig-113.png)
+
+**HÌNH 113.** Các đường dọc ký hiệu “M” minh họa cách áp dụng công thức đo
+cho Flag. Lần đo đầu tiên từ điểm cột cờ rời khỏi vùng “nghẽn” trước đó
+lên đến đỉnh của Flag. Khoảng cách này sau đó được đo tiếp từ điểm
+breakout của Flag. Với “WYO”, công thức cho kết quả chính xác. Thông
+thường, vị thế giao dịch nên được chốt lời trên 36 trong nhịp này, rồi có
+thể tái lập khi đến 2/4 xuất hiện Rounding Bottom hoàn chỉnh (lưu ý
+khối lượng) cho một đợt tăng mới.
+
+Flag và Pennant là đặc trưng của các chuyển động nhanh, vì vậy chúng
+xuất hiện nhiều nhất trong pha sau, mang tính động lực của Bull Market,
+sau khi giai đoạn tích lũy ban đầu và pha tăng đều đặn đã qua. Do đó,
+sự xuất hiện của các mẫu này có thể xem như cảnh báo rằng đà tăng
+đang tiến gần những tuần cuối. Ngược lại, pha tăng tốc của Bear Market
+thường là giai đoạn thứ hai, với các nhịp giảm gần như “thẳng đứng”.
+Các Flag và Pennant hình thành trong giai đoạn này thường rất ngắn —
+hoàn tất trong 3–4 ngày thay vì vài tuần. Ở những tháng cuối của Bear
+Market, các mẫu giống Flag hoặc Pennant thường kéo dài quá lâu (4 tuần
+hoặc hơn), bắt đầu cho thấy khối lượng tăng trong các nhịp hồi, và sau đó
+chỉ dẫn đến những phản ứng yếu và hạn chế.
+
+Nói chung, các mẫu hình này phổ biến nhất (và đáng tin cậy nhất) trong
+xu hướng tăng. Sự xuất hiện, _sau_ một đợt giảm lớn, của các hình giá ban
+đầu giống Flag hoặc Pennant trong xu hướng giảm cần được xem xét
+thận trọng. Trừ khi chúng tuân thủ nghiêm ngặt các tiêu chí “độ tin cậy”
+nêu trên, đừng giao dịch dựa vào chúng.
+
+##### Flag Trên Biểu Đồ Tuần và Tháng
+
+Một trong những điều kiện của Flag (hoặc Pennant) đáng tin cậy là nó
+không được kéo dài quá 4 tuần trước khi phá vỡ. Do đó, một Flag đúng
+nghĩa sẽ không xuất hiện trên biểu đồ tháng, và chỉ hiếm hoi trên biểu đồ
+tuần. Bạn có thể thấy các vùng giá trên biểu đồ dài hạn trông giống Flag,
+nhưng được hình thành trong 8–10 tuần, vài tháng, thậm chí một–hai năm;
+đừng kỳ vọng chúng hoạt động như Flag. Khi xem chi tiết trên biểu đồ
+ngày, các vùng dài này hầu như luôn chứa những mẫu hình hoàn toàn
+khác về ý nghĩa. Thường thì một vùng đảo chiều lớn sau một đợt tăng
+mạnh sẽ trông giống Flag khi bị nén trên biểu đồ tháng. Vì vậy, đừng tin
+các hình ảnh này trên biểu đồ dài hạn; đừng mặc định chúng là tích lũy
+cho một nhịp tăng mới; hãy kiểm tra biểu đồ _ngày_ chi tiết của cùng
+giai đoạn.
+
+##### Tích Lũy Hình Chữ Nhật: Hiện Tượng Giai Đoạn Sớm
+
+Trái ngược với Flag và Pennant — thường là dấu hiệu giai đoạn cuối của
+Bull Market — các tích lũy dạng Rectangle lại xuất hiện nhiều hơn trong
+những giai đoạn đầu của xu hướng tăng. Trong các đợt Bear Market lớn,
+Rectangle có thể hình thành ở giai đoạn đầu, ngay trước một cú Panic
+Decline, hoặc ở giai đoạn cuối trước một đợt bán tháo cuối cùng nhưng
+giới hạn.
+
+![fig-114](./img/fig-114.png)
+
+**HÌNH 114.** Biểu đồ năm 1946 làm kỹ thuật viên thích thú. Có một mẫu
+“Half-Mast” hoàn hảo trong tháng 1, với các gap đo lường (G, G) phía trên
+và dưới; một Flag giảm đầu tháng 2 (kiểm tra đo mục tiêu); và một Tam
+Giác Tăng đẹp ở đáy nhịp điều chỉnh này, kèm Throwback tháng 4 — một
+điểm mua lý tưởng.
+
+Dạng sau có lẽ phản ánh việc tích lũy sớm của các tổ chức cho rằng giá
+đã đủ thấp so với mục tiêu của họ. (Họ sẽ ổn nếu có thể nắm giữ qua phần
+còn lại của Bear Market và chờ Bull Market kế tiếp đẩy giá lên mức có lãi.)
+
+![fig-114](./img/fig-114.png)
+
+**HÌNH 114.1.** MO. Đúng là “thiên đường” của dân kỹ thuật. Altria Group
+tạo ra hàng loạt tình huống hấp dẫn: breakaway gap và run days giảm,
+một cột cờ giảm với flag, các pattern gap — mà là gap _đẹp_. Sau đó là
+một tam giác với breakaway và một cột cờ tăng kèm flag. Người không
+rành kỹ thuật hẳn sẽ thấy chóng mặt. Một tàu lượn bất ổn cho nhà đầu tư,
+nhưng là tình huống giao dịch hoàn hảo cho kỹ thuật viên ngắn hạn tỉnh táo.
+
+
+##### Mô Hình Tích Lũy Vai–Đầu–Vai
+
+
+![fig-115](./img/fig-115.png)
+
+**HÌNH 115.** Một mô hình Cờ (cuối tháng 11) từng khiến người ta nghĩ trong
+nhiều tuần rằng nó đã hoàn toàn thất bại. Tuy nhiên, giá sau đó tăng nhanh
+lên 36¼ từ đáy ngày 23 tháng 12, và cuối cùng vẫn hoàn thành mục tiêu theo
+đúng công thức. Lưu ý mô hình Mở rộng Đỉnh phẳng đã khởi đầu cho nhịp tăng.
+
+Cho đến thời điểm này, mọi đề cập của chúng ta về mô hình Vai–Đầu–Vai
+(xem Chương 6 và 7) đều xem nó như một dạng điển hình của Đảo chiều xu
+hướng, và trong hình thái phổ biến cũng như thông thường, điều đó hoàn
+toàn chính xác. Tuy nhiên, đôi khi giá sẽ trải qua một chuỗi dao động tạo
+nên một hình ảnh Vai–Đầu–Vai _ngược_, và mô hình đó lại dẫn tới _tiếp diễn_
+xu hướng trước đó.
+
+Không có nguy cơ nhầm lẫn các mô hình Tiếp diễn hay Tích lũy này với
+Vai–Đầu–Vai Đảo chiều thông thường, bởi vì, như chúng ta đã nói, chúng
+bị đảo ngược hoặc bất thường so với hướng của xu hướng giá trước khi
+chúng xuất hiện. Nói cách khác, một mô hình như vậy hình thành trong thị
+trường tăng sẽ mang dáng dấp của một Vai–Đầu–Vai Đáy. Còn những mô
+hình xuất hiện trong xu hướng giảm sẽ mang hình ảnh của một Vai–Đầu–
+Vai Đỉnh.
+
+Khi các cấu trúc giá này hoàn tất (vai trái, đầu và vai phải đã rõ ràng),
+thì không còn nghi ngờ gì về ý nghĩa của chúng. Nhưng tại giai đoạn hình
+thành “đầu”, trước khi vai phải xuất hiện, có thể — và thường là — tồn
+tại khá nhiều nghi vấn về việc thực sự đang diễn ra điều gì.
+
+Mô hình khối lượng trong các dạng Tích lũy Vai–Đầu–Vai không tuân
+theo quy luật của Vai–Đầu–Vai Đảo chiều. Ví dụ, trong một xu hướng giảm,
+mô hình Tích lũy có hình dáng giá giống Vai–Đầu–Vai Đỉnh, nhưng khối
+lượng đi kèm lại giảm dần, thay vì tăng lên, ở vai trái, phần đầu và cả vai
+phải. Điều tương tự cũng đúng với các mô hình “Đáy” hình thành như Tích
+lũy trong thị trường tăng. Tuy nhiên, các cú phá vỡ lại hoàn toàn giống
+những gì ta thấy ở các mô hình Đảo chiều.
+
+
+
+![fig-116](./img/fig-116.png)
+
+**HÌNH 116.** Đây là một ví dụ điển hình về mô hình Tích lũy Vai–Đầu–Vai,
+cả về hình dạng giá lẫn khối lượng, xuất hiện ở cổ phiếu Anaconda. Công
+thức đo mục tiêu cho mô hình Cờ nhỏ trong tháng 10 nên được áp dụng
+từ điểm phá vỡ đi qua đường cổ (neckline) của Vai–Đầu–Vai.
+
+Các mô hình Tích lũy Vai–Đầu–Vai dạng phức tạp hay nhiều tầng hầu
+như rất hiếm xuất hiện trên đồ thị. Về mặt lý thuyết, dĩ nhiên chúng có thể
+xuất hiện, và đối với nhà phân tích kỹ thuật, chúng cũng không khó xử lý
+hơn các dạng đơn giản.
+
+Công thức xác định mức dịch chuyển giá tối thiểu có khả năng xảy ra
+(sau khi phá vỡ neckline) từ một mô hình Vai–Đầu–Vai Đảo chiều đã được
+trình bày trong Chương 6. Với bất kỳ ai quen thuộc với bản chất của xu
+hướng thị trường và sự đa dạng vô tận của các hình ảnh mà đồ thị có thể
+tạo ra, thật đáng kinh ngạc khi thấy công thức đó hoạt động chính xác đến
+mức nào. Rất nhiều lần, nhịp dịch chuyển quan trọng đầu tiên rời khỏi một
+Vai–Đầu–Vai Đỉnh hoặc Đáy đã đi đúng đến — hoặc hơi vượt qua — mức
+được hàm ý bởi phép đo của mô hình.
+
+Tuy nhiên, cùng công thức đó khi áp dụng cho các mô hình Tích lũy
+dạng Vai–Đầu–Vai lại không cho kết quả tốt như vậy. Những mô hình này
+thường khá “phẳng”, và nhịp đi tiếp theo thường vượt xa mức đo được,
+trong khi ở một số trường hợp khác lại không đi xa đến thế. Do đó, công
+thức Vai–Đầu–Vai không thể được áp dụng cho các vùng Tích lũy với sự
+đảm bảo rằng nó sẽ đưa ra một mục tiêu rõ ràng và đáng tin cậy; trong
+những trường hợp này, người phân tích cần dựa vào nhiều dấu hiệu kỹ
+thuật khác để đánh giá quy mô có khả năng xảy ra của nhịp đi tiếp theo.
+
+
+
+![fig-117](./img/fig-117.png)
+
+**HÌNH 117.** Một mô hình Tích lũy Vai–Đầu–Vai năm 1945, trong đó cả hai
+vai và phần đầu đều mang dạng “Cái đĩa” (Saucer). So sánh xu hướng giá
+và khối lượng. Giá tăng lên 31½ vào tháng 7, quay lại 25½ vào tháng 8,
+rồi bứt phá lên 40 vào tháng 11.
+
+##### Scallops – Các “Cái Đĩa” Lặp Lại
+
+Mô hình đồ thị tiếp theo của chúng ta khác với các mô hình Tích lũy đã
+bàn trước đó ở chỗ nó không tạo thành một vùng Ùn tắc hay dao động
+tương đối rõ ràng để có thể vạch ra một hay nhiều đường biên quan trọng.
+Có lẽ chúng ta cũng có thể đưa nó vào một chương sau, dưới tiêu đề chung
+là diễn biến xu hướng thông thường. Tuy nhiên, đây là một mô hình rất
+đặc trưng cho một số loại cổ phiếu và một số dạng thị trường nhất định,
+và lại liên hệ rất chặt chẽ với nguyên lý Tích lũy để tiếp tục tăng, nên phù
+hợp hơn khi được trình bày tại đây.
+
+Khi một cổ phiếu có số lượng cổ phiếu lưu hành lớn, và luôn có một
+thị trường giao dịch tương đối sôi động và “khít”, thoát ra khỏi một vùng
+Đáy kéo dài (như lịch sử của Radio Corporation hay Socony Vacuum),
+nó thường thực hiện một xu hướng tăng Chính dài hạn thông qua một
+chuỗi các “Cái đĩa” (Saucers). Các mô hình kế tiếp này, mỗi mô hình đều
+giống về cả giá và khối lượng với mô hình Đảo chiều được mô tả trong
+Chương 7 dưới tên gọi Đáy Bo tròn (Rounding Bottom), nhưng lại hơi
+nghiêng lên.
+
+Điều đó có nghĩa là phần cuối đi lên của mỗi Cái đĩa luôn đưa giá cao
+hơn một chút so với đỉnh trước đó tại điểm bắt đầu của Cái đĩa. Mức tăng
+ròng đạt được trong mỗi chu kỳ Cái đĩa khác nhau giữa các cổ phiếu, nhưng
+có vẻ tồn tại xu hướng mạnh cho thấy nó thường rơi vào khoảng 10 đến
+15% so với giá của cổ phiếu. Tổng mức điều chỉnh từ mép trái của mỗi
+Cái đĩa xuống đáy của nó thường lớn hơn, khoảng 20 đến 30%. Và thời
+gian hình thành của mỗi Cái đĩa thường là từ 5 đến 7 tuần, hiếm khi ít
+hơn 3 tuần.
+
+Do đó, toàn bộ quá trình tăng giá diễn ra chậm nhưng đều đặn, theo
+cách tương tự như câu chuyện về người đàn ông cuối cùng đã leo ra khỏi
+giếng sâu bằng cách leo lên ba bậc cho mỗi hai bậc trượt xuống.
+
+![fig-118](./img/fig-118.png)
+
+**HÌNH 118.** Một phần của xu hướng tăng “Scallop” thực sự, mang tính
+điển hình, ngoại trừ thời gian ngắn và mức giảm tương đối nhỏ của Cái
+đĩa trong tháng 10. Cái Scallop tiếp theo, bắt đầu từ tháng 12, kéo giá
+xuống 12½ vào tháng 1, rồi đưa lên 18½ vào tháng 2. Một Cái đĩa kéo
+dài 4 tháng, từ tháng 2 đến tháng 6 năm 1945, đã xuất hiện trước đó.
+Lưu ý vị thế của các nhà giao dịch theo xu hướng, những người mua ở
+mức 9 khi khối lượng “tạo đỉnh mới” vào tháng 6.
+
+Đồ thị của những cổ phiếu đi theo kiểu này cho thấy một chuỗi các
+“vỏ sò” tăng dần đối xứng và rất giống nhau, cái này nối tiếp cái kia với
+rất ít hoặc không có khoảng nghỉ. Khối lượng giao dịch tăng lên mức cao
+nhất ở giai đoạn cuối của mỗi Scallop, khi giá tiến gần và vượt qua đỉnh
+trước đó, sau đó giảm dần vào trạng thái trầm lắng khi giá cong xuống và
+làm phẳng tại đáy của Cái đĩa tiếp theo, rồi lại tăng trở lại khi giá cong
+lên bước vào nhịp tăng mới.
+
+Các cơ hội giao dịch do những cổ phiếu có “thói quen Cái đĩa” mang
+lại hầu như không cần bình luận thêm (mặc dù chúng ta sẽ đưa ra một số
+quy tắc chi tiết trong phần hai của cuốn sách này). Mức đáy của mỗi
+Scallop thường khá dễ nhận biết thông qua việc quan sát xu hướng giá và
+khối lượng, và việc tạo đỉnh ở cuối chu kỳ cũng vậy. Tuy nhiên, thật kỳ
+lạ là phần lớn những người “xem băng giá” (tape watchers) lại xử lý những
+cổ phiếu này sai cách, trở nên hứng thú và mua vào khi chúng sôi động
+(“tạo đỉnh mới với khối lượng”), và hoàn toàn bỏ qua chúng khi chúng
+đang ở giai đoạn trầm lắng, bo tròn của xu hướng.
+
+![fig-119](./img/fig-119.png)
+
+**HÌNH 119.** Mặc dù thói quen Scallop thường xuất hiện ở các cổ phiếu giá
+thấp, đôi khi nó cũng được tìm thấy ở những cổ phiếu trung bình, được
+nhiều người nắm giữ và mang tính bán đầu tư, chẳng hạn như “CWE”.
+
+    (Nhiều người theo dõi băng giá trong phòng giao dịch coi thường đồ
+    thị, và về lâu dài phải trả giá bằng vốn của mình. Những người đọc
+    băng giá thực sự giỏi — những người có thể tạo ra lợi nhuận tương
+    đối ổn định — là cực kỳ hiếm. _EN: Với “tape readers” hãy thay bằng
+    “day traders”, trong đó 99% là không thành công._ Khi bạn gặp được
+    một người như vậy, bạn sẽ thấy rằng hoặc là họ “mang đồ thị trong
+    đầu”, hoặc là họ xem xét rất kỹ lịch sử giá trước khi mua vào chỉ vì
+    bảng điện đang sôi động.)
+
+Khi một cổ phiếu có thói quen Scallop dần tăng lên vùng giá khoảng 15
+trở lên, mô hình của nó có xu hướng trở nên kém đều đặn hơn; nó bắt đầu
+rời xa đường cong mượt và hẹp kiểu Cái đĩa của các mức giá thấp. Trên
+20, nó thường hoàn toàn thoát khỏi chuỗi Scallop và từ đó trở đi tạo ra
+những nhịp tăng thẳng nhanh hơn, xen kẽ với các đợt điều chỉnh mạnh và
+các dạng mô hình Tích lũy tiêu chuẩn, vốn là đặc trưng thường thấy của
+các cổ phiếu giá trung bình và cao.
+
+(Có ngoại lệ: một số cổ phiếu ưu đãi giá cao, luôn có thị trường giao
+dịch, nhưng xu hướng của chúng gần như hoàn toàn phụ thuộc vào những
+thay đổi dần dần của lãi suất phổ biến và nguồn vốn đầu tư, lại duy trì
+thói quen Scallop dai dẳng trong các xu hướng tăng Chính.)
+
+Chúng ta đã nêu những mức giá khá cụ thể (15 và 20) trong đoạn trên,
+nhưng dĩ nhiên giá không phải là yếu tố duy nhất quyết định việc một cổ
+phiếu rời khỏi xu hướng Scallop. Giả định an toàn duy nhất là: một khi
+thói quen này đã được nhận diện, nó sẽ tiếp diễn cho đến khi đồ thị cho
+thấy một sự sai lệch rõ ràng khỏi nó, và sự sai lệch đó thường xuất hiện
+đầu tiên dưới dạng một nhịp tăng lớn hơn mong đợi xảy ra ở cuối một
+Cái đĩa.
+
+Do đó, nếu bạn đã vào vị thế ở một điểm thuận lợi (gần đáy của một
+Scallop), bạn khó có khả năng bị thiệt hại khi cổ phiếu cuối cùng thay
+đổi cách vận động.
+
+Những cổ phiếu có giá rất thấp có thể duy trì xu hướng Scallop cho
+đến tận các đỉnh Thị trường Bò Chính của chúng, và thậm chí còn thử
+tạo thêm một Cái đĩa nữa sau cái mà sau này được xác định là đỉnh cuối
+cùng. Dĩ nhiên, nỗ lực đó sẽ thất bại trong việc duy trì mô hình đỉnh sau
+cao hơn đỉnh trước. Những thất bại như vậy không khó phát hiện; sự
+thay đổi so với mô hình trước đó xuất hiện trước khi bất kỳ thiệt hại
+đáng kể nào xảy ra đối với một vị thế được thiết lập đúng cách.
+
+##### Thị Trường Hiện Đại và Thị Trường Kiểu Cũ
+
+Chúng ta đã đề cập trong phần thảo luận về các mô hình Đảo chiều rằng
+một số trong số chúng xuất hiện ít hơn trên đồ thị của thập niên 1960 so
+với những năm trước đó, trong khi những mô hình khác lại xuất hiện
+thường xuyên hơn. Điều tương tự cũng đúng với các mô hình Tích lũy.
+
+Những mô hình gọn gàng, được xác định chặt chẽ như Hình chữ nhật
+và Tam giác Vuông hiện nay ít gặp hơn. Tam giác Cân có xu hướng lỏng
+lẻo hơn so với thập niên 1920 và 1930 — không còn sắc nét và nổi bật
+trên đồ thị như trước. Các mô hình chốt lời điển hình như Cờ và Cờ
+đuôi nheo dường như vẫn phổ biến như xưa, trong khi các “bức tranh”
+xu hướng bình thường, bao gồm những mô hình gắn liền với sự phát
+triển xu hướng thông thường (như Vai–Đầu–Vai, các dạng Bo tròn,
+v.v.), lại xuất hiện thường xuyên hơn.
+
+Nguyên nhân của những thay đổi này khá rõ ràng. Các quy định của
+SEC, yêu cầu ký quỹ cao hơn, mức độ hiểu biết cao hơn của công chúng,
+và một cách tiếp cận thận trọng hơn — hay đúng hơn là bi quan hơn —
+đối với các vấn đề đầu tư và giao dịch cổ phiếu nói chung, đều góp phần
+vào sự tiến hóa này. Sự giám sát của SEC và Sở giao dịch đã loại bỏ các
+hoạt động thao túng theo kiểu “pool” lộ liễu nhằm lợi dụng những “chú
+cừu non” của thời trước. Ngày nay, thậm chí các hoạt động syndicate
+“hợp pháp” hơn, nhằm tạo điều kiện cho việc tích lũy hay phân phối quy
+mô lớn, cũng rất hiếm.
+
+Dĩ nhiên, những “người trong cuộc” vẫn có thể trì hoãn hoặc công bố
+sớm các thông tin tốt hoặc xấu liên quan đến hoạt động của một công ty
+nhằm phục vụ mục đích chiến lược cá nhân trong một khoảng thời gian
+hạn chế. Nhưng các giao dịch mua bán cổ phiếu của lãnh đạo, giám đốc
+và cổ đông lớn hiện nay bị giám sát quá chặt chẽ để cho phép nhiều trò
+“mờ ám” diễn ra. (Tuy vậy, nhà đầu tư trung bình vẫn nên giữ một chút
+hoài nghi về khả năng thị trường sẽ có một đợt tăng lớn ngay sau khi một
+báo cáo tốt được công bố.)
+
+Sự thông đồng giữa các dịch vụ tư vấn đầu tư và các nhóm thao túng
+đã bị cấm một cách hiệu quả. (Có thể nói rằng ngay cả trong thập niên
+1920, điều này cũng chưa bao giờ tồn tại một cách lộ liễu như nhiều nhà
+giao dịch nghiệp dư vẫn tưởng.) SEC, với sự hợp tác chặt chẽ của Sở giao
+dịch, giám sát nghề tư vấn đầu tư một cách kỹ lưỡng, liên tục và rất hiệu
+quả. Không một cố vấn đầu tư uy tín nào có thể mạo hiểm tham gia vào
+các hoạt động lừa dối hay thông đồng, ngay cả khi họ có mong muốn làm
+điều đó. Hầu hết còn đi xa hơn nhiều so với mức cần thiết để tự bảo vệ
+mình khỏi bất kỳ mối liên hệ nào — dù vô hại hay hữu ích — nhưng có
+thể bị nhìn nhận với sự nghi ngờ.
+
+![fig-120](./img/fig-120.png)
+
+**HÌNH 120.** Đồ thị này cho thấy 5 tháng cuối của một giai đoạn Tích lũy
+rộng, kéo dài 13 tháng, mang dáng dấp Cái đĩa ở “IT”, diễn ra sau cú tăng
+nhanh từ 3 lên 16 vào cuối năm 1943 và đầu năm 1944. “IT” là một cổ
+phiếu biến động thất thường, và khối lượng của nó dễ gây nhiễu trong
+diễn biến hàng ngày. Tuy nhiên, các mô hình giá Chính của nó lại rất
+đáng tin cậy. Giai đoạn cuối của quá trình Tích lũy dài này (phân phối
+và tái tích lũy) ban đầu mang dạng Hình chữ nhật (với cú phá vỡ sớm),
+sau đó là Tam giác Tăng. Đỉnh Thị trường Bò năm 1945–46 của nó là
+một mô hình Vai–Đầu–Vai đồ sộ.
+
+Những “tay liều” kiểu cũ chưa biến mất hoàn toàn, nhưng mức ký quỹ
+cao và các quy định ngăn chặn “đánh úp giá xuống” đã khiến thị trường
+chứng khoán ngày nay trở nên tương đối khó khăn và kém sinh lợi đối
+với họ. Những con bạc phòng giao dịch thực thụ _(EN: Day Traders —
+những người lao tới lao lui có lẽ còn làm trầm trọng thêm biến động
+hàng ngày)_ vẫn xuất hiện, dù ký quỹ cao cũng đã bóp nghẹt họ phần
+nào. Trong những năm gần đây, họ chỉ xuất hiện với số lượng đáng kể
+ở giai đoạn cuối của các Thị trường Bò. _EN: Hãy nhớ đến cơn sốt Day
+Trading đã lây lan trên thị trường vào cuối thập niên 1990._ Dĩ nhiên,
+hoạt động của họ chưa bao giờ ảnh hưởng nhiều đến đồ thị, ngoại trừ
+việc làm gia tăng khối lượng giao dịch.
+
+
+
+![fig-121](./img/fig-121.png)
+
+**HÌNH 121.** Có những thời điểm mà một mô hình Tích lũy lại cung cấp
+tín hiệu kỹ thuật tốt duy nhất cho thấy một sự Đảo chiều trong xu hướng
+Chính của một cổ phiếu thực sự đã diễn ra. Mặc dù các trường hợp đảo
+chiều lớn, đặc biệt là Đáy, mà không có một mô hình Đảo chiều dễ nhận
+biết nào trên đồ thị là khá hiếm, chúng vẫn có thể xảy ra.
+
+Đồ thị tuần của Flintkote minh họa cho hiện tượng này. Một đáy Thị
+trường Gấu, từ đó cổ phiếu tăng lên 47 vào năm 1946, đã được hình
+thành tại mức 8⅝ vào tháng 12 năm 1941. Không hề phát triển một nền
+tảng kỹ thuật quan trọng nào trên đồ thị ngày hay tuần, nhịp tăng đầu
+tiên đã đưa giá lên 11⅞ vào tháng 4 năm sau. Từ đó, cổ phiếu đi vào
+một Tam giác Cân kéo dài 6 tháng, rồi phá vỡ lên phía trên tại mốc ba
+phần tư với khối lượng tăng. Diễn biến này, cộng với việc ngay sau đó
+giá bứt phá qua một mức Kháng cự cũ và rất quan trọng tại 12, là đủ để
+xác nhận rằng cổ phiếu đang ở ít nhất một xu hướng tăng Trung gian,
+nếu không muốn nói là một xu hướng tăng Chính hoàn chỉnh.
+
+Sự kết hợp các diễn biến kỹ thuật được minh họa trong đồ thị này —
+một mô hình Tích lũy lớn hình thành ngay dưới một mức Kháng cự
+Chính, rồi phá vỡ lên trên cả hai — là điều đáng chú ý khi có dấu hiệu
+cho thấy một sự chuyển đổi từ xu hướng Gấu sang Bò sắp diễn ra.
+Các mức Kháng cự sẽ được thảo luận trong Chương 13.
+
+
+
+Ngược lại, thuế cao hơn và quy định chặt chẽ hơn chắc chắn không
+mang lại những thị trường an toàn hơn, ổn định hơn hay “dễ chơi” hơn
+cho nhà đầu tư nhỏ lẻ. Ký quỹ cao không ngăn chặn được các đợt sụp
+đổ hoảng loạn. Nếu có gì khác, thị trường thậm chí còn “mỏng” hơn ở
+chiều giảm, dễ tổn thương hơn trước những cú rơi nhanh và mạnh so
+với thời kỳ trước khi có các quy định hiện đại.
+
+Chúng ta vẫn có những Thị trường Bò và Gấu giống hệt như 50 năm
+trước, và sự phát triển xu hướng thị trường cũng tương tự như vậy.
+Điều đáng ngạc nhiên không phải là một vài loại mô hình đồ thị từng
+được tạo ra bởi giao dịch không kiểm soát nay ít xuất hiện hơn, mà là
+phần lớn các hiện tượng kỹ thuật vẫn hầu như không bị ảnh hưởng.
+
+Một người nghiên cứu đồ thị năm 1907 sẽ cảm thấy hoàn toàn quen
+thuộc với các đồ thị của năm 1966. _EN: Và cả với những đồ thị của
+năm 2000. Đó là lý do tại sao rất ít thay đổi là cần thiết để cập nhật tác
+phẩm kinh điển của Edwards cho thiên niên kỷ thứ ba. EN9: Ghi chú
+cho một ghi chú. Các nhóm thao túng biến mất và được thay thế bằng
+những hình thức mờ ám mới. Các nhà tạo lập thị trường và chuyên gia
+bị đưa ra trước vành móng ngựa vì gian lận. Trong thế kỷ 21, các quỹ
+phòng hộ sinh sôi như thỏ ở Úc. Với bất kỳ sự gia tăng biến động nào
+mà họ gây ra, có lẽ họ bù đắp lại bằng việc cung cấp thêm thanh khoản
+cho thị trường. Những mô hình giống nhau vẫn tiếp tục xuất hiện bởi
+vì, bất chấp máy tính, con người cuối cùng vẫn là người bóp cò. Có
+vẻ như các mô hình ngày nay thường không còn gọn gàng như “thời
+xưa”. Các đường xu hướng, đặc biệt là các đường ngang, dường như
+giống những “vùng” hơn là các đường cứng nhắc, và việc diễn giải
+đòi hỏi nhiều phán đoán hơn. Tuy vậy, hầu hết mọi điều Edwards nói
+ở đây hoàn toàn có thể đã được viết vào năm 2005 thay vì giữa thế
+kỷ 20._
+
+
+## Chương 12. Khoảng Trống Giá (Gaps)
+
+Một _gap_ (khoảng trống), theo ngôn ngữ của phân tích đồ thị, là một vùng
+giá mà tại thời điểm hình thành, không có bất kỳ cổ phiếu nào được giao
+dịch. Đây là một khái niệm quan trọng cần ghi nhớ, vì nó giúp giải thích
+nhiều hệ quả kỹ thuật của gap.
+
+Gap trên đồ thị ngày xuất hiện khi mức giá thấp nhất của một cổ phiếu
+trong ngày hiện tại cao hơn mức giá cao nhất của ngày liền trước. Khi
+vẽ hai ngày như vậy lên đồ thị, biên độ giá của chúng sẽ không chồng
+lên nhau hoặc chạm cùng một mức ngang. Giữa chúng sẽ tồn tại một
+khoảng trống giá. Để có gap trên đồ thị tuần, giá thấp nhất trong cả
+tuần phải cao hơn giá cao nhất của bất kỳ ngày nào trong tuần trước.
+Điều này có thể xảy ra, và thực tế có xảy ra, nhưng ít hơn so với gap
+ngày. Gap trên đồ thị tháng thì hiếm gặp ở các mã giao dịch sôi động;
+chúng gần như chỉ xuất hiện khi một đợt sụp đổ hoảng loạn bắt đầu
+ngay trước khi tháng kết thúc và kéo dài sang đầu tháng kế tiếp.
+
+## Những Gap Nào Có Ý Nghĩa?
+
+Ngay từ những ngày đầu của việc vẽ đồ thị chứng khoán, gap đã thu
+hút sự chú ý. Những “lỗ hổng” trên đồ thị giá này rất dễ nhận thấy.
+Điều tự nhiên là các nhà quan sát gán cho chúng một tầm quan trọng
+đặc biệt, cố gắng tìm ra ý nghĩa riêng cho sự xuất hiện của chúng.
+Nhưng kết quả lại không mấy tốt đẹp, vì nhanh chóng xuất hiện vô số
+“quy tắc” diễn giải gap, trong đó nhiều quy tắc mang màu sắc gần như
+tôn giáo và được các nhà đọc đồ thị hời hợt viện dẫn mà không hiểu
+vì sao chúng đúng khi đúng (và tất nhiên, cũng giống mọi mê tín,
+họ hoàn toàn bỏ qua những trường hợp chúng không đúng).
+
+Chúng tôi gọi tình trạng này là không may, không hẳn vì các “quy
+tắc gap” là sai, mà vì việc chấp nhận mù quáng chúng đã cản trở con
+đường đi tới sự hiểu biết thực sự về hàm ý của gap, cũng như việc
+xây dựng một cơ sở logic hơn cho việc sử dụng gap trong giao dịch.
+
+Mê tín phổ biến nhất là: “gap nhất định sẽ bị lấp.” Đôi khi người ta
+phát biểu thận trọng hơn, kiểu như: “Nếu gap không được lấp trong
+ba ngày, nó sẽ được lấp trong ba tuần; nếu không trong ba tuần thì
+ba tháng, v.v.” Có nhiều biến thể, nhưng tất cả đều dẫn tới niềm tin
+rằng gap phải được lấp, và xu hướng không đáng tin cho tới khi điều
+đó xảy ra. Chính suy luận sau cùng này dẫn tới sai lầm.
+
+##### Lấp Gap (Closing the Gap)
+
+Trước hết, “lấp” hay “đóng” gap nghĩa là gì? Giả sử một cổ phiếu
+đang trong xu hướng tăng, đi lên từng ngày từ 20 lên 21, 22, 23, 24,
+và đóng cửa một đêm ở đỉnh biên độ ngày đó tại 25. Sáng hôm sau,
+nó mở cửa ở 26 và tiếp tục đi lên. Hành động này tạo ra một gap 1
+điểm, giữa 25 và 26, trên đồ thị.
+
+Giả sử tiếp rằng giá tiếp tục tăng lên 28, dừng lại, rồi xuất hiện một
+đợt điều chỉnh trong đó giá trượt về 27, 26, và cuối cùng về 25. Đợt
+giảm này đã đưa giá quay lại xuyên qua vùng gap (25–26); như vậy,
+gap đã được lấp hay đóng. Nói ngắn gọn, một gap được xem là lấp
+khi một xu hướng giá sau đó quay lại và đi hết biên độ của gap.
+
+Liệu một gap có bắt buộc phải được lấp trước khi giá đi rất xa khỏi
+nó không? Chắc chắn là không. Liệu cuối cùng nó có được lấp không?
+Có lẽ là có. Nếu không được lấp bởi đợt điều chỉnh nhỏ kế tiếp, có
+khả năng nó sẽ được lấp bởi đợt hồi trung hạn tiếp theo; nếu vẫn
+không, thì gần như chắc chắn bởi cú xoay chiều lớn tiếp theo theo
+hướng ngược lại. Nhưng điều đó có thể xảy ra sau nhiều năm — hầu
+như không đáng quan tâm với nhà giao dịch thông thường.
+
+Nhà đầu tư mua cổ phiếu Chesapeake and Ohio ở mức 260 vào ngày
+21/10/1929, với kỳ vọng gap giảm 2 điểm từ 266 xuống 264 của thứ
+Sáu trước đó sẽ được lấp, đã phải chờ gần _7 năm_ mới hòa vốn!
+Chỉ khi thị trường bò lớn kế tiếp gần đạt đỉnh, CO mới quay lại mức
+giá tương đương (65, do đã chia tách 4:1 năm 1930). Trong thời gian
+đó, nhà đầu tư chứng kiến khoản đầu tư của mình co lại vào năm 1932
+xuống còn chưa tới một phần sáu giá mua ban đầu.
+
+Thực tế, đã có hàng trăm gap xuất hiện trên đồ thị giai đoạn 1929–
+1930 mà cho tới nay vẫn chưa được lấp, và nhiều gap trong số đó
+có thể nói là sẽ không bao giờ được lấp.
+
+Nếu suy nghĩ kỹ, bạn sẽ thấy rằng xác suất một gap được lấp mà
+chúng tôi nêu trên cũng áp dụng tương tự cho việc một cổ phiếu
+quay trở lại _bất kỳ_ vùng giá nào mà nó từng được giao dịch,
+bất kể có gap hay không.
+
+Một điểm nữa: có hàng nghìn gap xuất hiện trong quá trình giao
+dịch — một số trong đó khá rộng — nhưng hoàn toàn không xuất
+hiện trên đồ thị biên độ ngày tiêu chuẩn, vì chúng hình thành
+_trong_ một ngày giao dịch chứ không phải giữa giá đóng cửa của
+ngày này và giá mở cửa của ngày hôm sau. Những gap nội ngày
+như vậy thường bị bỏ qua hoàn toàn; các lý thuyết gia về gap hầu
+như không để ý tới chúng, mặc dù ý nghĩa của chúng thường còn
+lớn hơn nhiều gap _giữa các ngày_. Hầu như mọi cú breakout dứt
+khoát khỏi Rectangle hoặc Tam giác Vuông đều đi kèm gap, nhưng
+chỉ những gap xuất hiện tại thời điểm mở cửa mới hiện lên đồ thị.
+
+![fig-122](./img/fig-122.png)
+
+**HÌNH 122.** Rectangle từ tháng 4 đến tháng 6 trên đồ thị năm 1945 của “AW”
+chứa nhiều gap mô hình không đáng kể. Hai gap lớn hơn ký hiệu “G” thuộc
+loại Tiếp Diễn hay Runaway. Lưu ý giá đóng cửa đều ở gần đỉnh mỗi ngày
+tạo gap. Không gap nào trong số này được lấp trong suốt 2 năm.
+Đáng chú ý thêm là Tam giác Giảm, bắt đầu hình thành từ tháng 3 nhưng
+không bao giờ hoàn tất — một bức tranh gây nhiễu và nản lòng cho tới
+khi gap ngày 7/4 xuất hiện.
+
+Nếu trong phần trình bày trên chúng tôi có vẻ như “phản biện quá
+mức”, thì chỉ vì muốn độc giả tiếp cận chủ đề này với một tư duy
+cởi mở, không bị chi phối bởi những định kiến về các đặc tính huyền
+bí của gap. Nhìn sang mặt còn lại của vấn đề, gap — _một số gap_ —
+thực sự có ý nghĩa kỹ thuật. Một số gap hữu ích cho nhà phân tích
+đồ thị trong việc đánh giá khả năng diễn biến xu hướng. Hãy cùng
+xem chúng ta có thể rút ra điều gì từ chúng.
+
+##### Gap Chia Cổ Tức (Ex-Dividend Gaps)
+
+Trước tiên, chúng ta phải loại bỏ những gap _không_ mang ý nghĩa gì.
+Một gap chỉ 1/8 điểm rõ ràng không có giá trị kỹ thuật, vì nó chỉ phản
+ánh mức thay đổi tối thiểu cho phép của giá. Tương tự, gap 1/4 hay
+thậm chí 1/2 điểm ở các cổ phiếu giá cao, như Norfolk & Western
+(trước khi chia tách), chỉ thể hiện mức chênh lệch bình thường giữa
+các giá chào mua liên tiếp.
+
+Tóm lại, để đáng quan tâm với nhà phân tích đồ thị, một gap phải
+rộng hơn những biến động giá thông thường trong điều kiện giao
+dịch bình thường. Nhóm gap thứ hai không có giá trị dự báo là các
+gap hình thành thường xuyên và mang tính thói quen ở những mã
+giao dịch “mỏng” trong nhóm giá trung bình và cao. Bạn có thể dễ
+dàng nhận ra chúng: nếu đồ thị của một mã cho thấy gap xuất hiện
+liên tục như chuyện thường ngày, thì không gap nào trong số đó
+đáng mang ý nghĩa đặc biệt.
+
+Cuối cùng, các gap xuất hiện khi cổ phiếu giao dịch không hưởng
+cổ tức (bằng tiền mặt, cổ phiếu, quyền mua hay chứng quyền)
+không mang hàm ý xu hướng. Chúng không xuất phát từ thay đổi
+quan hệ cung–cầu chi phối xu hướng, mà từ sự điều chỉnh đột ngột
+và không thể đảo ngược trong giá trị sổ sách của cổ phiếu.
+
+Loại bỏ các dạng gap không mang ý nghĩa kỹ thuật kể trên, chúng
+ta còn lại những gap xuất hiện không thường xuyên (và không do
+chia cổ tức) ở các mã được giao dịch rất sôi động, vốn thường tạo
+ra đồ thị “liền mạch”. Ví dụ, một gap 1 điểm trên đồ thị của New
+York Central là một sự kiện bất thường; nó đáng được chú ý và
+có thể mang ý nghĩa dự báo.
+
+Đối với mục đích nghiên cứu của chúng ta, những gap này có thể
+chia thành bốn loại: Gap Thông Thường hay Gap Vùng Giá, Gap
+Breakaway, Gap Tiếp Diễn hay Runaway, và Gap Kiệt Sức.
+
+##### Gap Thông Thường hay Gap Vùng Giá
+
+Loại gap này được gọi như vậy vì nó có xu hướng xuất hiện bên
+trong một vùng giao dịch hay một mô hình tích lũy giá. Tất cả các
+mô hình tích lũy mà chúng ta đã nghiên cứu ở các chương trước —
+cả đảo chiều lẫn tiếp diễn — đều đi kèm với sự suy giảm khối lượng
+giao dịch. Các dạng được xác định chặt chẽ hơn — như Tam giác và
+Rectangle — thể hiện đặc điểm này rõ nhất.
+
+Hơn nữa, giao dịch trong các mô hình này thường tập trung chủ yếu
+ở gần biên trên và biên dưới, tức các đường cung và cầu, trong khi
+vùng giữa giống như “vùng đất không người”. Do đó, dễ hiểu vì sao
+gap thường xuyên hình thành trong những khu vực như vậy. Bạn sẽ
+thấy nhiều ví dụ điển hình về gap mô hình trong các đồ thị minh họa
+ở Chương 8 và 9.
+
+Các gap mô hình này thường được lấp trong vài ngày, và vì những
+lý do hiển nhiên, trước khi mô hình tích lũy hoàn tất và giá breakout.
+Nhưng không phải lúc nào cũng vậy. Đôi khi, gap hình thành trong
+_lần_ giá cuối cùng đi ngang qua vùng mô hình ngay trước khi
+breakout, và trong những trường hợp đó, gap có thể không được
+lấp trong thời gian dài — và cũng không có lý do gì buộc nó phải
+được lấp.
+
+Ý nghĩa dự báo của gap thông thường hay gap mô hình gần như
+bằng không. Chúng chỉ hữu ích ở chỗ giúp nhà phân tích nhận diện
+một mô hình vùng giá — tức sự xuất hiện của chúng ngụ ý rằng
+một giai đoạn tích lũy đang được xây dựng. Ví dụ, nếu một cổ phiếu
+tăng từ 10 lên 20, giảm về 17, rồi quay lại 20 và tạo gap trong đợt
+tăng đó, thì có thể giả định hợp lý rằng quá trình hình thành mô
+hình sẽ tiếp diễn trong khoảng xấp xỉ 17 đến 20.
+
+Điều này rất tiện lợi và đôi khi có thể khai thác để sinh lợi trong
+chiến lược giao dịch ngắn hạn. Gap mô hình có xu hướng xuất hiện
+nhiều hơn trong các mô hình tiếp diễn so với đảo chiều. Do đó,
+sự xuất hiện của nhiều gap trong một Rectangle hay Tam giác
+Cân đang hình thành càng củng cố kỳ vọng rằng mô hình đó
+sẽ là tiếp diễn chứ không phải đảo chiều.
+
+##### Gap Breakaway
+
+Gap Breakaway cũng xuất hiện liên quan tới một mô hình tích lũy
+giá, nhưng nó hình thành tại thời điểm _hoàn tất_ mô hình, trong
+chuyển động phá vỡ giá ra khỏi mô hình. Bất kỳ cú breakout nào
+qua một biên ngang của mô hình, chẳng hạn đỉnh của Tam giác
+Tăng, đều rất dễ đi kèm gap. Thực tế, có thể nói rằng phần lớn
+các cú breakout như vậy đều có gap.
+
+Nếu xét những gì diễn ra trên thị trường để tạo ra một mô hình
+đỉnh ngang, ta sẽ dễ hiểu vì sao gap breakaway lại thường xuất
+hiện. Ví dụ, Tam giác Tăng được hình thành bởi lực cầu bền bỉ
+gặp phải một lượng cung lớn bán ra ở một mức giá cố định.
+Giả sử lượng cung đó được phân phối ở mức 40.
+
+Những người nắm giữ cổ phiếu khác, vốn ban đầu dự định bán
+ở 40½ hay 41, thấy giá liên tục lên tới 40 rồi dừng lại và quay đầu.
+Hệ quả là họ hoặc gia nhập đám đông bán ở 40, hoặc cho rằng
+một khi vượt qua 40 thì giá sẽ tăng mạnh, nên họ hạ hoặc nâng
+mức giá bán của mình. Kết quả là xuất hiện một “khoảng chân
+không” trong sổ lệnh, thiếu hụt nguồn cung ngay phía trên mô hình.
+
+Do đó, khi lượng cung ở 40 trong ví dụ Tam giác Tăng cuối cùng
+được hấp thụ hết, người mua kế tiếp không tìm thấy cổ phiếu
+chào bán ở 40⅛ hay 40¼, buộc phải nâng giá chào mua lên thêm
+một điểm hoặc hơn để có được cổ phiếu, và như vậy tạo ra một
+gap breakaway.
+
+Như đã đề cập trước đó trong chương này, gap dạng này thực tế
+xảy ra ở hầu như mọi cú breakout dứt khoát khỏi một vùng tích
+lũy ngang, dù nhiều gap không hiện trên đồ thị vì chúng hình
+thành _trong_ ngày giao dịch chứ không phải giữa giá đóng cửa
+và giá mở cửa của ngày hôm sau. Gap breakaway cũng đôi khi
+xuất hiện khi giá thoát khỏi các mô hình đảo chiều hay tiếp diễn
+khác; chẳng hạn, chúng không hiếm gặp trong các mô hình Vai–
+Đầu–Vai, và thậm chí còn xảy ra khi phá vỡ đường xu hướng —
+một chủ đề sẽ được bàn ở chương sau.
+
+![fig-123](./img/fig-123.png)
+
+**HÌNH 123.** Gap tăng lớn ngày 5/7 trên đồ thị này là một gap Breakaway điển
+hình, xuất hiện khi giá phá vỡ nền phức hợp cho đợt hồi thứ cấp
+tháng 7–8. (So sánh với Hình 32, trang 84.) Một gap Breakaway
+khác — qua đường xu hướng — xảy ra ngày 26/8. Gap ngày 7/9
+chủ yếu do giao dịch không hưởng cổ tức, trong khi gap ngày
+18/9 là một dạng breakaway khác — qua mức hỗ trợ.
+Gap đầu tiên, ngày 26/4, phải được xếp loại Runaway. Nó tạo ra
+một “hòn đảo” cho toàn bộ nền phức hợp tháng 4–6.
+
+![fig-124](./img/fig-124.png)
+
+**HÌNH 124.** Một gap Breakaway rất mạnh xuất hiện trên đồ thị tuần của
+Zenith khi cổ phiếu này phá vỡ mô hình Vai–Đầu–Vai đáy đầu
+năm 1942. Lưu ý khối lượng lớn phát triển phía sau gap, gợi ý
+rằng nó sẽ không sớm được lấp. Đợt điều chỉnh tháng 4 dừng
+lại trước gap. Thực tế, gap này đến năm 1956 — hơn 14 năm
+sau — vẫn chưa được lấp.
+
+Chúng ta có thể gán giá trị dự báo gì cho các gap này? Trước hết,
+chúng nhấn mạnh và làm nổi bật sự kiện breakout. Khó có thể
+nghi ngờ một cú breakout là thật khi giá nhảy vọt khỏi mô hình
+kèm theo một gap rõ ràng. Những cú phá vỡ giả hiếm khi đi
+kèm gap. Thứ hai, chúng gợi ý rằng lực mua (hoặc lực bán, tùy
+trường hợp) tạo ra gap là _mạnh hơn_ so với một cú breakout
+không gap. Do đó, có thể suy luận rằng chuyển động tiếp theo
+sẽ đi xa hơn, nhanh hơn, hoặc cả hai.
+
+Không nên thổi phồng quá mức điểm này; đó là một suy luận hợp
+lý và đã được chứng thực trong phần lớn trường hợp, nhưng nó
+có ngoại lệ và đôi khi gây thất vọng. Dù vậy, _các yếu tố khác
+không đổi_, nếu có hai cổ phiếu cùng thoát khỏi Tam giác Tăng
+tại cùng thời điểm, chúng ta nên chọn mua cổ phiếu tạo gap
+breakaway thay vì cổ phiếu chỉ thoát ra bằng những bước giá
+nhỏ lẻ.
+
+![fig-125](./img/fig-125.png)
+
+**HÌNH 125.** Nhân tiện, đồ thị tháng của Zenith Radio được trình bày để
+so sánh với đồ thị tuần ở trang trước. Mô hình Vai–Đầu–Vai đáy
+hiện lên rất rõ.
+
+Ngoài giả định rằng có “động lực” mạnh hơn phía sau chuyển động,
+gap Breakaway không mang ý nghĩa đo lường cụ thể hay dự báo
+đặc biệt nào khác. Câu hỏi tiếp theo là: liệu chúng ta có nên kỳ
+vọng gap Breakaway sẽ được lấp trong thời gian tương đối ngắn
+hay không? Hay nói theo cách thực tế hơn: có nên trì hoãn mua
+với kỳ vọng rằng gap sẽ được lấp trước khi xuất hiện một chuyển
+động đáng kể?
+
+Để trả lời công bằng, cần xem xét kỹ khối lượng giao dịch _trước
+và sau_ gap. Nếu có rất nhiều giao dịch diễn ra tại mức xuất phát
+mà từ đó giá nhảy qua gap, nhưng lại có ít giao dịch khi giá đi xa
+hơn ở phía bên kia gap, thì có khả năng — khoảng 50–50 — rằng
+đợt điều chỉnh nhỏ kế tiếp sẽ đưa giá quay lại mép của mô hình
+nguồn gốc, qua đó lấp gap.
+
+Ngược lại, nếu khối lượng lớn phát triển ở _phía xa_ của gap, và
+nhiều giao dịch diễn ra khi giá tiếp tục rời xa gap, thì khả năng
+một cú Throwback ngắn hạn lấp gap là rất thấp. Trong những
+trường hợp này, phản ứng Throwback gần như luôn dừng lại ở
+_phía ngoài_ của gap.
+
+(Trong những công trình như thế này, người viết thường bị cám
+dỗ dùng các từ _luôn luôn_ hay _không bao giờ_ mà không kèm
+điều kiện. Đáng tiếc, các tác giả _chưa bao giờ_ tìm thấy một
+quy tắc kỹ thuật nào mà thị trường không tạo ra ngoại lệ trong
+một số trường hợp hiếm hoi. Do đó, _luôn luôn_ cần cảnh giác
+với những diễn biến ngoại lệ như vậy. Nhiều trong số đó xuất
+phát từ điều kiện chung của thị trường, vốn có thể triệt tiêu xu
+hướng kỹ thuật của từng cổ phiếu riêng lẻ. Hãy luôn theo dõi
+đồ thị của các chỉ số chung, bên cạnh các mã bạn quan tâm.)
+
+Khi gap Breakaway hình thành trong ngày, đồ thị ngày tất nhiên
+không thể cho biết khối lượng được phân bổ ra sao trong ngày đó.
+Trong trường hợp này, có thể cần xem băng ticker hoặc nhờ môi
+giới tra cứu hồ sơ giao dịch chi tiết mà hầu hết các công ty môi
+giới đều có.  
+_EN: Hiện nay dữ liệu này có thể dễ dàng thu thập. Xem Phụ lục D,
+Nguồn tài liệu. EN9: Đồ thị nến, hiện được sử dụng rộng rãi, cho
+phép nhà phân tích quan sát gap breakaway nội ngày._  
+
+Nếu không có manh mối rõ ràng về khối lượng, an toàn nhất là
+giả định rằng gap Breakaway sẽ không được lấp cho tới rất lâu
+sau khi toàn bộ chuyển động mà mô hình nguồn gốc ngụ ý
+(thường là một chuyển động trung hạn theo cách hiểu của Dow)
+đã hoàn tất.
+
+
+##### Khoảng trống tiếp diễn (Continuation) hay khoảng trống bứt tốc (Runaway)
+
+Ít xuất hiện hơn hai dạng đã bàn ở trên, các khoảng trống thuộc loại Tiếp diễn
+hay Bứt tốc lại có ý nghĩa kỹ thuật lớn hơn nhiều, vì chúng cho phép ước đoán
+tương đối biên độ có khả năng đạt tới của con sóng mà chúng xuất hiện trong đó.
+Vì lý do này, đôi khi chúng còn được gọi là các “khoảng trống đo lường”
+(Measuring Gaps).
+
+Khoảng trống Thông thường (Common/Pattern Gap) và khoảng trống Phá vỡ
+(Breakout Gap) đều hình thành gắn với các Mô hình Giá dạng Vùng hay Tích lũy
+(Congestion): loại thứ nhất nằm bên trong mô hình, còn loại thứ hai xuất hiện
+khi giá thoát ra khỏi mô hình đó. Trái lại, khoảng trống Bứt tốc, cũng như khoảng
+trống Kiệt sức (Exhaustion Gap) sẽ bàn sau, không gắn với các mô hình Vùng, mà
+xảy ra trong quá trình tăng hoặc giảm nhanh, gần như theo đường thẳng.
+
+Khi một đợt biến động mạnh khởi phát từ vùng tích lũy, xu hướng tăng của giá
+thường có vẻ “lấy đà”, tăng tốc trong vài ngày, có thể một tuần hoặc hơn, rồi bắt
+đầu mất dần động lượng khi nguồn cung tăng lên, bởi chính mức tăng lớn đã mời
+gọi ngày càng nhiều hoạt động chốt lời. Khối lượng giao dịch vọt lên đỉnh ở cú
+phá vỡ ban đầu, giảm bớt ở giữa nhịp tăng, rồi lại bùng nổ với mức quay vòng rất
+lớn khi chuyển động cuối cùng bị chặn lại. Trong những pha như vậy — và cả
+trong các đợt giảm nhanh có tính chất tương tự — một khoảng trống rộng rất dễ
+xuất hiện đúng vào lúc đợt bứt tốc đạt cao trào, khi giá di chuyển nhanh và dễ
+dàng nhất so với khối lượng giao dịch. Thời điểm đó thường rơi vào xấp xỉ giữa
+quãng đường từ cú phá vỡ khởi đầu đến Ngày Đảo chiều hay Mô hình Tích lũy
+kết thúc xu hướng. Do đó, khoảng trống Tiếp diễn hay Bứt tốc cho phép đo lường
+xấp xỉ con sóng mà nó hình thành. Hàm ý của nó là _giá sẽ đi xa thêm một đoạn
+tương đương đoạn đã đi từ điểm khởi đầu đến khoảng trống_, đo trực tiếp (theo
+chiều dọc) trên đồ thị.
+
+![fig-126](./img/fig-126.png)
+
+**HÌNH 126.** Biểu đồ ngày đầu năm 1946 của Blaw–Knox chứa nhiều đặc điểm kỹ
+thuật đáng chú ý. Cú tăng từ 19 lên 25 vào tháng 12/1945 được theo sau bởi một
+giai đoạn Tích lũy dạng Hình chữ nhật kéo dài 9 tuần, phần kết thúc thể hiện trên
+biểu đồ phía trên. Giá bùng nổ khỏi Hình chữ nhật này vào ngày 11/2 với một
+khoảng trống Phá vỡ điển hình. Bốn ngày sau, một khoảng trống khác xuất hiện với
+khối lượng còn lớn hơn, và giá đóng cửa ở đỉnh biên độ trong ngày. Điều này trông
+giống một khoảng trống Bứt tốc, trong trường hợp đó hàm ý giá sẽ tiếp tục lên tới
+32 theo “quy tắc” nêu dưới đây. (Lưu ý rằng phép “đo” từ Hình chữ nhật chỉ cho
+mục tiêu 31.) Tuy nhiên, ngày kế tiếp xuất hiện một Ngày Đảo chiều trong ngày,
+từ 31 quay về 30, và phiên sau đó đã lấp khoảng trống ngày 15/2, buộc phải tạm
+xếp nó vào loại khoảng trống Kiệt sức (xem trang 219). Sau đó giá giảm về vùng
+hỗ trợ của Hình chữ nhật 9 tuần, hồi phục chậm chạp dọc theo một Đường xu
+hướng Tăng trung hạn đã thiết lập, rồi phá vỡ đường này vào ngày 24/4 để quay
+lại hỗ trợ 25. Tháng 5, một nhịp tăng nữa đưa “BK” lên lại 30, nơi nó va vào đường
+xu hướng đã bị phá trước đó. Đó là nỗ lực cuối cùng; cuối tháng 7, mức “đáy”
+25 bị xuyên thủng và một Đỉnh Đôi Lớn đã hoàn tất. Quay lại khoảng trống ngày
+15/2, đây là ví dụ khá điển hình cho nhiều trường hợp mà ta không thể biết đó là
+Tiếp diễn hay Kiệt sức cho tới 2–3 ngày sau khi khoảng trống hình thành.
+
+Vì các nhịp tăng có xu hướng đi xa hơn (tính theo điểm số) so với mức hàm ý
+thuần túy theo số học, còn các nhịp giảm thì thường bị giới hạn chặt chẽ hơn, nên
+quy tắc đo bằng khoảng trống hoạt động đặc biệt hiệu quả khi áp dụng trực tiếp
+trên đồ thị bán logarit. Trên đồ thị số học, hãy kỳ vọng hơi nhiều hơn ở phía tăng
+và hơi ít hơn ở phía giảm. (Dù sao đi nữa, bạn cũng nên “chốt” mục tiêu thấp hơn
+một chút so với mức lý thuyết.)
+
+Khoảng trống Bứt tốc rất dễ nhận ra khi nhìn lại quá khứ, nhưng nhiệm vụ của
+chúng ta là nhận diện chúng ngay tại thời điểm xuất hiện. Rõ ràng, không có nguy
+cơ nhầm lẫn chúng với khoảng trống Thông thường hay Phá vỡ. Sau khi loại trừ
+hai loại đó, bất kỳ khoảng trống nào xuất hiện trong một đợt tăng hay giảm nhanh
+_sau khi_ giá đã đi xa khỏi một Mô hình Vùng (hoặc sau khi xuyên thủng một
+đường xu hướng quan trọng hay phá vỡ một mức Hỗ trợ/Kháng cự mạnh, sẽ bàn
+sau) đều có thể là khoảng trống Bứt tốc. Khi đó, điều cần thiết là phân biệt nó với
+loại kế tiếp — _khoảng trống Kiệt sức_. Thông thường, diễn biến giá và khối lượng
+trong ngày liền sau khoảng trống sẽ cung cấp bằng chứng đủ để chẩn đoán an
+toàn.
+
+![fig-127](./img/fig-127.png)
+
+**HÌNH 127.** Một ví dụ đẹp về khoảng trống Bứt tốc vận hành đúng theo quy tắc.
+Sau khi điều chỉnh từ 26½ vào cuối năm 1936, “BO” hình thành mô hình Đầu–Vai–
+Đầu đảo chiều tăng (vai trái là một Tam giác) và phá vỡ vào ngày 6/2/1937. Một
+lá Cờ nhỏ hình thành ngay sau đó, báo mục tiêu 28. Tại mức này, một lá Cờ khác
+phát triển, cho tín hiệu 30½ hoặc cao hơn. Tuy nhiên, khi giá đạt mục tiêu sau,
+một khoảng trống xuất hiện ngày 3/3 với khối lượng đặc biệt lớn. Hai ngày kế tiếp
+xác nhận đây là khoảng trống Bứt tốc hay Tiếp diễn. Theo đó, nó hàm ý giá sẽ tăng
+tiếp (đo từ đường cổ của mô hình Đầu–Vai–Đầu) tới 37 trở lên. “BO” đạt đỉnh thị
+trường giá lên tại 40½ vào ngày 17/3. Quy tắc đo bằng khoảng trống nên dùng cho
+mục đích “thoát lệnh” hơn là “vào lệnh”. Nó không đảm bảo xu hướng sẽ đi hết
+tới mức hàm ý, nhưng cho sự chắc chắn rằng con sóng đã gần kết thúc khi quy
+tắc được hoàn tất.
+
+##### Hai hoặc nhiều khoảng trống Bứt tốc
+
+![fig-128](./img/fig-128.png)
+
+**HÌNH 128.** Các đợt giảm hoảng loạn thường tạo ra những khoảng trống Bứt tốc
+lớn. Khoảng trống ngày 7/9 trong biểu đồ này, xét theo độ rộng, khối lượng, diễn
+biến sau đó, và việc nó xuất hiện ở “vùng đáy mới”, đã đánh dấu nó thuộc loại đo
+lường. Mục tiêu hàm ý là 26 hoặc thấp hơn. Tất cả các khoảng trống khác trong
+biểu đồ này rõ ràng chỉ là loại “thông thường”.
+
+Việc nêu rõ các đặc điểm phân biệt khoảng trống Bứt tốc và Kiệt sức sẽ dễ hơn
+khi ta bàn chi tiết về loại sau. Trước khi làm vậy, cần nhắc tới những trường hợp
+có hai, và hiếm khi tới ba, khoảng trống xen kẽ trong một con sóng nhanh, và rõ
+ràng tất cả đều có thể xếp vào loại Tiếp diễn hay Bứt tốc. Điều này không xảy ra
+thường xuyên, và đặc biệt hiếm ở các cổ phiếu lớn, thanh khoản cao, nhưng một
+cổ phiếu thanh khoản mỏng trong một pha “tên lửa” có thể nhảy vọt liên tiếp 3–4
+ngày, tạo khoảng trống giữa mỗi cặp phiên liên tiếp. Câu hỏi thực tiễn duy nhất
+đặt ra trong các trường hợp này là: điểm đo nửa chặng nên đặt ở đâu? Không có
+quy tắc nhanh và đơn giản, nhưng việc quan sát kỹ đồ thị, đặc biệt là xu hướng
+khối lượng, thường sẽ cho câu trả lời. Hãy nhớ rằng nửa chặng trong các con sóng
+nhanh này thường rơi vào giai đoạn giá di chuyển dễ dàng và nhanh nhất so với
+số lượng giao dịch được ghi nhận (do đó có xu hướng tạo khoảng trống). Nếu có
+_hai_ khoảng trống, điểm nửa chặng rất có thể nằm đâu đó _giữa_ chúng. Hãy xem
+xét đồ thị cẩn thận và cố “lấy trung bình” bức tranh trong đầu; tìm nơi có vẻ là
+trung tâm của sự “mỏng” và dùng nó làm mức đo. Nhưng cũng cần nhớ rằng mỗi
+khoảng trống kế tiếp đều đưa con sóng tiến gần hơn tới Kiệt sức, vì vậy hãy để
+phán đoán của bạn nghiêng về phía thận trọng; đừng kỳ vọng quá nhiều vào
+khoảng trống thứ hai hay thứ ba.
+
+##### Khoảng trống Kiệt sức (Exhaustion Gaps)
+
+Khoảng trống Phá vỡ báo hiệu sự khởi đầu của một con sóng; khoảng trống Bứt
+tốc đánh dấu giai đoạn tiếp diễn nhanh, tại hoặc gần điểm nửa chặng; còn khoảng
+trống Kiệt sức xuất hiện ở cuối cùng. Hai loại đầu khá dễ phân biệt nhờ vị trí của
+chúng so với mô hình giá trước đó, nhưng loại cuối thì không phải lúc nào cũng
+dễ phân biệt ngay với loại thứ hai.
+
+Khoảng trống Kiệt sức, giống như khoảng trống Bứt tốc, gắn với các đợt tăng
+hoặc giảm nhanh và rộng. Ta đã mô tả loại Bứt tốc là xuất hiện giữa một con sóng
+tăng tốc lên vận tốc cao, rồi chậm dần và cuối cùng dừng lại khi lực Kháng cự gia
+tăng lấn át động lượng. Tuy nhiên, đôi khi các xu hướng “tên lửa” không hề cho
+thấy sự gia tăng Kháng cự dần dần như vậy, không có dấu hiệu mất động lượng,
+mà trái lại còn tăng tốc cho tới khi đột ngột đâm vào một “bức tường đá” của cung
+(biến thể là cầu trong xu hướng giảm) và bị chặn đứng ngay bởi một ngày có
+khối lượng giao dịch khủng khiếp. Trong những pha như thế, một khoảng trống
+rộng có thể xuất hiện ngay tại điểm kết thúc, tức là giữa ngày áp chót và ngày
+cuối cùng của con sóng. Nó được gọi là khoảng trống Kiệt sức vì xu hướng dường
+như đã tiêu hao toàn bộ lực trong một cú nhảy vọt cuối cùng.
+
+Phép thử tốt nhất để xác định một khoảng trống hình thành trong một đợt tăng
+hay giảm nhanh, theo đường thẳng, là loại Tiếp diễn hay Kiệt sức, đến từ phiên
+sau khoảng trống (chính xác hơn là phiên tạo ra khoảng trống), mặc dù thường
+cũng có những manh mối khác trong bức tranh đồ thị trước đó. Nếu khối lượng
+giao dịch tăng vọt lên mức đặc biệt cao trong phiên sau khoảng trống, và nhất là
+khi xu hướng giá trước đó không tiếp diễn với tốc độ tương xứng với mức hoạt
+động của ngày đó, thì khoảng trống rất có thể thuộc loại Kiệt sức. Cách diễn giải
+này càng được củng cố, thậm chí gần như chắc chắn, nếu ngày kế tiếp nữa, khoảng
+trống phát triển thành một Ngày Đảo chiều (như mô tả ở Chương 10), với giá đóng
+cửa quay lại gần mép khoảng trống.
+
+Những bằng chứng có thể rút ra từ đồ thị trước thời điểm khoảng trống gồm:
+nếu xu hướng đã hoàn tất đầy đủ các hàm ý đo lường của mô hình giá hay Vùng
+Tích lũy nơi nó xuất phát, thì khả năng Kiệt sức cao hơn Tiếp diễn. Ngược lại, nếu
+các hàm ý đo lường hợp lý của mô hình gốc vẫn còn xa mới đạt tới, thì khoảng
+trống có lẽ thuộc loại Tiếp diễn. Một khoảng trống Kiệt sức hiếm khi là khoảng
+trống đầu tiên trong một con sóng bứt tốc; nó thường được báo trước bởi ít nhất
+một khoảng trống Tiếp diễn. Vì vậy, thông thường bạn có thể giả định (trừ khi có
+những chỉ dấu khác nặng ký hơn cho thấy điều ngược lại) rằng khoảng trống đầu
+tiên trong một đợt tăng hay giảm nhanh là khoảng trống Tiếp diễn. Nhưng mỗi
+khoảng trống kế tiếp phải được nhìn với sự nghi ngờ ngày càng lớn, đặc biệt nếu
+nó rộng hơn khoảng trống trước đó.
+
+![fig-129](./img/fig-129.png)
+
+**HÌNH 129.** Pha tăng “tên lửa” của Willys–Overland vào tháng 6/1944 được đánh
+dấu bởi một số khoảng trống nhỏ. Hai khoảng trống đầu quá nhỏ để có nhiều ý
+nghĩa kỹ thuật. Khoảng trống lớn ngày 16/6 được đánh dấu là Kiệt sức bởi hiện
+tượng giá “dính” trong ngày đó. Sau đó xuất hiện một giai đoạn Tích lũy dạng Cờ
+nhỏ. Khoảng trống ngày 27/6 cũng hành xử như Kiệt sức xét về diễn biến giá, nhưng
+khối lượng lại giảm thay vì tăng lên đỉnh mới. Ngày 28/6, giá lại nhảy vọt tiếp, vì
+vậy khoảng trống 27/6 được đánh dấu lại là một khoảng trống Bứt tốc khác, với
+mục tiêu hàm ý 18½ trở lên — mức này thực tế đã đạt. Lưu ý mô hình Đầu–Vai–
+Đầu đảo chiều hình thành sau đó và đợt điều chỉnh trung hạn tiếp theo.
+
+![fig-130](./img/fig-130.png)
+
+**HÌNH 130.** “SMC” là một cổ phiếu thanh khoản mỏng, đồ thị ngày của nó thường
+“đầy lỗ hổng”, nhưng khoảng trống lớn xuất hiện trên đồ thị tuần vào tháng 9/1946
+rõ ràng mang ý nghĩa kỹ thuật. Xem như một khoảng trống Bứt tốc và đo từ Vùng
+Tích lũy 8 tuần tại 68, nó cho mục tiêu giảm xuống 44 hoặc thấp hơn, và điều này
+đã được thực hiện.
+
+Chúng ta đã nhắc tới khoảng trống Kiệt sức như là những khoảng trống _rộng_.
+Độ rộng, dĩ nhiên, mang tính tương đối trong nghiên cứu này; không thể đặt ra
+bất kỳ quy tắc chính xác nào để định nghĩa thế nào là rộng hay hẹp. Đừng quá bận
+tâm về điều đó. Việc nhận ra đâu là một khoảng trống bất thường đối với cổ phiếu
+cụ thể mà bạn đang theo dõi sẽ đến nhanh chóng với một chút kinh nghiệm đọc
+đồ thị.
+
+Khoảng trống Bứt tốc thường không bị lấp trong một thời gian khá dài, thường
+chỉ tới khi thị trường hình thành một con sóng Lớn hoặc Trung hạn đầy đủ theo
+hướng ngược lại. Nhưng các khoảng trống Kiệt sức thì nhanh chóng được lấp, đa
+phần trong vòng 2–5 ngày — một thực tế cung cấp manh mối cuối cùng để phân
+biệt Kiệt sức với Tiếp diễn, nếu đến lúc đó vẫn còn cần. (Điều này, nhân tiện, bác
+bỏ mê tín phổ biến rằng mọi khoảng trống đều phải được lấp trước khi có thể tin
+rằng xu hướng sẽ tiếp diễn xa hơn. Trong trường hợp khoảng trống Bứt tốc, nó
+không bị lấp, nhưng xu hướng vẫn tiếp diễn, thậm chí đi xa đáng ngạc nhiên.
+Trong trường hợp khoảng trống Kiệt sức, việc lấp nó thực sự góp phần tạo tín hiệu
+rằng xu hướng đã cạn lực.)
+
+![fig-131](./img/fig-131.png)
+
+**HÌNH 131.** Một “Hòn đảo” nhỏ ở vai phải của mô hình Đầu–Vai–Đầu đỉnh đánh
+dấu sự đảo chiều Lớn của cổ phiếu này. Hòn đảo chỉ làm nhấn mạnh thêm các hàm
+ý Giảm của đồ thị.
+
+![fig-132](./img/fig-132.png)
+
+**HÌNH 132.** Các “cú lắc” dạng Đảo đảo (Island shakeouts) không hiếm ở những
+cổ phiếu thanh khoản mỏng. Vì sao chúng hình thành như vậy thì khó giải thích,
+nhưng hàm ý dự báo của chúng thì rất rõ ràng.
+
+Một khoảng trống Kiệt sức, nếu xét riêng lẻ, không nên được đọc như một tín
+hiệu Đảo chiều, thậm chí không nhất thiết là đảo chiều. Nó kêu gọi “dừng lại”,
+nhưng sự dừng này thường được theo sau bởi sự phát triển của một dạng mô hình
+Vùng nào đó, mà đến lượt nó có thể dẫn tới Đảo chiều hoặc Tiếp diễn của con sóng
+trước khoảng trống. Tuy nhiên, trong hầu hết mọi trường hợp, sự hình thành của
+một khoảng trống Kiệt sức sẽ kéo theo đủ mức Điều chỉnh nhỏ hoặc trì hoãn trước
+khi một xu hướng mới được thiết lập, để biện minh cho việc đóng các vị thế ngay
+lập tức. (Ta luôn có thể vào lại nếu sau đó cho thấy xu hướng trước đó sẽ được
+tiếp tục.)
+
+
+##### Đảo Chiều Dạng Đảo (Island Reversal)
+
+Chúng ta đã đề cập (ở cuối Chương 10) đến một mô hình đảo chiều gọi là
+_Dạng Đảo_ (Island), và sẽ phân tích nó trong phần nghiên cứu tổng quát
+về gap. Mô hình Island không phổ biến và tự thân nó không mang ý nghĩa
+quá lớn theo nghĩa xác định Đỉnh hoặc Đáy dài hạn, nhưng theo thông lệ,
+nó khiến giá quay lại _thoái lui hoàn toàn_ chuyển động nhỏ (Minor Move)
+xảy ra ngay trước đó.
+
+Một Island Reversal có thể được mô tả như một vùng giao dịch nhỏ gọn,
+bị tách khỏi chuyển động dẫn vào nó (thường là rất nhanh) bởi một
+_Exhaustion Gap_, và bị tách khỏi chuyển động theo hướng ngược lại
+(theo sau đó, thường cũng nhanh tương đương) bởi một _Breakaway Gap_.
+Vùng giao dịch này có thể chỉ gồm một phiên duy nhất — khi đó nó thường
+hình thành như một One-Day Reversal — hoặc kéo dài từ vài ngày đến
+khoảng một tuần, với các dao động nhỏ trong một vùng giá hẹp. Đúng như
+kỳ vọng, nó được đặc trưng bởi khối lượng giao dịch tương đối cao.
+
+Hai gap ở hai đầu thường xuất hiện gần như cùng một mức giá (chúng nên
+chồng lấn lên nhau phần nào), khiến toàn bộ vùng này nổi bật như một
+“hòn đảo” trên biểu đồ, bị cô lập khỏi phần còn lại của đường đi giá bởi
+các gap.
+
+Chúng ta đã nói rằng Island tự thân nó không phải là một mô hình đảo chiều
+_Lớn_ (Major). Tuy nhiên, Island thường xuất hiện bên trong các mô hình
+lớn hơn tại những điểm ngoặt có ý nghĩa Primary hoặc Intermediate, ví dụ
+như ở phần “đầu” của một mô hình Head-and-Shoulders Top động. Tương
+tự, đôi khi chúng cũng xuất hiện ở các cực trị của các dao động nhỏ cấu
+thành Triangle hoặc Rectangle (trong trường hợp này, các gap tạo nên
+Island thực chất phù hợp hơn để phân loại là Common Gap hoặc Pattern
+Gap).
+
+Lý do vì sao Island có thể hình thành — nói cách khác, vì sao các gap có
+thể lặp lại tại cùng một mức giá — sẽ trở nên rõ ràng hơn khi chúng ta bàn
+về chủ đề Hỗ trợ và Kháng cự ở chương sau. Ở đây chỉ cần nhắc lại rằng
+giá thường di chuyển nhanh và dễ dàng nhất, cả lên lẫn xuống, trong những
+vùng mà trước đó có rất ít hoặc hầu như không có giao dịch — tức là nơi
+các chủ sở hữu trước đó không có “lợi ích ràng buộc”.
+
+![fig-133](./img/fig-133.png)
+
+**HÌNH 133.** Mô hình Island Reversal tại Đỉnh Lớn năm 1937 của Bethlehem Steel
+là một ví dụ “kinh điển”, nhưng sau đó lại xuất hiện một diễn biến bất thường
+đáng chú ý trong đợt hồi mạnh ngày 30/3. Những người bán ra theo tín hiệu
+Island quanh mức 95 vào ngày 19 hoặc 20/3 đã rất bất ngờ — và nếu họ còn
+bán khống thì hoàn toàn có lý do để hoảng sợ — khi giá bật tăng một tuần
+sau đó, không chỉ vượt qua mức gap thứ hai mà còn vượt xa hơn. Tuy nhiên,
+cuối cùng, như có thể thấy, mọi thứ vẫn diễn ra đúng theo dự báo ban đầu.
+
+Trường hợp này minh họa một nguyên tắc chung: khi một mô hình kỹ thuật
+rõ ràng, có ý nghĩa không thể nghi ngờ, đã hoàn tất trên biểu đồ, đừng để
+những diễn biến tưởng như trái ngược xuất hiện ngay sau đó khiến bạn
+quên hoặc bỏ qua tín hiệu ban đầu. Hãy cho thị trường thời gian để tự
+“giải quyết”. Hình 123 ở trang 212 cho thấy diễn biến tiếp theo của biểu đồ
+trên, và đồng thời là một Island khác. Hãy so sánh khối lượng.
+
+Đôi khi, gap thứ hai — Breakaway Gap hoàn tất Island — sẽ được lấp lại
+sau vài ngày bởi một Pullback hay phản ứng nhanh. Thường thì không.
+Hiếm hơn nữa, gap đầu tiên — Exhaustion Gap mở đầu Island — lại được
+lấp chỉ sau vài ngày, trước khi gap thứ hai xuất hiện. Khi đó, vùng tích lũy
+Island sẽ mang dạng chữ V (nếu đó là một Đỉnh), và không còn “khoảng
+nước trống” rõ ràng theo phương ngang giữa Island và các xu hướng trước
+và sau nó. Dù ở biến thể nào, cách diễn giải vẫn như nhau: chuyển động
+nhỏ trước đó nhiều khả năng sẽ bị thoái lui gần như hoàn toàn.
+
+Island không phải là mô hình dễ giao dịch, trừ khi dùng cho các cú “scalp”
+ngắn hạn, bởi lẽ một phần đáng kể của quá trình thoái lui thường đã diễn ra
+xong vào thời điểm Island được nhận diện và lệnh mua/bán theo tín hiệu
+của nó được khớp. Dĩ nhiên, nếu gap đi vào được nhận ra sớm là một
+Exhaustion Gap, trader quan tâm đến cổ phiếu đó có thể hành động trước
+khi gap thứ hai hình thành và trước khi Island lộ diện. Có lẽ, giá trị lớn
+nhất của Island đối với nhà phân tích kỹ thuật là ở chỗ nó thu hút sự chú ý,
+đặt họ vào trạng thái cảnh giác trước những khả năng tiềm ẩn.
+
+![fig-134](./img/fig-134.png)
+
+**HÌNH 134.** Trường hợp này trông giống một Island ở “PA”, nhưng gap thứ hai
+thực ra là do cổ tức 50 cent được giao dịch không hưởng quyền (ex-dividend)
+ngày 20/11, nên về mặt kỹ thuật phải được loại trừ. Vì cổ tức này, cần hạ
+Đường Hỗ trợ tại 40 (xem Chương 13) xuống nửa điểm. Do đó, mức Hỗ trợ
+này không bị phá vỡ trong tháng 12, và giá sau đó tăng lên trên 50 vào
+tháng 3 năm sau.
+
+##### Gaps trong các Chỉ số (Averages)
+
+Gap cũng xuất hiện trong hầu hết các chỉ số, nhưng vì những lý do hiển
+nhiên, tần suất thấp hơn so với biểu đồ cổ phiếu đơn lẻ. Không cần thiết
+phải có tất cả cổ phiếu cấu thành chỉ số cùng tạo gap thì chỉ số mới xuất
+hiện gap; nhưng phải có đa số trong số đó. Do vậy, Common Gap hoặc
+Pattern Gap đặc biệt hiếm trên biểu đồ chỉ số, trong khi Breakaway Gap
+và Runaway Gap không phải là hiếm, dù kích thước thường nhỏ hơn nhiều
+so với gap ở cổ phiếu đơn lẻ.
+
+Exhaustion Gap, và kéo theo đó là Island, lại càng hiếm. Những điều kiện
+tạo ra Exhaustion Gap hiếm khi xuất hiện đồng thời ở đủ nhiều cổ phiếu để
+tạo ra một hiện tượng tương ứng trên chỉ số. Việc diễn giải kỹ thuật các gap
+trong chỉ số, nhìn chung, tương tự như đối với cổ phiếu đơn lẻ. Các tác giả
+không nhận thấy gap trên chỉ số có sức mạnh hay ý nghĩa đặc biệt nào vượt
+trội so với gap của một cổ phiếu được giao dịch sôi động.
+
+Các chỉ số thị trường càng rộng và càng đại diện thì càng có ít gap và gap
+càng nhỏ.  
+_EN: Ngược lại, NASDAQ khá biến động và tạo gap rất nhiều._
+
+(Khuyến nghị người đọc xem lại chương này sau khi đã nghiên cứu xong
+các nguyên lý Hỗ trợ và Kháng cự ở Chương 13.)
+
+_EN9: Thực ra không còn gì cần nói thêm về gap, và cũng không cần bổ sung
+ví dụ hiện đại. Nhưng gap thì rất thú vị, vì vậy hãy xem Hình 114.1 và
+Chương 16.1 để thấy các ví dụ hiện đại._
+
+## Chương 13. Hỗ trợ và Kháng cự
+
+Những hiện tượng chúng ta sẽ nghiên cứu trong chương này khác biệt rõ
+rệt về bản chất so với các nội dung đã bàn trước đó. Giờ đây, chúng ta sẽ
+nhìn thị trường chứng khoán từ một góc độ mới, và qua đó có thể xây dựng
+thêm những quy tắc thực tiễn nhằm hướng dẫn việc chọn cổ phiếu mua/bán,
+ước lượng biên độ chuyển động tiềm năng, và dự đoán nơi giá có khả năng
+“gặp rắc rối”. Thực tế, một số trader giàu kinh nghiệm đã xây dựng gần như
+toàn bộ “hệ thống” của họ dựa trên các nguyên lý Hỗ trợ và Kháng cự, mà
+không mấy quan tâm đến các mô hình hình ảnh giá–khối lượng cụ thể mà
+chúng ta đã khảo sát ở các chương trước.
+
+Tuy vậy, Hỗ trợ và Kháng cự không hề tách rời các mô hình và cấu trúc đã
+được nghiên cứu trước đó. Chúng ta đã có dịp gợi ý về một nguyên lý cơ
+bản của Hỗ trợ và Kháng cự khi giải thích về gap, và khi đọc tiếp, bạn sẽ
+thấy nhiều mô hình hành vi giá khác cũng được lý giải — hoặc ít nhất là
+trở nên dễ hiểu hơn — nhờ các nguyên lý này.
+
+Thuật ngữ _Hỗ trợ_ (Support) được sử dụng rất phổ biến trên thị trường.
+Ít nhất ở một vài hàm ý, nó hẳn đã quen thuộc với người đọc. Chẳng hạn,
+người ta nói rằng một nhóm nào đó đang hỗ trợ XYZ tại mức 50, hoặc sẵn
+sàng hỗ trợ thị trường bằng cách mua mọi cổ phiếu được chào bán với mức
+chiết khấu 5 điểm. Trong phạm vi chương này, ta có thể định nghĩa _Hỗ trợ_
+là lực mua, hiện hữu hoặc tiềm tàng, đủ lớn về khối lượng để chặn đứng
+một xu hướng giảm trong một khoảng thời gian đáng kể. _Kháng cự_
+(Resistance) là mặt đối lập của Hỗ trợ; đó là lực bán, hiện hữu hoặc tiềm
+tàng, đủ lớn để hấp thụ toàn bộ lực mua và do đó ngăn giá tăng cao hơn
+trong một thời gian. Theo định nghĩa này, Hỗ trợ và Kháng cự gần như,
+nhưng chưa hoàn toàn, đồng nghĩa với cầu và cung.
+
+Một _mức Hỗ trợ_ là mức giá tại đó nhu cầu mua đủ lớn để ít nhất tạm thời
+giữ lại xu hướng giảm, và có thể đảo ngược nó — tức là khiến giá quay đầu
+tăng trở lại. Tương tự, một _vùng Kháng cự_ là mức giá tại đó lượng cung
+đủ lớn để chặn đứng, và có thể đảo ngược, xu hướng tăng. Về mặt lý thuyết,
+tại bất kỳ mức giá nào cũng tồn tại một lượng cung và một lượng cầu nhất
+định (tỷ lệ giữa hai yếu tố này thay đổi theo hoàn cảnh và quyết định xu
+hướng). Nhưng một vùng Hỗ trợ đại diện cho sự _tập trung_ của cầu, còn
+một vùng Kháng cự đại diện cho sự _tập trung_ của cung.
+
+Theo các định nghĩa trên, bạn có thể thấy rằng cạnh trên của một mô hình
+tích lũy ngang như Rectangle chính là một mức Kháng cự, còn cạnh dưới
+là một mức Hỗ trợ; đường trên của Ascending Triangle rõ ràng là một mức
+Kháng cự, v.v. Tuy nhiên, điều chúng ta quan tâm hơn lúc này là _vì sao_
+có thể _dự đoán trước_ rằng Hỗ trợ hay Kháng cự sẽ xuất hiện tại những
+vùng giá nhất định. Trong những giới hạn hợp lý, và với một vài ngoại lệ
+sẽ được bàn sau, điều đó hoàn toàn có thể làm được. Những người đọc
+biểu đồ lão luyện thường xuyên đưa ra các dự đoán cực kỳ chính xác về
+nơi một đợt tăng sẽ gặp Kháng cự (cung), hoặc nơi một xu hướng giảm sẽ
+gặp Hỗ trợ.
+
+Cơ sở cho những dự đoán đó — dữ liệu nền tảng để hình thành lý thuyết
+Hỗ trợ và Kháng cự — là thực tế rằng khối lượng giao dịch của một cổ
+phiếu thường tập trung tại một số mức giá nơi trước đây đã có rất nhiều
+cổ phiếu được sang tay. Vì bất kỳ mức giá nào có khối lượng giao dịch
+lớn thường trở thành một điểm đảo chiều (Major, Intermediate hoặc
+Minor) trong xu hướng của cổ phiếu đó, nên các mức đảo chiều có xu
+hướng “lặp lại”. Và đây là điều thú vị cũng như quan trọng — một điều
+mà kỳ lạ thay, nhiều người quan sát biểu đồ hời hợt dường như không
+nhận ra: các mức giá then chốt này liên tục _đổi vai_ giữa Hỗ trợ và
+Kháng cự. Một Đỉnh cũ, khi đã bị vượt qua, sẽ trở thành một vùng Đáy
+trong xu hướng giảm sau đó; và một Đáy cũ, khi đã bị xuyên thủng,
+sẽ trở thành một vùng Đỉnh trong giai đoạn tăng kế tiếp.
+
+##### Diễn biến Xu hướng Thông thường
+
+Có lẽ chúng ta có thể làm rõ hơn điều này bằng một ví dụ điển hình về sự
+phát triển xu hướng thông thường. Giả sử một cổ phiếu trong xu hướng
+tăng đi lên từ 12 đến 24, và tại đó gặp phải một lượng bán lớn. Kết quả là
+một nhịp điều chỉnh xảy ra — có thể là một đợt điều chỉnh Intermediate
+đầy đủ về, giả sử, 18; hoặc một chuỗi dao động nhỏ tạo thành một mô hình
+tích lũy giữa, chẳng hạn, 24 và 21. Trong cả hai trường hợp, tác động là
+như nhau. Sau nhịp điều chỉnh hoặc tích lũy này, một đợt tăng mới khởi
+động và đưa giá lên đến 30, trước khi lại gặp lượng cung đủ lớn để chặn
+đứng đà tăng. Rõ ràng, một nhịp điều chỉnh khác lại đến. Nó có thể là một
+mô hình tích lũy đi ngang hoặc một đợt điều chỉnh Intermediate. Nếu là
+điều chỉnh Intermediate, thì nhịp giảm này sẽ đảo chiều ở đâu; nói cách
+khác, nó sẽ gặp Hỗ trợ ở đâu? Câu trả lời là tại mức 24 — mức Đỉnh đầu
+tiên trong xu hướng. Đây chính là mức giá (thấp hơn giá hiện tại) nơi
+trước đó đã diễn ra một khối lượng giao dịch lớn. Khi ấy, nó đóng vai trò
+Kháng cự, tạo ra sự dừng lại hoặc đảo chiều trong nhịp tăng đầu tiên; còn
+bây giờ, nó đóng vai trò Hỗ trợ, kìm hãm và ít nhất là đảo chiều theo nghĩa
+Minor nhịp giảm mới nhất.
+
+Vì sao lại như vậy? Để trả lời câu hỏi đó, sẽ dễ hơn nếu trước tiên chúng
+ta xem xét một ví dụ tương tự về diễn biến điển hình trong xu hướng giảm.
+Lần này, giả sử cổ phiếu tạo một Đỉnh Lớn và giảm từ, chẳng hạn, 70 xuống
+50. Tại 50, một Selling Climax tạm thời xảy ra; khối lượng giao dịch lớn,
+giá hồi lên, có thể quay lại “test” mức 50, rồi sau đó phục hồi khá tốt lên
+60. Tại 60, lực mua cạn dần, xu hướng uốn cong, quay đầu giảm, và tăng
+tốc trong một đợt giảm mới đưa giá xuống đáy mới tại 42. Lại một làn sóng
+mua xuất hiện, và một nhịp hồi thứ hai bắt đầu. Chúng ta có thể tin tưởng
+rằng nhịp hồi này (từ 42) sẽ gặp Kháng cự mạnh tại 50. Mức giá từng đóng
+vai trò _Hỗ trợ_ trong pha giảm đầu tiên, nay đã bị phá vỡ xuống dưới trong
+pha giảm thứ hai, sẽ đảo vai và trở thành _Kháng cự_ đối với nhịp hồi thứ
+hai. Mức Đáy cũ giờ trở thành mức Đỉnh.
+
+Một lần nữa, ta có thể hỏi vì sao lại như vậy, và giờ đây có thể đưa ra lời
+giải thích. Trong ví dụ xu hướng giảm ở đoạn trên, cổ phiếu lần đầu rơi
+xuống 50, gặp khối lượng giao dịch đáng kể, đảo chiều và hồi lên 60 với
+khối lượng giảm dần theo đà tăng. Rất nhiều cổ phiếu đã được sang tay
+tại 50, và dĩ nhiên, với mỗi người bán thì cũng có một người mua. Một số
+người mua có thể chỉ là để đóng vị thế bán khống và sau khi làm xong thì
+không còn quan tâm gì thêm. Những người khác — trader ngắn hạn và
+dân chuyên nghiệp — có thể mua chỉ vì họ cảm nhận được một Đáy tạm
+thời đang hình thành và hy vọng “scalp” vài điểm trong nhịp hồi; nhiều
+khả năng là họ (hoặc ít nhất là một phần trong số họ) đã chốt lời và thoát
+ra trước khi giá giảm sâu trở lại. Nhưng phần lớn những người mua cổ
+phiếu ở mức 50, có thể nói một cách an toàn rằng họ làm vậy vì họ cho
+rằng cổ phiếu đã rẻ ở mức giá đó, vì họ tin rằng giá đã xuống đủ thấp. Chỉ
+vài tháng trước, nó còn giao dịch trên 70; rõ ràng 50 là một món hời và có
+thể mua vào rồi cất giữ “cho dài hạn”.
+
+
+
+##### Lời giải thích
+
+Hãy tạm thời đặt mình vào vị trí của những người mua mới đó. Họ thấy giá
+quay đầu tăng, chạm 55, 58, 60. Phán đoán của họ dường như đã được kiểm
+chứng. Họ tiếp tục nắm giữ. Rồi đợt hồi yếu dần, và giá lại bắt đầu trượt xuống,
+lần lượt về 57, 55, 52, cuối cùng là 50. Họ hơi lo lắng, nhưng vẫn tin rằng cổ
+phiếu ở mức giá đó là một món hời. Có lẽ đà giảm sẽ ngập ngừng chốc lát tại
+50, rồi giá lại tiếp tục phá xuống. Trong khoảnh khắc, họ hy vọng cú phá này
+chỉ là một pha “rũ bỏ” và sẽ sớm hồi phục, nhưng hy vọng ấy tan biến khi xu
+hướng giảm tiếp diễn. Lúc này, những người mua mới bắt đầu thật sự lo ngại.
+Có điều gì đó đã sai. Khi cổ phiếu rơi xuống dưới 45, “món hời” ban đầu trông
+không còn hấp dẫn nữa. “Thôi thì lần này mình chọn nhầm hàng, nhưng mình
+sẽ không chịu lỗ. Cứ đợi đến ngày nào đó nó quay lại 50 để mình thoát ra hòa
+vốn (trừ chi phí), rồi muốn làm gì thì làm.” (Nghe có quen không?)
+
+Hãy xét bức tranh ngược lại — quá trình của một xu hướng tăng. Bạn, cùng
+nhiều người khác, mua XYZ ở 12, nắm giữ cho tới 24, cho rằng thế là đủ cao,
+rồi chốt lời. Sau đó XYZ điều chỉnh về 20, và bạn tự chúc mừng sự khôn ngoan
+của mình. Nhưng rồi, một cách bất ngờ, nó quay đầu và lao lên 30. Giờ thì bạn
+không còn thấy mình thông minh nữa; hóa ra đó là một cổ phiếu tốt hơn bạn
+đánh giá. Bạn ước gì mình còn giữ nó. Bạn sẽ không mua lại ở giá cao hơn,
+nhưng nếu nó quay xuống 24 — mức giá bạn đã bán — bạn sẽ “mua lại vị thế”.
+
+Có thể bạn chưa từng rơi vào một trong hai tình huống này. Có thể phản ứng
+của bạn, trong những trường hợp như vậy, sẽ không giống như những gì chúng
+tôi mô tả. Nhưng nếu bạn đã có một mức kinh nghiệm nhất định trên thị trường
+— và hiểu phần nào tâm lý của “nhà đầu tư trung bình” — bạn sẽ biết rằng
+những bức tranh chúng tôi mô tả là rất điển hình.
+
+![fig-135](./img/fig-135.png)
+
+**HÌNH 135.** Vì sao lại mất nhiều thời gian như vậy, nhiều “công sức” như vậy
+trong suốt giai đoạn giữa năm 1945 dưới vùng 33–34? Ta không thấy điều đó
+trên biểu đồ này, nhưng lịch sử theo tháng trước đó cho thấy các đáy của những
+Vùng Tích lũy dài hạn đã hình thành trong khu vực này vào cuối năm 1939 và
+cuối năm 1940. Những đáy cũ này, ban đầu đóng vai trò là Hỗ trợ, sau 5 năm
+đã tạo ra một lượng cung nhất định (Kháng cự). Tuy nhiên, khi giá đã “tiêu
+hóa” hết lượng cung đó, chúng có thể tăng nhanh lên 44, và rồi đợt điều chỉnh
+sau đó lại tìm thấy Hỗ trợ đúng nơi bạn có thể dự đoán — tại 33–34. Hỗ trợ đã
+chuyển thành Kháng cự, rồi lại trở thành Hỗ trợ. Ta có thể bỏ qua vài nhịp
+dao động tiếp theo vốn “đi đúng sách giáo khoa”, để chuyển sang sự thay đổi
+bức tranh xuất hiện cùng với lần phá vỡ đáng kể đầu tiên của một mức Hỗ trợ
+vào năm 1946. Giá đã được đẩy lên đầu tháng 2 gần tới 54, vượt xa các đỉnh
+quanh 46 hình thành vào tháng 11 trước đó. Đợt điều chỉnh cuối tháng 2 lẽ ra
+phải “bắt được Hỗ trợ” quanh 46 — nhưng nó đã không; giá rơi thẳng xuống
+mức “tròn số” 40. Đây là một diễn biến đáng lo ngại (dù chưa hẳn là “chí tử”).
+Sau đó, một Tam giác Cân đồ sộ hình thành và bị phá xuống vào tháng 9. Đợt
+giảm hoảng loạn đầu tiên trong một thị trường giá xuống không hề tôn trọng
+các mức Hỗ trợ. Trường hợp này cũng không ngoại lệ, dù đáng chú ý là giá đã
+nhiều lần “bật lên” từ vùng 33–34 quan trọng. Đến tháng 11, mục tiêu đo của
+Tam giác đỉnh đã được hoàn tất chính xác. Bạn nên quay lại xem hồ sơ này và
+nghiên cứu lại sau khi đã đọc thêm 10 hoặc 11 trang tiếp theo.
+
+Đến đây, có thể bạn vẫn chưa thỏa mãn rằng chúng tôi đã giải thích đầy đủ
+nguyên lý cơ bản về các mức Hỗ trợ và Kháng cự. Tuy nhiên, hãy nhớ rằng cán
+cân cung–cầu trên thị trường gần như luôn ở trạng thái mong manh. Chỉ cần
+một lượng cung dư vừa phải tại một mức giá nào đó cũng đủ để bóp nghẹt một
+đợt tăng; và chỉ cần một chút cầu bổ sung tập trung tại một mức nhất định cũng
+đủ để chặn đứng một đợt giảm. Hơn nữa, hãy nhớ rằng các nhà giao dịch khác
+đều đang theo dõi bảng giá — họ sẽ nhanh chóng cảm nhận được bất kỳ sự thay
+đổi nào của tình hình, và nhanh chóng nhập cuộc khi thấy một sự đổi hướng
+xu hướng đang hình thành. Vì vậy, lệnh mua hoặc bán chỉ vài trăm cổ phiếu có
+thể kích hoạt sự chuyển giao của vài nghìn cổ phiếu.
+
+Một điểm nữa đáng lưu ý là những nhà giao dịch và nhà đầu tư — những
+người (do, như ta giả định, đã từng mắc sai lầm khi bán hoặc mua quá sớm)
+tạo nên các mức Hỗ trợ và Kháng cự — không hề nhất thiết là thiếu hiểu biết
+hay non kinh nghiệm. Trái lại, chúng ta nên xếp họ vào nhóm những người
+khôn ngoan và nhạy bén hơn trên thị trường. Để quay lại ví dụ lý thuyết trước
+đó về một xu hướng giảm điển hình, những người mua tại 50 chắc chắn thông
+minh hơn những người mua ở đỉnh (70) hoặc mua trên đường rơi xuống 50,
+dù sau này mức giá đó vẫn bị phá vỡ. Khi thừa nhận họ có phán đoán phần nào
+tốt hơn, ta có thể kỳ vọng rằng họ sẽ đánh giá các diễn biến tiếp theo khá cẩn
+trọng và thể hiện điều gì đó hơn hẳn sự cứng nhắc, cố chấp “đòi hòa vốn” khi
+đến lúc bán ra trong một nhịp hồi.
+
+Do đó, trong một xu hướng Giảm rõ rệt, “lượng cung treo lơ lửng” — tức là
+cổ phiếu mua ở mức giá cao hơn bởi những người hiện đang chờ cơ hội tốt để
+thoát ra — sẽ bắt đầu xuất hiện _thấp hơn_ mức Kháng cự lý thuyết. Những chủ
+sở hữu khôn ngoan sẵn sàng hy sinh một hoặc hai điểm để tránh nguy cơ mắc
+phải khoản lỗ còn tệ hơn.
+
+Tương tự, những “nhà đầu cơ tăng giá đã bán hết”, khi một xu hướng Tăng
+lớn đang diễn ra, có thể sẵn sàng trả thêm một hoặc hai điểm để mua lại số cổ
+phiếu họ đã chốt lời quá sớm. Vì vậy, một đặc điểm điển hình của các đợt điều
+chỉnh trong thị trường giá lên đã được thiết lập vững chắc (giai đoạn hai) là
+chúng chỉ lùi về sát mép trên cùng của một vùng Hỗ trợ — và các đợt hồi trong
+thị trường giá xuống đã hình thành chỉ vươn tới rìa thấp nhất của các vùng
+Kháng cự, hoặc thậm chí còn không chạm tới đó một khoảng đáng kể. Chúng
+ta sẽ còn chỉ ra thêm nhiều hiện tượng tương tự về sau, nhưng trước hết cần
+bàn tới hai vấn đề khác — làm thế nào để ước lượng tầm quan trọng tiềm năng
+của các vùng Hỗ trợ và Kháng cự, và làm thế nào để xác định chính xác hơn
+trục trung tâm của các vùng đó.
+
+##### Ước lượng tiềm năng Hỗ trợ–Kháng cự
+
+Quay lại những nguyên lý nền tảng, ta đã thấy rằng mức Kháng cự mà một
+đợt tăng có thể gặp tại bất kỳ mức giá nào phụ thuộc vào lượng cổ phiếu đang
+“treo” tại đó — số cổ phiếu đã được mua ở mức giá ấy bởi những người hiện
+muốn thoát ra mà không chịu lỗ. Rõ ràng, _khối lượng_ là tiêu chí đầu tiên để
+đánh giá sức mạnh của một vùng Kháng cự. Một mức đáy nhỏ trước đây, nơi
+chỉ có bốn hay năm trăm cổ phiếu được giao dịch, không thể tạo ra nhiều Kháng
+cự cho một đợt tăng sau này; nhưng một Đáy Cao trào Bán (Selling Climax),
+nơi vài nghìn cổ phiếu được mua vào, sẽ cung cấp một lượng cung tiềm năng
+đáng kể khi, vào một thời điểm nào đó, giá đã rơi sâu xuống dưới mức đó, rồi
+cố gắng quay lại vượt qua nó.
+
+Một Hình chữ nhật dài hoặc một Tam giác Giảm có nhiều đáy ở cùng một
+mức. Ta có thể ước lượng thô lượng Kháng cự tại đó bằng cách cộng khối
+lượng giao dịch ở tất cả các đáy, nhưng sau đó phải chiết khấu đi phần cổ
+phiếu có thể đã được mua ở các đáy đầu của mô hình và bán ra gần đỉnh
+trước khi mô hình hoàn tất. Tóm lại, một đáy đơn lẻ, sắc nét, với khối lượng
+lớn thường tạo ra Kháng cự mạnh hơn so với một chuỗi nhiều đáy có cùng
+tổng khối lượng nhưng phân bổ theo thời gian và có các nhịp hồi xen kẽ.
+
+Một tiêu chí khác là độ sâu của đợt giảm sau đó. Hay nói cách khác, giá
+phải tăng bao xa trước khi gặp lại vùng đáy cũ mà ta đang cố đánh giá tiềm
+năng Kháng cự. Nói chung, khoảng cách càng lớn thì Kháng cự càng mạnh.
+Giả sử PDQ giảm từ 30 xuống 20, “xoay vòng” ở mức đó vài ngày, hồi lên 24,
+rồi lại trôi xuống 19. Những nhà đầu tư mua ở 20 sẽ không quá lo lắng ở giai
+đoạn này. Nếu từ 19 xuất hiện một nhịp hồi, sẽ có rất ít hoặc không có bán ra
+thất vọng tại 20. Nếu giá rơi xuống 18 trước khi hồi, có thể sẽ xuất hiện một
+ít cung tại 20, nhưng vẫn chưa đáng kể. Từ 17 trở xuống, Kháng cự sẽ bắt
+đầu lộ rõ. Nói ngắn gọn, giá phải phá xuống đủ xa dưới mức giá mua ban đầu
+thì nhà giao dịch mới bị thuyết phục rằng mình đã đầu tư sai, và do đó sẵn
+sàng bán ra khi có cơ hội mà không chịu lỗ quá lớn.
+
+Không thể xây dựng một quy tắc hay công thức chính xác nào để xác định
+độ sâu cần thiết của một đợt giảm để hình thành Kháng cự phía trên. Tuy
+nhiên, đừng kỳ vọng nhiều cung sẽ xuất hiện từ một mức đáy trong vùng giá
+trung bình thấp (20–35) trừ khi xu hướng sau đó đưa giá xuống thấp hơn mức
+đó trên 10%. Quy tắc 10% này không thể áp dụng cho các cổ phiếu giá rất thấp.
+Một người có thể mua cổ phiếu ở 5 và thấy nó giảm xuống 4 hoặc 3½ với sự
+bình thản đáng kể, dù thực tế anh ta đang chịu lỗ 30% ở mức sau. Khoản lỗ
+tính theo “đô la” trông không lớn, và anh ta vẫn tin rằng cổ phiếu của mình
+dễ dàng quay lại 6 hoặc 7; anh ta sẵn sàng chờ đợi.
+
+![fig-136](./img/fig-136.png)
+
+**HÌNH 136.** Các mức Hỗ trợ–Kháng cự trong một xu hướng Tăng trung hạn dài.
+Người đọc sẽ không cần hướng dẫn gì thêm để áp dụng các nguyên lý nêu trong
+chương này vào biểu đồ tuần của Bendix ở trên. Lưu ý rằng khi giá phá xuống
+qua một đường xu hướng dài vào năm 1945, đà giảm của chúng vẫn dừng lại
+tại vùng Hỗ trợ được thiết lập bởi đỉnh của tháng 11 trước đó.
+
+Một yếu tố khác bổ sung và củng cố tiêu chí “độ sâu của đợt giảm”. Nếu PDQ,
+như trước, hồi từ 20 lên 24 rồi rơi nhanh xuống 12, thì không chỉ nhiều người
+mua cũ ở 20 sẽ hoàn toàn chán nản và sẵn sàng thoát ra ở mức đó nếu có cơ hội,
+mà những người mua mới ở 12 cũng sẽ rất hài lòng khi bán tại 20 (lãi 66⅔%)
+và sẵn sàng làm vậy nếu họ nhận thấy bất kỳ dấu hiệu rắc rối nào ở đó. Những
+người mua ở 18, dĩ nhiên, sẽ không sẵn sàng bán tại 20 đến mức như vậy.
+
+Tiêu chí thứ ba để đánh giá tiềm năng Kháng cự tại một mức đáy cũ là khoảng
+thời gian đã trôi qua kể từ khi nó hình thành và bản chất của các diễn biến chung
+của thị trường trong thời gian đó. Bạn hẳn sẽ thấy hợp lý khi cho rằng một đáy
+Trung hạn hình thành ở giai đoạn đầu của một thị trường giá xuống sẽ tạo ra
+tương đối ít Kháng cự sau khi giá đã rơi sâu xuống dưới mức đó, mất có thể gần
+một năm để hình thành một nền tảng Lớn, rồi dần dần leo trở lại mức ấy sau 4
+hoặc 5 năm. Ở một mức độ nào đó, điều này đúng. Lượng cung mới chỉ một
+hai năm tuổi thường hiệu quả hơn lượng cung đã 4–5 năm, nhưng loại sau
+không hề mất hết sức mạnh. Thực tế, đôi khi rất đáng ngạc nhiên khi thấy
+Kháng cự tại một vùng đáy rất cũ vẫn mạnh đến vậy, miễn là nó chưa bị “tấn
+công” trong thời gian giữa, và miễn là không có thay đổi nào trong cấu trúc
+vốn của công ty có thể làm mờ đi, trong tâm trí người nắm giữ, giá vốn ban
+đầu của cổ phiếu. Trong nhóm thay đổi này, ta có thể kể đến việc chia tách,
+cổ tức cổ phiếu lớn, hoặc thậm chí là một khoản cổ tức tiền mặt “khủng”.
+
+![fig-137](./img/fig-137.png)
+
+**HÌNH 137.** Để nghiên cứu các mức Hỗ trợ–Kháng cự Lớn, đồ thị tháng là hữu
+ích nhất. Biểu đồ này thể hiện nhiều điểm đáng chú ý. Hãy quan sát cách các
+mức quan trọng được hình thành và cách, một khi đã hình thành, chúng lại
+xuất hiện trở lại và đổi vai trò cho nhau. Thang giá hiển thị giá trị năm 1947,
+với các năm trước đó đã được điều chỉnh theo các lần chia tách năm 1933
+và 1946.
+
+Chúng tôi không có ý nói rằng một nhà đầu tư thực sự bị đánh lừa về giá vốn
+thực của cổ phiếu, bất kể chúng đã được chia tách ra sao hay cổ tức được phân
+phối như thế nào, nhưng sự thất vọng của anh ta (và mong muốn được hòa
+vốn) có thể được xoa dịu.
+
+Tuy nhiên, nếu một vùng Kháng cự đã từng bị tấn công — nếu giá đã quay
+lại chạm vào nó rồi rút lui — thì rõ ràng một phần sức mạnh của nó đã bị bào
+mòn. Một phần lượng cung treo đã được sử dụng để đẩy lùi cuộc tấn công
+đầu tiên. Do đó, đợt tăng tiếp theo sẽ phải hấp thụ ít cổ phiếu hơn tại mức đó.
+Ở đây, biểu đồ khối lượng lại có thể giúp ước lượng phần nào lượng Kháng
+cự đã bị tiêu thụ. Trong mọi trường hợp, khả năng rất cao là lần tấn công thứ
+ba vào một mức Kháng cự sẽ thành công trong việc xuyên thủng nó.
+
+Chúng ta đã nêu ra ba tiêu chí — khối lượng, khoảng cách, và thời gian trôi
+qua — để dùng trong việc đánh giá mức Kháng cự có thể gặp tại một mức giá
+bất kỳ. Đến đây, hẳn người đọc đã nhận ra (và có thể thấy hơi thất vọng) rằng
+chính phán đoán cá nhân của mình phải đóng vai trò lớn trong việc áp dụng
+chúng. Điều này là không thể tránh khỏi. Không thể xây dựng một công thức
+toán học chính xác cho bất kỳ tiêu chí nào trong số đó.
+
+Dù vậy, vấn đề thực ra không quá phức tạp. Các nguyên lý chung đủ đơn giản
+và, theo chúng tôi, dễ hiểu. Ta có thể nhìn lại lịch sử trên đồ thị và xác định
+xem trong xu hướng giảm gần nhất trước đó, một đáy nào đã hình thành có
+khả năng tạo ra nhiều hay ít Kháng cự khi đợt tăng hiện tại quay lại vùng giá
+của nó. Ta phải ước lượng lượng cung nằm ở đó, bao nhiêu cổ phiếu đã được
+mua ban đầu tại mức giá ấy và vẫn còn được nắm giữ bởi những người sẵn
+sàng chào đón cơ hội thoát ra hòa vốn.
+
+Nguy hiểm lớn nhất khi vận dụng phán đoán để đo lường các yếu tố này là
+đánh giá thấp lượng Kháng cự có thể gặp. Hãy luôn đề phòng điều đó; an toàn
+hơn là đánh giá cao nó. Bạn có thể đang thiên về xu hướng Tăng; bạn có thể
+nói rằng: “Những người bị kẹt ở vùng giá đó chắc hẳn đã nhận ra điều kiện đã
+cải thiện, và họ sẽ không còn quá nóng vội bán ra nữa.” Đừng trông cậy vào
+điều đó. Hãy nhớ rằng họ đã bị “kẹt” ở đó rất lâu. Ngay cả khi họ có phần lạc
+quan về thị trường nói chung, họ vẫn có thể quá thất vọng với cổ phiếu cụ thể
+này đến mức muốn chuyển sang thứ khác. (Sự từ chối cứng đầu và thường rất
+tốn kém của nhà đầu tư Mỹ trung bình trong việc “chấp nhận lỗ” còn cản trở
+cả những quyết định chuyển đổi kịp thời.)
+
+Mọi điều chúng ta đã nói trong các đoạn trên về việc ước lượng Kháng cự
+tiềm năng cũng áp dụng tương tự — nhưng theo chiều ngược lại, dĩ nhiên —
+cho việc ước lượng Hỗ trợ tiềm năng. Các nguyên lý hoàn toàn giống nhau,
+dù lý luận nền tảng có thể khó nắm bắt hơn đôi chút.
+
+
+
+
+##### Xác định Chính xác các Mức giá
+
+Vấn đề tiếp theo cần xem xét là trong thực hành phân tích biểu đồ hằng ngày,
+làm thế nào để chúng ta có thể xác định càng chính xác càng tốt ranh giới
+của một vùng Hỗ trợ hoặc Kháng cự, và trong nhiều trường hợp, là con số
+giá cụ thể đại diện cho “lõi” hay trục trung tâm của vùng đó. Trong các ví
+dụ lý thuyết mà chúng ta đã dựng lên để minh họa những nguyên lý cơ bản,
+chúng ta thường dùng các con số tròn. Nhưng trong giao dịch thực tế, các
+mức giá hiếm khi được đánh dấu đẹp đẽ như vậy.
+
+Ngay cả một Đáy suy thoái sắc nét và tương đối không có mô hình rõ ràng
+cũng có thể bao gồm cả một tuần dao động giá trong một biên độ hẹp. Có
+thể ngày thấp nhất của tuần tích lũy đó xuất hiện trên biểu đồ như một
+One-Day Reversal, hoặc có thể có 2–3 ngày “đâm” xuống dưới khối dao
+động chung. Một lần nữa, dù không thể đặt ra một quy tắc toán học cứng
+nhắc, ta vẫn có thể dễ dàng liên hệ trực quan giữa mô hình giá và khối
+lượng, và bằng cách quan sát đơn giản, đi đến một ước lượng khá sát về
+mức giá mà tại đó nguồn cung với khối lượng lớn nhiều khả năng sẽ xuất
+hiện.
+
+Hãy đặc biệt chú ý đến các mức đóng cửa của những ngày cấu thành vùng
+tích lũy ở Đáy, rồi tự nhẩm lấy trung bình; con số này thường khá gần với
+“trọng tâm” của toàn bộ vùng Kháng cự.
+
+![fig-138](./img/fig-138.png)
+
+**HÌNH 138.** Điểm đặc biệt đáng chú ý trong bản ghi theo tháng này là Kháng cự
+gặp phải vào các năm 1939, 1940, 1941, và thậm chí cả 1944, ngay tại mức
+Đáy (chỉ trên 26), vốn là vùng tích lũy 3 tháng của năm 1936. Ngoài ra,
+cũng đáng chú ý là sự xuất hiện của Kháng cự — sau 8 năm (!) vào 1945 —
+tại mức Đáy (28) của vùng tích lũy Đỉnh có khối lượng lớn năm 1936–37.
+Giá chỉ có thể “phóng vọt” khi mức Kháng cự đó cuối cùng bị chinh phục.
+Bạn sẽ thấy rằng có thể vẽ thêm một số đường Hỗ trợ–Kháng cự khác trên
+biểu đồ này. Lưu ý các mô hình Đáy Lớn năm 1937–38 và 1942.
+
+Dĩ nhiên, một phần nguồn cung có khả năng sẽ bắt đầu xuất hiện ngay khi
+một đợt tăng tiếp theo chạm đến phần thấp nhất của vùng Kháng cự, và
+càng tiến sâu vào vùng đó thì lượng cung xuất hiện càng nhiều. Đôi khi,
+có thể dự đoán “chính xác đến từng sợi tóc” giá sẽ xuyên vào vùng Kháng
+cự sâu đến đâu bằng cách so sánh cẩn thận sức mạnh của đợt tăng (thể
+hiện qua khối lượng giao dịch) với khối lượng đã ghi nhận tại các mức giá
+khác nhau trong lần hình thành Kháng cự ban đầu.
+
+Điều này đòi hỏi kinh nghiệm, nhưng là loại kinh nghiệm mà bạn sẽ thấy
+khá dễ tích lũy và hoàn toàn không tốn kém. Tuy nhiên, trong đa số trường
+hợp, việc đòi hỏi độ chính xác quá cao như vậy là không cần thiết, thậm chí
+không mong muốn.
+
+Gần như mọi biểu đồ trong cuốn sách này đều thể hiện một ví dụ nào đó
+về hiện tượng Hỗ trợ và Kháng cự. Sau khi đọc xong chương này, người
+đọc nên quay lại xem xét tất cả các biểu đồ đó một cách chi tiết. Việc áp
+dụng thực tiễn các quy tắc vừa bàn sẽ trở nên sáng tỏ hơn rất nhiều.
+
+Cũng mang tính chỉ dẫn không kém — nếu bạn có thể thu thập được —
+là việc nghiên cứu các mức Hỗ trợ và Kháng cự xuất hiện trên biểu đồ
+tháng của tất cả các cổ phiếu giao dịch sôi động trong khoảng thời gian
+10 năm hoặc hơn.  
+_EN: Hiện nay, hầu hết các phần mềm và Internet đều có thể dễ dàng tạo ra,
+ví dụ như prophet.net và stockcharts.com._
+
+Bạn hẳn sẽ rất ngạc nhiên khi thấy các Đỉnh, Đáy và các vùng tích lũy đi
+ngang có xu hướng hình thành ở những mức giá xấp xỉ nhau qua các dao
+động Lớn kế tiếp, trong khi giá lại di chuyển tự do và nhanh chóng, lên
+hoặc xuống, qua các vùng nằm giữa những mức đó. Không cần phải nhấn
+mạnh thêm giá trị thực tế — tính bằng tiền bạc — của những thông tin có
+thể rút ra từ lịch sử biểu đồ.
+
+Điều này dẫn chúng ta đến một vấn đề mà cũng nên tạm dừng lại để xem
+xét: loại biểu đồ nào là hữu ích nhất cho việc xác định và đánh giá các mức
+Hỗ trợ và Kháng cự. Đối với các chuyển động Nhỏ (Minor) trong ngắn hạn,
+biểu đồ ngày hiển nhiên là nguồn thông tin duy nhất. Một biểu đồ ngày kéo
+dài một năm hoặc hơn, nếu cần, cũng có thể dùng để xác định các mức có
+ý nghĩa đối với xu hướng Intermediate.
+
+Tuy nhiên, các tác giả nhận thấy rằng biểu đồ ngày không mang lại góc
+nhìn dài hạn cần thiết để xác định các vùng Hỗ trợ và Kháng cự Lớn
+(Major) và Intermediate. Nó dễ phóng đại tiềm năng của một vùng Hỗ trợ
+(Major hoặc Resistance) Nhỏ mới hình thành và che khuất tầm quan trọng
+của một mức Intermediate thực sự. Để có góc nhìn đúng, biểu đồ tuần —
+hiển thị cả khối lượng lẫn biên độ giá, và bao quát ít nhất toàn bộ chu kỳ
+Bull–Bear Lớn trước đó — là lựa chọn rất đáng mong muốn. Ngoài ra,
+với một chút nghiên cứu và kinh nghiệm, biểu đồ tháng cũng cho kết quả
+rất tốt.
+
+Quay lại nghiên cứu hiện tượng Hỗ trợ, trong các chương trước chúng ta
+đã nhiều lần nhắc đến một xu hướng “bình thường”. Thực ra, có lẽ nên gọi
+nó là một xu hướng “lý tưởng” thì đúng hơn, bởi giống như nhiều thứ được
+coi là bình thường khác, nó đại diện cho một mô hình mà thực tế thường
+xuyên lệch khỏi. Dẫu vậy, trong các xu hướng giá cổ phiếu, dạng bình
+thường hay lý tưởng này xuất hiện khá phổ biến.
+
+Nếu là xu hướng tăng, nó bao gồm một chuỗi các chuyển động ziczac,
+trong đó mỗi “zig” đưa giá lên một đỉnh mới, và mỗi “zag” đưa giá quay
+lại gần mức đỉnh của “zig” trước đó. Lấy ví dụ bằng số: lên 10, về 6; lên
+15, về 10; lên 20, về 15; lên 26, về 20; v.v. Kiểu chuyển động này được
+các nhà kỹ thuật gọi là “tự điều chỉnh” (self-correction) và được xem là
+đặc biệt lành mạnh, do đó có nhiều khả năng được tiếp diễn. Bạn có thể
+thấy rằng, về bản chất, nó đại diện cho phản ứng của giá tại mức Hỗ trợ
+Nhỏ gần nhất sau mỗi bước tiến. Nếu bạn quan tâm đến một cổ phiếu có
+kiểu xu hướng như vậy, thì những lần giá quay về Hỗ trợ thường tạo ra
+điểm mua tốt.
+
+##### Ý nghĩa của việc Phá vỡ Hỗ trợ
+
+Sớm hay muộn, mô hình sóng Nhỏ bình thường cũng sẽ bị phá vỡ. Điều này
+thường xảy ra theo một trong hai cách (dù về mặt lý thuyết có vô số biến
+thể). Ở cách thứ nhất, giá bứt phá trong một đợt tăng mạnh vượt xa tỷ lệ
+so với chuỗi các sóng tăng trước đó. Một chuyển động như vậy hiếm khi
+được theo sau bởi một nhịp điều chỉnh quay lại mức Hỗ trợ đã bị bỏ lại
+rất xa phía sau, mà thay vào đó là sự hình thành của một vùng mô hình —
+có thể là Tích lũy hoặc Đảo chiều.
+
+![fig-139](./img/fig-139.png)
+
+**HÌNH 139.** Biểu đồ tháng của Jewel Tea Company với các mức Hỗ trợ–Kháng cự
+Lớn được đánh dấu. Lưu ý sự hoán đổi vai trò.
+
+Kiểu gián đoạn thứ hai xuất hiện khi một nhịp điều chỉnh _không_ dừng lại
+và đảo chiều tại mức Đỉnh Nhỏ trước đó, mà trượt xuống xuyên qua vùng
+này, thậm chí có thể xuống đến mức Đáy Nhỏ trước đó. Chuyển động như
+vậy được gọi là “phá vỡ Hỗ trợ”, và bất kỳ hành động nào như thế đều mang
+một cảnh báo rõ ràng về sự thay đổi xu hướng — cảnh báo càng mạnh mẽ
+hơn nếu khối lượng giao dịch có xu hướng gia tăng khi hoặc sau khi Hỗ
+trợ bị xuyên thủng.
+
+Lưu ý rằng chúng ta nói là _thay đổi_ xu hướng chứ không phải Đảo chiều,
+bởi việc phá vỡ một mức Hỗ trợ Nhỏ có thể chỉ báo hiệu một giai đoạn tích
+lũy đi ngang. Nhưng nó cũng có thể báo trước một Đảo chiều sắp xảy ra.
+Cả hai đều là sự thay đổi.
+
+Nếu bạn nhớ lại hình ảnh điển hình của mô hình Head-and-Shoulders Top,
+bạn sẽ thấy rằng đợt giảm từ “đầu” chính là một ví dụ như vậy của việc
+phá vỡ Hỗ trợ Nhỏ, vì nó rơi xuống dưới mức đỉnh của vai trái. Và bạn hẳn
+còn nhớ rằng, đợt giảm này thường là tín hiệu đầu tiên cho thấy một mô
+hình Đảo chiều đang hình thành.
+
+Do đó, ngay cả việc vi phạm một mức Hỗ trợ gần cũng mang ý nghĩa thực
+tiễn trong phân tích kỹ thuật. Việc phá vỡ một Hỗ trợ Nhỏ luôn nên được
+xem là bước đầu tiên trong sự đảo chiều của xu hướng Intermediate. (Nếu
+rốt cuộc nó chỉ là tích lũy, sẽ vẫn có cơ hội để quay lại vị thế đã bỏ nếu
+muốn.) Tương tự, việc phá vỡ một vùng Hỗ trợ _Intermediate_ thường là
+dấu hiệu đầu tiên của một Đảo chiều trong xu hướng _Major_. Chúng tôi
+không cho rằng cần phải diễn giải thêm nguyên lý này. Các chiến thuật
+giao dịch khuyến nghị dựa trên nó được trình bày trong phần hai của cuốn
+sách; các mức Hỗ trợ và Kháng cự đặc biệt hữu ích làm cơ sở đặt lệnh
+dừng lỗ, cũng được bàn ở đó.
+
+![fig-140](./img/fig-140.png)
+
+**HÌNH 140.** Khi giá phá vỡ xuống khỏi Descending Triangle lớn hình thành trên
+biểu đồ tuần của Remington Rand năm 1946, đà giảm lẽ ra có thể dừng lại,
+ít nhất là tạm thời, quanh mức 37 — mức của vùng tích lũy 4 tuần trong
+tháng 4 — và đáng lẽ phải “bắt được Hỗ trợ” tại 35–36, mức Đỉnh tháng 2.
+Việc không giữ được mức sau mang ý nghĩa đối với xu hướng Lớn (xem
+trang kế tiếp). Lưu ý Kháng cự xuất hiện sau đó tại 40½.
+
+##### Những Ngộ nhận Phổ biến
+
+Dĩ nhiên, người đọc sẽ hiểu rằng tất cả những gì chúng ta đã nói về việc
+phá vỡ Hỗ trợ cũng áp dụng tương tự — nhưng theo hướng ngược lại —
+cho việc xuyên thủng các mức Kháng cự. Trước khi rời khỏi chủ đề này,
+cũng nên nhắc thêm một điểm nữa. Nếu bạn từng dành nhiều thời gian
+trong các phòng giao dịch, bạn sẽ nhận thấy rằng khái niệm Hỗ trợ và
+Kháng cự phổ biến ở đó có phần khác với những gì được trình bày trong
+chương này.
+
+Ví dụ, nếu X tăng lên 62, điều chỉnh về 57, rồi tiếp tục tăng lên 68, nhiều
+trader sẽ nói rằng 57 là mức Hỗ trợ, có lẽ vì đó là mức giá gần nhất mà tại
+đó X được hỗ trợ đủ mạnh để đảo chiều từ giảm sang tăng. Tuy nhiên,
+theo cách nhìn của chúng ta, như bạn đã thấy, vùng quanh 62 mới là vùng
+Hỗ trợ. Sự khác biệt này rất quan trọng cần nắm rõ, và đôi khi có ý nghĩa
+cực kỳ lớn trong kết quả thực tế.
+
+Thừa nhận rằng việc coi một Đỉnh cũ là mức tại đó một Đáy mới sẽ hình
+thành (hoặc ngược lại) không hề dễ dàng về mặt tư duy; thoạt nhìn, có vẻ
+hợp lý hơn nhiều nếu liên hệ Đỉnh với Đỉnh và Đáy với Đáy. Hơn nữa,
+trong ví dụ X, đúng là một số nhà đầu tư muốn mua ở 57 có thể đã không
+mua được trước khi đợt tăng thứ hai lên 68 “lấy mất cơ hội”, và lệnh mua
+của họ có thể vẫn còn chờ ở 57 hoặc được nhập lại nếu giá quay về đó.
+Tuy nhiên, hoàn toàn không có gì đảm bảo rằng điều đó sẽ xảy ra; không
+có “lợi ích ràng buộc” nào tại 57 có thể “tự động” kéo theo lực mua mới.
+
+Ngược lại, chúng ta đã thấy rằng tại một Đáy cũ hình thành một dạng lợi
+ích ràng buộc tạo ra lực bán (Kháng cự), từ đó tạo nên một Đỉnh mới; và
+tại một Đỉnh cũ cũng hình thành lực mua (Hỗ trợ), từ đó tạo nên một Đáy
+mới.
+
+![fig-141](./img/fig-141.png)
+
+**HÌNH 141.** York là một cổ phiếu thanh khoản tương đối thấp, thường xuyên tạo
+ra nhiều gap nhỏ không mang nhiều ý nghĩa kỹ thuật. Tuy nhiên, gap lớn
+kèm khối lượng cao ngày 8/10/1945 đòi hỏi phải chú ý. Nó trông giống một
+Runaway Gap và do đó hàm ý tiếp diễn lên 26½ trở lên. Nhưng giá dừng
+đà tăng tại 24½ và đi vào một Rectangle kéo dài 3 tháng. Cú breakout lên
+ngày 10/1/1946 hoàn tất mức đo tối thiểu của Rectangle (và gap tháng 10);
+sau đó giá điều chỉnh. Xem diễn biến tiếp theo ở Hình 142.
+
+Người đọc được khuyến nghị luôn ghi nhớ khái niệm này. Bất kỳ nghiên
+cứu phân tích nào về hồ sơ biểu đồ cũng sẽ nhanh chóng cho thấy rằng giá
+dễ dàng vượt lên qua một mức Đỉnh cũ hơn nhiều so với việc xuyên qua
+Kháng cự hình thành tại một Đáy cũ có khối lượng lớn (và dĩ nhiên, điều
+ngược lại cũng đúng đối với các đợt giảm). Bạn sẽ thấy rằng một ít lực
+bán có thể xuất hiện tại một đỉnh cũ, nhưng thường chỉ đủ để gây ra một
+sự dừng lại ngắn ngủi, thay vì các đợt điều chỉnh hay tích lũy tương đối
+dài khi xu hướng chạm phải một vùng Kháng cự thực sự.
+
+![fig-142](./img/fig-142.png)
+
+**HÌNH 142.** Đợt điều chỉnh tháng 2 trong Hình 141 gặp Hỗ trợ tạm thời tại 24;
+giá bật lên đủ để lấp gap ngày 7/2, rồi sau đó phá vỡ xuống dưới đường Hỗ
+trợ trên của Rectangle — về mặt kỹ thuật là một cảnh báo rõ ràng. Sau đó
+một Symmetrical Triangle hình thành, nhưng cú breakout xảy ra quá gần
+đỉnh tam giác, chỉ tạo ra một nhịp hồi lên đỉnh cũ rồi “đánh vòng kết thúc”.
+Không cần phải chờ đến tín hiệu Double Top ngày 22/8 để dự báo một đợt
+giảm có ý nghĩa hơn mức Minor.
+
+
+
+
+##### Các Mốc Giá Tròn
+
+Có những mức giá khác mà đôi khi rõ ràng tạo ra Kháng cự hoặc Hỗ trợ
+đáng kể mà không cần viện dẫn đến một “lợi ích đã hình thành” nào trước
+đó. Chúng tôi muốn nói tới các mốc giá “tròn” như 20, 30, 50, 75, 100, v.v.
+Khi đặt mục tiêu chốt lời sau khi mua một cổ phiếu, chúng ta thường tự
+nhiên nghĩ theo các mức giá tròn như vậy. Nếu một cổ phiếu giá thấp tăng
+đều từ quanh mức 10, thì gần như chắc chắn — vì lý do này — sẽ gặp lực
+bán chốt lời tại mức 20, _đặc biệt nếu con số đó là mức cao mới của nó trong
+nhiều năm_. Thực tế, bất cứ khi nào một mã bước vào vùng đỉnh cao mới
+mọi thời đại, nơi biểu đồ lịch sử không cho thấy điều gì ngược lại, thì khả
+năng rất cao là Kháng cự sẽ xuất hiện tại các mốc giá tròn. Ở những cổ
+phiếu lâu đời và giao dịch sôi động, như U.S. Steel _(EN: hoặc IBM và GE)_,
+tầm quan trọng của các mốc tròn sẽ giảm đi.
+
+##### Lặp Lại Các Mức Lịch Sử
+
+Nếu một khi đã được thiết lập, các Mức Hỗ trợ và Kháng cự quan trọng
+luôn “phát huy tác dụng”, thì ta sẽ thấy các Đỉnh và Đáy Trung gian hình
+thành ở đúng cùng những vùng giá năm này qua năm khác, từ chu kỳ Bò
+sang Gấu. Thực tế, ở các cổ phiếu lâu đời và giao dịch sôi động, quả thật có
+xu hướng rõ rệt như vậy. Chẳng hạn với General Electric, các vùng 22–24,
+34–35, 40–42 và 48–50 được đặc trưng bởi khối lượng giao dịch lớn (và do
+đó, bởi nhiều lần đảo chiều xu hướng trung gian) xuyên suốt từ thập niên
+1920 đến 1950. Với Southern Pacific, có các Vùng Hỗ trợ và Kháng cự lịch
+sử tại 21–22, 28–30, 38–40 và 55–56. Ở U.S. Steel, các khoảng 42–45,
+55–58, 69–72, 78–80 và 93–96 nổi bật rõ ràng như các Vùng Đảo chiều.
+Còn rất nhiều cổ phiếu khác có thể được dẫn chứng. _EN9: Dù các cổ phiếu
+cụ thể đã “chết” hoặc biến dạng theo thời gian, thì nguyên lý vẫn còn sống
+và hoạt động tốt._
+
+Tuy nhiên, về dài hạn, các Mức Hỗ trợ và Kháng cự như vậy có xu hướng
+dần bị điều chỉnh, mở rộng, hay “làm mờ”, và những mức mới sẽ được tạo
+ra. Một nguồn hình thành nhiều Vùng Cung mới quan trọng là các đợt Hoảng
+loạn trong Thị trường Gấu. Bởi đây là dạng sụt giảm duy nhất có thể chắc
+chắn rằng sẽ hoàn toàn phớt lờ các Vùng Hỗ trợ nền tảng trước đó. Khi các
+cơn hoảng loạn (như ta đã thấy trong nghiên cứu trước về các Dao động
+Chủ đạo gắn với Lý thuyết Dow, vốn đặc trưng cho pha thứ hai của Thị
+trường Gấu) đã bắt đầu, chúng dường như quét sạch mọi Hỗ trợ tiềm năng
+trong các cú lao dốc thảm khốc cho tới khi tự cạn kiệt trong một Cao trào
+Bán tháo của toàn thị trường. Và cao trào đó có thể, hoặc không, xuất hiện
+ở một mức có liên hệ với một Hỗ trợ đã được thiết lập trước đó. Lấy U.S.
+Steel làm ví dụ lần nữa: đợt Hoảng loạn năm 1937 kéo cổ phiếu này xuyên
+qua vùng 93–96, do dự ngắn tại mức 78–80, rồi tiếp tục lao qua 69–72 và
+55–58 để dừng ngay trên 50. Trong cơn hoảng loạn năm 1946, X lại nhanh
+chóng phá vỡ 78–80 và 69–72 để dừng ở 66.
+
+Khi có khối lượng giao dịch lớn tại Đáy Hoảng loạn của một cổ phiếu, mức
+giá đó sẽ tích lũy một “lợi ích đã hình thành” mạnh mẽ cho tương lai, và
+thường sẽ cung cấp Kháng cự rõ rệt cho một đợt tăng sau này (sau khi một
+đợt Suy giảm Thị trường Gấu khác đã kéo giá xuống dưới mức Hoảng
+loạn).
+
+Bàn về các cơn Hoảng loạn đưa chúng ta quay lại xem xét hành vi của Hỗ
+trợ và Kháng cự ở những giai đoạn khác của Xu hướng Chủ đạo — một chủ
+đề mà chúng tôi đã nói sớm trong chương này rằng sẽ còn đề cập thêm.
+Ghi nhớ mối quan hệ giữa Kháng cự và khối lượng, ta dễ thấy vì sao trong
+một Dao động Gấu kéo dài nhưng điển hình, nơi sự quan tâm giao dịch giảm
+xuống mức rất thấp khi tiến gần đáy cuối cùng, thì Đáy Trung gian áp chót
+có thể tạo ra tương đối ít cung, và do đó chỉ gây ra một nhịp điều chỉnh nhỏ
+khi xu hướng tăng mới chạm tới mức đó. Thêm vào đó là thực tế rằng nhiều
+người mua ở giai đoạn cuối của một Suy giảm Lớn là các nhà đầu tư giải
+ngân theo bậc, vốn hoàn toàn kỳ vọng giá còn giảm và vì vậy không dễ bị
+“rũ” ra. Sự tiến triển chậm chạp thường thấy trong phần đầu của một Thị
+trường Bò Chủ đạo mới không phải do Kháng cự phía trên nhiều, mà là do
+thiếu lực mua sốt ruột từ công chúng.
+
+Các Xu hướng Phục hồi sau những cơn Hoảng loạn Thị trường Gấu dữ dội
+thường tự cạn kiệt, vì những lý do hiển nhiên, từ rất lâu trước khi chúng
+quay trở lại mức Kháng cự cuối cùng bị bỏ lại trong đợt Suy giảm Chủ đạo
+đó (thường là Đáy của Đợt Suy giảm Trung gian đầu tiên từ Đỉnh cực đại
+của chu kỳ), nhưng chúng lại thường gặp cung tại một Vùng Kháng cự thấp
+hơn được thiết lập _trong Thị trường Bò trước đó_. Vì vậy, hãy nhìn xa về
+quá khứ trên biểu đồ khi đánh giá triển vọng tăng trong các tình huống
+như thế.
+
+Một suy nghĩ bổ sung theo hướng này là: không có quy luật nào buộc một
+xu hướng tăng phải tiếp tục leo thẳng cho tới khi chạm một Vùng Cung xa
+phía trên. Đúng là, như một hệ quả mà chúng ta đã đề cập trong Lý thuyết
+Hỗ trợ và Kháng cự, giá có thể và thường tăng dễ dàng qua một khoảng giá
+nơi trước đó không hình thành Đáy hay Vùng Tích lũy trong các xu hướng
+giảm; nhưng nếu Mức Kháng cự đầu tiên đã được thiết lập ở quá xa phía
+trên, thì đà tăng có thể tự cạn kiệt trước khi tới đó. Cung lớn _có thể_ xuất
+hiện vì những lý do khác ở một mức thấp hơn. Do đó, hãy coi một Mức
+Kháng cự xa như một khả năng tối đa hơn là một mục tiêu chắc chắn.
+Tuy nhiên, giữa hai cổ phiếu bạn đang cân nhắc mua, nếu các yếu tố khác
+tương đương, hãy chọn cổ phiếu có “đường đi phía trên mỏng” hơn — tức
+có thể tăng xa hơn trước khi gặp một Vùng Cung đã được vẽ trên biểu đồ.
+
+##### Kháng Cự Theo Mô Hình
+
+Giờ ta có thể quay lại một số hiện tượng Nhỏ đã bàn tới khi nói về các Mô
+hình Đảo chiều và Tích lũy ở các chương trước. Chẳng hạn như các Khoảng
+trống (gap). Lúc này bạn sẽ hiểu vì sao một nhịp điều chỉnh xảy ra ngay sau
+khi hình thành gap lại dễ dàng trượt về và lấp đầy gap đó. Không hề có “lợi
+ích đã hình thành” nào trong khoảng giá mà giá đã nhảy vọt qua để tạo gap
+trên biểu đồ. Bạn cũng sẽ hiểu vì sao một nhịp điều chỉnh như vậy có thể
+dừng lại và đảo chiều ngay khi vừa lấp gap, _với điều kiện_ là đã có khối
+lượng giao dịch lớn ở vùng giá ngay trước gap. Điều này thường đúng với
+một Breakaway Gap.
+
+Vì cùng lý do đó, bất kỳ gap nào cũng dễ bị lấp khi một nhịp điều chỉnh bắt
+đầu đẩy giá đi ngược lại, nếu gap không quá xa và nếu không có các Mức
+Kháng cự xen giữa chặn nhịp điều chỉnh trước khi tới đó. Tuy nhiên, với
+một Runaway Gap, không có lý do gì để nhịp điều chỉnh phải dừng ngay khi
+đã đi hết vùng gap; trái lại, nó nhiều khả năng sẽ tiếp tục xuyên qua “đường
+giá mỏng” đã tồn tại trước gap.
+
+Các Pullback và Throwback — những chuyển động quay lại nhanh mà
+chúng ta đã ghi nhận thường phát triển ngay sau khi phá vỡ một mô hình
+Đầu–Vai hoặc các Mô hình Vùng khác — minh họa rõ các nguyên lý của Hỗ
+trợ và Kháng cự. Ví dụ, khi giá phá vỡ đi xuống khỏi một Tam giác Giảm,
+đường biên dưới nằm ngang của mô hình, vốn ban đầu là Đường Cầu, lập
+tức đảo vai trò và trở thành một Mức Kháng cự. Do đó, bất kỳ nỗ lực nào đưa
+giá quay trở lại phía trên nó, sau một cú phá vỡ dứt khoát, đều sẽ bị chặn lại
+bởi cung tại hoặc gần đường này. Tương tự, đường cổ (neckline) của một
+Đầu–Vai Đỉnh, vốn là Đường Cầu, sẽ trở thành Mức Kháng cự sau khi bị
+phá vỡ. Đường đỉnh hay Đường Cung của một Hình chữ nhật trở thành Hỗ
+trợ sau khi giá bứt lên phía trên với khối lượng và biên độ dứt khoát.
+
+![fig-143](./img/fig-143.png)
+
+**HÌNH 143.** Chúng tôi đã bàn về Pullback lần đầu khi nói về Đầu–Vai ở
+Chương 6 và nhắc lại trong chương này (trang 243) như những hiện tượng
+Hỗ trợ–Kháng cự. Trong đại đa số trường hợp, sẽ có ít nhất một Pullback
+về đường cổ (sau cú phá vỡ). Nhiều mô hình Đầu–Vai tạo ra hai Pullback:
+lần thứ nhất chỉ vài ngày sau phá vỡ và trước khi giá đi quá xa, và lần thứ
+hai vài tuần sau đó, đôi khi sau khi mục tiêu đo tối thiểu của Đầu–Vai đã
+được hoàn thành. Goodyear chứng kiến con số bất thường là bốn lần
+Pullback về đường cổ năm 1946 — lần đầu hai tuần sau cú phá vỡ tháng
+Tám, một lần nữa vào tháng Mười, lần thứ ba vào tháng Mười Một, và lần
+thứ tư vào tháng Hai năm 1947 — nơi gặp Kháng cự kép của đường cổ và
+đường xu hướng giảm (Chương 14) chiếu từ đỉnh tháng Tư 1946 và vai
+phải tháng Tám.
+
+Trước đó trong chương này, khi bàn về ba tiêu chí để đánh giá mức độ
+Kháng cự có thể xuất hiện tại một mức Đáy cũ, chúng tôi đã nêu “khoảng
+cách đi xa” là một trong số đó, và đưa ra quy tắc chung rằng giá nên đi ít
+nhất 10% vượt qua mức đó đối với một cổ phiếu giá trung bình trước khi
+nhiều Kháng cự được thiết lập. Tuy nhiên, quy tắc 10% này không áp dụng
+trong trường hợp Throwback về một mô hình vùng được xác định rõ, khi
+nó xảy ra ngay sau cú phá vỡ. Điều kiện duy nhất cần để thiết lập Kháng cự
+mạnh cho những chuyển động như vậy tại ranh giới mô hình là một cú
+phá vỡ mang tính kết luận.
+
+Tam giác Cân có một “trường” Hỗ trợ và Kháng cự khác. Bạn hẳn còn nhớ
+rằng điểm Đảo chiều đầu tiên trong quá trình hình thành một Tam giác
+Cân (một Đỉnh nếu nó hình thành trên xu hướng tăng, hoặc một Đáy nếu
+trên xu hướng giảm) thường đi kèm với khối lượng giao dịch cao, nhưng
+hoạt động này giảm nhanh ở các dao động tiếp theo trong các biên hội tụ
+của nó. Do đó, một khi giá đã phá vỡ khỏi Tam giác và đi xa đáng kể vượt
+qua mức của điểm Đảo chiều đầu tiên của mô hình, thì mức đó — vì khối
+lượng cổ phiếu đã được giao dịch tại đây — sẽ trở thành Hỗ trợ (hoặc
+Kháng cự) đối với một nhịp điều chỉnh sau này. Nhưng nếu cú phá vỡ không
+đưa giá vượt qua Mức Đảo chiều đầu tiên của Tam giác với một biên độ rõ
+ràng, thì bất kỳ Throwback nào cũng có thể kéo giá quay lại đường biên
+mô hình kéo dài (dốc), và nếu nhịp điều chỉnh không xảy ra cho tới khi xu
+hướng đã tiến tới hoặc vượt qua đỉnh hội tụ (apex) của Tam giác, thì
+Throwback thường sẽ không gặp Hỗ trợ (hoặc Kháng cự) cho tới khi nó
+quay về mức của apex. Tóm lại, apex đại diện cho mức tập trung hay _trục_
+của Hỗ trợ và Kháng cự của Tam giác.
+
+![fig-144](./img/fig-144.png)
+
+**HÌNH 144.** Một số ví dụ về “trường” Hỗ trợ của Tam giác Cân xuất hiện
+trên biểu đồ ngày năm 1945 của “IT”. Sau cú phá vỡ muộn ngày 5/2 khỏi
+Tam giác đầu tiên, giá quay lại vào ngày 9/2 tới mức Đỉnh giữa tháng Giêng,
+nhưng sau đó chịu một nhịp điều chỉnh sâu hơn, rơi xuống ngày 26/2 tới
+mức apex của Tam giác. Đây là một thời điểm then chốt. Bản thân điểm
+apex là một Hỗ trợ (hoặc Kháng cự) mạnh, nhưng sức mạnh của mức này
+suy yếu theo thời gian. Trong trường hợp này, có thể một “đòn đánh vòng”
+đang hình thành. Lệnh dừng lỗ luôn nên được đặt dưới mức apex (xem
+Chương 27). Tuy nhiên, ở đây apex đã trụ vững, và giá đi vào một “cuộn”
+khác, phá vỡ lên phía trên vào ngày 10/3. Nhịp điều chỉnh tiếp theo của
+chúng được Hỗ trợ, như kỳ vọng sau một cú phá vỡ sớm như vậy, tại Đường
+Đỉnh của mô hình.
+
+Đường giá từ giữa tháng Ba đến cuối tháng Tư rơi vào một mô hình Tam
+giác Tăng, trong đó đường biên trên đóng vai trò Hỗ trợ vào tháng Sáu
+nhưng bị phá vỡ vào tháng Bảy. Tham chiếu lại Hình 120, trang 204.
+
+Giao điểm của hai đường biên hội tụ của một Tam giác Cân đôi khi được
+gọi là “cái nôi”. Hỗ trợ (hoặc Kháng cự) theo trục mạnh nhất gần điểm cái
+nôi và yếu dần khi đường trục (mức apex) được kéo dài sang phải trên biểu
+đồ (tức là theo thời gian). Do đó, nếu một cú phá vỡ muộn không đưa giá đi
+xa khỏi vùng Tam giác, và xu hướng sau đó yếu dần, đi ngang, rồi bắt đầu
+điều chỉnh _sau khi_ đã vượt qua điểm cái nôi về mặt thời gian, thì diễn
+biến của nó khi chạm đường trục phải được theo dõi chặt chẽ. (Một lệnh
+dừng lỗ có thể là cần thiết ở đây.) Nếu Hỗ trợ theo trục không giữ được,
+nhịp điều chỉnh có thể xuyên thủng và tăng tốc thành một dao động rộng
+hơn, điều đã được gọi rất hình tượng là một “đòn đánh vòng quanh đường
+này”.
+
+![fig-145](./img/fig-145.png)
+
+**HÌNH 145.** Trong trường hợp này, một cú phá vỡ lên muộn (ngày 10/8)
+khỏi Tam giác Cân nhanh chóng thất bại, và nhịp điều chỉnh sau đó, sau
+khi giữ được vài ngày tại mức apex, cuối cùng đã phá vỡ cho một “đòn
+đánh vòng”. Sau đó, lưu ý rằng mức apex đã chuyển thành Kháng cự đối
+với các nhịp Phục hồi.
+
+##### Khối Lượng Khi Phá Vỡ Hỗ Trợ
+
+Trong những trường hợp giá không lùi lại khi chạm một Vùng Kháng cự
+(hoặc Hỗ trợ), mà sau khi có thể đi ngang tại đó vài ngày, lại tiếp tục bứt
+qua, thì gần như luôn có một sự tăng tốc đột ngột và một cú gia tăng rõ rệt
+về khối lượng. Điều này có thể được xem là bằng chứng xác nhận cho một
+cú phá vỡ dứt khoát và, do đó, là dấu hiệu cho thấy chuyển động sẽ tiếp
+diễn. Nguyên nhân của sự gia tăng khối lượng này không rõ ràng. Có người
+nói: “Cần khối lượng để vượt qua Kháng cự”, điều đó đủ đúng, nhưng khối
+lượng thường đến _sau khi_ Kháng cự đã bị xuyên thủng. Vì vậy, những
+người khác lại nói: “Khối lượng là bằng chứng rằng các nhà phân tích kỹ
+thuật đã thấy điều gì xảy ra và đang lao vào.” Nhưng theo quan điểm của
+các tác giả, cách giải thích này cũng có rất ít cơ sở. (Chúng tôi sẽ còn nói
+thêm về ảnh hưởng đáng nghi ngờ của giới kỹ thuật lên xu hướng ở phần
+sau.) Nhiều tranh luận về thay đổi khối lượng so với thay đổi giá gợi nhớ
+đến câu đố con gà – quả trứng. Dù thế nào, nguyên nhân của nhiều hiện
+tượng kỹ thuật như thế này có thể để cho giới học thuật bàn luận, miễn là
+hàm ý thực tiễn đã rõ ràng.
+
+![fig-146](./img/fig-146.png)
+
+**HÌNH 146.** Đây là một trường hợp điển hình của hai Pullback về đường
+cổ của một mô hình Đầu–Vai, lần thứ nhất ngay sau cú phá vỡ và lần thứ
+hai ba tuần sau đó. Lưu ý rằng cú xuyên thủng ban đầu đã “bật lại” từ Hỗ
+trợ tại Đỉnh đầu tháng Tư, và đợt giảm cuối tháng Bảy đã gặp Hỗ trợ tại Vùng
+Tích lũy chung tháng Tư–Năm. Nhưng điều mà biểu đồ này minh họa đặc
+biệt là cách khối lượng tăng lên khi một Vùng Hỗ trợ tốt bị xuyên thủng.
+Hãy chú ý sự gia tăng rõ rệt vào ngày 27/8, khi vùng tháng Tư–Năm bị bỏ
+lại phía sau.
+
+##### Hỗ Trợ và Kháng Cự Trong Các Chỉ Số
+
+Cũng như hầu hết mọi hiện tượng kỹ thuật khác mà chúng ta đã nghiên
+cứu, các nguyên lý của Hỗ trợ và Kháng cự áp dụng — với những điều
+chỉnh thích hợp — cho các Chỉ số cũng như cho từng cổ phiếu riêng lẻ.
+Vì một Chỉ số phản ánh biểu đồ tổng hợp của đa số các mã cấu thành nó,
+nhưng lại thường có một thiểu số biểu hiện các mô hình khá khác biệt, nên
+điều tự nhiên là các Vùng Hỗ trợ và Kháng cự trong Chỉ số không thể được
+diễn giải sắc nét và hẹp như ở cổ phiếu riêng lẻ. Đặc biệt, các Đỉnh và Đáy
+Nhỏ trong Chỉ số kém đáng tin cậy hơn khi làm Mức Kháng cự. Tuy nhiên,
+các Đảo chiều Trung gian được xác định rõ và quan trọng — vì chúng gần
+như luôn đại diện cho sự đảo chiều của toàn thị trường (gần như tất cả cổ
+phiếu) — sẽ thông thường tạo ra Kháng cự (hoặc Hỗ trợ, tùy trường hợp)
+mạnh trong xu hướng Chỉ số tiếp theo.
+
+Khi các Chỉ số phá vỡ đi xuống dưới một Mức Hỗ trợ, nhưng đồng thời
+một hoặc vài cổ phiếu vẫn giữ vững tại hoặc trên các Hỗ trợ cá nhân tương
+ứng của chúng, thì có cơ sở để giả định rằng những cổ phiếu đó đang ở vị
+thế mạnh hơn các mã khác để tham gia vào đợt phục hồi kế tiếp. Tuy nhiên,
+cụm từ “các yếu tố khác tương đương” cần được bổ sung, vì có những điều
+kiện hạn chế cho giả định này phải được cân nhắc. Chẳng hạn, có thể cổ
+phiếu đã chống chịu được đà giảm sẽ, chính vì lý do đó, kém hấp dẫn hơn
+đối với người mua mới so với một cổ phiếu đã giảm mạnh và do đó hiện
+có thể mua ở một mức giá “hấp dẫn” hơn.
+
+Nhiều tuyên bố về triển vọng tương lai của các cổ phiếu mà trước đây, theo
+tiêu chí này hay tiêu chí khác, đã thể hiện hiệu suất “tốt hơn Chỉ số” hoặc
+“kém hơn Chỉ số” cho phép lập luận theo cả hai chiều. An toàn nhất là coi
+mọi chỉ báo hiệu suất tương đối như vậy chỉ là một yếu tố nhỏ cần được
+đánh giá trong bức tranh tổng thể của biểu đồ.
+
+
+## Chương 14. Đường xu hướng và Kênh giá
+
+Một trong những nguyên lý cơ bản của hệ thống phân tích kỹ thuật bằng
+biểu đồ giá cổ phiếu — thực chất là một sự thật mà bất kỳ người mới nào
+cũng có thể nhanh chóng tự kiểm chứng bằng cách quan sát dữ liệu thị
+trường trong bất kỳ giai đoạn nào — là: _giá di chuyển theo xu hướng_.
+Thị trường nói chung, cũng như từng cổ phiếu cấu thành nên nó, không
+tăng giảm một cách hoàn toàn ngẫu nhiên; ngược lại, chúng thể hiện sự
+tổ chức và cấu trúc rõ ràng trong diễn biến trên biểu đồ.
+
+Giá vận động theo xu hướng. Các xu hướng này có thể là tăng, giảm,
+hoặc đi ngang (ngang). Chúng có thể ngắn hạn hoặc kéo dài. Chúng có
+thể được phân loại là Xu hướng Lớn (Primary), Trung gian (Secondary),
+hoặc Nhỏ (Minor) theo quy tắc của Lý thuyết Dow, hoặc là các Mô hình
+Đi ngang. (Việc phân biệt giữa một xu hướng Trung gian ngắn và một
+xu hướng Nhỏ kéo dài thường khó hơn với cổ phiếu đơn lẻ so với các
+chỉ số, nhưng điều đó không quá quan trọng.)
+
+Tuy nhiên, sớm hay muộn thì xu hướng cũng thay đổi; chúng có thể
+đổi chiều từ tăng sang giảm hoặc ngược lại, và cũng có thể đổi hướng
+mà không đảo chiều, chẳng hạn từ tăng sang đi ngang rồi lại tăng,
+hoặc từ độ dốc vừa sang độ dốc lớn hơn, và ngược lại.
+
+Lợi nhuận được tạo ra bằng cách tận dụng các xu hướng tăng hoặc
+giảm, bám theo chúng cho đến khi chúng đảo chiều. Vấn đề của nhà
+đầu tư là nhận diện được một xu hướng có lợi nhuận ở giai đoạn sớm
+nhất có thể, và sau đó cũng phải phát hiện được — nhanh nhất có thể —
+thời điểm kết thúc và Đảo chiều của nó. Việc đảo chiều của bất kỳ xu
+hướng quan trọng nào thường được đặc trưng bởi sự hình thành của
+một mô hình kết hợp giữa giá và khối lượng — gọi ngắn gọn là Mô hình
+Đảo chiều.
+
+## Đường xu hướng
+
+Tất cả những nhận định trên về xu hướng đã được trình bày hoặc hàm
+ý trong các chương trước. Mục tiêu của chúng ta lúc này là xem xét
+xu hướng một cách kỹ lưỡng hơn: cách vẽ chúng hiệu quả nhất trên
+biểu đồ, và mức độ mà chúng có thể được sử dụng để củng cố hoặc
+bổ sung cho các dự báo kỹ thuật rút ra từ những nghiên cứu về mô hình
+giá và Hỗ trợ–Kháng cự — đôi khi thậm chí cung cấp tín hiệu sớm hơn
+về sự thay đổi.
+
+Một trong những phát hiện đầu tiên mà người mới học thường nhận ra
+khi quan sát biểu đồ giá một cách nghiêm túc là: gần như tất cả các xu
+hướng Nhỏ và hầu hết các xu hướng Trung gian đều đi theo các đường
+gần như thẳng. Một số độc giả có thể cho rằng điều này hoàn toàn tự
+nhiên, không có gì đáng ngạc nhiên. Nhưng đa số lại ngày càng kinh
+ngạc và hứng thú khi đào sâu hơn.
+
+Không chỉ các dao động nhỏ, mà đôi khi cả những chuyển động Lớn
+kéo dài nhiều năm cũng xuất hiện trên biểu đồ như thể được vẽ bằng
+thước thẳng. Hiện tượng này thực sự là một trong những điều hấp dẫn,
+ấn tượng và bí ẩn nhất mà biểu đồ chứng khoán thể hiện.
+
+Khi áp thước lên các xu hướng giá đã được vẽ, ta nhanh chóng nhận ra
+rằng trong một xu hướng tăng, đường thẳng nhất thường là đường nối
+các đáy của những đợt điều chỉnh Nhỏ trong xu hướng đó. Nói cách
+khác, một làn sóng tăng trên thị trường được cấu thành từ nhiều gợn
+sóng, và các đáy của những gợn sóng này thường nằm trên, hoặc rất
+gần, một đường thẳng dốc lên.
+
+Các đỉnh của những gợn sóng này thường kém đều hơn; đôi khi cũng có
+thể nối bằng một đường thẳng, nhưng thường thì biên độ biến động hơi
+khác nhau, khiến bất kỳ đường nối nào giữa các đỉnh cũng trở nên cong
+vênh.
+
+Trong một xu hướng giảm, đường có khả năng thẳng nhất là đường nối
+các _đỉnh_ của những nhịp hồi Nhỏ, trong khi các đáy Nhỏ có thể — hoặc
+không — nằm trên một đường thẳng.
+
+Hai đường này — một đường dốc lên nối các đáy liên tiếp trong một
+đợt tăng lớn, và một đường dốc xuống nối các đỉnh liên tiếp trong một
+đợt giảm lớn — chính là các đường xu hướng cơ bản.
+
+Thật đáng tiếc là chưa có một thuật ngữ đặc trưng hơn được đặt ra cho
+chúng ngoài từ “đường”, một từ đã bị dùng quá nhiều với vô số ý nghĩa
+khác. Một số nhà phân tích gọi chúng là “tiếp tuyến”, một thuật ngữ
+mới mẻ hơn, nhưng vì nó làm sai lệch ý nghĩa toán học thực sự của từ
+_tangent_, nên lại khiến nhiều người đọc thêm bối rối. Có lẽ theo thời
+gian, từ này sẽ được chấp nhận theo nghĩa mới. Trong cuốn sách này,
+chúng tôi sẽ hài lòng với từ “đường”, nhưng làm cho nó rõ nghĩa hơn
+bằng cách ghép với “xu hướng” thành thuật ngữ “đường xu hướng”.
+
+![fig-147](./img/fig-147.png)
+
+**HÌNH 147.** Một loạt các đường xu hướng Trung gian được vẽ để minh họa
+nguyên lý “cơ bản” trên biểu đồ tuần của Atlantic Refining, từ tháng
+1/1944 đến tháng 8/1947. Lưu ý rằng mỗi đường xu hướng tăng cần hai
+điểm Đáy rõ ràng để xác định, và mỗi đường xu hướng giảm cần hai
+điểm Đỉnh. Trong một số trường hợp, hai điểm này chỉ cách nhau vài
+tuần, như tháng 8 và 9/1945. Ngược lại, hai đáy xác lập đường xu hướng
+tăng đầu năm 1946 lại cách nhau nhiều tháng — tháng 2 và tháng 6.
+
+Ban đầu, có thể đã vẽ nhiều đường thử nghiệm khác trên biểu đồ này,
+bao gồm một số xu hướng tăng có độ dốc quá lớn nên tính Trung gian
+đáng nghi ngờ — như đầu 1944, cuối 1945 và đầu 1946. Ở đây chỉ thể
+hiện các đường xu hướng cuối cùng.
+
+Ngoài ra còn có một số ví dụ thú vị về Pullback (sau khi xuyên thủng
+đường xu hướng), được thảo luận ở các trang tiếp theo. Lưu ý các thời
+điểm tháng 7/1944, tháng 4/1945, tháng 9/1945 và tháng 5/1947.
+
+Người ta thường nói rằng “đường xu hướng sinh ra để bị phá vỡ”, nhưng
+đó là một câu nói sáo rỗng không giúp làm sáng tỏ vấn đề. Dĩ nhiên là
+chúng bị phá vỡ; tất cả các đường xu hướng sớm muộn gì cũng bị phá
+vỡ, và có đường bị phá rất nhanh sau khi hình thành. Vấn đề là xác
+định đâu là những lần phá vỡ (tức là giá xuyên qua đường xu hướng)
+có ý nghĩa kỹ thuật quan trọng, và đâu là những lần không mang giá
+trị thực tiễn, chỉ đòi hỏi điều chỉnh nhẹ cách vẽ ban đầu.
+
+Không có câu trả lời nhanh và chắc chắn 100% cho vấn đề này; ý nghĩa
+của một số lần xuyên phá không thể xác định ngay khi chúng xuất hiện,
+mà phải chờ thêm các tín hiệu xác nhận từ những diễn biến khác trên
+biểu đồ. Tuy nhiên, trong phần lớn trường hợp, một cú phá vỡ quan
+trọng — đủ để buộc nhà giao dịch phải xem xét lại và có thể điều chỉnh
+chiến lược — là điều khá dễ nhận ra.
+
+##### Cách vẽ đường xu hướng
+
+Trước hết, đường xu hướng được vẽ như thế nào? Về mặt toán học,
+một đường thẳng được xác định bởi hai điểm bất kỳ nằm trên nó. Do đó,
+để vẽ một đường xu hướng, ta cần hai điểm xác định — hai điểm Đỉnh
+đảo chiều để vẽ xu hướng giảm, và hai điểm Đáy đảo chiều để vẽ xu
+hướng tăng. Nguyên tắc này giống hệt với cách chúng ta vẽ biên của
+Tam giác trong Chương 8. Thực tế, các đường biên của Tam giác và
+Hình chữ nhật, cũng như đường cổ (neckline) của mô hình Vai–Đầu–
+Vai, đều chỉ là những dạng đặc biệt của đường xu hướng.
+
+Giả sử chúng ta bắt đầu từ một Đáy Lớn và mô tả cách một loạt đường
+xu hướng tăng có thể hình thành từ đó. Để đơn giản hóa ví dụ, giả sử
+Đáy của thị trường gấu là một vùng Hình chữ nhật giữa 6½ và 8, và
+chuyển động cuối cùng trong mô hình này bắt đầu từ mức 6½, phá vỡ
+đỉnh mô hình tại 8, rồi tiến lên 9. Từ 9, giá điều chỉnh về 8, rồi lại quay
+đầu tăng.
+
+Ngay khi đợt tăng này tiến đủ xa để tạo ra một đáy Nhỏ rõ ràng tại mức
+8, ta có thể vẽ đường xu hướng tăng đầu tiên vì lúc này đã có hai điểm
+Đáy, trong đó điểm sau (8) cao hơn điểm trước (6½), đủ để xác định
+độ dốc. Đây sẽ là một đường xu hướng tăng Nhỏ. Ta sẽ vẽ nó nhẹ tay
+bằng bút chì trên biểu đồ và kéo dài nó về phía trước, có thể một tuần
+hoặc hơn. (Bạn sẽ dễ hình dung hơn nếu tự phác họa ví dụ này trên
+một mẩu giấy biểu đồ.)
+
+Tiếp theo, giả sử giá tăng lên 10, sau đó đi ngang vài ngày hoặc giảm
+nhẹ cho đến khi chạm lại đường xu hướng Nhỏ đã kéo dài. Rồi giá bắt
+đầu một đợt tăng thứ ba, nhưng nhanh chóng gặp cung, không tiến
+được xa, tạo ra lần tiếp xúc thứ tư với đường xu hướng, do dự, rồi
+phá vỡ xuống dưới đường này.
+
+Nếu giá đóng cửa rõ ràng bên dưới đường xu hướng, và đồng thời có
+sự gia tăng khối lượng giao dịch trong lúc xuyên phá, ta có thể kết luận
+rằng xu hướng tăng Nhỏ đầu tiên đã kết thúc, và cổ phiếu hoặc sẽ hình
+thành một mô hình Tích lũy nào đó trước khi tăng tiếp, hoặc sẽ trải qua
+một đợt “Điều chỉnh” sâu hơn so với những nhịp điều chỉnh ngắn trước
+đó.
+
+Toàn bộ xu hướng tăng Nhỏ trong ví dụ trên có thể chỉ kéo dài hai tuần,
+và đường xu hướng đầu tiên sẽ rất dốc — quá dốc để tồn tại lâu dài. Giờ
+hãy giả sử một chuỗi biến động giảm tạo ra đợt điều chỉnh sâu hơn như
+chúng ta dự đoán, kéo giá trở lại mức Hỗ trợ hình thành tại đỉnh của
+Hình chữ nhật ban đầu, tức mức 8. (Dựa trên các nghiên cứu Hỗ trợ–
+Kháng cự trước đó, ta sẽ nhận ra đây là một “điểm mua” lý tưởng.)
+
+Giả sử các diễn biến sau đó diễn ra bình thường, giá sẽ không ở lâu tại
+8 mà sớm bắt đầu một loạt nhịp tăng mới. Ngay khi đáy mới tại 8 trở nên
+rõ ràng, ta có thể vẽ một đường xu hướng mới nối điểm đáy ban đầu
+6½ và điểm mới 8. Đây sẽ là — và rất có thể đúng là — một đường xu
+hướng tăng Trung gian, không bị xuyên phá trong nhiều tuần, thậm chí
+nhiều tháng, cho đến khi đợt tăng Trung gian kết thúc.
+
+![fig-148](./img/fig-148.png)
+
+**HÌNH 148.** Biểu đồ ngày 1935–36 của Atchison minh họa cách phần cuối
+của một đợt tăng Trung gian mạnh có thể tăng tốc và tách xa khỏi
+đường xu hướng. (Lưu ý diễn biến cuối tháng 1 và đầu tháng 2.)
+Giá giảm về 66 vào tháng 4/1936 sau khi đường xu hướng tăng này
+bị phá vỡ cuối tháng 3. Cũng lưu ý rằng tại điểm điều chỉnh tháng
+12/1935 gặp Hỗ trợ, đường xu hướng trùng với đỉnh của một Tam
+giác. Những “sự trùng hợp” như vậy xuất hiện khá thường xuyên
+trong phân tích kỹ thuật.
+
+Sau đó, nếu đỉnh Trung gian này hình thành mô hình Vai–Đầu–Vai,
+đường xu hướng tăng Trung gian có thể bị phá vỡ bởi đợt giảm từ
+đỉnh đầu xuống đường cổ. Tuy nhiên, theo thông lệ, nhịp tăng cuối
+cùng trong một xu hướng Trung gian mạnh thường tăng tốc đủ xa
+so với đường xu hướng đã kéo dài, để lại không gian (bên phải
+biểu đồ) cho việc hình thành mô hình trước khi đường này bị chạm
+lại và xuyên thủng.
+
+Vì vậy, việc phá vỡ đường xu hướng thường xảy ra hoặc trong đợt
+giảm từ vai phải xuống đường cổ, hoặc gần như đồng thời với việc
+giá phá xuống dưới đường cổ để hoàn tất tín hiệu Vai–Đầu–Vai.
+Đáng ngạc nhiên là hai đường — đường cổ và đường xu hướng —
+rất часто bị phá vỡ _cùng lúc_. Trong nhiều trường hợp khác, khi
+đường xu hướng là đường bị xuyên thủng trước, có thể ngay sau
+khi giá quay đầu từ vai phải, ta không cần phải chờ phá vỡ đường
+cổ mà có thể hành động ngay.
+
+Đây là một dạng tín hiệu từ đường xu hướng cho phép giao dịch
+sớm hơn, và thường ở mức giá thuận lợi hơn nhiều so với tín hiệu
+chỉ xuất hiện khi mô hình Đảo chiều hoàn tất.
+
+##### Thang đo số học và thang đo logarit
+
+Đến lúc này, những độc giả thiên về toán học hẳn đã bắt đầu suy
+nghĩ về sự khác biệt giữa các đường xu hướng được vẽ trên thang
+đo số học và trên thang đo logarit (tỷ lệ). Một chuỗi điểm nằm trên
+một đường thẳng dốc lên hoàn hảo trên giấy biểu đồ số học, khi
+chuyển sang biểu đồ bán logarit, sẽ tạo thành một đường cong
+tăng mạnh lúc đầu rồi dần dần bo tròn. Ngược lại, các điểm nằm
+trên một đường thẳng trên biểu đồ bán logarit sẽ tạo thành một
+đường cong tăng tốc trên biểu đồ số học, với độ dốc ngày càng
+lớn khi kéo dài.
+
+Thực tế, sự khác biệt này hầu như không quan trọng khi xác định
+xu hướng Nhỏ, vì chúng hiếm khi kéo dài đủ lâu để đặc tính khác
+nhau của hai loại thang đo phát huy tác dụng. Điều này cũng đúng
+với các xu hướng Trung gian trung bình có độ dốc bình thường.
+Nhưng với những xu hướng Trung gian rất dài và mạnh, sự khác
+biệt có thể trở nên rõ rệt, ảnh hưởng đáng kể đến thời điểm và
+mức giá mà đường xu hướng cuối cùng bị phá vỡ.
+
+Đây là một trong những lý do quan trọng nhất để sử dụng giấy
+biểu đồ bán logarit trong phân tích kỹ thuật cổ phiếu. Tuy nhiên,
+chúng ta sẽ hoãn thảo luận sâu hơn về điểm này cho đến khi bàn
+về các xu hướng Lớn, và tiếp tục tập trung vào các đường Trung
+gian — vốn khá giống nhau trên cả hai loại thang đo. Trước mắt,
+chúng ta sẽ tập trung vào các xu hướng tăng Trung gian. (Xu hướng
+Trung gian được nhấn mạnh hơn xu hướng Nhỏ vì lý do hiển nhiên:
+xu hướng Nhỏ ít có giá trị thực tiễn trong giao dịch hay đầu tư.)
+
+Quay lại nguyên lý cơ bản: nếu giá tăng theo những đường gần
+thẳng, thì việc tìm và vẽ chính xác những đường này sẽ phục vụ
+hai mục đích sau:
+
+1. Khi đường xu hướng bị phá vỡ (tức là giá giảm xuyên qua nó
+   một cách dứt khoát), điều đó báo hiệu đợt tăng đã kết thúc.
+   Đây là lúc nhà giao dịch trung hạn nên bán ra và tìm cơ hội
+   đầu tư khác.
+2. Khi một mô hình Đảo chiều Nhỏ hình thành trên biểu đồ của
+   một cổ phiếu đang nằm cao và cách xa đường xu hướng tăng
+   Trung gian, đến mức các mục tiêu giảm của mô hình đó có
+   thể được thực hiện _trước khi_ đường xu hướng bị vi phạm,
+   thì nhà giao dịch trung hạn có thể quyết định bỏ qua mô hình
+   đảo chiều nhỏ đó và tiếp tục nắm giữ miễn là đường xu hướng
+   vẫn còn hiệu lực.
+
+Ưu điểm của chức năng thứ nhất là điều hiển nhiên. Ưu điểm của
+chức năng thứ hai, dù ít rõ ràng hơn với người thiếu kinh nghiệm,
+nhưng lại quan trọng không kém đối với nhà đầu tư đã hiểu rằng
+việc bán ra ngay khi xuất hiện một nhịp điều chỉnh Nhỏ là một
+thói quen tốn kém, miễn là vẫn còn cơ hội cho một đợt tăng Trung
+gian tiếp diễn.
+
+Để đạt được những mục đích này, như đã nói, ta cần tìm và vẽ
+đường xu hướng xác định chính xác xu hướng Trung gian, và
+sau đó nhận biết khi nào đường đó bị phá vỡ một cách dứt khoát.
+Phần trình bày ngắn gọn trước đây về cách dựng đường xu hướng
+chưa đi sâu vào các điểm này.
+
+![fig-149](./img/fig-149.png)
+
+**HÌNH 149.** Các đường xu hướng xác định những dao động ngắn hạn
+của Crane Company năm 1945. Lưu ý rằng ba đáy hình thành trên
+đường xu hướng tăng đầu tiên, và đợt tăng thứ ba (cuối tháng 2)
+đã không chạm tới một đường song song vẽ qua các đỉnh trước đó.
+Một thất bại như vậy thường báo trước việc phá vỡ xu hướng. Điều
+tương tự xảy ra vào cuối xu hướng tăng thứ hai cuối tháng 5.
+
+Xu hướng giảm trong tháng 3 mang dạng Nêm. Quan sát cách nhịp
+hồi ngày 6/4 gặp Hỗ trợ tại đường đỉnh đã bị xuyên phá trước đó.
+Vào tháng 6, một đợt hồi gặp Kháng cự tại đường xu hướng tăng
+đã bị phá. Những Pullback như vậy là rất phổ biến. Mô hình Vai–
+Đầu–Vai phức hợp nhỏ trong tháng 6 không bao giờ hoàn tất, vì
+giá không phá xuống khỏi nó với biên độ yêu cầu.
+
+
+
+##### Các phép kiểm tra tính thẩm quyền
+
+Dưới đây là một số phép kiểm tra có thể áp dụng để đánh giá tính hợp lệ
+về mặt kỹ thuật, hay mức độ “thẩm quyền”, của một đường xu hướng tăng:
+
+
+- **A**. Số lượng đáy hình thành tại (hoặc rất gần) đường xu hướng trong
+  suốt một chuỗi các sóng tăng nhỏ càng nhiều thì đường đó càng có
+  ý nghĩa kỹ thuật. Mỗi lần “kiểm tra” thành công sẽ làm tăng mức độ
+  quan trọng của đường xu hướng. Một đường xu hướng tăng sơ bộ có
+  thể được vẽ ngay khi hai đáy xuất hiện, với đáy sau cao hơn đáy trước.
+  Nhưng nếu giá quay lại chạm đường đó lần thứ ba, hình thành đáy thứ
+  ba và bắt đầu một đợt tăng mới, thì tính hợp lệ của đường xu hướng
+  như một mô tả đúng của xu hướng đã được thị trường xác nhận. Nếu
+  sau này hình thành đáy thứ tư trên cùng đường đó và giá lại bật lên,
+  thì giá trị của nó như một tiêu chí xu hướng càng được củng cố mạnh
+  mẽ hơn nữa, v.v.
+
+- **B**. Độ dài của đường xu hướng, tức là thời gian nó tồn tại mà không
+  bị giá phá vỡ xuống dưới, cũng làm tăng ý nghĩa kỹ thuật của nó.
+  Tuy nhiên, nguyên tắc này cần được hiểu có điều kiện. Nếu đường
+  xu hướng được vẽ từ hai đáy ban đầu quá gần nhau về mặt thời gian
+  — chẳng hạn cách nhau chưa tới một tuần — thì nó dễ sai lệch; có
+  thể quá dốc hoặc (thường gặp hơn) quá thoải. Nếu quá thoải, giá có
+  thể rời xa đường đó và duy trì ở mức cao trong thời gian dài; sau đó
+  quay đầu giảm và đã đi khá xa trong một pha điều chỉnh trung hạn
+  trước khi chạm lại đường xu hướng đã vẽ. Nhưng nếu đường xu hướng
+  được vẽ từ các đáy cách nhau đủ xa để hình thành những thành phần
+  sóng độc lập của xu hướng đang xét, với một nhịp tăng rõ ràng và
+  “khoảng trống” giữa chúng, thì khả năng đó là đường xu hướng thực
+  sự sẽ cao hơn. Nói chung, nên coi trọng số lượng đáy hình thành trên
+  đường xu hướng (Kiểm tra 1) hơn là chỉ xét độ dài của nó (Kiểm tra 2).
+
+- **C**. Góc nghiêng của đường xu hướng (so với phương ngang) cũng,
+  ở một mức độ nào đó, là tiêu chí đánh giá tính hợp lệ của nó như
+  ranh giới của xu hướng trung hạn. Một đường quá dốc có thể dễ dàng
+  bị phá vỡ chỉ bởi một pha tích lũy đi ngang ngắn — ví dụ như một
+  mô hình Flag nhỏ hình thành trên đà tăng kiểu “cột cờ” — rồi sau đó
+  giá lại bứt phá lên trong một đợt tăng mới kéo dài. Những đường dốc
+  như vậy có giá trị dự báo rất thấp đối với nhà phân tích kỹ thuật.
+  Đường xu hướng càng phẳng, càng gần với phương ngang thì càng
+  quan trọng về mặt kỹ thuật và do đó, bất kỳ sự phá vỡ xuống dưới
+  nào cũng mang ý nghĩa lớn hơn.
+
+Tuy nhiên, “dốc” khi áp dụng cho xu hướng cổ phiếu là một khái niệm
+tương đối và, phải thừa nhận thẳng thắn rằng, rất khó định nghĩa chính
+xác. Kinh nghiệm — chỉ có thể tích lũy bằng việc nghiên cứu nhiều biểu
+đồ và thực hành xây dựng, phân tích chúng trong nhiều tháng — sẽ mang
+lại khả năng gần như trực giác để phân biệt đâu là một đường xu hướng
+“quá dốc để duy trì” và đâu là một đường có độ dốc hợp lý, có thể giữ
+được cho tới khi xu hướng thực sự đảo chiều từ tăng trung hạn sang giảm
+trung hạn. Độ dốc xu hướng sẽ khác nhau giữa các cổ phiếu tùy theo đặc
+tính giao dịch riêng của chúng. Nó cũng thay đổi theo các giai đoạn của
+chu kỳ chính — thường dốc hơn ở những pha cuối. Càng có nhiều lịch
+sử biểu đồ của một mã cụ thể, bạn càng có khả năng đánh giá chính xác
+xu hướng hiện tại của nó.
+(Nhận xét trên, cần nói thêm, cũng áp dụng cho việc diễn giải hầu hết
+các mô hình và hiện tượng kỹ thuật khác, không chỉ riêng đường xu
+hướng.)
+
+
+![fig-150](./img/fig-150.png)
+
+**HÌNH 150.** Xu hướng giảm trung hạn và xu hướng tăng trung hạn của
+Commercial Solvents năm 1946. Lưu ý sự gia tăng khối lượng tại thời điểm
+ngày 30/3 giá phá vỡ đường xu hướng giảm cơ bản (đồng thời bứt phá
+khỏi một mô hình Head-and-Shoulders đáy nhỏ). Cú rơi xuống dưới đường
+song song phía dưới vào cuối tháng 2 không mang ý nghĩa kỹ thuật. Đường
+xu hướng tăng từ đáy tháng 3 bị phá vỡ ngày 14/6, đồng thời với cú bứt phá
+ra khỏi một mô hình Descending Triangle mà sau này cho thấy đó chính
+là đỉnh cuối cùng của thị trường bò.
+
+Một manh mối để nhận biết độ dốc tương đối được cung cấp cho những
+người sử dụng giấy biểu đồ bán logarit TEKNIPLAT, vốn được dùng cho
+phần lớn các minh họa trong cuốn sách này. Khi được chiếu trên thang
+đo này, các xu hướng tăng trung hạn trên biểu đồ ngày, đối với đa số
+cổ phiếu giao dịch trong vùng giá 10–50, thường tạo góc xấp xỉ 30 độ
+so với phương ngang. Một số sẽ thoải hơn đôi chút, số khác dốc hơn
+chút ít, nhưng điều đáng ngạc nhiên là đường xu hướng thường rất gần
+mốc 30 độ ở các cổ phiếu có mức biến động và thanh khoản trung bình.
+Những mã mỏng, mang tính đầu cơ cao và các cổ phiếu đầu tư nặng là
+ngoại lệ: nhóm đầu thường dốc hơn, nhóm sau thường phẳng hơn. Thang
+bán logarit có ưu điểm là quy đổi mọi biến động, bất kể mức giá, về
+dạng tỷ lệ hay phần trăm. Trên thang số học thuần túy, đường xu hướng
+thường sẽ dốc hơn ở cổ phiếu giao dịch quanh 50 so với mã chỉ quanh 15.
+Trên biểu đồ tuần dùng cùng thang giá, góc của xu hướng tăng trung hạn
+tất nhiên sẽ dốc hơn so với biểu đồ ngày. Thang đo khác nhau sẽ cho
+những góc khác nhau. Việc các tờ TEKNIPLAT thường tạo ra đường tăng
+30 độ chỉ là sự trùng hợp ngẫu nhiên.
+
+##### Tính hợp lệ của sự xuyên phá
+
+Như vậy, chúng ta có ba tiêu chí để đánh giá mức độ thẩm quyền hay độ
+chính xác của một đường xu hướng tăng trung hạn: (1) số lần nó được
+“kiểm tra” hay được chạm tới mà không bị phá vỡ, (2) độ dài hay thời
+gian tồn tại, và (3) góc nghiêng đi lên. Khi có một đường xu hướng mà,
+dựa trên một hay nhiều tiêu chí trên (tốt nhất là ít nhất hai), có vẻ là
+một ranh giới hợp lý của xu hướng, vấn đề tiếp theo là xác định khi nào
+nó đã bị phá vỡ một cách cuối cùng và dứt khoát.
+
+Một lần nữa, ta có thể đặt ra ba phép kiểm tra, trong đó hai phép gần như
+trùng với các quy tắc đã nêu ở những chương trước để xác định cú bứt
+phá quyết định khỏi các mô hình đảo chiều hay tích lũy. Phép thứ nhất
+là _mức độ xuyên phá_. Để được coi là quyết định, giá không chỉ cần
+đi qua đường xu hướng mà còn phải đóng cửa vượt qua nó với biên độ
+xấp xỉ 3% giá cổ phiếu. Điều này không nhất thiết phải xảy ra trong một
+ngày, dù thường là vậy. Mức xuyên phá 3% có thể đạt được qua 2 hoặc
+3 ngày giảm dần.
+
+Phép kiểm tra thứ hai là _khối lượng giao dịch_. Chúng ta đã thấy rằng
+khối lượng thường tăng rõ rệt khi có cú bứt phá tăng giá thật sự khỏi
+một vùng mô hình, nhưng không nhất thiết phải tăng để xác nhận một
+cú phá vỡ xuống. Ta cũng thấy rằng trong nhiều trường hợp, khối lượng
+không tăng nhiều trong ngày đầu tiên phá vỡ xuống của mô hình
+Descending Triangle, nhưng thường tăng nhanh khi đà giảm tiếp diễn.
+Trong phần thảo luận hiện tại, chúng ta đang xét các đường xu hướng
+_tăng_, nên việc xuyên phá chúng tương đương với một cú bứt phá
+xuống. Ta kỳ vọng các quy tắc tương tự sẽ áp dụng, và nhìn chung là
+đúng như vậy. Khi đã có một phiên đóng cửa vượt qua đường với biên
+độ giá 3%, thì không cần thiết khối lượng phải mở rộng mạnh tại thời
+điểm đó để xác nhận tính hợp lệ của cú phá vỡ.
+
+Tuy nhiên, thực tế cho thấy việc phá vỡ một đường xu hướng tăng trung
+hạn, trong phần lớn các trường hợp, thường đi kèm với sự gia tăng đáng
+kể của hoạt động giao dịch. Do đó, sự tăng khối lượng có thể được coi
+là yếu tố xác nhận cho một cú xuyên phá quyết định. Nó đặc biệt hữu
+ích trong các trường hợp ranh giới. Ví dụ, nếu giá bắt đầu giảm từ
+một điểm nằm trên đường xu hướng, đi xuống xuyên qua nó với khối
+lượng _tăng rõ rệt_, và đóng cửa vượt qua đường đó chỉ khoảng 2%
+— thấp hơn đôi chút so với quy tắc 3% — nhưng lại đóng gần hoặc tại
+đáy của biên độ trong ngày, thì quy tắc 3% chưa được thỏa mãn, song
+biên độ nhỏ hơn _cộng với_ diễn biến khối lượng có thể được coi là
+quyết định.
+
+Tuy vậy, cần cảnh giác và đừng vội vàng hành động chỉ vì một cú
+“rũ bỏ” phá xuống dưới đường xu hướng với cơn bùng nổ giao dịch —
+có thể chỉ kéo dài vài phút cuối phiên — rồi sau đó giá quay đầu tăng
+trở lại và đóng cửa phía trên đường xu hướng hoặc ít nhất là rất gần
+nó. Điều này rất có thể — và thường là — một tín hiệu giả tại thời điểm
+đó. Nhưng hãy theo dõi sát diễn biến trong vài ngày tiếp theo; tình
+trạng kỹ thuật rõ ràng đang ở mức nhạy cảm, nếu không thì một cú rũ
+bỏ đã không thể dễ dàng xảy ra như vậy.
+
+
+![fig-151](./img/fig-151.png)
+
+**HÌNH 151.** Sự xuyên phá hợp lệ của đường xu hướng và các hệ quả thông
+thường — điều chỉnh hoặc tích lũy — được minh họa trên gần như mọi
+biểu đồ trong chương này và nhiều phần khác của cuốn sách. Tuy nhiên,
+biểu đồ tuần của Phillips Petroleum ở trên được đưa ra để cho thấy một
+ngoại lệ nổi bật. Đường xu hướng tăng trung hạn được kéo từ đáy tháng
+9/1936 của “P” qua các đáy đầu tháng 10 và cuối tháng 11 đã bị phá vỡ
+xuống dưới một cách dứt khoát vào tuần thứ ba của tháng 5/1937. Hơn
+nữa, một mô hình đảo chiều Head-and-Shoulders nhiều tầng đã hình
+thành từ tháng 2, với đường viền cổ quan trọng tại mức 52. Và thị
+trường bò lúc đó đã kéo dài 4 năm; “P” đã tăng từ mức 2! Nếu che
+phần biểu đồ sau ngày 1/7/1937, bạn sẽ đồng ý rằng có quá đủ lý do
+để bất kỳ nhà kỹ thuật nào cũng bán ngay lập tức mà không cần đợi
+đường cổ 52 bị phá. Nhưng, như đã nói, đây là một trong những ngoại
+lệ vốn xảy ra với mọi mô hình và quy tắc kỹ thuật. “P” quay đầu ngay
+lập tức và vọt lên tới 64 trước khi kết thúc. Dẫu vậy, những diễn biến
+như thế mang theo một cảnh báo giá trị: chúng rất hiếm khi xuất hiện
+trừ khi xu hướng chính đã gần cạn; bất kỳ đà tăng nào tiếp theo cũng
+đều nguy hiểm để theo đuổi.
+
+Phép kiểm tra thứ ba cũng đặc biệt áp dụng cho những cú phá vỡ nằm
+ở ranh giới xét về biên độ xuyên phá. Giả sử một cổ phiếu giao dịch
+quanh mức 40 giảm xuống xuyên qua một đường xu hướng tăng trung
+hạn đã được xác lập vững chắc và đóng cửa thấp hơn nó 1 hoặc 1⅛
+điểm — một biên độ chỉ thấp hơn chút ít so với mức 3% đã nêu —
+mà không có sự gia tăng đáng kể về khối lượng. Giả sử giá dao động
+quanh đó một hoặc hai ngày trong một thị trường trầm lắng và biên
+độ hẹp, rồi bắt đầu hồi phục. Nếu trong nhịp hồi này không có sự gia
+tăng hoạt động — nếu giá chỉ nhích lên yếu ớt tới mặt dưới của đường
+xu hướng và có xu hướng “bo tròn” tại đó mà không thể đóng cửa rõ
+ràng phía trên — thì tình thế thực sự đã trở nên nguy cấp, và chỉ cần
+một dấu hiệu nhỏ của áp lực bán quay trở lại cũng có thể được xem
+là tín hiệu rằng xu hướng tăng đã bị phá vỡ một cách dứt khoát.
+
+Một nhịp quay lại như mô tả ở đoạn trên được gọi là Throwback hay
+Pullback. Trước đây chúng ta đã mô tả những diễn biến tương tự sau
+các cú bứt phá khỏi mô hình Head-and-Shoulders và các mô hình khác,
+và sẽ còn đề cập thêm về chúng khi bàn sâu hơn về đường xu hướng.
+
+Ba phép kiểm tra mà chúng ta đang thảo luận, giúp xác lập tính hợp lệ
+của một cú xuyên phá đường xu hướng, tiếc rằng không thể áp dụng
+một cách cứng nhắc và không cần đến phán đoán. Phần lớn các đường
+xu hướng trung hạn khó có thể đạt độ chính xác như các đường biên
+của mô hình, và ngay cả với các đường biên đó cũng cần cho phép
+một mức linh hoạt nhất định. Như chúng ta đã nhiều lần nhấn mạnh,
+luôn tồn tại ngoại lệ cho mọi quy tắc kỹ thuật về diễn biến giá. Tuy
+nhiên, khả năng phán đoán trong việc xác lập các đường xu hướng có
+ý nghĩa và diễn giải các cú xuyên phá của chúng sẽ đến cùng với kinh
+nghiệm.
+
+##### Điều chỉnh đường xu hướng
+
+Khi một đường xu hướng bị phá vỡ với biên độ chưa đủ quyết định,
+và sau đó giá lại hồi phục vượt lên trên nó, sự nghi ngờ tự nhiên sẽ
+nảy sinh về việc liệu đường ban đầu còn giữ được thẩm quyền hay
+không. Nó nên bị loại bỏ, điều chỉnh, hay giữ nguyên?
+
+Một lần nữa, cần đến phán đoán và kinh nghiệm, nhưng một vài
+nguyên tắc chung có thể giúp đưa ra quyết định. Nếu đường xu hướng
+ban đầu chỉ dựa trên hai điểm — tức hai đáy đầu tiên mà nó được kéo
+qua — và cú xuyên phá chưa dứt khoát xảy ra khi giá quay lại chạm
+đường đó lần thứ ba, thì tốt hơn hết là nên vẽ lại đường qua đáy thứ
+nhất ban đầu và đáy thứ ba mới hình thành. (Dĩ nhiên, chỉ làm điều
+này sau khi giá đã đi lên từ đáy thứ ba và đáy đó được xác lập rõ ràng
+là một đáy nhỏ.) Hoặc, trong những trường hợp như vậy, bạn có thể
+nhận thấy rằng một đường mới vẽ qua đáy thứ hai và thứ ba hoạt động
+tốt hơn; nếu đáy thứ nhất là một ngày đảo chiều với mức _đóng cửa_
+cao hơn nhiều so với đáy trong ngày, bạn có thể thấy rằng khi kéo
+ngược lại, đường mới này chạm gần đúng vào mức đóng cửa đó.
+
+Ngược lại, nếu đường xu hướng ban đầu đã được “kiểm tra” một
+hoặc nhiều lần sau khi được vẽ — tức là đã có đáy thứ ba và thậm
+chí thứ tư hình thành trên nó mà không phá vỡ, qua đó “xác nhận”
+nó — thì cú xuyên phá chưa dứt khoát sau đó có thể được bỏ qua
+và đường ban đầu vẫn được coi là còn hiệu lực.
+
+Một cú phá vỡ trong ngày xuyên qua một đường xu hướng đã được
+xác lập, nhưng không khiến giá đóng cửa vượt qua đường đó, có thể
+được bỏ qua và giữ nguyên đường xu hướng. Thực tế, như đã gợi ý,
+giá đóng cửa thường tạo nên một đường xu hướng tốt hơn so với các
+mức đáy thấp nhất trong ngày của các đáy liên tiếp, và điều này đặc
+biệt đúng với các cổ phiếu “mỏng” dễ chịu tác động của những biến
+động thất thường. Việc thử nghiệm với các đường khác nhau thường
+mang lại kết quả tốt. Một chiếc thước mỏng, trong suốt là công cụ
+rất hữu ích cho việc nghiên cứu đường xu hướng.
+
+
+![fig-152](./img/fig-152.png)
+
+**HÌNH 152.** Đường xu hướng kép (xem trang kế tiếp) thường chỉ trở nên
+rõ ràng sau khi xu hướng đã kéo dài vài tháng. Trong pha tăng tốc của
+xu hướng tăng trung hạn của Paramount bắt đầu từ tháng 10/1945,
+tính chất kép của đường xu hướng cơ bản chỉ được nhận ra vào tháng
+1/1946. Đường bên trong (phía trên) bị phá vỡ lại vào tháng 4, nhưng
+đường bên ngoài (phía dưới) chỉ bị xuyên phá xuống dưới một cách
+quyết định vào tháng 5, tại đỉnh của thị trường bò.
+
+Còn một dạng hành động giá khác có thể đòi hỏi phải vẽ lại đường
+xu hướng. Đôi khi, sau khi một đường được kéo qua hai đáy nhỏ đầu
+tiên trong một xu hướng tăng, một đáy nhỏ thứ ba sẽ hình thành,
+không nằm trên đường đó mà ở cao hơn đáng kể. Trong những
+trường hợp như vậy, hãy giữ nguyên đường ban đầu, đồng thời vẽ
+thêm một đường mới qua đáy thứ hai và thứ ba, rồi theo dõi diễn biến.
+Nếu nhịp tăng từ đáy thứ ba nhanh chóng suy yếu và đường xu hướng
+mới, do đó, sớm bị phá vỡ, thì đường ban đầu có lẽ là đúng. Nhưng
+nếu đáy thứ ba tỏ ra là một đáy “mạnh”, và đường mới đứng vững
+trong vài tuần (và nếu ban đầu nó không rõ ràng là quá dốc), thì
+đường cũ có thể bị bỏ và đường mới được xem là mô tả xu hướng
+tốt hơn.
+
+
+![fig-153](./img/fig-153.png)
+
+**HÌNH 153.** Các kênh xu hướng của Bethlehem Steel năm 1945. Giá bứt
+phá lên trên khỏi kênh ngang 92–98 (Rectangle) vào tháng 1/1946 và
+tiến tới 114. Một nhà giao dịch ngắn hạn có thể đã bán quanh 94–96
+vào đầu tháng 11 (do phá vỡ xu hướng tăng) và mua lại tại 99 vào
+tháng 1 khi Rectangle bị bứt phá. Xem thêm phần thảo luận về Kênh
+giá.
+
+
+##### Đường Xu Hướng Kép và Vùng Xu Hướng
+
+Trong quá trình “thử và chỉnh” để tìm một đường phù hợp cho Xu hướng
+Tăng Trung gian, bạn có thể nhận ra rằng _hai đường song song_ — có thể
+cách nhau chừng một điểm ở một cổ phiếu giao dịch quanh vùng ba mươi —
+lại mô tả mô hình xu hướng thực sự tốt hơn bất kỳ đường đơn lẻ nào có thể
+vẽ ra. Các Đáy nhọn và những cú rũ bỏ mạnh trong những trường hợp như
+vậy thường rơi dọc theo đường ngoài hoặc đường dưới, trong khi các nhịp
+điều chỉnh chậm chạp và tròn trịa hơn sẽ dừng tại hoặc gần đường trên hay
+đường trong. Hoặc hai đường này sẽ khoanh định một _vùng_ mà trong đó
+các Sóng Giảm Nhỏ liên tiếp có xu hướng dừng lại và đảo chiều.
+Những Đường Xu hướng Kép như vậy thực ra rất phổ biến, dù phần lớn
+các nhà phân tích biểu đồ dường như không hề nhận biết đến chúng. Việc
+rèn luyện con mắt để phát hiện chúng là rất đáng giá — luôn quan sát các
+xu hướng mà chúng có thể được áp dụng. Chúng sẽ làm sáng tỏ nhiều tình
+huống mà nỗ lực tìm một đường then chốt duy nhất chỉ dẫn đến bực bội,
+và cuối cùng là bỏ cuộc trong chán nản.
+Những xu hướng được xác định tốt nhất bởi Đường Xu hướng Kép (hoặc
+bởi một Đường Xu hướng rất Rộng, nếu bạn thích) không thể được coi là
+kết thúc cho tới khi đường ngoài, đường dưới bị xuyên thủng một cách dứt
+khoát. Liên quan đến điều này, hãy nhớ lại điều chúng tôi đã nói ở đầu chủ
+đề: các Đáy nhọn kiểu rũ bỏ có xu hướng rơi trên đường ngoài. Các nhịp
+phục hồi từ những Đáy như vậy thường cũng rất sắc nét, và vì thế giá sẽ
+nhanh chóng bật trở lại phía trên đường trong, đường trên. Cảnh báo về
+một sự phá vỡ xu hướng sắp xảy ra xuất hiện khi giá đi xuống tới đường
+ngoài một cách đều đặn, thay vì bằng kiểu phản ứng “rũ” nhanh, và
+
+![fig-154](./img/fig-154.png)
+
+**HÌNH 154.** Một xu hướng giảm kéo dài 10 tháng, thẳng và hiếm thấy,
+được xác định rất đẹp bởi các Đường Xu hướng Cơ bản Kép phía trên Kênh
+Giá, và đồng thời bởi một cặp Đường Trở lại kép phía dưới. Đỉnh Lớn bắt
+đầu bằng một Đảo chiều Một Ngày mạnh vào 3/12/1945, rồi phát triển thành
+một Tam giác Giảm phá vỡ ngày 19/2/1946. Tam giác Cân bắt đầu hình thành
+vào tháng 9/1946 cũng đã phá vỡ theo hướng giảm.
+
+##### Kênh Xu Hướng
+
+Ở phần đầu của nghiên cứu về xu hướng này, chúng tôi dùng thuật ngữ
+Đường Xu hướng Cơ bản cho đường dốc lên nối các Đáy Sóng trong một
+đợt tăng, và cho đường dốc xuống nối các Đỉnh Sóng trong một đợt giảm.
+Chúng tôi cũng lưu ý rằng các Điểm Đảo chiều đối diện — tức là các đỉnh
+sóng trong xu hướng tăng và các đáy sóng trong xu hướng giảm — thường
+được xác định kém rõ ràng hơn. Đó là một trong những lý do vì sao toàn bộ
+thảo luận cho tới đây tập trung vào Đường Xu hướng Cơ bản. Một lý do
+khác, dĩ nhiên, là nhiệm vụ cấp bách nhất của nhà phân tích kỹ thuật là xác
+định khi nào một xu hướng đã cạn, và cho mục đích đó, Đường Cơ bản là
+then chốt.
+Tuy nhiên, trong một phần không nhỏ các xu hướng bình thường, các
+Sóng Nhỏ đủ đều đặn để có thể được xác định ở các cực còn lại bằng một
+đường khác. Nghĩa là, các _Đỉnh_ của những nhịp hồi cấu thành một Đợt
+Tăng Trung gian đôi khi phát triển dọc theo một đường xấp xỉ song song
+với Đường Xu hướng Cơ bản chiếu theo các Đáy của chúng. Đường song
+song này có thể gọi là _Đường Trở lại_, vì nó đánh dấu vùng nơi các nhịp
+điều chỉnh (các chuyển động quay lại ngược xu hướng chính) khởi phát.
+Vùng giữa Đường Xu hướng Cơ bản và Đường Trở lại chính là _Kênh Xu
+hướng_.
+Những Kênh Xu hướng được xác định rõ nét thường xuất hiện nhất ở các
+cổ phiếu giao dịch sôi động với lượng cổ phiếu lưu hành lớn — và hiếm
+nhất ở những mã kém phổ biến, thanh khoản mỏng, chỉ thu hút sự chú ý
+lẻ tẻ của nhà đầu tư. Giá trị của khái niệm Kênh Xu hướng đối với nhà giao
+dịch kỹ thuật dường như không cần bình luận dài dòng ở đây; việc sử dụng
+chiến thuật của nó sẽ được bàn ở nửa sau của cuốn sách này.
+Tuy nhiên, công dụng lớn nhất của Kênh Xu hướng lại không phải điều
+thường hấp dẫn người mới khi họ lần đầu làm quen với nó — tức là xác
+định các mức chốt lời tốt. Các nhà phân tích giàu kinh nghiệm thấy nó hữu
+ích hơn theo nghĩa tiêu cực. Cụ thể, một khi một Kênh Xu hướng đã được
+thiết lập rõ ràng, thì bất kỳ sự thất bại nào của một nhịp hồi trong việc chạm
+tới Đường Trở lại (đường song song phía trên của kênh trong một Đợt Tăng
+Trung gian) đều được coi là dấu hiệu suy yếu của xu hướng. Hơn nữa, độ
+lệch mà nhịp hồi không chạm tới Đường Trở lại (trước khi quay đầu giảm)
+thường bằng với độ lệch mà Đường Xu hướng Cơ bản bị xuyên thủng bởi
+đợt giảm kế tiếp trước khi nó dừng lại hoặc xuất hiện một Throwback.
+Tương tự, khi đã có một Kênh Xu hướng được thiết lập, nếu một nhịp
+điều chỉnh từ Đường Trở lại không kéo giá trở về tận Đường Xu hướng Cơ
+bản mà tạo đáy ở đâu đó phía trên, thì đợt tăng từ Đáy đó thường sẽ đẩy
+giá bứt ra khỏi kênh ở phía trên (xuyên qua Đường Trở lại) với một biên
+độ xấp xỉ bằng biên độ mà nhịp điều chỉnh đã không chạm tới đáy của kênh
+(Đường Xu hướng Cơ bản).
+
+![fig-155](./img/fig-155.png)
+
+**HÌNH 155.** Đường Xu hướng Cơ bản Trung gian và các Đường Trở lại
+được đánh dấu rõ ở Southern Pacific, 1945. Lưu ý các Lá cờ (Flag) trong
+Kênh Xu hướng — một Flag tăng vào tháng Sáu và một Flag giảm vào tháng
+Tám. Kênh Xu hướng Tăng, bắt đầu ngày 22/8, kéo dài tới tháng 2/1946.
+
+![fig-156](./img/fig-156.png)
+
+**HÌNH 156.** Lưu ý rằng mức độ giá không giảm xuống tới Đường Trở lại
+vào cuối tháng Mười Một đã đo được khoảng cách mà chúng tăng vượt qua
+và lên trên Đường Xu hướng Giảm Cơ bản vào đầu tháng Mười Hai. Quy
+tắc này được nêu ở trang trước.
+
+##### Các Đường Thử Nghiệm
+
+Thực tế, một nhà phân tích giàu kinh nghiệm liên tục vẽ các đường xu
+hướng đủ loại — Nhỏ, Trung gian và Lớn — trên biểu đồ của mình. Ban
+đầu, ông sẽ vẽ chúng rất nhẹ, ở bất cứ đâu có lý do để vẽ. Nhiều đường sẽ
+nhanh chóng chứng tỏ là không có ý nghĩa, và những đường đó sẽ bị xóa
+bỏ. Những đường khác sẽ “đứng vững” — cho thấy bằng chứng về thẩm
+quyền kỹ thuật — và chúng sẽ được tô đậm hơn, hoặc đánh màu như sẽ
+được gợi ý sau này. Ông sẽ luôn cảnh giác tìm các Đường Xu hướng Kép và
+vẽ thử các Đường Trở lại để đánh dấu các kênh tiềm năng ở mọi cơ hội. Ví
+dụ, ngay khi có vẻ đã hình thành một Đường Xu hướng Tăng Cơ bản được
+chiếu từ hai Đáy, ông sẽ quay lại Đỉnh của nhịp hồi giữa hai Đáy đó và vẽ
+một đường song song với Đường Xu hướng Đáy. Nếu nhịp hồi tiếp theo
+đi lên tới đường song song này, dừng lại và quay đầu giảm, thì một Đường
+Trở lại và kênh khả dĩ đã được thiết lập.
+Thực hành việc vẽ và thử nghiệm với mọi đường xu hướng mà diễn biến
+giá cho phép hoặc gợi ý như vậy được khuyến nghị mạnh mẽ cho độc giả
+của cuốn sách này, đặc biệt nếu phương pháp kỹ thuật còn mới đối với
+bạn. Đây là con đường nhanh nhất — thực ra là con đường duy nhất — để
+tích lũy kinh nghiệm mà chúng tôi đã nhấn mạnh là thiết yếu cho việc nhận
+diện, đánh giá và vận dụng các hàm ý của đường xu hướng trong giao dịch.
+Có lẽ chúng tôi nên bổ sung ở đây một điều “không nên” cho người mới.
+Bạn sẽ nhận thấy rằng chúng tôi chưa từng đề cập tới một đường được vẽ
+từ một Đáy lên một Đỉnh, hay ngược lại. Đường xu hướng _luôn luôn_ được
+vẽ qua hai hoặc nhiều Đáy, hoặc hai hoặc nhiều Đỉnh. Chúng không bao
+giờ được vẽ cắt xuyên qua đường đi của giá. (Giá có thể cắt qua phần kéo
+dài của chúng sau này, nhưng điều đó không nên xảy ra tại thời điểm các
+đường lần đầu được vẽ.) Nếu không biết rõ điều này, bạn có thể, chẳng
+hạn, vẽ một đường từ Đỉnh vai trái tới Đỉnh vai phải của một mô hình
+Đầu–Vai, cắt xuyên qua phần đầu; nhưng một đường như vậy không có
+giá trị kỹ thuật.
+
+##### Hệ Quả Của Việc Xuyên Thủng Đường Xu Hướng — Throwback
+
+Ở đầu chương này, chúng tôi đã đề cập tới những hệ quả có khả năng xảy
+ra khi giá phá vỡ xuống dưới một Đường Xu hướng Tăng Trung gian. Nhắc
+lại: nếu một Đường Xu hướng Tăng Trung gian đã được dựng, đã đủ điều
+kiện mang ý nghĩa kỹ thuật theo các tiêu chí đã bàn, và sau đó bị phá vỡ
+một cách dứt khoát, thì suy luận hợp lý là xu hướng tăng đó đã kết thúc.
+Những hệ quả có thể chờ đợi là hoặc một Đợt Suy thoái Trung gian đầy đủ,
+hoặc một giai đoạn Tích lũy (thường phát triển thành một Mô hình Vùng
+dễ nhận biết). Trên biểu đồ có thể xuất hiện các chỉ báo kỹ thuật khác, gợi
+ý cho bạn khả năng nào trong hai hệ quả trên là cao hơn. Trong cả hai
+trường hợp, nhà giao dịch theo xu hướng Trung gian chắc chắn sẽ cân nhắc
+rất kỹ trước khi cố tìm thêm lợi nhuận trong tình huống cụ thể đó vào thời
+điểm ấy.
+
+![fig-157](./img/fig-157.png)
+
+**HÌNH 157.** Sáu tháng của một Kênh Xu hướng Tăng, thực tế bắt đầu
+hình thành từ tháng 12/1943! Nó bị phá vỡ theo hướng giảm vào tháng
+8/1945.
+
+Một hệ quả có khả năng khác, xảy ra sớm hơn nhưng ít quan trọng hơn,
+của việc xuyên thủng đường xu hướng cũng đã được nhắc tới — đó là
+“Pullback”. Điều này đáng được bàn thêm. Các Pullback theo sau những
+cú phá vỡ từ các Mô hình Đảo chiều và Tích lũy đã được mô tả trong các
+nghiên cứu trước đây của chúng ta về những mô hình giá đó. Dễ hiểu vì
+sao một nhịp hồi phát triển sau khi giá phá vỡ xuống dưới biên dưới của
+một Hình chữ nhật, chẳng hạn, sẽ bị chặn lại khi quay trở về biên đó bởi
+Kháng cự (cung) hiện diện tại đó. Lý thuyết Hỗ trợ–Kháng cự cho phép
+chúng ta lý giải phần lớn các chuyển động Throwback xảy ra sau khi giá
+phá vỡ khỏi các loại Vùng Đảo chiều hoặc Tích lũy khác. Tuy nhiên, các
+Pullback theo sau việc xuyên thủng đường xu hướng thì không thể lý giải
+theo cách đó; thế nhưng chúng lại xảy ra thường xuyên hơn nhiều, và dường
+như bị chặn lại chính xác hơn nhiều tại mức đường xu hướng cũ so với
+trường hợp các Mô hình Vùng. Tại sao giá, sau khi đã đâm xuống xuyên
+qua một đường xu hướng đang dốc lên, có thể là vài điểm, lại quay đầu
+tăng trở lại và leo lên tới hoặc rất gần đường xu hướng cũ, dừng lại ở đó
+rồi tiếp tục suy yếu? Đỉnh của nhịp hồi Pullback đó có thể cao hơn mức
+xuyên thủng ban đầu 2 hay 3 điểm, vì đường xu hướng liên tục dốc lên;
+tuy vậy, nó vẫn dừng lại tại đó, chùn bước, rồi bỏ cuộc. Không ai biết vì
+sao cung lại thắng cầu, vì sao Kháng cự lại hiện diện rõ ràng đến thế tại
+một điểm cụ thể mà mức của nó được xác định bởi _hai_ biến số: _độ dốc_
+của đường và _thời điểm_ nó được chạm tới.
+Dĩ nhiên, bạn không thể kỳ vọng một nhịp Pullback leo ngược trở lại tới
+một đường xu hướng đang dốc lên rất gắt — điều có thể đồng nghĩa với
+việc đạt tới một mức giá cao mới cho toàn bộ Đợt Tăng Trung gian; tuy
+nhiên, ngay cả điều đó cũng xảy ra trong không ít trường hợp. Điều có thể
+tin cậy ở đại đa số các Đường Xu hướng Tăng điển hình (những đường có
+độ dốc bình thường hoặc khá thoải) là sau khi đường bị phá vỡ, một nhịp
+Pullback sẽ hình thành — hoặc trong vài ngày, hoặc theo nhịp Sóng Nhỏ
+thông thường — và sẽ đưa giá quay trở lại chạm đường xu hướng được
+kéo dài.
+Cần lưu ý rằng Throwback không xảy ra khi giá bùng nổ xuyên qua một
+Đường _Trở lại_, tức là phá vỡ ra khỏi phía trên của một Kênh Xu hướng
+Tăng. Hay nói chính xác hơn, Đường Trở lại không còn đóng vai trò Hỗ
+trợ chống lại một Throwback sau khi giá đã đi xuyên qua nó. Một nhịp
+tăng đặc biệt mạnh trong một Kênh Xu hướng Tăng có thể vượt quá đỉnh
+kênh được xác định bởi Đường Trở lại, nhưng nhịp điều chỉnh kế tiếp có
+thể đi thẳng xuống xuyên qua nó mà không hề cho thấy sự do dự nào tại
+mức đó.
+
+Throwback là một trong những bí ẩn của diễn biến giá theo đường xu
+hướng mà chúng tôi đã ám chỉ từ đầu. Nhà phân tích kỹ thuật nghiên cứu
+xu hướng và đường xu hướng trong một thời gian dài sẽ phát hiện ra nhiều
+hiện tượng còn bí ẩn hơn nữa, không thể có chỗ trong chuyên khảo này,
+bởi đến nay vẫn chưa tìm được cách nào để vận dụng chúng một cách thực
+tiễn trong giao dịch và đầu tư. Chúng cực kỳ thú vị khi nhìn lại, nhưng
+không thể dùng để dự báo.
+
+![fig-158](./img/fig-158.png)
+
+**HÌNH 158.** Xu hướng giảm bắt đầu từ tháng 6/1946 ở Nash–Kelvinator,
+được báo hiệu bởi việc phá vỡ cả Đường Xu hướng Tăng Trung gian lẫn Lớn
+(MUT) vào ngày 15/7, đã tạo thành một kênh khá đẹp cho tới tháng Chín.
+Một Đường Xu hướng Giảm Trung gian, vẽ qua các đỉnh ngày 17/6 và
+1/7, đã giữ được nhịp hồi tháng Tám. Đường Trở lại, vẽ song song qua đáy
+20/6, giữ được vào cuối tháng Bảy nhưng chỉ còn nguyên vẹn trong vài
+ngày cuối tháng Tám. Nhịp hồi tháng Tám, xét cả về giá lẫn khối lượng,
+thể hiện đặc trưng của Thị trường Gấu. So sánh biểu đồ này với Hình 68,
+bạn sẽ thấy một Đỉnh Kép Lớn đã được báo hiệu vào ngày 23/7.
+
+![fig-159](./img/fig-159.png)
+
+**HÌNH 159.** Đợt giảm kéo Macy đi xuống xuyên qua Đường Xu hướng
+Tăng Trung gian (IUT) vào tháng 6/1946 cũng chính là nhịp giảm từ phần
+đầu của một mô hình Đầu–Vai “Vai Phẳng”, mà bản thân nó lại là một phần
+của một Cấu trúc Phức hợp lớn hơn. Đường cổ trên bị phá vỡ ngày 19/6 và
+đường dưới vào ngày 16/7. Lưu ý các Pullback về từng đường. F1, F2 và
+F3 là các Đường Quạt tạm thời. Giá cuối cùng đã vượt qua được F3 vào
+tháng Mười Hai, nhưng đến lúc đó một Thị trường Gấu Chủ đạo đã được
+báo hiệu; do đó, Quy tắc Quạt không còn áp dụng. Quạt chỉ báo hiệu điểm
+đảo chiều trên các Chuyển động Thứ cấp (Điều chỉnh).
+
+##### Xu Hướng Giảm Trung Gian
+
+Trong toàn bộ phần thảo luận trước về xu hướng và đường xu hướng, chúng
+tôi tập trung vào _xu hướng tăng_; thực tế, chúng tôi đã nghĩ cụ thể tới các
+Đợt Tăng Trung gian theo hướng của Xu hướng Chủ đạo, tức là trong một
+Thị trường Bò Lớn. Những xu hướng đó có khả năng phát triển “bình
+thường” nhất và dễ được xác định bằng đường xu hướng. Các Chuyển
+động _Giảm_ Trung gian trong một Thị trường Gấu Lớn sẽ được bàn tới
+tiếp theo. Trước khi thảo luận những điểm khác biệt của chúng so với các
+Đợt Tăng Chủ đạo, ta cần nhớ rằng Đường Xu hướng _Cơ bản_ trong một
+chuyển động giảm là đường được chiếu qua các _Đỉnh_ của những nhịp hồi
+bên trong nó. Kênh Xu hướng sẽ nằm bên trái và phía dưới đường xu hướng
+đó trên biểu đồ. Đường _Trở lại_ (nếu có) sẽ xác định _Đáy_ của kênh.
+
+![fig-160](./img/fig-160.png)
+
+**HÌNH 160.** “ABZ” giảm mạnh sau đỉnh cuối tháng Giêng, khép lại một
+đợt tăng gần như không gián đoạn kéo dài 2 năm. Nhưng bất chấp tốc độ
+và mức độ nghiêm trọng của Pullback, thực chất đây là một nhịp điều chỉnh
+chuẩn mực hoàn hảo, dừng ngay trên Hỗ trợ dài hạn rất tốt tại đỉnh năm
+1983, sau khi hồi lại gần như chính xác 50% so với đỉnh tháng Giêng.
+Không chỉ nhịp điều chỉnh là kinh điển, mà sự phát triển của các Đường
+Quạt cũng vậy; khi kết hợp với mô hình Đầu–Vai Đáy vừa hoàn tất, điều
+này gợi ý rằng “ABZ” đã đảo chiều xu hướng giảm ngắn hạn.
+
+Các xu hướng giảm Trung gian (trong Thị trường Gấu) kém đều đặn và
+đồng nhất hơn nhiều so với các Đợt Tăng trong Thị trường Bò. Góc dốc
+giảm của chúng thường lớn hơn, và điều này đặc biệt đúng, dĩ nhiên, với
+các chuyển động Hoảng loạn vốn đặc trưng cho pha thứ hai của Thị trường
+Gấu, như chúng ta đã thấy trong thảo luận về các Xu hướng Lớn ở Chương
+3. Hơn nữa, giá có xu hướng rời xa bất kỳ đường xu hướng nào được vẽ
+qua hai Đỉnh Hồi đầu tiên; nói cách khác, chúng có xu hướng cong xuống
+hoặc tăng tốc khi chuyển động tiếp diễn. Điều này thể hiện rõ trên biểu đồ
+tỷ lệ số học và còn rõ ràng hơn nữa trên biểu đồ bán logarit.
+Kết quả _thực tiễn_ của xu hướng cong xuống này không quá quan trọng,
+xét ở chỗ nó làm chậm việc xuyên thủng đường xu hướng ban đầu và, do
+đó, trì hoãn tín hiệu đảo chiều xu hướng. Thực tế là giá thường dao động
+một thời gian, hình thành một nền tảng tại Đáy của một trong những đợt
+giảm dốc đứng này. Khi đó, chúng đi ngang trên biểu đồ, và xu hướng
+thường không quay lên một cách rõ rệt cho tới sau khi đường xu hướng
+cuối cùng đã bị chạm tới và bị phá vỡ theo hướng tăng. Vì vậy, việc vẽ
+các đường xu hướng giảm và tiếp tục theo dõi chúng là có cơ sở, ngay cả
+khi trong một thời gian chúng có vẻ chỉ chạy dài ra vô định mà không có
+liên hệ rõ ràng nào với xu hướng giá thực tế.
+Từ những điều trên, hiển nhiên là các Đường Trở lại trong phần lớn các
+đợt giảm của Thị trường Gấu có rất ít giá trị thực tiễn; đa phần chúng nhanh
+chóng bị phá vỡ theo hướng giảm. Rất khó tìm được các kênh tốt.
+Tuy nhiên — và đây là điểm có ý nghĩa thực tiễn đáng kể — đợt giảm
+Trung gian cuối cùng trong một Thị trường Gấu Lớn, tức là Chuyển động
+Chủ đạo cuối cùng dẫn tới Đáy dài hạn, thường lại “sạch”, đều đặn hơn,
+ít dốc đứng hơn — nói cách khác, gần với một xu hướng bình thường như
+chúng ta mong đợi ở hầu hết các Đợt Tăng Trung gian trong Thị trường Bò
+(tất nhiên là chỉ khác ở chỗ nó dốc xuống thay vì dốc lên). Thói quen thú
+vị này, như đã nói, có tầm quan trọng thực tiễn. Biết được điều đó, chúng
+ta có thêm một manh mối rất hữu ích để nhận diện điểm kết thúc của một
+Thị trường Gấu.
+Khi, sau khi một Xu hướng Gấu Lớn đã diễn ra một thời gian và một
+quãng đáng kể, và đã trải qua ít nhất một đợt Bán tháo Hoảng loạn, nó lại
+tiếp tục bằng một đợt giảm khác nhưng kém sôi động hơn và trật tự hơn,
+và đợt giảm này phát triển và bám theo một đường xu hướng tốt, hãy theo
+dõi nó thật sát. Nếu Đợt Trung gian này giữ được nhịp giảm đều đặn và
+không quá dốc — nếu đường xu hướng của nó được các nhịp hồi Nhỏ chạm
+tới nhiều lần — nếu nó tạo ra một kênh khá nhất quán, và giá không “rơi
+khỏi giường” xuyên qua Đường Trở lại song song của nó, thì việc xuyên
+thủng đường xu hướng này theo hướng tăng sau đó rất có thể sẽ báo hiệu
+một Đảo chiều _Lớn_, sự khởi đầu của một Thị trường Bò mới.
+
+##### Xu Hướng Điều Chỉnh — Nguyên Lý Quạt
+
+Trong nghiên cứu về các Đường Xu hướng Trung gian này, chúng tôi để
+lại đến cuối cùng chủ đề về các Xu hướng Thứ cấp hay Điều chỉnh. Đây
+là những Đợt Giảm Trung gian ngắt quãng các Đợt Tăng Chủ đạo trong
+Thị trường Bò, và những Đợt Phục hồi Trung gian xen kẽ với các Đợt Giảm
+Chủ đạo trong Thị trường Gấu.
+Các Nhịp Điều chỉnh Trung gian ngược với hướng chính của thị trường
+có nhiều hình thức. Đôi khi, như chúng ta đã thấy trong các nghiên cứu
+trước về mô hình biểu đồ, chúng kéo dài thành các Mô hình Tích lũy —
+Tam giác, Hình chữ nhật, v.v. — trong đó mức phản ứng ròng về giá không
+lớn, nhưng thời gian bị tiêu tốn cho các dao động qua lại trước khi Xu hướng
+Chủ đạo có thể được nối lại. Trong những trường hợp như vậy, dĩ nhiên
+không có cơ sở để vẽ một Đường Xu hướng Trung gian, và cũng không cần
+thiết cho bất kỳ mục đích thực tiễn nào.
+
+![fig-161](./img/fig-161.png)
+
+**HÌNH 161.** Một ứng dụng hợp lệ của Nguyên lý Ba Đường Quạt. Lưu ý
+rằng giá, sau khi đẩy lên xuyên qua F1 vào tháng Ba, đã quay lại F1 nhưng
+không tái xuyên thủng nó. Khi F2 bị phá vỡ vào cuối tháng Ba, giá quay lại
+mức này vào cuối tháng Tư nhưng không giảm xuống dưới. F3 bị vượt qua
+vào tháng Năm. Đây là một nhịp điều chỉnh trong Thị trường Bò; “AS” đã
+tạo Đỉnh cuối cùng trên 64 vào tháng Tám. Mô hình giá từ tháng Ba đến
+tháng Năm có thể được gọi là một Đáy Kép yếu.
+
+Ở thái cực kia, ta gặp các Nhịp Điều chỉnh phát triển như một sự quay
+lại khá trật tự theo đường thẳng, với độ dốc vừa phải, về Mức Hỗ trợ hoặc
+Kháng cự Trung gian tốt gần nhất, hồi lại có thể một phần ba tới một nửa
+của Chuyển động Chủ đạo trước đó. Những nhịp điều chỉnh này thường
+tạo ra các đường xu hướng tốt, và việc xuyên thủng các đường xu hướng
+của chúng sau đó là một tín hiệu kỹ thuật đảo chiều đáng tin cậy. Cũng cần
+nói thêm rằng, các Điều chỉnh Trung gian rõ ràng thuộc loại này tương đối
+hiếm.
+
+Một dạng thứ ba của Điều chỉnh Trung gian gần như phổ biến ngang với
+dạng đầu tiên (Mô hình Tích lũy) và xuất hiện trên biểu đồ thường xuyên
+hơn nhiều so với dạng thứ hai. Trong một Thị trường Bò, nó bắt đầu bằng
+một nhịp giảm sắc nét kéo dài vài ngày — có thể tới hai tuần — tạo ra một
+Đường Xu hướng Nhỏ dốc đứng. Đường này bị phá vỡ theo hướng tăng bởi
+một nhịp hồi Nhỏ nhanh, sau đó giá lại trượt xuống trong một xu hướng
+chậm chạp và ít dốc hơn. Lúc này, có thể vẽ một Đường Xu hướng Nhỏ thứ
+hai từ điểm Đỉnh ban đầu qua Đỉnh của cú bật đã phá vỡ xu hướng đầu
+tiên. Đường xu hướng thứ hai này lại bị phá vỡ bởi một cú hồi phục một
+phần khác, và tiếp theo là một đợt bán ra thứ ba, còn chậm và phẳng hơn.
+Giờ đây có thể vẽ một đường xu hướng thứ ba từ Đỉnh ban đầu qua Đỉnh
+của cú bật thứ hai. Toàn bộ chuyển động, tới thời điểm này, đã mang hình
+dáng gần đúng và không đều của một “cái chảo” đang tròn dần. Ba đường
+xu hướng được vẽ từ điểm Đảo chiều ban đầu, nơi Nhịp Điều chỉnh khởi
+phát, mỗi đường có độ dốc phẳng hơn đường trước, được gọi là _Các Đường
+Quạt_. Và quy tắc là: khi _đường Quạt thứ ba_ bị phá vỡ theo hướng tăng,
+thì đáy của Nhịp Điều chỉnh Trung gian đã xuất hiện.
+
+![fig-162](./img/fig-162.png)
+
+**HÌNH 162.** Hãy thử áp dụng Nguyên lý Ba Quạt trên biểu đồ Nhịp Điều
+chỉnh của Thị trường Bò cuối năm 1944, xuất phát từ một Tam giác Cân ở
+“DH”. F1 nên được vẽ từ đỉnh 30/8 kéo xuống qua mức đóng cửa 12/9. F2
+đã được đánh dấu trên biểu đồ nhưng chưa ghi nhãn. F3 sẽ kéo từ đỉnh
+30/8 qua Đỉnh Hồi ngày 9/11. Nó đã bị vượt qua với khối lượng tăng vào
+ngày 21/11. Mô hình giá từ giữa tháng Chín đến tháng Mười Một ban đầu
+trông giống một Tam giác Giảm, nhưng khối lượng bắt đầu tăng vào tháng
+Mười.
+
+Có những ngoại lệ đối với quy tắc này — như đối với mọi “quy tắc” của
+phân tích kỹ thuật biểu đồ. Hiếm khi, một nhịp điều chỉnh kiểu này sẽ tiếp
+tục tạo thêm một đáy mới thấp hơn cho toàn bộ chuyển động điều chỉnh
+trước khi giá thực sự bắt đầu tròn lên trở lại. Nhưng Nguyên lý Ba Quạt
+đúng trong đại đa số trường hợp. Hơn nữa, nó mang lại cho nhà giao dịch
+cơ hội vào vị thế tại một điểm mà ông có thể hợp lý đặt một lệnh dừng lỗ
+rất gần và do đó giới hạn rủi ro ở một mức có kiểm soát nếu quy tắc không
+phát huy tác dụng. Điều thú vị là trong các chuyển động này, giá thường
+Throwback trở lại Đường Quạt trước đó sau mỗi cú bật lên. Chuyển động
+Chủ đạo mới, một khi đáy đã qua, thường khởi đầu chậm rãi và tiếp tục
+mang dáng dấp “cái chảo” trong một thời gian.
+Quy tắc Ba Quạt cũng hoạt động hiệu quả tương tự trong việc xác định
+điểm đảo chiều của các Đợt Phục hồi Trung gian trong Thị trường Gấu,
+phần lớn trong số đó mang hình dạng bo tròn phù hợp để áp dụng nguyên
+lý này.
+Tuy nhiên, cần lưu ý rằng Nguyên lý Quạt thông thường chỉ được áp dụng
+cho các chuyển động điều chỉnh — tức là để xác định điểm kết thúc của
+các Nhịp Điều chỉnh Trung gian trong Thị trường Bò và các Đợt Phục hồi
+Trung gian trong Thị trường Gấu.
+
+![fig-163](./img/fig-163.png)
+
+**HÌNH 163.** Trong một xu hướng giảm suốt nửa đầu năm, “BY” đã trả
+lại phần lớn đợt tăng năm 1983 vào giữa mùa hè. Nhưng đáy năm 1982 đã
+chặn đà Gấu, và trong những tháng tiếp theo, mã này đã khắc họa một Mô
+hình Quạt rất đẹp. Đường Quạt 1 bị phá vỡ vào giữa tháng Chín với khối
+lượng cao. Đợt tăng nhanh chóng mất động lực, nhưng Kháng cự cũ/Hỗ
+trợ mới đã giữ Pullback một cách hoàn hảo, tạo tiền đề cho cú bứt phá
+xuyên qua Đường Quạt 2. Điều này xảy ra vào giữa tháng Mười Một với
+khối lượng tốt. Sau một nhịp điều chỉnh 5 tuần, “BY” đã lao qua Đường
+Quạt 3 với khối lượng tốt nhất trong ba lần phá vỡ.
+
+Chúng tôi sẽ bàn về các Đường Xu hướng Lớn trong chương tiếp theo,
+nhưng trước khi rời khỏi nghiên cứu về các Xu hướng Trung gian, cần nhấn
+mạnh lại rằng việc áp dụng thực tiễn các đường xu hướng trong giao dịch
+thực tế đòi hỏi kinh nghiệm và sự phán đoán tốt chỉ có thể đạt được từ
+chính kinh nghiệm đó. Một số nhà phân tích kỹ thuật phụ thuộc phần lớn
+vào nghiên cứu đường xu hướng; một vài người cố gắng sử dụng đường
+xu hướng gần như độc quyền; nhưng đa số nhận thấy chúng phát huy hiệu
+quả nhất khi được dùng như một công cụ bổ trợ cho các dữ liệu kỹ thuật
+khác.
+
+Phân tích kỹ thuật một biểu đồ cổ phiếu giống như việc ghép một bức
+tranh xếp hình. Có rất nhiều mảnh cần được xem xét, trong đó có khối
+lượng, mô hình và các phép đo rút ra từ đó, các Mức Hỗ trợ và Kháng cự,
+đường xu hướng, triển vọng thị trường chung — và tất cả phải được đặt
+đúng chỗ để tạo nên bức tranh hoàn chỉnh.
+
+## Chương 15. Đường xu hướng chính (Major Trendlines)
+
+Trong chương trước về các đường xu hướng trung hạn, chúng ta đã đề cập
+đến những khác biệt đặc thù do cách vẽ theo thang số học và thang bán
+logarit tạo ra, nhưng cũng đã lưu ý rằng các khác biệt đó không quan
+trọng đối với các xu hướng nhỏ hay các xu hướng trung hạn có độ dài
+trung bình. Tuy nhiên, khi xét tới các xu hướng chính, sự khác biệt này
+lại trở nên đáng kể.
+
+Nếu bạn xem xét một tập hợp lớn các biểu đồ tháng được vẽ theo thang
+số học, bao phủ từ 10 năm lịch sử thị trường trở lên, bạn sẽ nhanh chóng
+nhận ra rằng các xu hướng tăng (Bull Trends), trong đại đa số các cổ
+phiếu phổ thông được giao dịch sôi động và mang tính đầu cơ ở mức
+độ nào đó, có xu hướng _tăng tốc_. Chúng khởi đầu chậm rãi và tiến lên
+với góc dốc ngày càng lớn khi tiến gần tới một đỉnh chính. Quỹ đạo
+cong đi lên này khiến giá ngày càng rời xa bất kỳ đường xu hướng
+thẳng nào được vẽ từ hai đáy trong giai đoạn đầu tăng chậm. Hệ quả
+là khi tạo đỉnh, giá đã giảm khá xa trong một pha điều chỉnh có thể
+mang ý nghĩa cấp độ chính, trước khi chạm lại đường xu hướng thẳng đó.
+
+Nhiều cổ phiếu thể hiện các đường cong _tăng tốc_ điển hình trên thang
+số học lại tạo ra xu hướng _thẳng_ khi được vẽ trên thang logarit. Do đó,
+đường xu hướng chính theo thang logarit của chúng sẽ bị phá vỡ sớm
+hơn, và thường ở mức giá cao hơn, khi xu hướng cuối cùng tạo đỉnh và
+đảo chiều giảm. Trong những trường hợp như vậy, thang logarit cho
+tín hiệu xu hướng tốt hơn.
+
+Nhưng cũng có những cổ phiếu khác — chủ yếu thuộc nhóm đầu tư hoặc
+bán đầu tư — có xu hướng tăng theo đường thẳng trên thang số học.
+Consolidated Edison, General Motors và Libbey–Owens–Ford Glass là
+những ví dụ. (Dĩ nhiên, trên thang logarit, xu hướng của chúng sẽ cho
+thấy một đường cong giảm tốc.) Lại có một nhóm thứ ba, phần lớn là
+các cổ phiếu ưu đãi chất lượng cao, tạo ra một đường xu hướng tăng
+bo tròn hoặc giảm tốc ngay cả trên thang số học. Cuối cùng, còn có
+một số mã mà đường xu hướng tăng trong thị trường bò nằm đâu đó
+giữa hai loại đầu tiên; tức là chúng cong lên khỏi đường thẳng trên
+thang số học, nhưng lại cong sang phải (phá vỡ đường thẳng) trên
+thang logarit.  
+_EN: May mắn thay, trong thời đại máy tính và dữ liệu dễ xử lý hiện nay,
+đã có các phần mềm phân tích cho phép nhà phân tích chuyển đổi tức thì
+giữa các thang đo. Các gói phần mềm trên máy tính để bàn có sẵn (xem
+Phụ lục D, Tài nguyên) và nhiều trang Internet cũng có khả năng này._
+
+_282 Phân tích kỹ thuật xu hướng cổ phiếu_
+
+Tất cả những điều trên, ở thời điểm này, hẳn khiến người đọc cảm thấy
+khá nản lòng. Cổ phiếu thì mỗi loại một kiểu, vậy đâu là sự trợ giúp cho
+chúng ta trong mớ hỗn độn này? Câu trả lời nằm ở việc nghiên cứu lịch
+sử của từng mã mà bạn quan tâm. Cổ phiếu — ít nhất là phần lớn —
+không thay đổi nhiều thói quen và đặc tính kỹ thuật của chúng từ chu
+kỳ Bò–Gấu này sang chu kỳ khác. Một mã như General Motors, tạo ra
+đường xu hướng tăng thẳng trên biểu đồ số học trong một pha tăng
+chính, rất có khả năng sẽ lặp lại hành vi đó trong pha tăng tiếp theo.
+
+Tất nhiên, trong một khoảng thời gian rất dài, cổ phiếu đôi khi cũng
+thay đổi. Những công ty từng được coi là cực kỳ đầu cơ khi cổ phiếu
+lần đầu niêm yết có thể dần đạt được vị thế ngày càng quan trọng và
+ổn định trong nền kinh tế chung, dẫn tới việc cổ phiếu của họ cuối
+cùng mang đặc tính đầu tư vững chắc. Khi đó, các xu hướng thị trường
+bò của chúng sẽ dần chuyển từ đường cong đi lên sang đường thẳng,
+và cuối cùng là đường cong giảm tốc. Ngược lại, một số tập đoàn lâu
+đời có thể mất vị thế và xếp hạng, chuyển từ kiểu xu hướng đầu tư
+sang xu hướng mang tính đầu cơ. Tuy vậy, nhìn chung, các mô hình
+chính vẫn có xu hướng lặp lại.
+
+Nếu bạn tự vẽ các biểu đồ tháng bằng tay, bạn có thể chọn bất kỳ
+thang đo nào. Nhưng phần lớn những người theo phân tích kỹ thuật
+thích mua sẵn các biểu đồ dài hạn, nhờ đó có được lịch sử phong phú
+hơn cho nhiều mã hơn so với khả năng tự vẽ. Vì các bộ biểu đồ tháng
+toàn diện duy nhất có giá hợp lý thường được vẽ theo thang số học,
+bạn có thể buộc phải dùng chúng cho mọi mục đích.  
+_EN: Điều này ngày nay không còn cần thiết nữa nhờ sự sẵn có của phần
+mềm tốt và các trang biểu đồ Internet. Xem Phụ lục D, Tài nguyên._  
+Chỉ với một chút thử nghiệm, bạn sẽ thấy rằng một thước cong kiểu
+French curve của kiến trúc sư có thể được dùng để vẽ các đường xu
+hướng tăng chính khá tốt cho nhiều mã có xu hướng bò tăng tốc rời
+xa đường thẳng.
+
+Các phép kiểm tra để đánh giá ý nghĩa kỹ thuật của một đường xu
+hướng chính về cơ bản giống với các phép kiểm tra đã nêu cho đường
+trung hạn ở chương trước. Cần cho phép độ linh hoạt lớn hơn một
+chút khi xét các cú xuyên phá — đây lại là vấn đề phán đoán — nhưng
+bạn đang làm việc với dữ liệu thô và các dao động dài hạn, và điều
+bạn cần từ các biểu đồ tháng, trước hết, là cái nhìn tổng thể.
+
+Một điểm nữa liên quan đến việc xây dựng các đường xu hướng tăng
+chính: những đường tốt nhất — hữu ích nhất — thường không được
+vẽ từ mức đáy tuyệt đối của thị trường gấu trước đó, mà bắt đầu từ
+đáy trung hạn kế tiếp. Vùng tích lũy ở đầu một thị trường bò thường
+kéo dài và khá phẳng theo thời gian. Do đó, đường xu hướng đầu tiên
+vẽ từ điểm đáy cực trị có thể quá ngang để phản ánh đúng xu hướng
+bò thực sự bắt đầu với pha tăng giá. Các biểu đồ minh họa đường xu
+hướng chính trong chương này sẽ làm rõ điểm đó.  
+_EN: Đặc biệt là Hình 177._  
+Điều này cũng áp dụng cho nhiều chuyển động trung hạn khởi phát từ
+các mô hình vùng. Lấy mô hình Head-and-Shoulders làm ví dụ: đường
+xu hướng trung hạn thực sự thường bắt đầu từ vai phải hơn là từ đầu.
+
+
+![fig-164](./img/fig-164.png)
+
+**HÌNH 164.** Xu hướng thị trường bò dạng đường thẳng của General Motors
+trên biểu đồ tháng theo thang số học. Đáy năm 1941: 28⅝; đỉnh năm
+1946: 80⅜.
+
+![fig-165](./img/fig-165.png)
+
+**HÌNH 165.** Xu hướng cong đi lên của một cổ phiếu đầu cơ ngành xe,
+Hudson Motors. So sánh với “GM.” Đáy 1941: 2⅝; đỉnh 1946: 34½.
+
+![fig-166](./img/fig-166.png)
+
+**HÌNH 166.** Xu hướng bò chính giảm tốc điển hình của một cổ phiếu
+ưu đãi chất lượng cao. Curtis Publishing $7 Preferred. Đáy 1942: 12;
+đỉnh 1945: 154.
+
+![fig-167](./img/fig-167.png)
+
+**HÌNH 167.** Xu hướng tăng tốc của cổ phiếu phổ thông cùng công ty
+xuất bản. Đáy 1942: ⅜; đỉnh 1946: 26.
+
+
+![fig-168](./img/fig-168.png)
+
+**HÌNH 168.** Một cổ phiếu tiện ích mang tính đầu tư thận trọng tạo ra
+xu hướng bò chính dạng đường thẳng. Commonwealth Edison. Đáy
+1942: 17⅜; đỉnh 1946: 36⅛. Đòn bẩy là yếu tố quan trọng trong xu hướng.
+
+![fig-169](./img/fig-169.png)
+
+**HÌNH 169.** Xu hướng cong đi lên của một cổ phiếu tiện ích “junior”
+giá thấp, International Hydro-Electric. Đáy 1942: ¼; đỉnh 1946: 15½.
+
+
+![fig-170](./img/fig-170.png)
+
+**HÌNH 170.** Một cổ phiếu dầu mỏ đầu cơ, Houston Oil. Đáy 1942: 2¼;
+đỉnh 1946: 30. So sánh hình này với “SOH” trong Hình 171.
+
+![fig-171](./img/fig-171.png)
+
+**HÌNH 171.** Xu hướng tăng dạng đường thẳng của một cổ phiếu dầu
+mỏ mang tính đầu tư, Standard Oil of Ohio. Đáy 1942: 10⅛; đỉnh 1946:
+30. Lưu ý: đường xu hướng không bị phá vỡ cho tới năm 1948.
+
+
+![fig-172](./img/fig-172.png)
+
+**HÌNH 172.** Cổ phiếu thép có kiểu xu hướng tăng chính mang tính
+đầu cơ hoặc tăng tốc. Republic Steel. Đáy 1942: 13⅜; đỉnh 1946: 40⅞.
+
+![fig-173](./img/fig-173.png)
+
+**HÌNH 173.** Xu hướng bò chính điển hình của các cổ phiếu công nghiệp
+nặng là cong đi lên. American Car & Foundry. Đáy 1942: 20; đỉnh 1946:
+72⅜.
+
+
+![fig-174](./img/fig-174.png)
+
+**HÌNH 174.** Một cổ phiếu xây dựng giá thấp, Celotex Corporation.
+Đáy 1942: 6⅛; đỉnh 1946: 38⅛.
+
+![fig-175](./img/fig-175.png)
+
+**HÌNH 175.** Một mã đầu cơ cao, giá thấp, giao dịch trên Curb Exchange,
+Claude Neon Lights. Đáy 1942: ⅛; đỉnh 1946: 9.
+
+
+![fig-176](./img/fig-176.png)
+
+**HÌNH 176.** Nhóm cổ phiếu thuốc lá theo kiểu xu hướng đầu tư. Đây
+là Liggett & Myers. Lưu ý đường xu hướng kép. Đáy 1942: 50½; đỉnh
+1946: 103½.
+
+![fig-177](./img/fig-177.png)
+
+**HÌNH 177.** Các cổ phiếu thực phẩm chất lượng cao (Corn Products
+Refining) có đặc điểm giống nhóm thuốc lá. Đáy 1940: 40¼; đỉnh 1946:
+75¾.
+
+
+##### Xu hướng giảm chính (Major Downtrends)
+
+Từ góc nhìn của nhà phân tích kỹ thuật, thật đáng tiếc là rất ít thị trường
+gấu tạo ra các đường xu hướng chính có ý nghĩa thực tiễn trên biểu đồ
+của từng cổ phiếu riêng lẻ. Một ngoại lệ nổi bật là thị trường gấu kéo
+dài giai đoạn 1929–32, đã tạo ra những đường xu hướng thẳng tuyệt đẹp
+trên biểu đồ số học của hàng loạt mã (cũng như trên các chỉ số trung
+bình, sẽ được đề cập sau). Nhưng gần như không thể tìm thấy những
+trường hợp khác mà ở đó một đường xu hướng giảm có giá trị dự báo
+có thể được vẽ trên cả thang số học lẫn thang bán logarit.
+
+Xu hướng thị trường gấu chính _thông thường_ không chỉ dốc hơn xu
+hướng bò (do thị trường gấu trung bình chỉ kéo dài khoảng một nửa
+thời gian của thị trường bò), mà còn có tính tăng tốc hay cong xuống
+trong diễn biến của nó. Đặc điểm này càng được nhấn mạnh và vì thế
+càng khó chiếu hiệu quả trên thang bán logarit.
+
+Tóm lại, nhà kỹ thuật không thể kỳ vọng nhận được nhiều, nếu có,
+sự trợ giúp từ các đường xu hướng _chính_ trong việc xác định sự
+chuyển đổi từ pha _giảm_ chính sang pha _tăng_ chính. Tuy nhiên,
+điều này không nên được hiểu là lời khuyên không vẽ đường xu hướng
+trong một pha giảm chính, hay hoàn toàn bỏ qua bất kỳ đường xu hướng
+nào có vẻ mang chút thẩm quyền. Nếu bạn không kỳ vọng quá nhiều
+ở chúng, chúng vẫn có thể cung cấp vài manh mối hữu ích về cách
+điều kiện thị trường đang thay đổi.
+
+Đối với người nghiên cứu hành động thị trường chứng khoán mà
+không hoàn toàn đặt nặng kết quả tiền bạc, các đường xu hướng thị
+trường gấu là một lĩnh vực khảo cứu hấp dẫn. Chúng có những hành
+vi kỳ lạ. Dù thất bại trong chức năng thực tiễn là báo hiệu chính xác
+điểm đảo chiều lớn, và có thể “bay” ra ngoài không gian, đôi khi
+chúng lại tạo ra những phản ứng thú vị (hoặc ít nhất là dường như
+giải thích được những hành động thị trường vốn khó hiểu) khi xu
+hướng giá thực sự bắt kịp chúng sau nhiều tháng hay nhiều năm.
+Nhưng những hiệu ứng đó, dù thú vị, hiện nay vẫn không chắc chắn
+và không thể dự đoán.  
+_EN: Thực tế này có thể còn kéo dài tới tương lai mờ xa và được nhắc
+đến như Định lý cuối cùng của Fermat. Trình độ hiểu biết hiện tại của
+chúng ta trong thế kỷ 21 không tiến bộ hơn so với thời của Magee._  
+Chúng ta phải khép lại chủ đề kém hiệu quả này bằng việc nhắc lại
+rằng một manh mối về điểm kết thúc của thị trường gấu chính được
+cung cấp bởi đường xu hướng trung hạn của pha cuối, như đã nêu
+ở chương trước.
+
+##### Kênh xu hướng chính (Major Trend Channels)
+
+Chúng ta gặp thêm một khó khăn khác khi cố vẽ các đường hồi quy
+(Return Lines) và xây dựng các kênh cho xu hướng chính trên biểu
+đồ số học. Do giá có xu hướng dao động với biên độ ngày càng rộng
+(cả trung hạn lẫn ngắn hạn) khi tiến lên trong một thị trường bò
+chính, kênh giá của chúng mở rộng dần theo thời gian. Đường hồi
+quy không song song với đường xu hướng cơ bản (giả sử ta có một
+đường cơ bản tốt ngay từ đầu) mà tách dần ra khỏi nó. Đôi khi,
+một cổ phiếu tạo ra một mô hình kênh chính rõ ràng, nhưng đa số
+thì không.
+
+Việc sử dụng thang bán logarit, trong nhiều trường hợp, có thể
+khắc phục hiệu ứng kênh mở rộng trong các xu hướng bò, nhưng
+khi đó lại gặp xu hướng ngược lại trong các thị trường gấu chính,
+và đối với điều này, không loại thang đo nào có thể bù đắp hoàn
+toàn.
+
+##### Đường xu hướng trong các chỉ số trung bình
+
+Hầu như mọi điều đã trình bày trong chương trước về sự hình
+thành đường xu hướng trung hạn ở từng cổ phiếu riêng lẻ cũng
+áp dụng cho các chỉ số trung bình khác nhau. Thực tế, các chỉ
+số rộng hoặc chỉ số thị trường tạo ra các xu hướng đều đặn hơn
+và do đó, các đường xu hướng chính xác hơn. Điều này có thể
+một phần là do hầu hết các chỉ số được cấu thành từ những cổ
+phiếu giao dịch sôi động, được công chúng biết đến rộng rãi và
+nắm giữ phổ biến, mà hành động giá riêng lẻ của chúng là “bình
+thường” theo nghĩa kỹ thuật. Một lý do khác là quá trình lấy
+trung bình làm mượt đi những biến động thất thường của các
+cổ phiếu thành phần, khiến kết quả phản ánh đúng hơn các xu
+hướng và dòng chảy kinh tế sâu và tương đối ổn định.
+
+Dù lý do là gì, thực tế là các chỉ số như Dow–Jones Rails,
+Industrials và Composite 65 cổ phiếu, _The New York Times_ 50,
+và Standard & Poor’s Average gồm 90 cổ phiếu (hai chỉ số sau
+có lẽ được xây dựng khoa học nhất để đại diện cho toàn bộ thị
+trường rộng) _(EN: Như người đọc sẽ nhận thấy, hầu hết các chỉ
+số này nay đã lỗi thời. Trong thời hiện đại, S&P 500 có lẽ đáp
+ứng tốt nhất vai trò này)_ đều tạo ra những đường xu hướng rất
+tốt trên biểu đồ.
+
+Chính độ chính xác cao của các xu hướng này, đặc biệt là các
+chuyển động trung hạn, cho phép chúng ta diễn giải đường xu
+hướng của chúng chặt chẽ hơn. Ít cần cho phép độ linh hoạt
+đối với các cú xuyên phá nghi ngờ. Do đó, trong khi ta yêu cầu
+mức xuyên phá 3% đối với một cổ phiếu riêng lẻ tầm trung, thì
+2% là đủ đối với các chỉ số để cho một tín hiệu phá vỡ đáng tin
+cậy.
+
+Những nhà giao dịch dày dạn kinh nghiệm đều biết rằng việc
+tuân theo xu hướng của thị trường chung luôn mang lại lợi thế.
+Bơi xuôi theo dòng vẫn dễ hơn là bơi ngược dòng.
+
+##### EN: Đường xu hướng trong các chỉ số và giao dịch
+##### trong các chỉ số
+
+_Nhiều chỉ số và thước đo mới đã xuất hiện kể từ ấn bản thứ 5:
+S&P 100, S&P 500, Russell 2000, v.v. Việc liệt kê đầy đủ tất cả
+các chỉ số hiện có sẽ giống như làm báo hàng ngày. Chúng mọc
+lên như cỏ dại sau mưa xuân. Nguyên nhân là việc tạo ra một
+chỉ số được sử dụng rộng rãi có thể mang lại lợi nhuận lớn cho
+người sáng lập. S&P và Dow–Jones thu phí bản quyền từ việc
+“sử dụng” các chỉ số của họ bởi các sàn giao dịch. Việc liên tục
+bổ sung các công cụ giao dịch mới đòi hỏi các danh sách hiện
+hành phải được cập nhật trong Tài nguyên, và người đọc cũng
+có thể tham khảo_ The Wall Street Journal, Barron’s _và_
+The Investor’s Business Daily _nơi giá các chỉ số và trung bình
+được công bố. Các công ty môi giới trực tuyến và các trang tin
+tài chính cũng cung cấp danh sách và báo giá cập nhật theo
+thời gian thực cho hầu như mọi công cụ giao dịch. Danh sách
+và liên kết tới các trang này cũng có thể tìm thấy trong Tài
+nguyên (Phụ lục D) và tại edwards-magee.com._
+
+![fig-178](./img/fig-178.png)
+
+**HÌNH 178.** Trong quá trình “pullback” về một đường xu hướng tăng
+rất dốc, giá hoàn toàn có thể lập đỉnh mới. Lưu ý nhịp pullback
+tháng 8/1936 trên biểu đồ tuần của Westinghouse Electric. Đường
+thứ hai, ít dốc hơn, cuối cùng mới là xu hướng bò chính thực sự.
+Lưu ý rằng mô hình giá từ tháng 2 đến tháng 4/1936 không thể
+được coi là một mô hình đảo chiều Double Top cấp độ chính,
+bởi vì nhịp điều chỉnh giữa hai đỉnh chỉ khoảng 10% giá trị đỉnh
+(khoảng 122). Hình 64 ở trang 119 cho thấy trên biểu đồ ngày mô
+hình đảo chiều đỉnh cuối cùng mà “WX” tạo ra năm 1937.
+
+    Một vùng đáy Rectangle lớn đã hình thành trên biểu đồ tuần
+này trong các tháng 4, 5 và 6 năm 1937, nhưng hãy chú ý khối
+lượng yếu đi kèm với cú bứt phá và đà tăng từ mô hình đó —
+một tín hiệu cực kỳ tiêu cực cho xu hướng chính. “Mục tiêu”
+của Rectangle đã được hoàn thành vào tháng 8, nhưng chỉ có vậy.
+Như thường lệ, không thể vẽ được một đường xu hướng giảm
+chính nào có giá trị dự báo trên biểu đồ này. Những đường xu
+hướng thẳng tuyệt đẹp xuất hiện trong thị trường gấu 1929–32
+đã khiến nhiều người học biểu đồ kỳ vọng các diễn biến tương
+tự trong mọi thị trường gấu, nhưng thực tế là 1929–32 là trường
+hợp độc nhất về phương diện đó.
+
+![fig-179](./img/fig-179.png)
+
+**HÌNH 179.** Thị trường gấu chính 1929–32 là trường hợp duy nhất
+trong toàn bộ lịch sử thị trường chứng khoán tạo ra một xu
+hướng giảm chính dạng đường thẳng. Đồng thời, hãy theo dõi
+các mức hỗ trợ và kháng cự xuyên suốt 14 năm lịch sử của Dow
+Industrials. Mỗi nhịp hồi trong pha gấu lớn đều dừng lại tại hoặc
+gần mức đáy trước đó. Mỗi nhịp giảm đều dừng gần mức của
+một vùng tích lũy trong thị trường bò 1924–29. Xem thêm mức
+đỉnh năm 1937. Biểu đồ do Market Research, Inc. cung cấp
+(Internet: barchart.com).
+
+    _Tính tới thời điểm chuyển giao thế kỷ, những chỉ số quan
+trọng nhất, bên cạnh Dow, có lẽ là S&P 500, S&P 100 và NASDAQ.
+Thực tế, chúng có lẽ đã đủ cho mục đích phân tích và dự báo kinh
+tế, và chắc chắn là những công cụ giao dịch tốt thông qua các
+sản phẩm thay thế, quyền chọn và hợp đồng tương lai. Một số
+người còn đưa Russell 2000 vào danh sách này. Các chỉ số và
+trung bình này được tạo ra nhằm đáp ứng những nhu cầu mà
+các chỉ số Dow–Jones không còn đáp ứng đầy đủ._
+Với sự bùng nổ của các thước đo thị trường và từng bộ phận
+của nó, một câu hỏi khác nảy sinh: liệu giá trị của riêng chỉ số
+Dow trong việc chỉ báo xu hướng thị trường chung còn đáng tin
+hay không. Hiện mới chỉ có ít nghiên cứu về vấn đề này. Tuy
+nhiên, theo quan điểm của tôi, xu hướng thị trường chung hiện
+nay cần được xác định bằng cách xem xét đồng thời Dow
+Industrials, S&P 500 và NASDAQ Composite.
+
+
+## Chương 15.1. Giao dịch các Chỉ số trong Thế kỷ 21
+
+Như tôi đã đề cập trong các chương và ghi chú mới ở lần tái bản thứ tám,
+khả năng giao dịch trực tiếp các Chỉ số thay vì từng cổ phiếu riêng lẻ
+là một lựa chọn mạnh mẽ mà thị trường hiện đại mang lại. Magee cho rằng
+các Chỉ số có độ “mượt” kỹ thuật mà nhiều cổ phiếu đơn lẻ thường thiếu.
+Điều này, xét theo trực giác, có vẻ hợp lý. Rốt cuộc, cũng như đường
+trung bình động làm mượt dữ liệu, thì trung bình của một rổ cổ phiếu
+cũng có tác dụng làm giảm biến động giá. Dĩ nhiên, như Mandelbrot đã
+chỉ ra, trong một cơn bão thị trường cỡ 10-sigma thì mọi thứ đều chìm.
+
+Trong chương này, chúng tôi minh họa một số trường hợp chi tiết theo
+gợi ý của Magee về việc giao dịch Chỉ số. Tôi cố gắng trình bày hai góc
+nhìn: thứ nhất, “nỗi kinh hoàng của hiện tại”, tức là cảm giác của cú sập
+và hoảng loạn khi chúng đang diễn ra; và thứ hai, cách mà cú sập và
+hoảng loạn ấy trông như thế nào khi nhìn lại trong hồi tưởng. Dĩ nhiên,
+tất cả chúng ta đều sống trong hiện tại — ngoại trừ những tỷ phú lớn,
+những người có thể đủ khả năng “ngủ gật” xuyên qua các Thị trường Gấu
+kinh hoàng. Giá trị tài sản ròng của Bill Gates đã dao động khoảng
+16–17 tỷ USD vào đầu năm 2000. Điều đó, với nhà đầu tư bình thường,
+chắc chắn là phá sản.
+
+Vì vậy, nhà đầu tư bình thường — bạn và tôi — phải tôn trọng khoảng
+trống mênh mông của Thị trường Gấu. Chúng ta phải bước ra ngoài lề,
+để mặc con gấu “ăn thịt những trinh nữ ngu ngốc”, mượn một ẩn dụ Kinh
+Thánh.
+
+Bạn hẳn còn nhớ Magee cho rằng việc phá vỡ đường xu hướng 2% là đủ
+để buộc phải thanh lý các vị thế mua khi phân tích Chỉ số. Trong các
+hình minh họa kèm theo, giả thuyết này được đem ra xem xét.
+
+_EN9: Liên quan đến việc phá vỡ đường xu hướng (2% hay 5%), cần lưu ý rằng
+việc phá vỡ một đường xu hướng vừa là một_ cảnh báo _vừa là một tín hiệu
+hành động. Cú phá vỡ đó, thay vì báo hiệu đảo chiều sang xu hướng ngược
+lại, cũng có thể chỉ ra sự chuyển sang xu hướng đi ngang — hình thành
+một mô hình đảo chiều hoặc tiếp diễn._
+
+
+
+![fig-179.1](./img/fig-179.1.png)
+
+**HÌNH 179.1**. Cú sập Reagan của S&P. Có thể thấy rõ rằng cú sập này đã phát
+ra nhiều tín hiệu, bắt đầu bằng việc phá vỡ một đường xu hướng chính
+hơn 2% vào cuối tháng Tám. Khi điều này xảy ra, cần phải hết sức thận
+trọng và quan sát chặt chẽ. Bức tranh ngày càng u ám được thể hiện qua
+“bán thông minh”, với nhiều “ngày đâm xuống” xuất hiện về cuối giai đoạn
+(10–20 tháng Mười). Các lần phá vỡ đường xu hướng vào tháng Tư (hơn
+2%) cũng sẽ loại nhà giao dịch theo xu hướng, rồi lại đưa họ trở lại vị
+thế mua vào tháng Sáu. Việc tuân thủ quy tắc phá vỡ đường xu hướng
+2–3% và/hoặc sử dụng Điểm Tạo Đáy cùng các điểm dừng lũy tiến
+(Chương 27 và 28) đã có thể tránh được rất nhiều đau khổ không cần
+thiết. LƯU Ý: Các hình từ 180–197 đã được chuyển sang Phụ lục C.
+
+![fig-179.2](./img/fig-179.2.png)
+
+**HÌNH 179.2**. Góc nhìn dài hạn của S&P. Khi nhìn từ xa, việc cố gắng
+“canh thời điểm thị trường” dường như là vô ích. Người ta cần giữ đúng
+bối cảnh đối với các cú sập giá thị trường — những cú sập trùng với nhu
+cầu thanh khoản ngắn hạn, hay nói cách khác là tiền mặt, của cá nhân
+và doanh nghiệp. Cũng cần nhớ đến hành vi thị trường giai đoạn 1965–82,
+cũng như biểu đồ hiệu suất của Lý thuyết Dow trong Chương 5.1.
+
+
+
+![fig-179.3](./img/fig-179.3.png)
+
+**HÌNH 179.3.** Ba đỉnh Thị trường Bò, các năm 1929, 1987 và 1998. Lưu ý
+rằng trong mỗi trường hợp, cú sập đều xảy ra sau khi đường xu hướng
+quan trọng gần nhất bị phá vỡ một cách dứt khoát — thường là các đường
+xu hướng khoảng 3 tháng, bị phá vỡ từ 2% trở lên, và đôi khi còn kèm theo
+các mô hình đảo chiều. Mọi đỉnh lịch sử đều cho thấy những nỗ lực cố
+gắng nối lại xu hướng sau kiểu phá vỡ này. Niềm tin rất khó chết. Tuy
+nhiên, phòng vệ hoặc thoát lệnh tại các điểm phá vỡ xu hướng này đã
+chứng minh, hết lần này đến lần khác, là chiến lược tốt nhất.
+
+
+
+![fig-179.3.1](./img/fig-179.3.1.png)
+
+**HÌNH 179.3.1**. Đỉnh Thị trường Bò thập niên 1990 của S&P cho tín hiệu
+rõ ràng hơn nhiều so với đỉnh của Dow, trong đó các đường xu hướng bị
+phá vỡ đóng vai trò then chốt. Trong khi Dow trêu đùa cảm xúc của phe
+bò, những người muốn tin vào Dow 36.000, thì S&P đã phá vỡ các đường
+xu hướng và lao dốc cho “mùa đông”. Có thể là một mùa đông rất dài.
+Mẫu hình này có thể đã bắt đầu như một đỉnh bo tròn, sau đó trở thành
+một đỉnh phức hợp–phức hợp, và thậm chí còn thấy dấu vết của mô hình
+Vai–Đầu–Vai. Theo quan điểm của biên tập viên, có lẽ chúng ta sẽ không
+còn thấy những đỉnh hỗn loạn như vậy nữa trong thế hệ này. Lòng tham,
+dục vọng và sự ngây thơ bị dồn nén — đến mức cả những người đánh giày
+(giờ vẫn còn chứ?) cũng lao vào mua những củ tulip mới nhất. Tulip thì
+giống như cây thế kỷ — chỉ nở hoa một lần trong trăm năm. Chỉ cần một
+bà cụ với cây thước kẻ cũng có thể cứu được danh mục đầu tư của mình
+ở đây. Tất cả những gì cần làm là không tin vào sự thổi phồng (Dow
+36.000 ư!) và thực hiện phân tích một cách lạnh lùng, tôn trọng các điểm
+dừng lỗ.
+
+
+
+![fig-179.3.2](./img/fig-179.3.2.png)
+
+**HÌNH 179.3.2.** Dow Jones Industrials 1999–2000. Minh họa rằng các mô
+hình có thể tồn tại bên trong các mô hình khác, Dow đã tạo ra một đỉnh
+mở rộng, sau đó chuyển thành hình kim cương, rồi tiếp theo là một vài
+tam giác (không vẽ ở đây). Tất cả những điều này cũng có thể được xem
+như một hình chữ nhật lởm chởm, rối rắm. Trong bối cảnh này, việc xác
+định chính xác các tam giác không quan trọng bằng việc nhận diện bản
+chất chung của thị trường — đi ngang đến đi xuống. Nhìn chung, đây là
+một trong những giai đoạn hỗn loạn nhất trong lịch sử thị trường, hoàn
+toàn xứng đáng với Thị trường Bò khó tin (thực sự là không thể tin nổi)
+mà nó đã kết thúc.
+
+
+## Chương 16.1  Phân tích Kỹ thuật Biểu đồ Hàng hóa
+
+_(EN9: Theo thông lệ cho phép người đọc phân biệt giữa các nội dung của
+Edwards và Magee với phần của Biên tập viên, một chương về giao dịch
+hàng hóa, Chương 16.1, đã được bổ sung vào Ấn bản thứ 9. Xem tại đó.)_
+
+Chỉ cần suy nghĩ một chút là có thể thấy rằng các mô hình đa dạng, thú vị
+và có ý nghĩa mà chúng ta đã khảo sát trong các chương trước về biểu đồ
+cổ phiếu, về mặt logic cũng sẽ xuất hiện trong biểu đồ của bất kỳ loại
+chứng khoán hay hàng hóa nào khác được mua bán tự do, liên tục và sôi
+động trên các sở giao dịch công khai có tổ chức. Và nhìn chung, điều này
+là đúng. Xu hướng giá của bất cứ thứ gì mà giá trị thị trường được xác định
+hoàn toàn (hoặc về mặt thực tế trong những giới hạn rất rộng) bởi sự tương
+tác tự do giữa cung và cầu, khi được thể hiện dưới dạng đồ thị, sẽ cho thấy
+những hiện tượng hình ảnh tương tự về tăng và giảm, tích lũy và phân phối,
+ùn tắc, củng cố và đảo chiều mà chúng ta đã thấy trong xu hướng thị trường
+chứng khoán. Mục tiêu đầu cơ và tâm lý của giới đầu cơ là giống nhau, dù
+hàng hóa được giao dịch là cổ phiếu doanh nghiệp hay hợp đồng giao hàng
+bông trong tương lai.
+
+Về mặt lý thuyết, do đó, hoàn toàn có thể áp dụng các nguyên tắc phân tích
+kỹ thuật của chúng ta cho bất kỳ hợp đồng tương lai hàng hóa nào có giao
+dịch sôi động (lúa mì, ngô, yến mạch, bông, ca cao, da sống, trứng, v.v.)
+mà dữ liệu giá và khối lượng hàng ngày được công bố chính xác. Điều đó
+là có thể, tức là nếu có sự điều chỉnh thích hợp đối với những khác biệt nội
+tại giữa hợp đồng tương lai hàng hóa và cổ phiếu hay trái phiếu.
+
+Trong các ấn bản trước của cuốn sách này _(EN9: cho đến ấn bản thứ 8)_ ,
+những nhà giao dịch khao khát lợi nhuận lớn và nhanh chóng tưởng như có
+thể đạt được trong lúa mì, chẳng hạn, đã được cảnh báo rằng biểu đồ hàng
+hóa là “rất ít giá trị”, tính đến năm 1947. Người ta đã chỉ ra rằng phân tích
+kỹ thuật thành công đối với biểu đồ hợp đồng tương lai hàng hóa là khả thi
+cho đến khoảng năm 1941 hoặc 1942. Nhưng sau đó, sự chi phối của các thị
+trường này bởi các quy định, khoản vay và hoạt động mua vào của chính
+phủ — hoàn toàn phụ thuộc vào các chính sách và hành động thay đổi (và
+thường mâu thuẫn) của nhiều cơ quan nhà nước liên quan đến ngũ cốc và
+các hàng hóa khác — đã làm méo mó nghiêm trọng cơ chế định giá bình
+thường của thị trường. Vào thời điểm đó, những cú đảo chiều xu hướng
+mạnh có thể và thực tế đã xảy ra chỉ sau một đêm mà không có bất kỳ cảnh
+báo nào thể hiện qua hành động thị trường. Những dao động cung–cầu
+thông thường và có trật tự, vốn tạo ra các mô hình rõ ràng và có ý nghĩa cho
+nhà phân tích kỹ thuật đọc hiểu, đã không tồn tại. Và mặc dù nhiều tài sản
+đã được tạo ra (và mất đi) trong các hợp đồng tương lai lúa mì, ngô và bông
+trong Thế chiến II, có thể khẳng định rằng chúng không được tạo ra từ biểu
+đồ.
+
+
+Tuy nhiên, trong khoảng 5 hoặc 6 năm gần đây, việc áp dụng các phương
+pháp kỹ thuật vào giao dịch hàng hóa đã được xem xét lại. Dưới các điều
+kiện của năm 1956, có vẻ như biểu đồ có thể là một công cụ vô cùng giá trị
+đối với nhà giao dịch hàng hóa. Ảnh hưởng của các quy định hiện hành của
+chính phủ dường như đã tạo ra những thị trường “có trật tự hơn” mà không
+phá hủy chức năng định giá của chúng. Và nếu cho phép những khác biệt
+thiết yếu giữa hàng hóa và cổ phiếu, thì các phương pháp kỹ thuật cơ bản
+hoàn toàn có thể được áp dụng.
+
+Có lẽ tại đây nên thảo luận ngắn gọn về một số khác biệt nội tại giữa hợp
+đồng tương lai hàng hóa và cổ phiếu đã được đề cập ở trên, cũng như một
+số đặc điểm riêng của biểu đồ hàng hóa. Trước hết, khác biệt quan trọng
+nhất là các hợp đồng giao hàng trong tương lai — vốn là mặt hàng kinh
+doanh của sở giao dịch hàng hóa — có vòng đời hữu hạn. Ví dụ, hợp đồng
+bông giao tháng Mười của một năm nhất định có vòng đời giao dịch khoảng
+18 tháng. Nó xuất hiện trên bảng giá như một “đợt phát hành mới”, được
+giao dịch với khối lượng tăng dần nhiều hay ít trong suốt giai đoạn đó, rồi
+biến mất. Về mặt lý thuyết, nó là một loại hàng hóa hoàn toàn riêng biệt so
+với các đợt giao hàng bông khác. Tuy nhiên, trên thực tế, nó hiếm khi tách
+xa đáng kể so với các đợt giao hàng khác đang được mua bán trong cùng
+thời kỳ, hoặc so với giá “giao ngay” của bông vật chất trong kho. Dẫu vậy,
+nó vẫn mang đặc tính riêng là một vòng đời độc lập hữu hạn, và do đó các
+Mức Hỗ trợ và Kháng cự dài hạn hoàn toàn không có ý nghĩa.
+
+Thứ hai, một tỷ trọng rất lớn các giao dịch trong hợp đồng tương lai hàng
+hóa — chắc chắn lên đến 80% trong điều kiện bình thường — là nhằm mục
+đích phòng hộ thương mại hơn là đầu cơ. (Thực tế, chúng được thực hiện
+để loại bỏ rủi ro, để tránh đầu cơ.) Do đó, ngay cả các Mức Hỗ trợ và Kháng
+cự ngắn hạn cũng có hiệu lực tương đối thấp hơn so với cổ phiếu. Ngoài ra,
+vì hoạt động phòng hộ chịu ảnh hưởng đáng kể bởi các yếu tố mùa vụ, nên
+các xu hướng giá hàng hóa có những tác động mùa vụ rõ rệt mà nhà đầu cơ
+hàng hóa phải ghi nhớ, ít nhất là để đánh giá ý nghĩa của sự vắng mặt bề
+ngoài của chúng trong bất kỳ giai đoạn nào.
+
+
+Khác biệt thứ ba nằm ở vấn đề khối lượng. Việc diễn giải khối lượng trong
+giao dịch cổ phiếu tương đối đơn giản. Nhưng trong hàng hóa, nó trở nên
+phức tạp hơn rất nhiều do thực tế rằng, về mặt lý thuyết, không có giới hạn
+đối với số lượng hợp đồng cho một kỳ giao hàng nhất định có thể được bán
+trước ngày giao hàng. Trong trường hợp của bất kỳ cổ phiếu nào, số lượng
+cổ phần đang lưu hành luôn được biết rõ. Tại thời điểm viết những dòng
+này, có 13.700.203 cổ phiếu phổ thông của Consolidated Edison nằm trong
+tay các cổ đông, và con số đó đã không thay đổi trong nhiều năm cũng như
+khó có khả năng thay đổi trong vài năm tới. Mỗi giao dịch của Consolidated
+Edison đều liên quan đến việc chuyển giao thực tế một hay nhiều cổ phần
+đang tồn tại đó. Ngược lại, trong trường hợp các hợp đồng tương lai hàng
+hóa — chẳng hạn lúa mì giao tháng Chín — giao dịch bắt đầu từ rất lâu
+trước khi bất kỳ ai biết được sẽ có bao nhiêu giạ lúa mì tồn tại để giao vào
+tháng Chín sắp tới, và lượng hợp đồng mở tại một thời điểm nào đó trong
+vòng đời của hợp đồng có thể vượt quá nguồn cung tiềm năng nhiều lần —
+và hoàn toàn hợp pháp. _EN9: Phụ lục C có chứa một số tài liệu về cách diễn
+giải dữ liệu khối lượng của hợp đồng tương lai. Như mọi khi, khối lượng
+chỉ là một chỉ báo bổ trợ cho giá. Không ai kiếm lợi nhuận trực tiếp từ nó._
+
+
+Một khác biệt quan trọng nữa cũng cần được nhắc đến. Một số loại tin tức
+— chẳng hạn tin tức về thời tiết, hạn hán, lũ lụt, v.v., ảnh hưởng đến mùa
+vụ nếu chúng ta đang giao dịch một loại hàng hóa nông nghiệp — có thể
+thay đổi xu hướng thị trường hợp đồng tương lai ngay lập tức và mạnh
+mẽ, và không thể dự báo trước được với trình độ hiểu biết thời tiết hiện
+nay. Những diễn biến tương tự trong thị trường chứng khoán là cực kỳ
+hiếm. _EN: Ngoại trừ thiên tai và Alan Greenspan._
+
+
+Trong những điều kiện thị trường có thể gọi là bình thường, các mô hình
+biểu đồ phản ánh sự thay đổi xu hướng theo cách đơn giản và logic nhất
+hoạt động hiệu quả với hàng hóa cũng như với cổ phiếu. Trong số đó có
+thể kể đến các mô hình Vai–Đầu–Vai, Đỉnh và Đáy Bo tròn, và các đường
+xu hướng cơ bản. Thực tế, các đường xu hướng trong hàng hóa được xác
+định rõ ràng hơn và hữu ích hơn so với trong cổ phiếu. Các loại mô hình
+biểu đồ khác, thường gắn với giao dịch ngắn hạn hoặc phân phối và tích
+lũy theo nhóm trong cổ phiếu, như Tam giác, Hình chữ nhật, Cờ, v.v.,
+xuất hiện ít hơn trong hàng hóa và kém đáng tin cậy hơn nhiều cả về
+hướng đi lẫn biên độ của chuyển động tiếp theo. Các Mức Hỗ trợ và
+Kháng cự, như đã lưu ý, có hiệu lực thấp hơn trong hàng hóa so với cổ
+phiếu; đôi khi chúng hoạt động hoàn hảo, nhưng cũng thường xuyên
+không như vậy. Vì những lý do tương tự, các khoảng trống giá (gap)
+có ý nghĩa kỹ thuật tương đối thấp hơn.
+
+
+Mục đích của cuốn sách này không phải là giải thích cơ chế vận hành của
+thị trường hợp đồng tương lai hàng hóa, cũng không nhằm hướng dẫn
+những ai muốn giao dịch trong lĩnh vực đó. Chương ngắn này chỉ được
+đưa vào như một khởi điểm cho những độc giả có thể muốn nghiên cứu
+sâu hơn. Cần lưu ý rằng đầu cơ thành công trong hàng hóa đòi hỏi kiến
+thức chuyên môn sâu hơn nhiều, yêu cầu sự chú ý liên tục hàng ngày và
+hàng giờ. Một cá nhân bình thường có thể hy vọng đạt được mức độ
+thành công khá khi đầu tư vào chứng khoán chỉ bằng cách dành thời gian
+rảnh cho biểu đồ của mình, nhưng tốt hơn hết là nên tránh hoàn toàn đầu
+cơ hàng hóa trừ khi sẵn sàng coi đó là một sự nghiệp.
+
+
+_EN: Biên tập viên, trong sự nghiệp đầy thăng trầm của mình, đã từng là
+một Cố vấn Giao dịch Hàng hóa được đăng ký. Khi bắt đầu sự nghiệp đó,
+tôi đã thảo luận các chủ đề này với Magee và nhận được về cơ bản các nhận
+xét như trên, được tái bản ở đây từ ấn bản thứ năm. Sau đó, tôi quan sát
+thấy trong số các cộng sự, đối tác của mình, cũng như bản thân tôi, rằng
+hợp đồng tương lai hoàn toàn có thể giao dịch hiệu quả với sự điều chỉnh
+các kỹ thuật và phương pháp được mô tả trong cuốn sách này. Đồng thời,
+như Magee đã nói, giao dịch hợp đồng tương lai khác biệt đến mức về nhịp
+độ, đòn bẩy và bản chất, đến nỗi người mới bước vào lĩnh vực này có thể
+đánh đổi sinh mạng, thể chất và vốn liếng nếu không có người hướng dẫn.
+Các tài liệu tham khảo là việc đọc thiết yếu, và người mới được khuyến
+nghị phải tự trang bị kiến thức _trước_ khi bắt đầu giao dịch bằng việc học
+tập sâu rộng và giao dịch mô phỏng._
+
+**Lưu ý rằng các Hình 180–197 cũng như Chương 16 của ấn bản thứ 7 hiện
+nay được đặt trong Phụ lục C.**
+
+
+![fig-179.4](./img/fig-179.4.png)
+
+**HÌNH 179.4.** (Hình 180, ấn bản thứ 5). Yến mạch. Vì những lý do hiển
+nhiên, yến mạch thể hiện các mô hình “bình thường” hơn so với lúa mì
+trong những năm 1940. Biểu đồ này chứa một đáy Vai–Đầu–Vai, một Tam
+giác Đối xứng hợp nhất vào dạng Tăng dần, một khoảng trống giá xuyên
+qua mức đỉnh trước đó, và một đường xu hướng đáng chú ý. Cú “rũ bỏ”
+dạng Đảo (Island shake-out) xuyên qua đường xu hướng là một diễn biến
+cực kỳ đánh lừa.
+
+![fig-179.5](./img/fig-179.5.png)
+
+**HÌNH 179.5.** (Hình 181, ấn bản thứ 5). Bông. Trái ngược với các loại
+ngũ cốc, hành vi kỹ thuật của thị trường hợp đồng tương lai bông khá nhất
+quán với cơ chế cung–cầu bình thường kể từ khi giá vượt xa các mức hỗ
+trợ của chính phủ. Trong biểu đồ ngày của hợp đồng giao tháng Mười năm
+1947 (Sở Giao dịch Bông New York), người đọc sẽ tìm thấy nhiều mô hình
+kỹ thuật quen thuộc, bao gồm các đường xu hướng quan trọng, một đỉnh
+Vai–Đầu–Vai không bao giờ hoàn tất (không có phá vỡ), và các hiện tượng
+Hỗ trợ–Kháng cự rất giống với những gì xuất hiện trong biểu đồ cổ phiếu.
+Các đường xu hướng kép không hề hiếm gặp trong biểu đồ bông.
+
+## Chương 16.1  Phân tích Kỹ thuật Biểu đồ Hàng hóa, Phần 2
+## Góc nhìn Thế kỷ 21
+
+
+Trong hành trình tìm kiếm Hòn đá Triết gia, người ta đã đổ nhiều mồ hôi
+và tiền bạc vào lĩnh vực hàng hóa và hợp đồng tương lai hơn bất kỳ lĩnh
+vực chứng khoán nào. Có một lý do đơn giản cho điều này. Những tài sản
+khổng lồ được tạo ra và mất đi với tốc độ nhanh hơn nhiều trong lĩnh vực
+hợp đồng tương lai so với chứng khoán. Trong toàn bộ lịch sử đầy kịch
+tính của thị trường chứng khoán, có rất ít khoảnh khắc đáng nhớ bằng vụ
+bạc của gia đình Hunt, hay Soros đối đầu với Ngân hàng Anh, hay việc
+vàng tăng vọt lên 1.000 đô la một ounce. Và câu chuyện vẫn tiếp diễn vào
+năm 2005. Dầu 50 đô? 60 đô? 70 đô? 100 đô? Và những tác động — kinh
+tế và tâm lý! Trong những căn gác tối mờ và các phòng máy tính sáng rực,
+hàng nghìn nhà nghiên cứu pha chế các hệ thống để giao dịch những thị
+trường này — ngô, đậu tương, bạc, đồng...
+
+## Các Nhà Khoa học Tên lửa
+
+Đã có những thời điểm các nhà giao dịch cá nhân và nhóm giao dịch đã
+cướp bóc (thu hoạch?) các thị trường này để kiếm lợi nhuận như cổ tích.
+Tôi biết rõ điều đó, vì từng là một trong những người sáng lập công ty
+cố vấn giao dịch hàng hóa được cấp phép đầu tiên của California, do nhà
+khoa học tên lửa NASA R.T. Wieckowicz thành lập. Trong những năm
+1970, khi thị trường chứng khoán ì ạch xoay quanh mức 1000 điểm của
+Dow, thì thị trường hợp đồng tương lai lại mang về mức lợi nhuận hàng
+năm lên tới 100%. Một cách đều đặn. Trong nhiều năm. Đó là thời kỳ của
+các nhà giao dịch hệ thống California và sự khởi đầu của giao dịch máy
+tính hóa. Từ lớp bùn nguyên thủy của NASA, các nhà khoa học tên lửa đã
+trỗi dậy để tạo nên một thời kỳ Phục hưng trong công nghệ thị trường. Vào
+thời điểm đó, dường như rõ ràng rằng khoa học và thiên tài cuối cùng đã
+chinh phục được thị trường, rằng khách hàng sẽ đổ về từ khắp nơi trên thế
+giới như ong tìm mật, và rằng những dòng sông lợi nhuận sẽ chảy mãi mãi.
+Chúng đã chảy trong một thời gian, rồi thị trường thay đổi. Các hệ thống
+cơ học, vốn chém xuyên thị trường như lưỡi hái trên cánh đồng lúa mì
+trong thị trường tăng giá, lại nghiền nát vốn liếng như máy xay xúc xích
+trong thị trường đi ngang. Khoa học và thiên tài được phơi bày như là sự
+kết hợp may mắn giữa con người, thời điểm, hệ thống và thị trường.
+
+##### Những Chú Rùa?
+
+Trong những năm 1980, từ biển cả bò lên những Chú Rùa. Là hậu duệ của
+phù thủy giao dịch biến hóa Richard Dennis, các Chú Rùa một lần nữa thu
+hoạch những khoản lợi nhuận khổng lồ từ thị trường, được cho là lên tới
+80% mỗi năm. Những “Chú Rùa” này có tên gọi như vậy từ một nhận xét
+được cho là của Dennis rằng nhà giao dịch là do rèn luyện mà thành, chứ
+không phải sinh ra, và ông sẽ nuôi các nhà giao dịch như nuôi rùa. Các tài
+liệu đọc thêm về Chú Rùa có trong những cuốn sách hấp dẫn của Jack
+Schwager, _Market Wizards,_ v.v. Sách của Schwager là tài liệu bắt buộc
+đối với các nhà giao dịch đầy tham vọng. Ngoài ra, cẩm nang giao dịch
+của Chú Rùa sẽ được tìm thấy trong Phụ lục E của ấn bản thứ chín này.
+Sổ tay này, do Curtis Faith — một Chú Rùa nguyên bản — biên soạn,
+chứa gần như đầy đủ mọi yếu tố cần thiết trong cẩm nang hệ thống và
+quy trình của một nhà giao dịch. Cẩm nang được soạn theo đúng chương
+trình huấn luyện mà Dennis đã dạy các Chú Rùa. Những nhà giao dịch
+nghiêm túc không hoạt động nếu không có một tài liệu như vậy. Chắc
+chắn tất cả các nhà giao dịch nghiêm túc mà tôi từng biết (một con số
+không nhỏ) đều có những cẩm nang được phát triển đầy đủ như sổ tay
+Chú Rùa. Tôi đã đính kèm sổ tay Chú Rùa như một phụ lục thay vì những
+tài liệu khác tôi sở hữu vì nó được công bố công khai tại originalturtles.org
+và vì nó được trình bày một cách xuất sắc.
+
+Vào cuối những năm 1990, các Chú Rùa đã bị nấu thành súp rùa trong
+thị trường hợp đồng tương lai, khi phần lớn các nhà giao dịch hệ thống
+kết thúc như thịt xay. _Có bài học nào không? Có. Thị trường cho và thị
+trường lấy đi. Khoa học và thiên tài một lần nữa được phơi bày như sự
+kết hợp may mắn giữa con người, phương pháp, thời điểm và thị trường._
+
+Hệ thống Chú Rùa về cơ bản là sự điều chỉnh của hệ thống phá vỡ kênh
+của Richard Donchian. Trong hệ thống Donchian, nhà giao dịch mua khi
+mức cao nhất 20 ngày bị phá vỡ, và bán cũng như bán khống khi mức
+thấp nhất 20 ngày bị phá vỡ. Trong những năm 1970, Dunn và Hargitt đã
+đánh giá một số hệ thống giao dịch cơ học và nhận thấy hệ thống của
+Donchian vượt trội hơn các hệ thống khác được đánh giá vào thời điểm
+đó. Liệu hệ thống Donchian còn hoạt động không? Có, trong những thị
+trường có xu hướng rõ rệt. Liệu hệ thống Chú Rùa còn hoạt động không?
+Có, trong những thị trường có xu hướng rõ rệt. Và, giống như hầu hết
+các hệ thống cơ học, chúng không biết liệu mình đang ở trong một thị
+trường có xu hướng hay không. Chúng mù. Tất cả những gì chúng thấy
+chỉ là các số một và số không. Việc bổ sung phân tích biểu đồ được áp
+dụng một cách thận trọng vào các hệ thống này sẽ cải thiện đáng kể hiệu
+suất và đặc tính rủi ro của chúng.
+
+
+## Chương 17.  Tổng kết và Một số Nhận xét Kết luận
+
+Chúng ta bắt đầu nghiên cứu phân tích kỹ thuật biểu đồ cổ phiếu ở Chương 1
+bằng việc thảo luận về _triết lý_ làm nền tảng cho cách tiếp cận kỹ thuật đối
+với các vấn đề giao dịch và đầu tư. Giờ đây, người đọc có thể được đề nghị
+quay lại xem lại vài trang đó để lấy lại một góc nhìn tổng quát về chủ đề,
+góc nhìn mà hẳn đã phần nào bị mờ đi bởi rất nhiều trang đọc, ít nhiều
+cũng khá nặng nhọc, ở phần giữa.
+
+Trong một nghiên cứu chi tiết về nhiều hiện tượng hấp dẫn mà biểu đồ cổ
+phiếu thể hiện, rất dễ quên đi thực tế rằng chúng chỉ là những công cụ còn
+khá không hoàn hảo mà qua đó chúng ta hy vọng đo lường được sức mạnh
+tương đối của cung và cầu — những yếu tố mà đến lượt chúng, một cách
+độc quyền, quyết định cổ phiếu sẽ đi theo hướng nào, nhanh đến đâu và
+xa tới mức nào.
+
+Hãy nhớ rằng, trong công trình này, điều gì tạo ra cung và cầu là không
+quan trọng. Sự tồn tại của chúng và cán cân giữa hai bên mới là điều đáng
+kể. Không một con người nào, không một tổ chức nào (và chúng tôi muốn
+nói điều này _verbatim et literatim_ — nguyên văn và đúng từng chữ) có thể
+hy vọng biết và đánh giá chính xác vô hạn dữ liệu thực tế, tâm lý đám đông,
+nhu cầu cá nhân, hy vọng, nỗi sợ, các ước lượng và phỏng đoán, những thứ
+mà, cùng với các thay đổi tinh vi không ngừng trong khung kinh tế chung,
+kết hợp lại để tạo ra cung và cầu. Nhưng tổng hợp của tất cả các yếu tố đó
+lại được phản ánh gần như tức thời vào thị trường.
+
+Nhiệm vụ của nhà phân tích kỹ thuật, do đó, là diễn giải chính hành động
+của thị trường — đọc dòng chảy của cung và cầu được phản chiếu trong đó.
+Đối với nhiệm vụ này, biểu đồ là những công cụ thỏa đáng nhất đã được
+nghĩ ra cho đến nay. Tuy nhiên, để tránh việc quá say mê với cơ chế của
+biểu đồ — những tiểu tiết của các dao động hàng ngày — hãy luôn tự hỏi
+mình: “Hành động này thực sự có ý nghĩa gì xét về cung và cầu?”
+
+Điều đó đòi hỏi sự phán đoán, góc nhìn tổng thể, và sự quay trở lại liên tục
+với các nguyên lý căn bản. Một biểu đồ, như chúng ta đã nói và không bao
+giờ nên quên, không phải là một công cụ hoàn hảo; nó không phải là một
+cỗ máy tự động; nó không đưa ra mọi câu trả lời một cách nhanh chóng,
+dễ dàng và chắc chắn, theo những cách mà bất kỳ ai cũng có thể đọc và
+ngay lập tức chuyển hóa thành lợi nhuận chắc chắn.
+
+Chúng tôi đã xem xét và kiểm nghiệm một cách toàn diện nhiều lý thuyết,
+hệ thống, chỉ số và công cụ kỹ thuật chưa được đề cập trong cuốn sách
+này, chủ yếu vì chúng có xu hướng “đi tắt” sự phán đoán, cố nhìn thấy điều
+bất khả bằng một cách tiếp cận thuần cơ học đối với một vấn đề vốn xa
+vời mới là thuần cơ học. Các phương pháp phân tích biểu đồ được trình
+bày ở đây là những phương pháp đã chứng tỏ là hữu ích nhất, bởi vì
+chúng tương đối đơn giản và, phần lớn, dễ lý giải một cách hợp lý; bởi vì
+chúng bám sát các nguyên lý căn bản; bởi vì bản chất của chúng không
+khiến chúng ta kỳ vọng quá nhiều; và bởi vì chúng bổ trợ cho nhau và
+phối hợp tốt với nhau.
+
+Hãy điểm lại ngắn gọn các phương pháp này. Chúng có thể được phân
+chia đại khái thành bốn nhóm.
+
+1. Các Mô hình Vùng (Area Patterns) hay các dạng biến động giá, cùng
+    với khối lượng đi kèm, cho thấy một sự thay đổi quan trọng trong
+    cán cân cung–cầu. Chúng có thể biểu thị Sự Củng cố (Consolidation),
+    tức là sự hồi phục hoặc tích lũy sức mạnh để tiếp tục một đợt vận
+    động mới theo _cùng hướng_ với xu hướng trước đó. Hoặc chúng có
+    thể biểu thị Sự Đảo chiều (Reversal), tức là sự cạn kiệt của lực lượng
+    trước đây chiếm ưu thế và chiến thắng của lực lượng đối lập, dẫn
+    đến một đợt vận động mới theo _hướng ngược lại_. Trong cả hai
+    trường hợp, chúng có thể được mô tả như những giai đoạn mà năng
+    lượng được “ủ men” hoặc áp lực được tích tụ để đẩy giá vào một
+    chuyển động (lên hoặc xuống) có thể khai thác để sinh lợi. Một số
+    trong các mô hình này còn cung cấp chỉ dẫn về mức độ mà áp lực
+    của chúng sẽ đẩy giá đi xa đến đâu. Những dạng biểu đồ này, cùng
+    với khối lượng, cung cấp cho nhà phân tích kỹ thuật phần lớn các
+    tín hiệu “vào lệnh” và nhiều tín hiệu “thoát lệnh”.
+
+       Khối lượng, vốn không được thảo luận trong cuốn sách này như
+    một yếu tố tách rời khỏi hành động giá, và thực tế cũng không thể
+    được sử dụng như một chỉ báo kỹ thuật độc lập, xứng đáng được
+    bình luận thêm. Hãy nhớ rằng khối lượng là _tương đối_, rằng nó có
+    xu hướng tự nhiên cao hơn gần đỉnh của Thị trường Tăng giá so với
+    gần đáy của Thị trường Giảm giá. Khối lượng “đi theo xu hướng”,
+    tức là nó tăng trong các nhịp hồi và giảm trong các nhịp điều chỉnh
+    trong một xu hướng tăng tổng thể, và ngược lại. Tuy nhiên, hãy áp
+    dụng quy tắc này một cách thận trọng; đừng đặt quá nhiều niềm tin
+    vào biểu hiện của chỉ vài ngày, và hãy nhớ rằng ngay cả trong một
+    Thị trường Giảm giá (ngoại trừ các pha Bán tháo Hoảng loạn), luôn
+    tồn tại một khuynh hướng nhẹ là hoạt động giao dịch gia tăng trong
+    các nhịp tăng. (“Giá có thể tự giảm bởi trọng lượng của chính nó,
+    nhưng để tăng thì cần có lực mua.”)
+
+       Một sự gia tăng đáng kể về hoạt động giao dịch, so với những ngày
+    hoặc tuần trước đó, có thể biểu thị hoặc sự khởi đầu (phá vỡ) hoặc
+    sự kết thúc (cao trào) của một chuyển động, tạm thời hoặc cuối
+    cùng. (Hiếm hơn, nó có thể biểu thị một pha “rũ bỏ”.) Ý nghĩa của
+    nó, trong từng trường hợp cụ thể, có thể được xác định thông qua
+    mối quan hệ với mô hình giá.
+2. Các nghiên cứu về Xu hướng và Đường xu hướng bổ trợ cho các Mô
+    hình Vùng trong việc xác định hướng chung mà giá đang di chuyển
+    và trong việc phát hiện sự thay đổi hướng đi. Mặc dù trong nhiều
+    trường hợp thiếu đi sự xác định rõ ràng tinh tế như các Mô hình
+    Vùng, chúng thường có thể được sử dụng cho mục đích “vào lệnh”
+    và “thoát lệnh” trong giao dịch ngắn hạn, và chúng cung cấp một
+    hàng rào bảo vệ chống lại việc từ bỏ quá sớm các vị thế dài hạn đang
+    sinh lợi.
+
+
+
+![fig-198](./img/fig-198.png)
+
+**HÌNH 198.** Thị trường Giảm giá của Spiegel bắt đầu vào tháng 4 năm
+1946 từ một Tam giác Đối xứng chuyển hóa thành Tam giác Giảm. Lưu ý
+nhịp Pullback vào tháng Sáu và hai mô hình Cờ. Diễn biến này được tiếp
+tục trong Hình 199.
+
+![fig-199](./img/fig-199.png)
+
+**HÌNH 199.** Chồng lên Hình 198, biểu đồ này cho thấy chuyển động diễn
+ra sau Tam giác Giảm rộng của đầu năm 1947, kết thúc bằng một Ngày
+Đảo chiều vào 19 tháng 5. Lưu ý các Mức Kháng cự Nhỏ và Trung hạn
+khác nhau
+
+
+3. Các Mức Hỗ trợ và Kháng cự được tạo ra bởi các cam kết giao dịch
+    và đầu tư trước đó của những người khác. Chúng có thể giúp chỉ
+    ra nơi mà việc mở vị thế có thể mang lại lợi ích, nhưng chức năng
+    kỹ thuật quan trọng hơn của chúng là cho thấy nơi một chuyển
+    động nhiều khả năng sẽ chậm lại hoặc kết thúc, và tại mức nào
+    nó sẽ gặp phải sự gia tăng đột ngột và đáng kể của cung hoặc cầu.
+
+       Trước khi tham gia một giao dịch, hãy xem xét cả mô hình khởi
+    nguồn để đánh giá sức mạnh đứng sau chuyển động, lẫn lịch sử
+    Hỗ trợ–Kháng cự để xác định liệu nó có thể tiến triển thuận lợi đủ
+    xa để sinh lợi hay không. Các nghiên cứu Hỗ trợ–Kháng cự đặc
+    biệt hữu ích trong việc cung cấp các tín hiệu “chốt lời” hoặc
+    “chuyển đổi”.
+4. Bối cảnh thị trường chung, bao gồm cả Lý thuyết Dow, không nên
+    bị xem nhẹ. Công cụ đã được kiểm nghiệm qua thời gian này chỉ
+    ra Xu hướng Chính (Major Trend) được giả định là đang chi phối
+    thị trường. Các tín hiệu của nó là “muộn”, nhưng, với tất cả những
+    khiếm khuyết của nó (và một trong số đó là lượng người theo dõi
+    gia tăng mạnh trong những năm gần đây, dẫn đến sự kích thích
+    hoạt động mang tính nhân tạo đáng kể tại một số thời điểm), nó
+    vẫn là một trợ thủ vô giá trong bộ công cụ của nhà giao dịch kỹ
+    thuật.
+
+Những đặc điểm chung của các giai đoạn khác nhau trong các chu kỳ
+Tăng giá và Giảm giá Sơ cấp lớn của thị trường chứng khoán, vốn đã
+được thảo luận trong các chương về Lý thuyết Dow, không bao giờ nên
+bị khuất khỏi tầm nhìn. Điều này đưa chúng ta quay lại với khái niệm
+_góc nhìn tổng thể_ , mà chúng ta đã nhấn mạnh là thiết yếu cho phân tích
+kỹ thuật thành công ngay từ đầu phần tổng kết này. Cổ phiếu nào không,
+ở một mức độ nào đó, đi theo Xu hướng Chính của toàn thị trường là
+một ngoại lệ hết sức hiếm hoi. Nhiều tiền đã bị mất hơn do mua những
+cổ phiếu hoàn toàn tốt trong các giai đoạn sau và sôi động nhất của một
+Thị trường Tăng giá, rồi sau đó bán ra, có lẽ vì hoàn cảnh bắt buộc,
+trong những điều kiện chán nản của Thị trường Giảm giá, so với tất cả
+các nguyên nhân khác cộng lại!
+
+Vì vậy, hãy luôn giữ góc nhìn về bức tranh thị trường rộng lớn. Thủy
+triều kinh tế cơ bản là một trong những yếu tố quan trọng nhất trong
+phương trình cung–cầu của từng cổ phiếu riêng lẻ. Có thể có lợi khi
+đi ngược lại “đám đông”, nhưng không bao giờ có lợi khi đi ngược lại
+xu hướng nền tảng thực sự.
+
+Các Thị trường Tăng giá và Giảm giá Lớn đã lặp lại theo những khuôn
+mẫu khá đều đặn trong suốt toàn bộ lịch sử kinh tế được ghi chép, và
+không có lý do gì để cho rằng chúng sẽ không tiếp tục lặp lại chừng nào
+hệ thống hiện tại của chúng ta còn tồn tại. Cần luôn ghi nhớ rằng sự
+thận trọng là cần thiết bất cứ khi nào giá cổ phiếu ở các mức cao mang
+tính lịch sử, và rằng việc mua vào thường sẽ cho kết quả tốt về lâu dài
+khi chúng ở các mức thấp mang tính lịch sử.
+
+Nếu bạn công khai sự quan tâm của mình đối với biểu đồ, bạn sẽ được
+nghe rằng nhà phân tích biểu đồ (cũng như người theo Lý thuyết Dow)
+luôn luôn là người đến muộn — rằng anh ta mua sau khi giá đã bắt đầu
+tăng, có thể là rất lâu sau khi “tiền thông minh” đã hoàn tất quá trình
+tích lũy, và rằng anh ta bán ra sau khi xu hướng đã không thể nhầm lẫn
+là quay đầu đi xuống. Điều đó đúng một phần, như hẳn bạn đã tự nhận
+ra. Nhưng bí quyết của thành công không nằm ở việc mua được ở mức
+giá thấp nhất có thể và bán ở đỉnh tuyệt đối. Nó nằm ở _việc tránh những
+_khoản lỗ lớn_. (Những khoản lỗ nhỏ thì bạn buộc phải chấp nhận, và
+phải chấp nhận nhanh nhất có thể khi hoàn cảnh đòi hỏi.)
+
+Một trong những “nhà điều hành” thành công nhất mà Phố Wall từng
+chứng kiến, một triệu phú lớn và hiện là một công dân được kính trọng
+trên toàn quốc, được cho là đã nói rằng trong toàn bộ sự nghiệp của
+mình, ông chưa bao giờ thành công trong việc mua trong vòng 5 điểm
+so với đáy hay bán trong vòng 5 điểm so với đỉnh! _EN: Bernard Baruch,
+nếu tôi nhớ không nhầm. Và để có thêm góc nhìn, 5 điểm được nhắc tới
+khi đó tương đương khoảng 10% của thị trường vào thời điểm ấy_.
+
+Trước khi rời khỏi chuyên luận này về lý thuyết để bước sang các vấn
+đề thực tiễn hơn của việc ứng dụng và chiến thuật thị trường, vốn là
+phạm vi của phần hai của cuốn sách, người đọc — hy vọng vậy — sẽ
+tha thứ cho thêm một lời nhắc nhở cuối cùng. Không có điều gì trong
+khoa học phân tích kỹ thuật buộc một người luôn luôn phải có vị thế
+trên thị trường. Không có điều gì quy định rằng mỗi ngày đều phải có
+một điều gì đó xảy ra. Có những giai đoạn — đôi khi kéo dài hàng
+tháng — khi chính sách tốt nhất của nhà giao dịch thận trọng là đứng
+ngoài hoàn toàn. Và không có gì trong phân tích kỹ thuật buộc thị
+trường phải tiếp tục và hoàn thành (chỉ trong vài ngày) một chuyển
+động mà biểu đồ đã dự báo; thị trường sẽ đi theo nhịp độ riêng của nó.
+Sự kiên nhẫn cũng là một đức tính trong giao dịch cổ phiếu như trong
+bất kỳ hoạt động nào khác của con người.
+
+
+## Chương 17.1. Phân tích Kỹ thuật và Công nghệ trong Thế kỷ 21:
+Máy tính và Internet, những Công cụ của Cuộc Cách mạng
+Đầu tư/Thông tin
+
+Mục đích của chương này là đặt công nghệ máy tính và công nghệ
+thông tin vào đúng bối cảnh và góc nhìn đối với các nhà phân tích
+kỹ thuật định hướng theo đồ thị. Vào thời của John Magee, trong
+văn phòng của ông tại Springfield, MA, có một phòng đồ thị —
+một căn phòng đầy những người vẽ đồ thị ở mọi lứa tuổi, từ
+thiếu niên cho đến người cao tuổi. Những người này dành toàn
+bộ thời gian để cập nhật đồ thị và hỗ trợ Magee trong việc diễn
+giải. Họ là những con người tuyệt vời và thông minh, những người
+đã phát triển những hiểu biết sâu sắc đáng kinh ngạc về các cổ
+phiếu mà họ theo dõi. Chính họ đã tạo ra các đồ thị thủ công
+được trình bày trong cuốn sách này.
+Ngày nay, căn phòng ấy cùng toàn bộ đội ngũ kỹ thuật viên đó
+đã được thay thế bằng một chiếc hộp màu be
+(đôi khi là xanh chanh), chen chúc trên bàn làm việc của chúng
+ta, và thường được tôn sùng như một nguồn mạch của tri thức
+và minh triết: “Máy tính, hãy phân tích cổ phiếu của tôi.”
+
+Đáng tiếc thay, máy tính không có khả năng phân biệt và nhận
+diện mô hình như những con người trong căn phòng đồ thị kia.
+Bất chấp điểm yếu này của công nghệ máy tính, các nhà giao
+dịch và nhà đầu tư đã đổ vào nghiên cứu có hỗ trợ máy tính
+những khoản tiền và công sức không thể tính đếm, nhằm cố
+gắng khám phá chìa khóa của thành công trên thị trường. Số
+tiền đã chi cho nỗ lực này còn nhiều hơn cả những gì từng được
+bỏ ra để tìm kiếm hòn đá giả kim. Phần lớn trong số đó đã bị
+lãng phí, nhưng không phải tất cả đều là vô ích. Trong một số
+lĩnh vực, kết quả thu được khá đáng kể. Tuy nhiên, bất chấp
+mọi nỗ lực đó, vẫn chưa có một thuật toán nào không thể thất
+bại được tìm ra cho thành công trong đầu tư, và chắc chắn là
+không dành cho giao dịch cổ phiếu. Nghiên cứu _đã_ cho thấy
+rằng ngay cả thuật toán “mua thấp bán cao” cũng chứa đựng
+những khiếm khuyết chí tử.
+
+Để hiểu đầy đủ tầm quan trọng của máy tính, người đọc cần
+nhận thức được một số khác biệt cơ bản trong cách tiếp cận
+thị trường của các nhóm tham gia. Hay nói cách khác, các
+trường phái của nhà phân tích/nhà đầu tư. Chúng ta sẽ không
+bàn tới các nhà phân tích cơ bản ở đây, vì họ thuộc về một
+giáo phái khác. Các nhà phân tích đồ thị, hay có thể nói là các
+nhà phân tích kỹ thuật kiểu Magee, nhìn chung giới hạn phân
+tích thị trường của họ trong việc diễn giải các đồ thị dạng thanh.
+(Điều này không có nghĩa là họ phải khép kín trước các đầu
+vào khác. Ngược lại — bất cứ thứ gì có hiệu quả.) Một trường
+phái phân tích đồ thị khác sử dụng đồ thị point and figure, và
+một trường phái khác nữa sử dụng đồ thị nến. Một chủng loại
+nhà phân tích kỹ thuật khác lấy dữ liệu thị trường cơ bản, giá
+và khối lượng, làm đầu vào cho các quy trình thống kê để tính
+toán từ các đường trung bình động cho tới những chỉ báo được
+đặt tên mang tính huyền bí như %R hay Bollinger Bands
+(xem Phụ lục C). Những người này được gọi là các nhà phân
+tích kỹ thuật thống kê hay định hướng theo con số. Tất cả các
+nhà phân tích này, hay gọi họ bằng bất cứ tên gì, đều cố gắng
+đầu tư hoặc giao dịch cổ phiếu và các công cụ tài chính khác
+(không bao gồm quyền chọn) bằng một hình thức của cái được
+gọi là phân tích kỹ thuật — tức là tất cả đều sử dụng, làm đầu
+vào cho phân tích của mình, dữ liệu cứng, những dữ liệu mà
+con người không thể nói dối, xuyên tạc hay thao túng, không
+giống như các dữ liệu đầu vào của phân tích cơ bản
+(lợi nhuận, dòng tiền, doanh số, v.v.).
+
+Sử dụng phân tích kỹ thuật định hướng theo con số, hay nếu
+bạn muốn, phân tích kỹ thuật thống kê, các trường phái sau
+này cũng giống như các nhà phân tích đồ thị, cố gắng dự đoán
+xu hướng thị trường và các cơ hội giao dịch. Điều này có thể
+vô cùng khó khăn, bởi vì thị trường cổ phiếu và trái phiếu là
+những thị trường mang tính hành vi. Nghĩa là, thị trường cổ
+phiếu được dẫn dắt bởi cảm xúc con người, có lẽ là biến số
+quan trọng nhất trong số rất nhiều biến ảnh hưởng đến giá.
+Và cảm xúc cùng hành vi của con người, với các yếu tố hưng
+cảm và trầm cảm của nó, cho đến nay vẫn chưa được lượng
+hóa. Nhưng một số nhà phân tích đồ thị tin rằng họ có thể
+nhận ra điều đó khi nhìn thấy nó trên đồ thị.
+Trong một lĩnh vực khác, máy tính đã mang lại những kết quả
+kịch tính và sinh lợi hơn nhiều. Nhưng đó là trong một thị
+trường được điều khiển bởi mô hình, cụ thể là thị trường
+quyền chọn. Các nhà phân tích định lượng, những người
+nghiên cứu và giao dịch trên thị trường quyền chọn, là một
+chủng loại tách biệt với các nhà phân tích kỹ thuật. Trong
+một nghịch lý thú vị, các thị trường được dẫn dắt bởi cảm
+xúc — thị trường cổ phiếu — lại được dùng làm nền tảng
+cho các sản phẩm phái sinh, hay quyền chọn, mà giá của
+chúng phần lớn được xác định bởi hoạt động của các thuật
+toán gọi là mô hình. Các nhà phân tích định lượng tin rằng,
+cũng như người biên tập này, thị trường quyền chọn có thể
+được “chơi” thành công thông qua phân tích định lượng.
+Kết quả của những người thực hành lành nghề cho thấy niềm
+tin này là chính xác.
+
+Than ôi, cuộc sống không đơn giản như vậy đối với nhà giao
+dịch cổ phiếu thuần túy. Giá cổ phiếu, vốn không liên quan gì
+đến toán học ngoài việc được biểu diễn bằng các số tự nhiên,
+không dễ bị dự đoán về hướng đi tương lai của chúng. Ngay
+cả với phân tích đồ thị của Magee hay bất kỳ hình thức phân
+tích nào khác — kỹ thuật, cơ bản, hay tâm linh. (Từ góc độ
+lý thuyết, mỗi giao dịch được thực hiện dựa trên phân tích
+đồ thị nên được xem như một thí nghiệm nhằm xác nhận
+một xác suất. Thí nghiệm này sẽ nhanh chóng kết thúc nếu
+xu hướng không phát triển.) Việc phân tích đồ thị không thể
+được cơ giới hóa là một thực tế quan trọng. Đó là một lý do
+khiến phân tích đồ thị vẫn tiếp tục hiệu quả trong tay những
+người thực hành có kỹ năng. Vì không thể bị cơ giới hóa,
+các chiến lược đối kháng không thể được triển khai chống
+lại nó, ngoại trừ trong những tình huống mà ý nghĩa của
+chúng là hiển nhiên đối với tất cả mọi người, chẳng hạn như
+một mức Hỗ trợ hay Kháng cự lớn và quan trọng, hoặc một
+mô hình đồ thị quá rõ ràng. Ngày nay, mọi người đều nhìn
+đồ thị để giao dịch, ngay cả khi họ không tin vào việc sử
+dụng chúng. Trong những trường hợp hiển nhiên này, một
+số thành phần thị trường sẽ cố gắng đẩy giá xuyên qua các
+mức đó nhằm kiếm lợi từ sự biến động và hỗn loạn. Quả
+thực, bản chất con người không thay đổi nhiều kể từ thời
+Jay Gould và Big Jim Fisk.
+Khi những thao túng giá này xảy ra, chúng tạo ra các tín hiệu
+giả — các bẫy tăng và bẫy giảm. Điều thú vị là sự thất bại
+của những tín hiệu này tự nó có thể cấu thành một tín hiệu
+đáng tin cậy — nhưng theo hướng ngược lại với tín hiệu ban
+đầu.
+
+##### Tầm quan trọng của Công nghệ Máy tính
+
+Vậy thì công cụ kỳ diệu này — công cụ thú vị nhất mà con
+người ( _homo_ ) có được kể từ giấy cói — có ích và quan
+trọng đến mức nào? (Có rất nhiều gói phần mềm máy tính
+sẵn có có khả năng thực hiện các chức năng được mô tả
+trong phần thảo luận tiếp theo.) Nếu máy tính không thể
+xác định một cách dứt khoát các cơ hội sinh lợi, thì nó có
+tác dụng gì?
+Có lẽ chức năng quan trọng nhất của máy tính đối với Nhà
+phân tích Magee là tự động hóa các công việc chi tiết mang
+tính lặp lại. Dữ liệu có thể được thu thập bằng cách tải về
+từ các máy chủ cơ sở dữ liệu. Đồ thị có thể được gọi lên
+tức thì. Kế toán danh mục, bảo trì danh mục và chuẩn bị
+thuế có thể được xử lý bằng một tay trong khi tay kia uống
+cà phê. Tổng thể mà nói, điều này có thể khiến máy tính
+trông như một công cụ tuyệt vời, nhưng với một lưỡi dao
+khá cùn. Điều đó không hoàn toàn đúng. Có ít nhất một
+bước tiến lớn đối với các Nhà phân tích Magee nhờ công
+cụ này, ngoài việc nó tiết kiệm công việc lao dịch lặp đi
+lặp lại. Ưu thế lớn này chính là phân tích danh mục. Trong
+_Phần Tài nguyên (Phụ lục D)_ , một phân tích danh mục
+phức tạp, loại được sử dụng bởi các nhà giao dịch chuyên
+nghiệp (Blair Hull và Options Research Inc.), được minh
+họa. Ngay cả các danh mục đơn giản hơn của nhà đầu tư
+trung bình cũng có thể hưởng lợi từ các tiện ích do hầu
+hết các chương trình quản lý danh mục cung cấp, dù là
+trên mạng hay trong các gói phần mềm thương mại (các
+địa chỉ và phần mềm được nêu trong _Tài nguyên_ ).
+
+Một lợi thế khác là khả năng xem dữ liệu cơ bản được
+hiển thị dưới nhiều hình thức khác nhau: đồ thị point and
+figure, đồ thị nến, đồ thị chỉ giá đóng cửa — tất cả đều
+được chuẩn bị trong chớp mắt, và quả thực có thể góp
+phần giúp hiểu rõ hơn tình huống cụ thể đang được soi
+xét. Việc lượng hóa dễ dàng một số khía cạnh của phân
+tích có thể hữu ích — chẳng hạn như các nghiên cứu về
+khối lượng, và với sự phổ biến của các đường trung bình
+động, việc quan sát các đường trung bình động 50 ngày
+và 200 ngày có thể rất đáng chú ý. Những đường trung
+bình động này được nhiều thành phần thị trường xem là
+quan trọng — kể cả các nhà phân tích cơ bản. Việc phân
+tích bất kỳ yếu tố nào trong số này nên được xem xét
+trong mối liên hệ với trạng thái hiện tại của thị trường,
+theo cách hiểu của nhà phân tích đồ thị cẩn trọng.
+
+Nhưng còn (những thứ có cái tên kỳ lạ) như stochastics,
+Bollinger Bands, %R, MACD, Moving Averages (loại cơ
+bản, hàm mũ, giao cắt, v.v.), phân kỳ giá/khối lượng,
+RSI (bản cơ bản và Wilder), VP Trend, TCI, OBV, Upper/
+Lower Trading Bands, ESA Trading Bands, và AcmDis
+thì sao? Vâng, có một mùi vị giả kim nhất định ở một
+số trong chúng, và một số có chút hữu ích trong những
+thời điểm nhất định. Và mọi hệ thống đều hoạt động
+tuyệt đẹp ít nhất hai lần trong đời của chúng: trong
+nghiên cứu, và trong những Thị trường Bò khổng lồ.
+Những chỉ báo định hướng theo con số này cũng là
+những thời điểm mà thiên tài giao dịch dễ được phát
+hiện nhất. Chúng được một cựu biên tập viên trình bày
+ngắn gọn trong Phụ lục C.
+_EN9: Cũng đúng, như tôi đã nói, rằng bạn có thể đóng
+một cái đinh bằng tua-vít. Và người phát minh ra một
+công cụ có thể cực kỳ thành công với nó, trong khi
+những người áp dụng nó lại mất sạch tài sản._
+
+Cũng có khả năng rằng sự dư thừa thông tin kỹ thuật do
+những chỉ báo này tạo ra có thể giống như sự dư thừa
+thông tin cơ bản — thêm một lớp vỏ để che hạt đậu,
+thêm một trò ảo thuật để khiến nhà đầu tư không nhìn
+thấy điều gì là thực sự quan trọng, và điều gì là cần và
+đủ để giao dịch tốt. Có lẽ nhà đầu tư sẽ khá hơn nếu có
+một mô hình hành vi, bởi vì thị trường là mang tính
+hành vi. Phân tích kỹ thuật định hướng theo con số có
+thể làm được nhiều thứ, giống như con chó của
+Dr. Johnson đi bằng hai chân sau, nhưng chúng không
+thể đặt thị trường vào đúng bối cảnh. Chỉ có trí óc con
+người mới làm được điều đó. Sau cùng, các mô hình
+định hướng theo con số không xem xét độ dài váy,
+chu kỳ mặt trăng, vết đen mặt trời, độ dài của chu kỳ
+kinh tế, trạng thái tăng hay giảm của thị trường (nếu
+Thị trường Gấu vẫn còn tồn tại) _EN9: Một bình luận
+mỉa mai chua chát được viết trước cú sập thị trường
+đầu những năm 2000_. Cuối cùng, bộ não con người
+vẫn là cơ quan duy nhất có khả năng tổng hợp toàn
+bộ thông tin định lượng và định tính này và đánh giá
+những yếu tố không thể quy giản thành các số một
+và số không. Trí tuệ được giáo dục vẫn là bộ phân
+biệt tốt nhất của các mô hình và bối cảnh của chúng.
+
+
+###### Tóm tắt 1
+
+Máy tính là một công cụ, một công cụ mạnh mẽ, nhưng dù sao vẫn chỉ là
+một công cụ. Nó không phải là một bộ giải quyết vấn đề hay ra quyết
+định thông minh. Chúng ta dùng một máy đào mương cơ giới để đào
+mương, nhưng không dùng nó để quyết định mương nên được đào ở
+đâu.
+Vô số các chỉ báo và hệ thống cần được nhìn nhận bằng con mắt hoài
+nghi và được đánh giá trong bối cảnh của phân tích đồ thị có hiểu biết.
+Đôi khi một chỉ báo hay kỹ thuật sẽ hiệu quả đối với một người dùng
+hay chính người phát minh ra nó, nhưng lại dẫn dắt nhà phân tích đồ
+thị khác đi lạc một cách kỳ lạ khi cố gắng sử dụng — hoặc thậm chí mua
+nó, ngay cả khi dựa trên một thành tích đã được kiểm chứng.
+Vì vậy, nhà đầu tư có kinh nghiệm giữ cho phương pháp và phân tích
+của mình đơn giản cho đến khi ông ta có được hiểu biết chắc chắn về
+bất kỳ kỹ thuật, phương pháp, hay chỉ báo nào mà ông muốn bổ sung
+vào vốn liếng của mình. Và, trên hết, ông dựa vào chính những quan
+sát và kinh nghiệm của bản thân để đánh giá các kỹ thuật giao dịch của
+mình cũng như của người khác.
+
+##### Những Phát triển Công nghệ Khác Quan trọng đối với Nhà phân tích Magee Kỹ thuật và Mọi Nhà đầu tư
+
+Máy tính không phải là phát triển công nghệ duy nhất đáng quan tâm
+đối với nhà đầu tư kỹ thuật. Một số công nghệ của cuộc cách mạng
+thông tin cần được đặt vào đúng góc nhìn. Chúng, ở mức độ khái quát,
+bao gồm Internet và toàn bộ các tiện ích của nó, các phát triển trong
+thị trường điện tử, và những tiến bộ trong lý thuyết và thực hành tài
+chính và đầu tư. Phần cuối cùng này được trình bày trong Chương 17.2.
+
+Do khối lượng tài liệu khổng lồ về các chủ đề này, sẽ không có nỗ lực
+nào nhằm khảo sát chúng một cách toàn diện, nhưng nhà đầu tư phổ
+thông sẽ được cung cấp những thông tin cần thiết để đặt các chủ đề
+này vào đúng bối cảnh. Phần Tài nguyên sẽ chỉ ra cho nhà phân tích
+những hướng đi để nghiên cứu sâu hơn nếu có nhu cầu.
+Nhưng trước hết, liệu có bất kỳ phát triển công nghệ nào, thuộc bất kỳ
+loại nào, đã khiến việc vẽ đồ thị trở nên lỗi thời hay không? Không.
+Liệu có phát triển nào khiến giao dịch trở thành một thành công được
+bảo đảm hay không? Không. Điều chắc chắn duy nhất là sẽ có kẻ
+bịp bợm nào đó tuyên bố rằng mình có một điều chắc chắn. Những ai
+tin vào các tuyên bố như vậy chính là nạn nhân của sự ngây thơ của
+chính họ.
+
+##### Internet — Kỳ quan Thứ Tám của Thế giới Hiện đại (EN9: Phụ lục Tài nguyên
+##### cho Ấn bản Thứ 9 đã được mở rộng đáng kể và có tầm quan trọng
+##### then chốt đối với các nhà đầu tư hiện đại.)
+
+Internet đã được gọi là dự án phức tạp nhất từng được con người xây
+dựng. Và điều đó có lẽ là đúng. Phức tạp, lan tỏa, mang tính đặc thù,
+nó có thứ gì đó cho tất cả mọi người, đặc biệt là nhà đầu tư. Mọi dạng
+sinh vật đầu tư mà con người biết đến đều đã lập một trang trên
+Internet, và chờ đợi như loài nhện đói mồi trước người lướt web tình
+cờ. Môi giới. Cố vấn — kỹ thuật và cơ bản. Báo chí. Tạp chí tin tức.
+Nhóm tin. Kẻ thổi giá. Quỹ tương hỗ. Dịch vụ tư vấn quỹ tương hỗ.
+Những người phê bình và đánh giá tất cả những thứ trên. Nhà cung
+cấp cơ sở dữ liệu. Phòng chat. Thị trường và sàn giao dịch điện tử.
+ECN. Khoảng trống duy nhất dường như còn tồn tại là khiêu dâm
+đầu tư. Có lẽ các quyền chọn “khỏa thân” sẽ thỏa mãn được nhu cầu
+này.
+Đây là một tập hợp tài nguyên gây choáng ngợp. Làm sao để sàng lọc
+chúng? Những hàm ý của tất cả những điều này đối với nhà đầu tư
+điện tử hay nhà đầu tư mạng có thể được mở rộng hơn nữa để chỉ ra
+các dịch vụ và tiện ích sẵn có: báo giá và dữ liệu; quản lý và kế toán
+danh mục; vẽ đồ thị tương tác trực tuyến; cảnh báo tự động tới các
+PBDA (personal body digital assistants — các thiết bị số cá nhân mang
+trên người, ví dụ như điện thoại di động và máy tính cầm tay, v.v.);
+phân tích và tư vấn; phòng họp điện tử; các sàn giao dịch điện tử nơi
+việc giao dịch diễn ra mà không cần trung gian. _Tài nguyên (Phụ lục D)_
+cung cấp các chi tiết cụ thể về những nhóm này. Chương này cung cấp
+góc nhìn. Việc chiêm ngưỡng chiếc sừng phong phú các tiện ích này là
+một chuyện, còn việc đánh giá tầm quan trọng và mức độ ưu tiên của
+các thành phần trong đó lại là chuyện khác. Báo giá theo thời gian
+thực có ích gì nếu bạn chỉ quan tâm đến việc xem lại danh mục của
+mình mỗi tuần một lần, ngoại trừ những dịp đặc biệt? Cảnh báo vệ
+tinh và kính thực tế ảo có ích gì đối với một nhà đầu tư dài hạn? Một
+nhà đầu tư không có triết lý hay phương pháp rất dễ bị cuốn vào vòng
+xoáy của những kỳ quan điện tử này và bước ra khỏi đó với sự hiểu
+biết chẳng hơn bao nhiêu, nhưng nghèo đi rất nhiều.
+
+Vậy hãy quan sát những hàng hóa và dịch vụ trong tất cả những điều
+này mà thực sự quan trọng đối với nhà đầu tư tỉnh táo, với đôi chân
+đặt trên mặt đất và cái đầu không ở trên mây. Nhà đầu tư, hy vọng là
+không quá trừu tượng này, đối tượng mà chúng ta quan tâm ở đây,
+cần gì? Ông ta cần _dữ liệu_ , _đồ thị_ , và _một kết nối tới nơi giao dịch_. Dữ
+liệu có sẵn chỉ với một cú nhấp chuột. Một đồ thị chiếm trọn màn hình
+chỉ với cú nhấp khác. Thêm một cú nhấp nữa và một giao dịch được
+đặt. Trong Thời đại Internet, việc cố gắng mô tả quá trình này bằng
+văn xuôi trở nên mang tính vòng vo, khi các trình diễn trực tiếp chỉ
+cách máy tính để bàn và một kết nối Internet. Một minh họa cho quá
+trình khá đơn giản này (dễ nói khi người ta thực hiện nó mà không
+cần suy nghĩ) có thể được xem tại các địa điểm được liên kết trong
+_Tài nguyên (Phụ lục D)_.
+Giao dịch, tất yếu, sẽ được thực hiện thông qua một dạng môi giới
+nào đó. Có lẽ là một nhà môi giới điện tử, hoặc thậm chí là một nhà
+môi giới không ảo giao tiếp qua điện thoại. Và trong tương lai gần,
+nếu chưa phải là hiện tại, một “sàn” điện tử nơi người ta so tài trí
+tuệ với một máy tính thay vì với nhà tạo lập thị trường hay chuyên
+gia.
+Việc các nhà môi giới sẽ còn cần thiết trong bao lâu là một câu hỏi
+chưa có lời giải trong thế kỷ mới. (Nhà môi giới thực sự xứng đáng
+với khoản thù lao của mình sẽ luôn tồn tại, và còn được chào đón.)
+Các thị trường điện tử nơi nhà đầu tư gặp nhau mà không cần đến
+môi giới hay chuyên gia đã và đang gia tăng nhanh chóng (xem
+_Tài nguyên_ ), và sẽ tiếp tục mang lại lợi thế cho nhà đầu tư so với
+sàn giao dịch truyền thống, vốn là một trong những lợi thế cuối
+cùng mà giới chuyên nghiệp còn nắm giữ so với các nhà giao dịch
+ngoài sàn. Có thể nói ngắn gọn rằng các giai đoạn đầu của chúng
+chắc chắn sẽ là những thời kỳ xáo trộn, rủi ro và cơ hội, khi các trục
+trặc của chúng được khắc phục.
+Việc đặt lệnh điện tử, dù là tới một sàn giao dịch điện tử hay tới
+NYSE, có những ưu thế cố hữu so với các lệnh bằng lời nói. Không
+ai có thể tranh cãi về một giao dịch được ghi nhận điện tử, trái với
+giao dịch bằng miệng, nơi luôn tồn tại khả năng bất đồng. Ngoài ra,
+nhà giao dịch chỉ xử lý dữ liệu một lần — thay vì phải phân tích,
+gọi môi giới, ghi chép giao dịch, rồi chuyển nó vào danh mục. Nếu
+ông ta chỉ cần nhấn nút giao dịch và giao dịch được định tuyến
+thông qua gói phần mềm của mình, thì sẽ không còn nghi ngờ nào
+về việc lỗi có thể nằm ở đâu. Phương pháp thủ công tạo ra cơ hội
+cho sai sót ở mỗi bước. Và hãy yên tâm, sai sót xảy ra và có thể gây
+thảm họa cho giao dịch.
+Hiệu quả và sự dễ dàng của quy trình khi dùng máy tính có rất
+nhiều điểm đáng khuyến nghị — tự động hóa xử lý giao dịch, loại
+bỏ sự nhầm lẫn và mơ hồ, dấu vết kiểm toán, tự động hóa bảo trì
+danh mục, và, có lẽ quan trọng nhất, tự động mark-to-market cho
+danh mục. (Mark-to-market là thông lệ định giá một danh mục theo
+giá thị trường hiện tại của nó, bất kể các giao dịch đang mở hay đã
+đóng.)
+
+##### Marking-to-Market
+
+Cuốn sách này lẽ ra có thể được đặt tên là _Thiền và Nghệ thuật Phân
+tích Kỹ thuật_ nếu nhan đề đó không quá sáo mòn và cũ kỹ. Tuy vậy,
+nó vẫn truyền tải thông điệp của Thiền trong nghệ thuật bắn cung,
+đó là sự gắn kết trực tiếp với thực tại và tầm quan trọng của khoảnh
+khắc hiện tại. Trong cuốn sách có tính nền tảng _The General Semantics
+of Wall Street_ (nay là _Winning the Mental Game on Wall Street_ ), John
+Magee đã lên án khá dài dòng xu hướng rất con người là giữ hai hệ
+sổ trong đầu — một bộ ghi nhận lợi nhuận, cả mở và đóng, và một
+bộ khác ghi nhận thua lỗ, nhưng chỉ là thua lỗ đã đóng. Các khoản
+lỗ đang mở không được coi là lỗ cho đến khi được ghi sổ. Việc có
+một kế toán danh mục điện tử từ chối tham gia vào sự tự lừa dối
+như vậy là điều rất đáng khuyến nghị. Nếu danh mục luôn được
+đánh dấu theo thị trường mỗi khi máy tính giao tiếp với nhà cung
+cấp dữ liệu hoặc nhà môi giới, thì thật khó để không nhìn thấy
+mực đỏ, và để thấy rằng giá trị vốn của tài khoản phản ánh tất cả
+các giao dịch, cả mở lẫn đóng.
+
+##### Tách Lúa khỏi Trấu (Separating the Wheat from the Chaff)
+
+Cần một nhà đầu tư có con mắt sắc bén mới có thể lần đường qua
+bãi mìn cám dỗ của đầu tư điện tử và phân tích kỹ thuật định hướng
+theo con số. Chơi với các món đồ, xem các “chuyên gia” nói gì, và
+mày mò với “nghiên cứu” có thể một cách tinh vi thay thế giao dịch
+sinh lợi như là hoạt động chính. Thực ra, gần như toàn bộ nghiên
+cứu mà Nhà phân tích Magee _phải_ làm đã được trình bày trong
+cuốn sách này.
+
+##### Trấu (Chaff)
+
+Phòng chat. Kẻ thổi giá. Tin tức. Dự đoán. Bình luận gia. Khuyến
+nghị mua, bán, giữ, giữ mạnh, mua yếu, mua mạnh, và mọi chủng
+loại khuyến nghị khác của các hãng môi giới, nếu được tiếp nhận
+một cách nguyên xi. Hãy nhớ rằng các công ty môi giới tồn tại bằng
+cách bán chứng khoán và nhìn chung kiếm tiền từ hoạt động giao
+dịch. Thực tế, phần lớn tiền của họ được kiếm từ việc phục vụ các
+khách hàng tổ chức và phân phối cổ phần của các khách hàng đó
+cho nhóm khách hàng bán lẻ của họ — một xung đột lợi ích trắng
+trợn đã phát nổ ngay trước mặt họ vào đầu những năm 2000, dẫn
+đến nhiều khoản phạt và một số án tù (_plus ça change..._). Trong
+các Thị trường Bò bùng nổ thời Clinton–Gore của thập niên 1990,
+tất cả những điều này đều hiệu quả. Trong một Thị trường Gấu
+nghiêm trọng, không có điều nào trong số đó sẽ hoạt động.
+_(EN9: Một thị trường gấu nghiêm trọng đã thực sự bắt đầu vào
+năm 2000 và đã được nhận diện chính xác bằng phân tích đồ thị
+Magee, như có thể thấy từ các John Magee Letters trên trang web
+edwards-magee.com.)_
+
+###### Tóm tắt 2
+
+Chưa bao giờ trong lịch sử của các thị trường lại có nhiều tiện ích dành
+cho nhà đầu tư cá nhân sẵn có đến như vậy. Máy tính là điều kiện cần
+thiết để có thể tận dụng những tiện ích đó.
+Dữ liệu có thể được thu thập tự động thông qua Internet hoặc các trang
+kết nối quay số với chi phí rất thấp hoặc thậm chí bằng không.
+Một (như người ta vẫn nói) sự dư thừa các trang web cung cấp cho các
+nhà đầu tư trên không gian mạng mọi thứ, từ kế toán danh mục cho đến
+các cảnh báo được gửi tới những thiết bị cá nhân mang theo bên người
+(máy nhắn tin, PDA cầm tay, v.v.).
+Một số trang thậm chí còn cung cấp dữ liệu theo thời gian thực, đây là
+một cách để những nhà giao dịch thiếu kinh nghiệm phá sản theo thời
+gian thực.
+Nhiều trang trong số này cung cấp đủ mọi loại phân tích, từ phân tích kỹ
+thuật đáng kính (thường là quá phức tạp) cho đến việc “tiếp nhận thông
+tin” từ các sinh thể ngoài Trái đất.
+
+Các phòng chat trên Internet sẽ cung cấp việc thổi giá theo thời gian
+thực cùng vô số tin đồn, đủ để khiến những con lemming và những kẻ
+dễ bị ảnh hưởng chạy tán loạn khắp nơi. Nhưng, người ta kỳ vọng, không
+phải là các độc giả của cuốn sách này.
+Quan trọng hơn, cuộc cách mạng thông tin và máy tính sẽ:
+
+1. Giải phóng nhà phân tích khỏi công việc lao dịch thủ công, tăng tốc
+    mọi bước của quá trình phân tích: thu thập dữ liệu, chuẩn bị đồ thị,
+    kế toán danh mục, phân tích và chuẩn bị thuế.
+2. Cung cấp cho nhà phân tích khả năng kế toán danh mục gần như
+    không tốn công sức cùng với giá mark-to-market — một công cụ
+    quý giá để ngăn nhà đầu tư trộn lẫn kế toán tiền mặt và kế toán dồn
+    tích, như Magee đã nói.
+3. Cho phép xử lý ở một mức độ trước đây khó có thể tưởng tượng
+    được. Một số lượng cổ phiếu không giới hạn có thể được phân
+    tích. Việc lựa chọn những cổ phiếu để giao dịch bằng máy tính
+    sẽ được đề cập trong Chương 21, _Lựa chọn Cổ phiếu để Vẽ đồ thị_.
+4. Cho phép nhà đầu tư giao dịch trên các ECN hoặc trong các thị
+    trường điện tử, nơi không có các nhà giao dịch trong sàn hay
+    các “local” để can thiệp, thao túng giá.
+
+
+## Chương 17.2 Những tiến bộ trong Công nghệ Đầu tư
+
+### Phần 1. Các phát triển trong Lý thuyết và Thực hành Tài chính
+
+Nhiều phát minh, dịch vụ và sản phẩm có hại và vô dụng rải rác
+trên Internet và thị trường ngành tài chính; nhưng lý thuyết
+và công nghệ tài chính hiện đại là quan trọng và phải được xem xét
+bởi nhà đầu tư phổ thông. Chương này sẽ khám phá mức tối thiểu mà
+nhà đầu tư ở mức trung bình–tiên tiến cần biết về các tiến bộ trong
+lý thuyết và thực hành. Và nó sẽ chỉ cho người đọc các nguồn bổ sung
+nếu anh ta mong muốn tiếp tục nghiên cứu ở mức cao hơn.
+Các công cụ có mức độ sẵn có hạn chế (hoặc không có) vào thời của
+Edwards và Magee bao gồm quyền chọn giao dịch trên sàn đối với cổ phiếu,
+hợp đồng tương lai trên các chỉ số và bình quân, quyền chọn trên hợp đồng
+tương lai và chỉ số, các chỉ số và bình quân được chứng khoán hóa,
+chỉ liệt kê một phần những công cụ quan trọng nhất. Không nghi ngờ gì,
+một trong những phát triển quan trọng nhất của kỷ nguyên hiện đại là
+việc tạo ra các công cụ giao dịch cho phép nhà đầu tư giao dịch và phòng
+hộ các chỉ số lớn. Trong số đó, các công cụ do Chicago Board of Trade tạo ra
+có tầm quan trọng đặc biệt. Đó là Hợp đồng Tương lai CBOT® DJIASM và
+Quyền chọn Hợp đồng Tương lai CBOT® DJIASM, được thảo luận chi tiết
+hơn trong Phần 2 của chương này. _(EN9: Có lẽ không đặc biệt đến vậy.
+Có lẽ quan trọng hơn đối với độc giả của cuốn sách này là các AMEX
+ishares, đặc biệt là DIA, SPY và QQQQ, các công cụ cho phép nhà đầu tư
+tham gia trực tiếp vào các chỉ số lớn như thể chúng là cổ phiếu.)_
+Các phát triển chung có tầm quan trọng lớn trong lý thuyết và thực hành
+tài chính được tìm thấy trong các phần sau.
+
+###### Quyền chọn
+
+Từ thời điểm mang tính bước ngoặt năm 1973 khi Fischer Black và
+cộng sự của ông, Myron Scholes, công bố — xin thứ lỗi cho cách dùng từ —
+Mô hình mang tính thiết lập khuôn mẫu của họ, cho đến thiên niên kỷ thứ ba,
+thị trường quyền chọn/phái sinh đã phát triển từ không đáng kể lên đến
+hàng nghìn tỷ đô la mỗi năm. Nhà đầu tư không hiểu biết về quyền chọn
+đang chơi với chỉ một nửa bộ bài. Tuy nhiên, chủ đề này vượt quá phạm vi
+của cuốn sách, vốn chỉ hy vọng cung cấp một số góc nhìn về chủ đề này
+và các chỉ dẫn cho việc nghiên cứu sâu hơn cần thiết đối với hầu hết
+các nhà giao dịch và nhiều nhà đầu tư.
+
+Khoảng đâu đó 30% hoặc hơn các quyền chọn hết hạn mà không có giá trị.
+Đây có lẽ là sự thật quan trọng nhất cần biết về quyền chọn. (Có một
+nguyên tắc kinh nghiệm về quyền chọn gọi là quy tắc 60–30–10: 60%
+được đóng trước khi hết hạn, 10% được thực hiện, và 30% là “dài hạn
+đến khi hết hạn,” nghĩa là vô giá trị.) Một sự thật khác cần biết về quyền chọn
+là: trong Cú sập Reagan năm 1987, các quyền chọn bán ngoài tiền được mua
+với giá $.625 vào ngày 16 tháng 10 đã trị giá hàng trăm đô la vào ngày
+19 tháng 10 — nếu bạn có thể khiến nhà môi giới nhấc máy và giao dịch
+chúng. (Biên tập viên đã có một khách hàng tại Options Research, Inc.
+trong thời gian đó, người đã mất $57MM trong 3 ngày và suýt làm sụp đổ
+một ngân hàng lớn ở Chicago. Ông ta đã bán quá nhiều quyền chọn bán
+không phòng hộ.) Những nhà giao dịch tinh vi và lành nghề nhất thế giới
+kiếm sống của họ (một cuộc sống khá xa hoa, xin cảm ơn) bằng việc giao
+dịch quyền chọn. Các ước tính có cơ sở cho rằng có tới 90% nhà giao dịch
+quyền chọn nhỏ lẻ bị thua lỗ. Điều đó kết hợp với thực tế rằng phần lớn công
+chúng là người mua (thay vì người bán) quyền chọn nên gợi ý cho người đọc
+một số suy luận mang tính tam đoạn luận.
+Với những sự thật này được ghi nhớ chắc chắn, hãy đặt quyền chọn vào
+đúng vị trí của chúng đối với nhà đầu tư phổ thông. Quyền chọn có một số
+chức năng hữu ích. Chúng cung cấp cho nhà giao dịch đòn bẩy mạnh mẽ.
+Với một quyền chọn, anh ta có thể kiểm soát nhiều cổ phiếu hơn so với
+việc mua trực tiếp cổ phiếu — vốn của anh ta được kéo giãn xa hơn.
+Vì vậy quyền chọn là công cụ đầu cơ lý tưởng. (Đòn bẩy phóng đại hầu như
+luôn là đặc điểm của các công cụ đầu cơ.) Nhưng chúng cũng có thể được
+sử dụng theo cách rất bảo thủ — tức là như một hợp đồng bảo hiểm. Ví dụ,
+một vị thế ở phía nắm giữ tài sản có thể được phòng hộ bằng việc mua một
+quyền chọn bán ở phía quyền chọn. (Đây không phải là khuyến nghị cụ thể
+để làm điều này. Mỗi tình huống cụ thể nên được nhà đầu tư thận trọng
+đánh giá về các hệ quả tiền tệ.)
+Nhà đầu tư có kinh nghiệm cũng có thể sử dụng quyền chọn để tăng
+lợi suất trên danh mục chứng khoán của mình. Ông ta có thể bán quyền
+chọn mua có bảo đảm, hoặc bán quyền chọn bán trần trên một cổ phiếu
+để mua nó với chi phí thấp hơn (ví dụ, ông ta bán các quyền chọn ngoài tiền.
+Đây là một cách để ở vị thế mua cổ phiếu. Nếu cổ phiếu quay lại mức giá
+thực hiện, ông ta sẽ sở hữu cổ phiếu. Nếu không, ông ta bỏ túi phí quyền chọn.)
+Có rất nhiều chiến thuật loại này có thể được triển khai với quyền chọn.
+Lưu ý, _chơi_. Chơi bởi vì, đối với nhà đầu tư phổ thông, trò chơi quyền chọn
+có thể là thảm họa, vì các chuyên gia không phải đang chơi. Họ đang nghiêm
+túc thực hành những kỹ năng mà người nghiệp dư không bao giờ có thể hy
+vọng làm chủ. Nhiều nhà giao dịch sàn, thực vậy, có thể được xếp vào loại
+thiên tài ngu ngốc — họ có thể tính “giá trị hợp lý” của quyền chọn trong đầu
+và kiếm tiền từ các sai lệch giá $.625, hay như họ gọi, một “teenie.”
+Để có góc nhìn, người đọc có thể suy ngẫm về một cuộc trò chuyện mà
+biên tập viên đã có với một trong những nhà giao dịch quyền chọn quan
+trọng nhất thế giới. Nhà tạo lập thị trường này nhận xét một cách thản nhiên
+rằng tài sản của ông ta được xây dựng trên teenies. Người đọc có thể tưởng
+tượng khá lâu xem điều gì là cần thiết để nhà đầu tư phổ thông kiếm lợi
+nhuận từ $.625.
+Điều này không có nghĩa là nhà đầu tư phổ thông không bao giờ nên chạm
+vào quyền chọn. Nó chỉ có nghĩa là anh ta nên được chuẩn bị kỹ lưỡng
+trước khi xuống chơi trò đó. Trong giao dịch quyền chọn, các nhà giao dịch
+nói về bull spread, bear spread, và alligator spread. Alligator spread là một
+chiến lược quyền chọn ăn mòn vốn của khách hàng _toàn bộ_.
+Trong số các chiến lược này có việc bán quyền chọn mua có bảo đảm.
+Đây là một chiến lược được ca ngợi là tạo thu nhập cho danh mục cổ phiếu.
+Không có mục đích gì trong việc bán quyền chọn mua trên một cổ phiếu
+mà nhà đầu tư đang nắm giữ — trừ khi cổ phiếu đó bị mắc kẹt trong một
+giai đoạn tích lũy rõ ràng mà không sắp kết thúc trước khi quyền chọn hết hạn.
+Và nếu cổ phiếu đang trong xu hướng giảm thì nên thanh lý. Nhưng bán
+quyền chọn mua trên một cổ phiếu đang trong xu hướng tăng rõ ràng là
+khiến bản thân được môi giới yêu mến, người mà tâm trạng tốt lên rõ rệt
+khi có hoạt động tài khoản và thu nhập hoa hồng. Kết cục của một quyền
+chọn mua có bảo đảm trên một cổ phiếu đang đi lên, dĩ nhiên, là người bán
+(bạn đấy, thưa độc giả) bị gọi cổ phiếu tại giá thực hiện, mất vị thế và sự tăng
+giá trong tương lai, chưa kể chi phí. Thu nhập thực tế chỉ là sự an ủi nhỏ,
+một dạng giải thưởng an ủi — một cách cắt giảm lợi nhuận trong khi tăng
+chi phí của bạn.
+
+###### Phân tích Định lượng
+
+Nhà đầu tư nên nhận thức được một lĩnh vực khác của công nghệ máy tính
+và đầu tư đã mang lại những kết quả kịch tính và sinh lợi hơn nhiều, nhưng
+đó là trong một thị trường dựa trên mô hình — cụ thể là thị trường quyền
+chọn. Các nhà phân tích định lượng, những người nghiên cứu và giao dịch
+thị trường quyền chọn, là một giống loài khác biệt so với các nhà phân tích
+kỹ thuật. Trong một nghịch lý thú vị, các thị trường hành vi, tức thị trường
+cổ phiếu, được dùng làm cơ sở cho các công cụ phái sinh, hay quyền chọn
+mà giá của chúng được quyết định phần lớn bởi hoạt động của các thuật
+toán gọi là mô hình. Mô hình ban đầu mà về mọi mặt đã tạo ra thế giới
+hiện đại của giao dịch quyền chọn là mô hình phân tích quyền chọn
+Black–Scholes, giả định rằng “giá trị hợp lý” của một quyền chọn có thể
+được xác định bằng cách đưa năm tham số vào công thức: giá thực hiện
+của quyền chọn; giá cổ phiếu; lãi suất “phi rủi ro”; thời gian đến khi hết hạn;
+và độ biến động của cổ phiếu.
+Việc mô hình này cuối cùng được chấp nhận rộng rãi đã dẫn đến ngành
+công nghiệp phái sinh mà chúng ta có ngày nay. Liệt kê tất cả các dạng
+phái sinh có sẵn để giao dịch hiện nay sẽ làm cuốn sách này dài thêm nhiều
+trang, và đó cũng không phải là mục đích của nó. Mục đích của đoạn này
+là cảnh báo nghiêm khắc các nhà đầu tư phổ thông đang nghĩ đến việc
+“đánh bại thị trường phái sinh” rằng họ nên trải qua đào tạo nghiêm ngặt
+trước. Phương án thay thế có thể cực kỳ tốn kém.
+Ban đầu, các nhà giao dịch nhận ra tầm quan trọng của mô hình này và
+dùng nó để định giá quyền chọn đã gần như lột da các nhà giao dịch quyền
+chọn cũ và công chúng, những người giao dịch chủ yếu theo cảm tính hay
+niềm tin của họ, nghĩa là cảm xúc con người. Nhưng những kẻ thua lỗ
+chuyên nghiệp học rất nhanh, và giờ đây tất cả các nhà giao dịch quyền
+chọn có năng lực đều sử dụng một dạng mô hình hay phản mô hình, hoặc
+phản–phản mô hình để giao dịch. Và đúng như thông lệ, những người bán
+quyền chọn, phần lớn là chuyên nghiệp, lấy đi hầu hết tiền của công chúng
+(những người mua). Đó là cách của thế giới.
+
+###### Các Mô hình Định giá Quyền chọn và Tầm quan trọng của Chúng
+
+Sau khi mô hình Black–Scholes được giới thiệu, nhiều mô hình khác đã
+theo sau, trong đó có Cox–Ross–Rubinstein, Black Futures, v.v. Đối với
+nhà đầu tư phổ thông, thông điệp là: anh ta phải làm quen với các mô hình
+này và chức năng của chúng nếu anh ta dự định sử dụng quyền chọn. Hãy
+nhớ rằng mô hình tính toán “giá trị hợp lý” của quyền chọn. Một cách mà
+các chuyên gia kiếm tiền từ những người nghiệp dư là bán các quyền chọn
+bị định giá quá cao và mua các quyền chọn bị định giá quá thấp để tạo ra
+một spread rủi ro tương đối thấp hơn (cho chính họ).
+Không biết các giá trị này đối với nhà đầu tư cá nhân giống như không
+biết giá hiện tại của một cổ phiếu. Đó là một mảnh của sự ngu dốt mà
+chuyên gia sẽ tính cho anh ta một khoản phí để được giáo dục. Thật không
+may, nhiều nhà giao dịch quyền chọn cá nhân không bao giờ được giáo dục
+mặc dù phải trả học phí hết lần này đến lần khác. Nhưng ngu dốt không
+phải là hạnh phúc. Nó rất đắt.
+Công nghệ và kiến thức lan truyền từ những người đổi mới và các thiên
+tài sáng tạo qua các tầng lớp chuyên nghiệp và sớm hay muộn được phổ
+biến đến công chúng. Tất nhiên đến lúc đó những người đổi mới đã phát
+triển công nghệ mới. Dẫu vậy, ngay cả khi giả định rằng các chuyên gia có
+công cụ và công nghệ vượt trội, nhà đầu tư phổ thông phải tự giáo dục mình
+một cách kỹ lưỡng trước khi sử dụng quyền chọn. Vì việc mổ xẻ giao dịch
+quyền chọn không thuộc phạm vi của cuốn sách này, người đọc có thể tìm
+tài liệu tham khảo trong _Resources (Appendix D)_.
+Ở đây không phải là không thích hợp khi nhắc đến một trong những cuốn
+sách tốt hơn về quyền chọn như một điểm khởi đầu cho nhà giao dịch ở mức
+trung bình–tiên tiến và có động lực. _Options as a Strategic Investment_ của
+Lawrence McMillan là tài liệu bắt buộc. Ngoài ra, người mới có thể liên hệ
+Chicago Board Options Exchange, CBOE, tại [http://www.cboe.com,](http://www.cboe.com,)
+nơi có phần mềm hướng dẫn.
+
+###### Hợp đồng Tương lai trên Chỉ số
+
+Hợp đồng tương lai, giống như quyền chọn, cung cấp cho nhà đầu cơ đòn
+bẩy mạnh — khả năng kiểm soát một vị thế tương đối lớn với ít vốn hơn
+nhiều so với việc mua hàng hóa hay chỉ số cơ sở. Nhân viên bán hợp đồng
+tương lai thích chỉ ra rằng, nếu bạn ký quỹ ở mức 5% hay 10% giá trị hợp
+đồng, một biến động tương tự của giá chỉ số sẽ nhân đôi tiền của bạn. Họ
+thường không tận tâm như vậy trong việc chỉ ra rằng một biến động tương
+tự đi ngược lại vị thế của bạn sẽ xóa sạch tiền ký quỹ (thực chất là tiền đặt
+cọc). Không giống như quyền chọn (mua), một sự cố trên thị trường có thể
+dẫn đến nhiều hơn là mất tiền ký quỹ. Nó có thể dẫn đến tài khoản âm và
+nợ môi giới — nói cách khác, thua lỗ hơn 100%. Vì lý do này cùng những
+lý do khác, khôn ngoan là không lao vào hợp đồng tương lai khi chưa chuẩn
+bị đáng kể.
+Sự chuẩn bị này có thể bắt đầu, đối với nhà đầu tư lanh lợi, bằng việc
+đọc cuốn _Technical Analysis, Schwager on Futures_, hiện là một trong những
+cuốn sách tốt hơn về chủ đề này.
+Nhưng giả sử rằng thay vì sử dụng hợp đồng tương lai để đầu cơ, chúng ta
+muốn dùng chúng như một công cụ phòng hộ cho danh mục Dow–Jones
+DIAMONDS hoặc danh mục cổ phiếu Dow–Jones. Lúc này chúng ta đang
+mua bảo hiểm, thay vì đầu cơ. Như một ví dụ đơn giản hóa, nhà đầu tư có
+thể xem việc DJIA không thể vượt qua một đỉnh là khởi đầu của một vùng
+tích lũy (một mô hình tích lũy hay đảo chiều). Sau đó ông ta có thể phòng
+hộ vị thế của mình bằng cách bán khống hợp đồng tương lai Dow–Jones.
+Giờ đây ông ta vừa mua vừa bán — mua tiền mặt, bán tương lai. Ông ta
+sẽ đặt một điểm dừng trên hợp đồng tương lai phía trên giá bán để đóng
+giao dịch nếu thị trường tiếp tục tăng. Nếu thị trường giảm, ông ta sẽ duy
+trì vị thế tương lai cho đến khi tính toán rằng đợt điều chỉnh đã qua điểm
+xấu nhất, hoặc cho đến khi nó được phân tích chắc chắn là đã đảo chiều.
+Sau đó ông ta sẽ chốt lời vị thế tương lai (chịu thuế) nhưng vị thế tiền mặt
+vẫn nguyên vẹn, và giả định rằng mức tăng vốn lớn hơn trên các vị thế đó
+sẽ an toàn khỏi thuế, đồng thời cũng an toàn khỏi chi phí, trượt giá và khó
+khăn của việc tái lập vị thế cổ phiếu.
+
+###### Quyền chọn trên Hợp đồng Tương lai và Chỉ số
+
+Việc sử dụng bảo thủ cũng như đầu cơ có thể được áp dụng cho quyền chọn.
+Ví dụ, nhà đầu tư có thể, sau một cú tăng mạnh, cảm thấy rằng S&P 500,
+hoặc SPDRs mà ông ta đang nắm giữ, đã bị mua quá mức. Khi đó ông ta có
+thể mua một quyền chọn bán trên chỉ số S&P như một hàng rào chống lại
+đợt giảm dự kiến. Nếu nó xảy ra, ông ta thu lợi nhuận trên quyền chọn và
+vị thế tiền mặt trong S&P không bị ảnh hưởng. Nếu chỉ số tiếp tục leo cao,
+ông ta mất phí quyền chọn — một hợp đồng bảo hiểm mà ông ta đã mua
+để bảo vệ danh mục cổ phiếu.
+**Lưu ý kỹ:** Các chiến thuật được mô tả ở đây nhằm mục đích giáo dục
+khái niệm cho người đọc. Trước khi thực hiện các chiến thuật kiểu này,
+hoặc bất kỳ quy trình không quen thuộc nào khác, nhà đầu tư nên tự trang
+bị kiến thức kỹ lưỡng và diễn tập quy trình, kiểm thử kết quả thông qua giao
+dịch giấy trước khi cam kết vốn thực. _Nói ngắn gọn, anh ta phải tìm ra cách
+bạn thua_. Một số trang web cung cấp các tiện ích loại này, và nhà đầu tư
+cũng có thể tự xây dựng trên máy tính của mình một danh mục nghiên cứu
+hoặc giao dịch giấy tách biệt khỏi các giao dịch thực tế.
+Nhà giao dịch cũng có thể chọn mua một quyền chọn trên một hợp đồng
+tương lai. Tại CBOT, nhà giao dịch có thể giao dịch cả quyền chọn và hợp
+đồng tương lai trên DJIA. Chúng có thể được sử dụng như các ví dụ trên để
+đầu cơ hoặc phòng hộ, ngoại trừ trong trường hợp này người mua quyền
+chọn thành công có thể kết thúc bằng việc sở hữu một hợp đồng tương lai
+thay vì vị thế tiền mặt. Điều này có thể gây bối rối cho người không quen
+với thị trường tương lai, đặc biệt nếu xảy ra các sai lệch giá lớn giữa tương
+lai và tiền mặt, như đã xảy ra vào năm 1987 và 1989 khi giá tương lai giao
+dịch ở mức chiết khấu rất lớn so với tiền mặt. Một lý do chính để sử dụng
+hợp đồng tương lai là đòn bẩy. Và lý do để sử dụng quyền chọn trên hợp
+đồng tương lai là phân tích rằng sự không chắc chắn đang chờ đợi và mong
+muốn chỉ rủi ro bằng số tiền phí quyền chọn.
+Rõ ràng, một nhà đầu cơ có thể chọn bỏ qua phần cổ phiếu hay hợp đồng
+tương lai của danh mục và chỉ giao dịch quyền chọn. Trước khi thực hiện
+bước như vậy, nhà giao dịch nên hoàn thành một khóa học sau đại học.
+Tỷ lệ giữa các nhà giao dịch quyền chọn nghiệp dư thành công so với các
+nhà giao dịch chuyên nghiệp thành công là cực kỳ lệch. Thực tế, có thể nói
+rằng tất cả các nhà giao dịch quyền chọn thành công đều là chuyên nghiệp.
+
+###### Lý thuyết Danh mục Hiện đại (MPT)
+
+MPT là một quy trình và phương pháp theo đó một nhà quản lý danh mục
+có thể phân loại và phân tích các thành phần của danh mục theo cách mà,
+hy vọng, nhận thức và kiểm soát được rủi ro và lợi nhuận. Nó cố gắng định
+lượng mối quan hệ giữa rủi ro và lợi nhuận. Thay vì chỉ phân tích các công
+cụ riêng lẻ trong danh mục, MPT cố gắng xác định các mối quan hệ thống
+kê giữa các thành viên của danh mục và mối quan hệ của chúng với thị
+trường.
+Các quy trình liên quan đến phân tích MPT là (1) định giá danh mục, hay
+mô tả danh mục theo rủi ro kỳ vọng và lợi nhuận kỳ vọng; (2) phân bổ tài
+sản, xác định cách vốn được phân bổ giữa các lớp công cụ (trái phiếu, cổ
+phiếu, v.v.); (3) tối ưu hóa, hay tìm kiếm các đánh đổi giữa rủi ro và lợi
+nhuận khi lựa chọn các thành phần của danh mục; và (4) đo lường hiệu
+suất, hay phân chia rủi ro của mỗi cổ phiếu thành các lớp hệ thống và liên
+quan đến chứng khoán.
+Điều này quan trọng đến mức nào đối với nhà đầu tư phổ thông? Không
+nhiều. Và có một câu hỏi lớn trong giới phân tích thực dụng, như biên tập
+viên, về tính hữu dụng thực tế của nó đối với các chuyên gia, mặc dù họ
+bám vào nó như một phao cứu sinh trong vụ đắm tàu. Mandelbrot đã quan
+sát trong các bài viết (“A Multifractal Walk Down Wall Street”) và các thư
+trong _Scientific American_ (tháng 2 năm 1999 và tháng 6 năm 1999) rằng
+MPT loại bỏ khoảng 5% kinh nghiệm thống kê như thể nó không tồn tại.
+(Mặc dù nó [kinh nghiệm] có tồn tại.) Và ông nhận thấy rằng kinh nghiệm
+bị bỏ qua bao gồm các cơn bão thị trường “10 sigma” vốn bị đổ lỗi cho các
+thất bại danh mục như thể đó là lỗi của dữ liệu thay vì lỗi của quy trình.
+
+###### Những Điều Kỳ Diệu và Niềm Vui của Công nghệ Đầu tư
+
+Có còn đổi mới nào khác trong tài chính và lý thuyết đầu tư mà nhà đầu
+tư phổ thông nên biết không? (Xem Chương 42 để thảo luận về VAR.)
+Thật ra, biết mọi thứ thì không bao giờ thừa, và những chuyên gia giỏi
+nhất không chỉ biết mọi thứ mà còn liên tục tìm kiếm những nếp gấp,
+trục trặc và dị thường mới. Nhưng, như Magee sẽ nói, điều gì là cần thiết
+và đủ để biết (xem _Winning the Mental Game on Wall Street_)? Sự chắc
+chắn tuyệt đối là dấu hiệu của những kẻ cực đoan tôn giáo và ngây thơ,
+những người không biết rằng họ không biết gì. Vì vậy tôi sẽ nhận xét rằng
+_có lẽ_ cuốn sách này chứa những gì là cần thiết và đủ để nhà đầu tư biết về
+những vấn đề này, và/hoặc hướng dẫn người đọc đến các nghiên cứu sâu hơn.
+Và, _nota bene_, bất kỳ số lượng nào những bà lão nhỏ bé với một biểu đồ,
+một cây bút chì, và các ấn bản trước của cuốn sách này đã đánh bại thảm
+hại các nhà chọn cổ phiếu chuyên nghiệp với siêu máy tính và MPT và các
+chủ nhân giải Nobel và ai biết còn những nguồn lực nào khác. Cá nhân tôi
+biết các nhóm đầu tư đã đổ nguồn lực khổng lồ vào việc phát triển các hệ
+thống thời gian thực mà trong nghiên cứu đã thành công 100% trong việc
+đánh bại thị trường. Trục trặc thực tế duy nhất là các hệ thống đó cần quá
+nhiều sức mạnh tính toán nên không thể chạy đủ nhanh trong thời gian
+thực để thực sự giao dịch trên thị trường. Hòn đá giả kim _redux._
+
+
+
+##### Part 2. Futures and Options on Futures on the Dow–Jones Industrial Index at the Chicago Board of Trade
+##### (EN9: The general investor MUST be aware that the
+##### methods and techniques described in this chapter are
+##### for advanced practitioners. Careless use of the described
+##### instruments can be extremely damaging to a portfolio.)
+###### Investment and Hedging Strategies Using the Chicago Board
+###### of Trade DJIASM Futures Contract

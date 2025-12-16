@@ -10,7 +10,6 @@ Welcome to the **Technical Analysis Ebook**. This guide covers key concepts, str
 ---
 
 
-
 ## Table of Contents
   - [Chương 1. Cách Tiếp Cận Kỹ Thuật Trong Giao Dịch và Đầu Tư](chapter-01.md)
   - [Chương 2. Đồ Thị ](chapter-02.md)
@@ -22,6 +21,14 @@ Welcome to the **Technical Analysis Ebook**. This guide covers key concepts, str
   - [Chương 8. Các Mô hình Đảo chiều Quan trọng — Tam giác](chapter-08.md)
   - [Chương 9. Các Mô hình Đảo Chiều Quan Trọng — Tiếp theo, Tam giác chữ nhật, Đỉnh đôi và Ba](chapter-09.md)
   - [Chương 10. Các Hiện Tượng Đảo Chiều Khác](chapter-10.md)
+  - [Chương 11. Các Mô Hình Tích Lũy](chapter-11.md)
+  - [Chương 12. Khoảng Trống Giá (Gaps)](chapter-12.md)
+  - [Chương 13. Hỗ trợ và Kháng cự](chapter-13.md)
+  - [Chương 14. Đường xu hướng và Kênh giá](chapter-14.md)
+  - [Chương 15. Đường xu hướng chính (Major Trendlines)](chapter-15.md)
+  - [Chương 16. Phân tích Kỹ thuật Biểu đồ Hàng hóa](chapter-16.md)
+  - [Chương 17. Tổng kết và Một số Nhận xét Kết luận](chapter-17.md)
+
 
 ---
 
