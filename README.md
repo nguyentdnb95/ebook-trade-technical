@@ -2,10 +2,14 @@
 
 Welcome to the **Technical Analysis Ebook**. This guide covers key concepts, strategies, and examples for trading and investing using technical analysis. Use the sidebar to navigate through chapters or the links below.
 
----
 
 - [English Version](technical-analysics-en.md)
 - [VNI Version](technica-analysics.md)
+
+
+---
+
+
 
 ## Table of Contents
   - [Chương 1. Cách Tiếp Cận Kỹ Thuật Trong Giao Dịch và Đầu Tư](chapter-01.md)
