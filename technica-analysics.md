@@ -1,72 +1,106 @@
-# Chương 1: Cách Tiếp Cận Kỹ Thuật Trong Giao Dịch và Đầu Tư
+## Chương 1. Cách tiếp cận Kỹ thuật trong Giao dịch và Đầu tư
 
-Ít hoạt động nào của con người được nghiên cứu kỹ lưỡng như việc mua bán cổ
-phiếu trong suốt thế kỷ qua, từ nhiều góc độ và bởi nhiều loại chuyên gia khác
-nhau. Lợi nhuận mà thị trường chứng khoán mang lại cho người hiểu rõ nó có
-thể rất lớn; ngược lại, những người lơ là, thiếu chú ý, hay "xui xẻo" sẽ chịu
-thua lỗ nặng nề. Không có gì ngạc nhiên khi thị trường thu hút các kế toán,
-nhà phân tích, nhà nghiên cứu tinh anh nhất thế giới, cùng với những cá nhân
-kỳ quặc, huyền bí, người theo trực giác, và vô số công dân bình thường đầy hy
-vọng.
+Ít có hoạt động nào của con người đã được nghiên cứu một cách toàn diện
+đến vậy trong suốt thế kỷ qua, từ rất nhiều góc độ và bởi rất nhiều kiểu
+người khác nhau, như việc mua và bán chứng khoán doanh nghiệp. Những
+phần thưởng mà thị trường chứng khoán dành cho những ai đọc nó đúng
+cách là vô cùng to lớn; những hình phạt mà nó trừng phạt các nhà đầu tư
+cẩu thả, lơ đãng, hay “kém may mắn” thì mang tính hủy diệt. Không có gì
+ngạc nhiên khi nó đã thu hút một số kế toán, nhà phân tích và nhà nghiên
+cứu sắc sảo nhất thế giới, cùng với một đám hỗn tạp gồm những kẻ lập dị,
+nhà thần bí và “người chơi theo linh cảm,” và vô số những công dân bình
+thường chỉ đơn giản là đầy hy vọng.
+Những bộ óc xuất sắc đã tìm kiếm, và vẫn đang không ngừng tìm kiếm,
+những phương pháp an toàn và chắc chắn để đánh giá trạng thái và xu
+hướng của thị trường, để phát hiện đúng cổ phiếu cần mua và đúng thời
+điểm để mua nó. Nghiên cứu chuyên sâu này không hề vô ích — trái lại là
+đằng khác. Có rất nhiều nhà đầu tư và đầu cơ thành công (dùng từ này theo
+đúng nghĩa của nó, tức không mang ý miệt thị) những người, bằng con
+đường này hay con đường khác, đã đạt được sự thấu hiểu cần thiết về các
+lực mà họ đang đối mặt và có được sự phán đoán, tầm nhìn xa, và kỷ luật
+tự thân cực kỳ quan trọng để xử lý chúng một cách sinh lợi.
+Trong quá trình nhiều năm nghiên cứu thị trường chứng khoán, đã hình
+thành hai trường phái tư duy hoàn toàn khác biệt, hai phương pháp triệt để
+khác nhau để đi đến câu trả lời cho vấn đề của nhà giao dịch về _cái gì_ và
+_khi nào_. Theo cách nói của “Phố Wall,” một trong hai thường được gọi là
+_phân tích cơ bản_ hay thống kê, và cái còn lại là _kỹ thuật_. (Trong những
+năm gần đây, một cách tiếp cận thứ ba, mang tính chu kỳ, đã đạt được tiến
+bộ nhanh chóng và, mặc dù vẫn còn bị vây quanh bởi một “vành đai điên
+rồ,” nó hứa hẹn sẽ đóng góp rất nhiều cho sự hiểu biết của chúng ta về các
+xu hướng kinh tế.)
+Nhà theo trường phái cơ bản trong thị trường chứng khoán dựa vào thống
+kê. Ông ta xem xét các báo cáo kiểm toán, báo cáo lãi–lỗ, bảng cân đối kế
+toán hàng quý, hồ sơ cổ tức, và các chính sách của những công ty mà cổ
+phiếu của họ đang được theo dõi. Ông ta phân tích dữ liệu bán hàng, năng
+lực quản lý, công suất nhà máy, và mức độ cạnh tranh. Ông ta tham khảo
+các báo cáo ngân hàng và kho bạc, các chỉ số sản xuất, thống kê giá cả,
+và dự báo mùa màng để đo lường tình trạng kinh doanh nói chung, và đọc
+kỹ tin tức hằng ngày để đi đến một ước lượng về điều kiện kinh doanh
+trong tương lai. Tính đến tất cả những điều đó, ông ta định giá cổ phiếu;
+nếu nó đang được giao dịch thấp hơn mức định giá của ông ta, ông ta coi
+đó là một cơ hội mua. _(EN9: Và, không có gì ngạc nhiên, người mua đó
+tên là Warren Buffet, và ông mua cả công ty chứ không phải cổ phiếu, bởi
+vì mặc dù đây là một cách tuyệt vời để mua công ty, nó không phải là một
+cách rất tốt để mua cổ phiếu.) EN: Hãy đọc bản tổng kết phương pháp luận
+cơ bản của Robert Prechter như một chú thích vui ở cuối chương này._
 
-Những bộ óc sáng suốt luôn tìm kiếm và tiếp tục tìm kiếm các phương pháp
-an toàn, chắc chắn để đánh giá trạng thái và xu hướng thị trường, phát hiện
-cổ phiếu đúng để mua và thời điểm thích hợp. Nghiên cứu kỹ lưỡng này không
-phải là vô ích. Có rất nhiều nhà đầu tư và đầu cơ thành công (ở đây dùng đúng
-nghĩa từ "speculator", không mang nghĩa xấu) đã đạt được sự hiểu biết cần
-thiết về các lực lượng tác động và khả năng phán đoán, suy tính trước, cùng
-kỷ luật tự giác quan trọng để giao dịch có lãi.
+Thực tế mà nói, ngoài những người mới tinh xanh nhất khi họ lần đầu
+giải quyết vấn đề đầu tư, và những người mà do thiếu kinh nghiệm, bất kỳ
+quan điểm nào khác không chỉ là phi lý mà còn không thể hiểu nổi, thì
+nhà theo chủ nghĩa cơ bản thuần túy là một loài chim rất hiếm. Ngay cả
+những nhà chức trách thị trường giả vờ khinh thường biểu đồ và các
+“chartist” một cách hoàn toàn cũng không hề không để ý đến “hành động”
+được ghi chép bởi băng ticker, cũng như họ không che giấu sự tôn trọng
+của mình đối với Lý thuyết Dow, thứ mà, dù họ có nhận ra hay không,
+trong bản chất sâu xa nhất của nó, hoàn toàn là kỹ thuật thuần túy.
 
-Qua nhiều năm nghiên cứu, xuất hiện hai trường phái khác nhau hẳn nhau,
-hai phương pháp căn bản để giải quyết vấn đề của trader: _mua gì_ và _khi
-nào_. Trên “Phố Wall”, một bên gọi là _fundamental_ hay thống kê, còn bên
-còn lại là _technical_. (Gần đây, phương pháp thứ ba — chu kỳ — phát triển
-nhanh, dù còn bị coi là fringe, hứa hẹn đóng góp nhiều cho hiểu biết về xu
-hướng kinh tế.)
+##### Định nghĩa Phân tích Kỹ thuật
 
-Nhà phân tích fundamental dựa vào số liệu. Ông xem xét báo cáo kiểm toán,
-bảng lãi lỗ, bảng cân đối quý, lịch sử cổ tức và chính sách công ty. Ông phân tích
-doanh số, năng lực quản lý, công suất nhà máy, đối thủ cạnh tranh. Ông theo
-dõi báo cáo ngân hàng, kho bạc, chỉ số sản xuất, thống kê giá cả và dự báo
-nông sản để đánh giá tình hình kinh doanh tổng thể, đồng thời đọc tin tức
-hằng ngày để ước lượng điều kiện kinh tế trong tương lai. Tất cả những dữ
-liệu này giúp ông định giá cổ phiếu; nếu giá hiện tại thấp hơn định giá, ông
-xem đó là cơ hội mua. _(EN9: Không ngạc nhiên, nhà mua là Warren Buffet,
-ông mua công ty, không phải cổ phiếu, vì cách này tốt để mua công ty nhưng
-không hẳn tốt để mua cổ phiếu.)_
+Thuật ngữ “kỹ thuật,” khi áp dụng cho thị trường chứng khoán, đã mang
+một ý nghĩa rất đặc biệt, khá khác với định nghĩa thông thường trong từ
+điển. Nó đề cập đến _việc nghiên cứu chính hành động của thị trường_,
+trái ngược với việc nghiên cứu các hàng hóa mà thị trường giao dịch.
+_Phân tích Kỹ thuật_ là khoa học ghi lại, thường dưới dạng đồ thị, lịch sử
+thực tế của hoạt động giao dịch (biến động giá, khối lượng giao dịch, v.v.)
+của một cổ phiếu nhất định hoặc của “các Chỉ số,” rồi từ lịch sử được minh
+họa đó suy ra xu hướng tương lai có khả năng xảy ra.
+_EN: Với sự ra đời của máy tính, nhiều trường phái phân tích kỹ thuật đã
+xuất hiện. Phân tích kỹ thuật dựa trên con số, ví dụ như các nghiên cứu
+đường trung bình động, các bộ dao động, v.v., cố gắng hoàn toàn khách
+quan hóa việc phân tích thị trường. Công trình của Edwards và Magee là
+hiện thân và định nghĩa của “phân tích kỹ thuật cổ điển.” Xem Phụ lục C._
+Sinh viên kỹ thuật lập luận như sau: việc gán một giá trị nội tại cho một
+chứng chỉ cổ phiếu là vô ích. Một cổ phiếu của United States Steel, chẳng
+hạn, đã có giá trị $261 vào đầu mùa thu năm 1929, nhưng bạn có thể mua
+nó chỉ với $22 vào tháng 6 năm 1932! Đến tháng 3 năm 1937, nó được bán
+với giá $126 và chỉ một năm sau là $38. Vào tháng 5 năm 1946, nó đã leo
+trở lại $97, và 10 tháng sau đó, năm 1947, đã rơi xuống dưới $70, mặc dù
+thu nhập của công ty vào thời điểm sau cùng này được cho là đang tiến
+gần mức cao nhất mọi thời đại và lãi suất nói chung vẫn ở gần mức thấp
+nhất mọi thời đại. Giá trị sổ sách của cổ phiếu U.S. Steel này, theo bảng
+cân đối kế toán của công ty, là khoảng $204 vào năm 1929 (cuối năm);
+$187 vào năm 1932; $151 vào năm 1937; $117 vào năm 1938, và $142
+vào năm 1946. Kiểu hiện tượng này, sự phân kỳ rộng lớn giữa giá trị được
+giả định và giá thực tế, không phải là ngoại lệ; nó là quy luật. Nó diễn ra
+mọi lúc. Sự thật là giá trị thực của một cổ phiếu phổ thông U.S. Steel tại
+bất kỳ thời điểm nào chỉ được quyết định một cách duy nhất, rõ ràng,
+và không thể cưỡng lại bởi cung và cầu, những yếu tố được phản ánh
+chính xác trong các giao dịch hoàn tất trên sàn Sở Giao dịch Chứng khoán
+New York.
+Tất nhiên, các thống kê mà những người theo trường phái cơ bản nghiên
+cứu có đóng vai trò trong phương trình cung–cầu — điều đó được thừa
+nhận một cách tự do. Nhưng còn có nhiều yếu tố khác ảnh hưởng đến nó.
+Giá thị trường không chỉ phản ánh các ý kiến giá trị khác nhau của nhiều
+nhà thẩm định chứng khoán chính thống, mà còn phản ánh tất cả những
+hy vọng và nỗi sợ, những phỏng đoán và tâm trạng, lý trí và phi lý, của
+hàng trăm người mua và người bán tiềm năng, cũng như nhu cầu và nguồn
+lực của họ — tổng thể là những yếu tố thách thức mọi phân tích và không
+có số liệu thống kê nào thu thập được, nhưng nevertheless tất cả đều được
+tổng hợp, cân nhắc, và cuối cùng được thể hiện trong một con số chính
+xác duy nhất mà tại đó một người mua và một người bán gặp nhau và thực
+hiện một giao dịch (thông qua các đại diện của họ, các nhà môi giới chứng
+khoán tương ứng). Đây là con số duy nhất có ý nghĩa.
 
-Thực ra, ngoại trừ những người mới hoàn toàn, nhà fundamental “nguyên
-chất” rất hiếm. Ngay cả các chuyên gia thị trường tỏ vẻ coi thường biểu đồ
-và “chartist” cũng không bỏ qua dữ liệu từ ticker tape, và tôn trọng Dow
-Theory, vốn về bản chất là phân tích kỹ thuật.
-
-##### Định nghĩa Phân Tích Kỹ Thuật
-
-Thuật ngữ “kỹ thuật” trong chứng khoán có nghĩa đặc biệt, khác hẳn định
-nghĩa thông thường. Nó chỉ _nghiên cứu hành vi thị trường_ thay vì nghiên
-cứu hàng hóa thị trường giao dịch. _Phân tích kỹ thuật_ là khoa học ghi lại,
-thường bằng đồ thị, lịch sử giao dịch thực tế (thay đổi giá, khối lượng giao
-dịch...) của cổ phiếu hoặc “các chỉ số” và từ đó suy ra xu hướng tương lai
-có khả năng xảy ra. _EN: Với máy tính, nhiều trường phái phân tích kỹ thuật
-nổi lên. Phân tích kỹ thuật dựa trên con số (ví dụ: moving average, oscillator)
-cố gắng khách quan hóa hoàn toàn thị trường. Công trình Edwards và Magee
-là định nghĩa “phân tích kỹ thuật cổ điển.” Xem Phụ Lục C._
-
-Người học kỹ thuật lý luận: việc gán giá trị nội tại cho cổ phiếu là vô
-ích. Một cổ phiếu United States Steel, ví dụ, giá $261 mùa thu 1929, nhưng
-chỉ $22 vào tháng 6/1932! Tháng 3/1937, giá $126; một năm sau $38.
-Tháng 5/1946, giá $97, 10 tháng sau xuống dưới $70, dù lợi nhuận công
-ty cao kỷ lục và lãi suất vẫn thấp. Giá trị sổ sách năm 1929 là $204,
-1932: $187, 1937: $151, 1938: $117, 1946: $142. Sự khác biệt lớn giữa giá
-thực và giá dự đoán không phải ngoại lệ; đó là quy luật. Giá thực của cổ
-phiếu U.S. Steel được xác định duy nhất bởi cung – cầu trên sàn NYSE.
-
-Dĩ nhiên, thống kê fundamental cũng ảnh hưởng đến cung – cầu — điều
-này thừa nhận. Nhưng còn nhiều yếu tố khác. Giá thị trường phản ánh cả
-giá trị ước tính của các chuyên gia, cùng hy vọng, lo sợ, dự đoán, tâm trạng,
-cần – vốn của hàng trăm người mua bán; tất cả được tổng hợp, cân nhắc, rồi
-biểu hiện trong một con số chính xác mà giao dịch xảy ra. Con số này là
-quan trọng nhất.
 
 ![fig-001](./img/fig-001.png)
 

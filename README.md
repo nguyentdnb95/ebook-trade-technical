@@ -6,6 +6,7 @@ Welcome to the **Technical Analysis Ebook**. This guide covers key concepts, str
 - [English Version](technical-analysics-en.md)
 - [VNI Version](technica-analysics.md)
 
+- [TRD_VIEW](prc_vol_time.md)
 
 ---
 

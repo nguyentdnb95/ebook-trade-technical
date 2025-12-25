@@ -921,6 +921,6 @@ chủ nhân giải Nobel và ai biết còn những nguồn lực nào khác. C�
 biết các nhóm đầu tư đã đổ nguồn lực khổng lồ vào việc phát triển các hệ
 thống thời gian thực mà trong nghiên cứu đã thành công 100% trong việc
 đánh bại thị trường. Trục trặc thực tế duy nhất là các hệ thống đó cần quá
-nhiều sức mạnh tính toán nên không thể chạy đủ nhanh trong thời gian
-thực để thực sự giao dịch trên thị trường. Hòn đá giả kim _redux._
+nhiều sức mạnh tính toán nên khônthực để thực sự giao dịch trên thị trường. Hòn đá giả kim _redux._
+g thể chạy đủ nhanh trong thời gian
 
